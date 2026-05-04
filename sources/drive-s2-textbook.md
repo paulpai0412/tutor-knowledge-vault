@@ -1,15 +1,19 @@
 ---
-title: 教材來源筆記：drive-s2-textbook
+title: 教材來源：日治時期的社會與文化（drive-s2-textbook）
 created: '2026-05-04'
 updated: '2026-05-04'
-type: summary
+type: entity
 tags:
-- source-note
 - history
 - grade-7
 - lesson
+- source-note
 - taiwan-history
 - japanese-rule
+- education
+- modernization
+- social-movements
+- culture
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -18,34 +22,45 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-# [[drive-s2-textbook]]
+## 來源筆記
 
-## 來源定位
-- 來源類型：課本教材摘錄
-- lesson_variant_id：drive-s2-textbook
-- 標題：日治時期的社會與文化
-- 內容涵蓋教育制度、文化啟蒙與政治社會運動、新舊文化變遷三大部分。
+此頁對應課文來源 `drive-s2-textbook.pdf`，主題為「日治時期的社會與文化」，可作為[[history-g7-l003-core-concepts]]與[[history-g7-l003-teaching-focus]]的證據節點。
 
-## 可支持的知識點
-- 差別待遇教育與日語教學的制度設計，可支撐 [[history-g7-l003-core-concepts]] 與 [[taiwan-colonial-education-system]]。
-- 1921至1937年間的政治社會運動脈絡，可支撐 [[taiwan-cultural-association]]、[[taiwan-peoples-party]]、[[first-local-council-election-1935]]。
-- 守時、衛生、法治與都會文化的變化，可支撐 [[time-discipline-modern-life]] 與 [[culture-enlightenment-vs-political-movements]]。
+## 摘要重點
+- 教育制度採差別待遇與隔離原則。
+- 1920年代展開文化啟蒙與政治社會運動。
+- 衛生、法治、守時與都會文化顯示現代化生活的形成。
+- 新制度與舊風俗並存，呈現新舊文化調適。
 
-## 使用限制
-- 這是課文摘要型來源，適合建立概念網絡。
-- 若要判斷學生個人錯誤模式，仍需搭配 [[drive-s2-quiz]] 與 [[history-g7-l003-student-001-exam-report]]。
+## 可連出的知識節點
+- [[education-under-colonial-rule]]
+- [[tw-cultural-association]]
+- [[tw-parliament-petition-movement]]
+- [[taiwan-local-autonomy-league]]
+- [[time-discipline-modern-life]]
+- [[urban-modernity-vs-rural-continuity]]
+
+## 教學用途
+- 作為概念統整依據，支撐[[history-g7-l003-misconceptions]]中的錯因分析。
+- 可與[[drive-s2-quiz]]對照，觀察測驗如何把課文內容轉成人物題、時序題、情境題與圖像題。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[taiwan-colonial-education-system]]
-- [[taiwan-cultural-association]]
-- [[taiwan-peoples-party]]
-- [[first-local-council-election-1935]]
+- [[history-g7-l003-teaching-focus]]
+- [[education-under-colonial-rule]]
+- [[tw-cultural-association]]
+- [[tw-parliament-petition-movement]]
+- [[taiwan-local-autonomy-league]]
 - [[time-discipline-modern-life]]
-- [[culture-enlightenment-vs-political-movements]]
+- [[urban-modernity-vs-rural-continuity]]
+- [[history-g7-l003-misconceptions]]
 - [[drive-s2-quiz]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-misconceptions]]
-- [[people-vs-movements-comparison]]
+- [[lin-hsien-tang]]
+- [[chiang-wei-shui]]
+- [[tw-people-party]]
+- [[first-local-council-election-1935]]
+- [[sino-japanese-war-1937-impact]]
+- [[national-compulsory-education-1943]]
+- [[education-segregation-vs-obligation]]
 - [[index]]

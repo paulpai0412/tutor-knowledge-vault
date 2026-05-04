@@ -1,5 +1,5 @@
 ---
-title: 1935年首次地方議員選舉
+title: 臺灣議會設置請願運動
 created: '2026-05-04'
 updated: '2026-05-04'
 type: summary
@@ -8,9 +8,9 @@ tags:
 - history
 - taiwan-history
 - japanese-rule
+- social-movements
 - politics
 - local-autonomy
-- social-movements
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-quiz.md
@@ -22,31 +22,30 @@ student_id: student-001
 
 ## 事件定位
 
-1935年地方議員選舉是課文與測驗中判斷「自治曙光」的重要事件。
+此運動自1921年展開，是日治時期政治社會運動的重要代表，訴求是在臺設立議會，以制衡總督專制統治。
 
-## 重點
-- 人民第一次行使投票權
-- 但選民資格與席次均有限制
-- 因此只能視為有限成果，而非完整自治
+## 教學重點
+- 重點不在「成功成立議會」
+- 而在於喚起自治與參政意識
+- 常需和[[first-local-council-election-1935]]區分
 
 ## 關聯頁面
-- [[tw-parliament-petition-movement]]
-- [[taiwan-local-autonomy-league]]
-- [[history-g7-l003-misconceptions]]
+- [[lin-hsien-tang]]
+- [[tw-cultural-association]]
+- [[history-g7-l003-core-concepts]]
 - [[drive-s2-quiz]]
 
 ## 相關頁面
-- [[tw-parliament-petition-movement]]
-- [[taiwan-local-autonomy-league]]
-- [[history-g7-l003-misconceptions]]
-- [[drive-s2-quiz]]
+- [[first-local-council-election-1935]]
+- [[lin-hsien-tang]]
+- [[tw-cultural-association]]
 - [[history-g7-l003-core-concepts]]
+- [[drive-s2-quiz]]
+- [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
-- [[lin-hsien-tang]]
 - [[chiang-wei-shui]]
-- [[tw-cultural-association]]
 - [[tw-people-party]]
 - [[education-under-colonial-rule]]
 - [[sino-japanese-war-1937-impact]]

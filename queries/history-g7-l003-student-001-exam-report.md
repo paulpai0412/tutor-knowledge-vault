@@ -1,5 +1,5 @@
 ---
-title: 學生 student-001 第3課測驗報告
+title: student-001 日治時期的社會與文化測驗報告
 created: '2026-05-04'
 updated: '2026-05-04'
 type: summary
@@ -8,7 +8,9 @@ tags:
 - grade-7
 - exam-analysis
 - student-progress
-- lesson
+- taiwan-history
+- japanese-rule
+- education
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -19,40 +21,52 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-# [[history-g7-l003-student-001-exam-report]]
+## 測驗摘要
 
-## 作答結果
-- 課次：日治時期的社會與文化
-- 學生：student-001
-- attempted_answers：29
-- currently_correct_questions：22
-- outstanding_wrong_questions：0
-- 曾經答錯後訂正的題號：q-1、q-6、q-9、q-15、q-16、q-20、q-21
+本次測驗主題為「日治時期的社會與文化」，來源為[[drive-s2-quiz]]，對應課文為[[drive-s2-textbook]]。
 
-## 表現摘要
-- 學生已完成本份22題測驗的全部訂正，最終所有題目皆為正確。
-- 錯誤主要集中在人物辨識、自治運動的關鍵事件、戰爭對運動的影響，以及守時制度與現代化目的的連結。
-- 由於 wrong-question artifact 與 review-plan artifact 皆為 none，目前只能依作答歷程判斷已修正，不能再推定額外補救流程。
+- attempted_answers: 29
+- unique_questions: 22
+- currently_correct_questions: 22
+- outstanding_wrong_questions: 0
+- 曾錯題號：q-1、q-6、q-9、q-15、q-16、q-20、q-21
 
-## 學習解讀
-- 在概念掌握上，學生對整體單元已有基本理解，但對容易互相干擾的細節仍需分類記憶。
-- 這份表現與 [[history-g7-l003-misconceptions]] 相符，較適合做重點辨識訓練，而非全面重教。
+## 表現判讀
+- 學生最終已把 22 題全部答對，表示在回饋後能完成修正。
+- 先前錯題主要集中在自治發展、人物辨識、戰爭對政治運動的影響，以及守時制度等主題。
+- 這說明學生不是全面不會，而是對關鍵概念之間的關係仍需強化，可參照[[history-g7-l003-misconceptions]]。
 
-## 建議後續
-- 先複習 [[history-g7-l003-core-concepts]] 的三大主軸。
-- 再用 [[history-g7-l003-teaching-focus]] 的人物—事件—制度分類法做一次口頭快速抽問。
+## 優勢
+- 對整體課程主題已有基礎掌握。
+- 對日治時期、政治社會運動、現代化等核心名詞辨識度不低。
+- 能在多次作答後完成修正，顯示具備可塑性與回饋吸收能力。
+
+## 待鞏固處
+- 「請願運動」與「地方選舉」的差別
+- 林獻堂、蔣渭水與團體之間的對應
+- 中日戰爭後政治運動受壓制的因果
+- 守時、標準時間制與現代化生活規律的連結
+
+## 教師建議
+- 請先複習[[history-g7-l003-core-concepts]]，再看[[history-g7-l003-teaching-focus]]中的對應教學提示。
+- 若要做追蹤複習，優先用時間線與人物配對題，而不是只重做原題。
 
 ## 相關頁面
+- [[drive-s2-quiz]]
+- [[drive-s2-textbook]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
-- [[drive-s2-quiz]]
-- [[drive-s2-textbook]]
-- [[taiwan-colonial-education-system]]
-- [[taiwan-cultural-association]]
-- [[taiwan-peoples-party]]
+- [[lin-hsien-tang]]
+- [[chiang-wei-shui]]
+- [[tw-cultural-association]]
+- [[tw-people-party]]
+- [[education-under-colonial-rule]]
+- [[tw-parliament-petition-movement]]
 - [[first-local-council-election-1935]]
+- [[sino-japanese-war-1937-impact]]
+- [[national-compulsory-education-1943]]
+- [[education-segregation-vs-obligation]]
+- [[urban-modernity-vs-rural-continuity]]
 - [[time-discipline-modern-life]]
-- [[culture-enlightenment-vs-political-movements]]
-- [[people-vs-movements-comparison]]
 - [[index]]

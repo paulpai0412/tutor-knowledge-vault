@@ -1,5 +1,5 @@
 ---
-title: 七下歷史第3課教學重點
+title: 日治時期的社會與文化教學重點
 created: '2026-05-04'
 updated: '2026-05-04'
 type: summary
@@ -10,6 +10,10 @@ tags:
 - education
 - exam-analysis
 - student-progress
+- taiwan-history
+- japanese-rule
+- modernization
+- social-movements
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-quiz.md
@@ -19,36 +23,62 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-# [[history-g7-l003-teaching-focus]]
-
 ## 教學提示
-- 先用「教育制度／政治社會運動／生活文化變遷」三大主題切分內容，再帶學生回看細節，較不容易把知識點混在一起。
-- 人物題建議用配對法：林獻堂、蔣渭水分別連到 [[taiwan-cultural-association]]、[[taiwan-peoples-party]]、[[first-local-council-election-1935]] 等脈絡。
-- 事件題建議用時間線：1921文化協會與議會請願、1927臺灣民眾黨、1930地方自治聯盟、1935地方議員選舉、1937中日戰爭後受打壓。
-- 圖像題與制度題可用「這是在管身體、管時間、還是管政治」的提示句，幫助區分衛生宣導、守時觀念與自治運動。
 
-## 可重複使用的提示語
-- 「先判斷這題在問人物、團體、事件，還是在問制度效果。」
-- 「如果題目提到投票權、地方選舉，優先想到 [[first-local-council-election-1935]]。」
-- 「如果題目提到時鐘、星期制、24小時制，優先連到 [[time-discipline-modern-life]]。」
-- 「如果題目提到留學、知識分子或中學校，要回到 [[taiwan-colonial-education-system]]。」
+本課學生整體表現穩定，但錯題集中在「名詞很熟、關係不清」的型態，因此教學重點應放在概念串聯，而不只是逐題訂正。可參照[[history-g7-l003-misconceptions]]與[[history-g7-l003-student-001-exam-report]]。
 
-## 教學觀察
-- 學生最終22題皆答對，顯示修正能力不錯。
-- 錯題分布不像全面性不懂，比較像關鍵辨識點混淆。
-- 因目前沒有保留錯題清單檔，後續若要做分層複習，建議直接參照 [[history-g7-l003-student-001-exam-report]] 中的錯題群組。
+### 1. 用三條主線帶課
+建議固定用以下三條主線整理：
+1. 差別待遇的教育制度
+2. 文化啟蒙到政治社會運動
+3. 現代化生活與新舊文化調適
+
+這樣學生較能把[[drive-s2-textbook]]中的大量名詞放回結構中。
+
+### 2. 把人物、團體、事件做成對應表
+- 林獻堂 → 溫和路線、自治訴求、[[taiwan-local-autonomy-league]]
+- 蔣渭水 → 文化啟蒙、[[tw-cultural-association]]、[[tw-people-party]]
+- 臺灣文化協會 → 啟迪民智
+- 臺灣議會設置請願運動 → 爭取設立議會
+- 1935地方議員選舉 → 自治曙光但成果有限
+
+### 3. 情境題要回到制度本質
+學生在守時海報、選舉意義、留學背景等題目容易被題幹情境帶走。教學時可反問：
+- 這題在考制度、人物、還是因果？
+- 它對應的是[[history-g7-l003-core-concepts]]中的哪一條主線？
+
+### 4. 強化「有限現代化」觀念
+- 現代化不等於平等化。
+- 有衛生、法治、時間制度與都市休閒文化，不代表殖民差別待遇消失。
+- 可用[[education-under-colonial-rule]]與[[urban-modernity-vs-rural-continuity]]進行比較。
+
+### 5. 複習策略
+- 先口頭重建時間線：1921、1927、1930、1935、1937、1943。
+- 再做人物與團體配對。
+- 最後用圖像題與生活情境題檢查是否真正理解。
+
+## 可重用教學句型
+- 「這不是在問你記不記得名稱，而是在問它造成了什麼改變。」
+- 「先判斷它屬於教育、運動，還是生活現代化，再選答案。」
+- 「看到自治，不一定等於真的有完整自治成果。」
 
 ## 相關頁面
-- [[taiwan-cultural-association]]
-- [[taiwan-peoples-party]]
-- [[first-local-council-election-1935]]
-- [[time-discipline-modern-life]]
-- [[taiwan-colonial-education-system]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
+- [[taiwan-local-autonomy-league]]
+- [[tw-cultural-association]]
+- [[tw-people-party]]
+- [[history-g7-l003-core-concepts]]
+- [[education-under-colonial-rule]]
+- [[urban-modernity-vs-rural-continuity]]
 - [[drive-s2-quiz]]
-- [[culture-enlightenment-vs-political-movements]]
-- [[people-vs-movements-comparison]]
+- [[lin-hsien-tang]]
+- [[chiang-wei-shui]]
+- [[tw-parliament-petition-movement]]
+- [[first-local-council-election-1935]]
+- [[sino-japanese-war-1937-impact]]
+- [[national-compulsory-education-1943]]
+- [[education-segregation-vs-obligation]]
+- [[time-discipline-modern-life]]
 - [[index]]

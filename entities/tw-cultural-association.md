@@ -1,54 +1,53 @@
 ---
-title: 1935年首次地方議員選舉
+title: 臺灣文化協會
 created: '2026-05-04'
 updated: '2026-05-04'
-type: summary
+type: entity
 tags:
-- event
+- entity
 - history
 - taiwan-history
 - japanese-rule
-- politics
-- local-autonomy
 - social-movements
+- culture
+- education
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
+- wiki/exams/history/g7/l003/drive-s2-quiz.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-quiz.md
-- wiki/students/student-001/progress/history/g7/l003/summary.md
 confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 事件定位
+## 團體定位
 
-1935年地方議員選舉是課文與測驗中判斷「自治曙光」的重要事件。
+1921年成立的臺灣文化協會，是本課理解文化啟蒙運動的核心節點。
 
-## 重點
-- 人民第一次行使投票權
-- 但選民資格與席次均有限制
-- 因此只能視為有限成果，而非完整自治
+## 主要作用
+- 發行刊物、設立讀報社、舉辦演講會
+- 目標在於啟迪民智、喚起意識
+- 連接教育、文化與政治社會運動三個層面
 
 ## 關聯頁面
+- [[history-g7-l003-core-concepts]]
+- [[chiang-wei-shui]]
 - [[tw-parliament-petition-movement]]
-- [[taiwan-local-autonomy-league]]
-- [[history-g7-l003-misconceptions]]
-- [[drive-s2-quiz]]
+- [[drive-s2-textbook]]
 
 ## 相關頁面
-- [[tw-parliament-petition-movement]]
-- [[taiwan-local-autonomy-league]]
-- [[history-g7-l003-misconceptions]]
-- [[drive-s2-quiz]]
 - [[history-g7-l003-core-concepts]]
+- [[chiang-wei-shui]]
+- [[tw-parliament-petition-movement]]
+- [[drive-s2-textbook]]
+- [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-textbook]]
+- [[drive-s2-quiz]]
 - [[lin-hsien-tang]]
-- [[chiang-wei-shui]]
-- [[tw-cultural-association]]
 - [[tw-people-party]]
 - [[education-under-colonial-rule]]
+- [[first-local-council-election-1935]]
 - [[sino-japanese-war-1937-impact]]
 - [[national-compulsory-education-1943]]
 - [[education-segregation-vs-obligation]]
