@@ -2,37 +2,34 @@
 
 > Content catalog for the derived tutor knowledge wiki.
 > Open this vault in Obsidian to browse `[[wikilinks]]` and graph view.
-> Last updated: 2026-05-04 07:23 UTC | Total pages: 17
+> Last updated: 2026-05-04 08:16 UTC | Total pages: 14
 
 ## Concepts
-- [[history-g7-l003-core-concepts]] — 本課重點在於理解日治時期的教育、政治社會運動與新舊文化變遷如何彼此連動。
+- [[history-g7-l003-core-concepts]] — 本課重點在於理解日治時期的教育、政治社會運動與新舊文化變遷如何彼此連動並改變臺灣社會。
 
 ## Misconceptions
-- [[history-g7-l003-misconceptions]] — 學生主要混淆人物、自治進程與現代化措施的意義，但本次錯題已全部訂正完成。
+- [[history-g7-l003-misconceptions]] — 這位學生的錯誤主要集中在人物、事件轉折與現代化措施的對應判讀，但目前已全部訂正完成。
 
 ## Teaching Notes
-- [[history-g7-l003-teaching-focus]] — 教學上宜把教育、運動與現代化三條主線串成因果關係，並用人物與時間軸協助辨識。
+- [[history-g7-l003-teaching-focus]] — 教學上宜優先協助學生建立人物、組織、事件與現代化措施的分類架構，再用時間線與主題對照降低混淆。
 
 ## Sources
-- [[drive-s2-quiz]] — 此來源筆記整理測驗卷實際考查的重點，集中於人物、事件順序、自治意義與現代化措施辨識。
-- [[drive-s2-textbook]] — 此來源筆記整理課本對日治時期教育、政治社會運動與文化變遷的主要敘述。
+- [[drive-s2-quiz]] — 這份測驗來源筆記呈現本課常見出題焦點，包括人物判讀、自治運動、教育制度與現代化生活。
+- [[drive-s2-textbook]] — 這份教材來源筆記整理本課課文中關於教育、政治社會運動與文化變遷的核心證據。
 
 ## Entities
-- [[jiang-wei-shui]] — 蔣渭水是文化啟蒙與政治社會運動的重要人物，與臺灣民眾黨及文化協會密切相關。
-- [[lin-hsien-tang]] — 林獻堂是課文中代表溫和自治路線的重要知識分子，與多項政治社會運動有關。
-- [[taiwan-cultural-association]] — 臺灣文化協會是1921年成立的文化啟蒙團體，透過讀報、演講等方式啟迪民智。
-- [[taiwan-local-autonomy-alliance]] — 臺灣地方自治聯盟主張地方自治，並與1935年首次地方議員選舉的歷史脈絡相關。
-- [[taiwan-people-party]] — 臺灣民眾黨是課文中提到的第一個由臺灣人成立的政黨，主張民權與自治。
+- [[taiwan-colonial-education-system]] — 日治時期教育具有差別待遇與同化功能，但也培養出具現代知識的臺灣知識分子。
+- [[taiwan-cultural-association]] — 臺灣文化協會是1921年成立的文化啟蒙團體，透過辦報、演講與讀報社等方式提升民智與喚起意識。
+- [[taiwan-peoples-party]] — 臺灣民眾黨是1927年由臺灣人成立的第一個政黨，主張民權與自治並扶助農工運動。
 
 ## Events
-- [[first-local-elections-1935]] — 1935年首次地方議員選舉象徵臺灣人首次行使投票權，但自治成果仍相當有限。
-- [[six-year-compulsory-education-1943]] — 1943年實施六年國民義務教育，是日治後期教育制度調整的重要節點。
-- [[taiwan-parliament-petition-movement]] — 臺灣議會設置請願運動是知識分子爭取自治與制衡總督權力的重要政治運動。
+- [[first-local-council-election-1935]] — 1935年首次地方議員選舉是臺灣民眾初次行使投票權的重要節點，象徵自治理想出現有限進展。
+- [[time-discipline-modern-life]] — 標準時間制、星期制與公共時鐘的引入，使守時成為日治時期現代化生活的一部分。
 
 ## Comparisons
-- [[education-opportunity-vs-education-inequality]] — 日治時期雖然就學率提升並建立新式教育，但不同族群之間的教育資源仍明顯不平等。
-- [[modernization-and-social-control]] — 日治時期的現代化既改善教育、衛生與生活秩序，也服務殖民治理與社會控制。
+- [[culture-enlightenment-vs-political-movements]] — 文化啟蒙偏向提升民智與社會改良，政治社會運動則更直接追求自治、民權與制度改變。
+- [[people-vs-movements-comparison]] — 本課常見錯誤在於把人物、團體與事件混成同一層次，因此需要用對照方式建立清楚分類。
 
 ## Queries
 - [[history-g7-l003-knowledge-sync-plan]] — 知識同步方案
-- [[history-g7-l003-student-001-exam-report]] — student-001 在29次作答中完成22題全部訂正，顯示核心知識已掌握但曾在人物、自治與現代化細節上混淆。
+- [[history-g7-l003-student-001-exam-report]] — student-001 在本課測驗共作答29次、最終22題全對，曾出現7題修正歷程但目前已無未解錯題。

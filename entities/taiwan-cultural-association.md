@@ -6,11 +6,10 @@ type: entity
 tags:
 - history
 - entity
-- taiwan-history
-- japanese-rule
 - social-movements
 - culture
-- politics
+- taiwan-history
+- japanese-rule
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -20,25 +19,29 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 臺灣文化協會
-- 課文指出1921年由林獻堂、蔣渭水等人成立，宗旨是提升臺灣文化並啟迪民智。
-- 其活動包含發行《臺灣民報》、設立讀報社、舉辦演講會等。
-- 它是從教育與知識累積走向社會啟蒙的重要橋梁。
+# 臺灣文化協會
+
+## 核心概念
+- 1921年成立，以文化啟蒙為重要方向。
+- 透過《臺灣民報》、讀報社、演講會等方式，推動民智開啟與社會風氣改良。
+- 它屬於文化啟蒙運動的重要代表，不等同於政黨。
+
+## 關聯
+- 可與 [[taiwan-peoples-party]] 比較兩者在組織性質上的不同。
+- 也是 [[history-g7-l003-core-concepts]] 中「文化啟蒙與政治社會運動」的關鍵節點。
+- 人物與組織易混淆的教學點，可參見 [[history-g7-l003-teaching-focus]]。
 
 ## 相關頁面
+- [[taiwan-peoples-party]]
 - [[history-g7-l003-core-concepts]]
-- [[jiang-wei-shui]]
-- [[lin-hsien-tang]]
-- [[drive-s2-textbook]]
-- [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[taiwan-people-party]]
-- [[taiwan-local-autonomy-alliance]]
-- [[taiwan-parliament-petition-movement]]
-- [[first-local-elections-1935]]
-- [[six-year-compulsory-education-1943]]
-- [[modernization-and-social-control]]
-- [[education-opportunity-vs-education-inequality]]
+- [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[taiwan-colonial-education-system]]
+- [[first-local-council-election-1935]]
+- [[time-discipline-modern-life]]
+- [[culture-enlightenment-vs-political-movements]]
+- [[people-vs-movements-comparison]]
 - [[index]]

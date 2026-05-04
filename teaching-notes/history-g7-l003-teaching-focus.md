@@ -1,5 +1,5 @@
 ---
-title: 日治時期的社會與文化教學重點
+title: 七下歷史第3課教學重點
 created: '2026-05-04'
 updated: '2026-05-04'
 type: summary
@@ -8,13 +8,8 @@ tags:
 - grade-7
 - teaching-strategy
 - education
-- modernization
-- social-movements
-- local-autonomy
-- public-health
-- time-discipline
-- culture
-- politics
+- exam-analysis
+- student-progress
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-quiz.md
@@ -27,35 +22,33 @@ student_id: student-001
 # [[history-g7-l003-teaching-focus]]
 
 ## 教學提示
-- 先教「教育不是平等開放，而是帶有差別待遇」，再帶出知識分子如何由受教育者轉為社會運動推動者。
-- 用時間軸串連：1921文化協會與議會請願、1927民眾黨、1930地方自治聯盟、1935地方選舉、1937中日戰爭後受壓制。
-- 把人物放回組織脈絡，而不要只背名字：[[lin-hsien-tang]]偏向溫和自治路線，[[jiang-wei-shui]]兼具文化啟蒙與政治動員代表性。
-- 講解現代化時，要同時呈現「改善生活」與「加強治理」兩面向，可對照[[modernization-and-social-control]]。
+- 先用「教育制度／政治社會運動／生活文化變遷」三大主題切分內容，再帶學生回看細節，較不容易把知識點混在一起。
+- 人物題建議用配對法：林獻堂、蔣渭水分別連到 [[taiwan-cultural-association]]、[[taiwan-peoples-party]]、[[first-local-council-election-1935]] 等脈絡。
+- 事件題建議用時間線：1921文化協會與議會請願、1927臺灣民眾黨、1930地方自治聯盟、1935地方議員選舉、1937中日戰爭後受打壓。
+- 圖像題與制度題可用「這是在管身體、管時間、還是管政治」的提示句，幫助區分衛生宣導、守時觀念與自治運動。
 
-## 可重複使用的提問
-- 為什麼殖民政府會重視教育、衛生與時間制度？
-- 為什麼現代化不等於人人平等？
-- 為什麼1935年的地方選舉只能算自治曙光，而非完全自治？
+## 可重複使用的提示語
+- 「先判斷這題在問人物、團體、事件，還是在問制度效果。」
+- 「如果題目提到投票權、地方選舉，優先想到 [[first-local-council-election-1935]]。」
+- 「如果題目提到時鐘、星期制、24小時制，優先連到 [[time-discipline-modern-life]]。」
+- 「如果題目提到留學、知識分子或中學校，要回到 [[taiwan-colonial-education-system]]。」
 
-## 適合複習的任務
-- 人物—團體配對：林獻堂、蔣渭水對應的組織與主張。
-- 制度—目的配對：國民學校、公共衛生、標準時間、法院制度各自服務的治理目標。
-- 事件排序：從[[taiwan-parliament-petition-movement]]到[[first-local-elections-1935]]的發展。
+## 教學觀察
+- 學生最終22題皆答對，顯示修正能力不錯。
+- 錯題分布不像全面性不懂，比較像關鍵辨識點混淆。
+- 因目前沒有保留錯題清單檔，後續若要做分層複習，建議直接參照 [[history-g7-l003-student-001-exam-report]] 中的錯題群組。
 
 ## 相關頁面
-- [[lin-hsien-tang]]
-- [[jiang-wei-shui]]
-- [[modernization-and-social-control]]
-- [[taiwan-parliament-petition-movement]]
-- [[first-local-elections-1935]]
+- [[taiwan-cultural-association]]
+- [[taiwan-peoples-party]]
+- [[first-local-council-election-1935]]
+- [[time-discipline-modern-life]]
+- [[taiwan-colonial-education-system]]
+- [[history-g7-l003-student-001-exam-report]]
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[taiwan-cultural-association]]
-- [[taiwan-people-party]]
-- [[taiwan-local-autonomy-alliance]]
-- [[six-year-compulsory-education-1943]]
-- [[education-opportunity-vs-education-inequality]]
+- [[culture-enlightenment-vs-political-movements]]
+- [[people-vs-movements-comparison]]
 - [[index]]
