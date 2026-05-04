@@ -16,6 +16,7 @@ rsync -av --delete \
   --exclude 'README.md' \
   --exclude '.gitignore' \
   --exclude 'sync-from-runtime.sh' \
+  --exclude 'sync-and-push.sh' \
   "$SRC/" "$DST/"
 
 echo "Synced runtime knowledge vault into $DST"
