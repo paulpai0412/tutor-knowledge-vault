@@ -1,7 +1,7 @@
 ---
 title: 日治時期的社會與文化核心概念
 created: '2026-05-04'
-updated: '2026-05-04'
+updated: '2026-05-05'
 type: concept
 tags:
 - history
@@ -13,6 +13,9 @@ tags:
 - education
 - modernization
 - social-movements
+- local-autonomy
+- public-health
+- time-discipline
 - culture
 - politics
 sources:
@@ -26,45 +29,46 @@ student_id: student-001
 
 ## 核心概念
 
-日治時期的臺灣社會變遷，可從三條主線理解：[[drive-s2-textbook]]呈現的差別待遇教育、文化啟蒙與政治社會運動，以及新舊文化交融下的生活改變。這些變化彼此相關，並非分開發生。
+本課以「日治時期的社會與文化」為主軸，串連三個重點：教育制度的建立、文化啟蒙與政治社會運動，以及新舊文化的變遷。這些變化共同說明，日本統治不只改變政治制度，也深刻影響臺灣人的生活方式與社會觀念。
 
-### 1. 教育既是統治工具，也是知識來源
-- 總督府以差別待遇與隔離原則建立新式教育。
-- 日本人、臺灣人、原住民接受的學校制度不同，反映殖民統治的不平等。
-- 但新式教育與留學機會，也培養出後來推動公共事務的知識分子。
+### 1. 差別待遇下的現代教育
+- 總督府建立新式教育制度，但採取差別待遇與隔離原則。
+- 日本人、臺灣人、原住民就讀不同類型學校，資源與機會並不平等。
+- 教育一方面是統治與同化工具，另一方面也培養出具現代知識的臺灣知識分子。
 
-### 2. 文化啟蒙帶動政治社會運動
-- 1920年代起，知識分子受民族自決思潮影響，透過演講、辦報、讀報社與組織活動推動啟蒙。
-- 文化啟蒙不是單純文化活動，而是政治意識與自治觀念的起點。
-- 因此可連到[[tw-cultural-association]]、[[tw-parliament-petition-movement]]、[[tw-people-party]]與[[taiwan-local-autonomy-league]]等節點理解。
+### 2. 文化啟蒙與政治社會運動
+- 1920年代後，知識分子受到民族自決思潮影響，推動文化啟蒙與政治社會運動。
+- 重要行動包括臺灣文化協會、臺灣議會設置請願運動、臺灣民眾黨、臺灣地方自治聯盟。
+- 這些運動雖未完全達成訴求，但促進自治、民權與參政觀念的傳播。
 
-### 3. 現代化改變生活，但不是全面平等
-- 公共衛生、法治、標準時間制與都會休閒空間，讓生活更接近現代社會。
-- 不過現代化多集中在都市，且制度推動仍受殖民統治目的影響。
-- 所以不能把現代化直接理解成完全自由或完全平等。
+### 3. 新舊文化的調適與並存
+- 總督府推動衛生、法治、守時等現代觀念，也改變服飾、休閒與都市生活。
+- 都市較早出現百貨公司、公園、博物館與新式餐廳，鄉村與原住民部落則較多保留原有生活型態。
+- 最終形成漢人、日本與西洋文化並存的社會面貌。
 
 ## 關係整理
-- 教育培養知識分子，知識分子進一步推動[[history-g7-l003-teaching-focus]]所關注的文化啟蒙與自治訴求。
-- 政治社會運動雖拓展參政觀念，但成果有限，與[[history-g7-l003-student-001-exam-report]]中的學生易錯題型密切相關。
-- 新舊文化變遷既包含衛生、守法、守時，也包含都市消費文化與社會風俗調適。
+- 教育培養知識分子，知識分子再推動 [[臺灣文化協會]] 與 [[臺灣民眾黨]] 等運動。
+- 現代化不只是技術進步，也包含 [[現代衛生觀念]]、[[守時制度]] 與城市休閒文化的建立。
 
 ## 相關頁面
-- [[drive-s2-textbook]]
-- [[tw-cultural-association]]
-- [[tw-parliament-petition-movement]]
-- [[tw-people-party]]
-- [[taiwan-local-autonomy-league]]
+- [[臺灣文化協會]]
+- [[臺灣民眾黨]]
+- [[現代衛生觀念]]
+- [[守時制度]]
+- [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[history-g7-l003-misconceptions]]
+- [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[lin-hsien-tang]]
-- [[chiang-wei-shui]]
-- [[education-under-colonial-rule]]
+- [[taiwan-cultural-association]]
+- [[taiwan-people-party]]
+- [[taipei-imperial-university]]
+- [[taichung-middle-school]]
+- [[modern-hygiene-concept]]
+- [[time-discipline-system]]
+- [[taiwan-parliament-petition-movement]]
 - [[first-local-council-election-1935]]
-- [[sino-japanese-war-1937-impact]]
-- [[national-compulsory-education-1943]]
-- [[education-segregation-vs-obligation]]
-- [[urban-modernity-vs-rural-continuity]]
-- [[time-discipline-modern-life]]
+- [[compulsory-education-1943]]
+- [[education-modernization-vs-educational-inequality]]
+- [[cultural-enlightenment-vs-political-autonomy-movements]]
 - [[index]]

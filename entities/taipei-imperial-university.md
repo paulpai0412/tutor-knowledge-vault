@@ -1,19 +1,18 @@
 ---
-title: 1935年首次地方議員選舉
-created: '2026-05-04'
+title: 臺北帝國大學
+created: '2026-05-05'
 updated: '2026-05-05'
-type: summary
+type: entity
 tags:
 - history
-- event
-- local-autonomy
-- politics
-- taiwan-history
+- entity
+- education
 - japanese-rule
+- taiwan-history
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
+- wiki/exams/history/g7/l003/drive-s2-quiz.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
-- wiki/students/student-001/progress/history/g7/l003/summary.md
 confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
@@ -21,33 +20,33 @@ student_id: student-001
 
 ## 概述
 
-1935 年，總督府舉辦首次地方議員選舉，這是課文中臺灣自治發展的重要節點。
+臺北帝國大學於 1928 年設立，是日治時期最具代表性的高等教育機構，也是今日國立臺灣大學的前身。
 
 ## 課文意義
-- 這是臺灣民眾第一次行使投票權。
-- 使人民對自治、參政權有初步認識。
-- 但因選民資格限制與僅半數名額民選，成果有限。
+- 代表高等教育制度的建立。
+- 但因名額有限，許多有志升學者仍選擇赴日留學。
+- 新式教育與留學經驗進一步培養知識分子。
 
-## 學習連結
-- 可連到 [[臺灣地方自治聯盟]]，理解其主張的部分成果。
-- 也可對照 [[臺灣議會設置請願運動]]，看請願與選舉兩種不同路徑。
+## 圖譜連結
+- 可連到 [[history-g7-l003-core-concepts]] 理解教育制度的層次。
+- 也與 [[臺灣文化協會]]、[[臺灣民眾黨]] 的知識分子背景相互呼應。
 
 ## 相關頁面
-- [[臺灣地方自治聯盟]]
-- [[臺灣議會設置請願運動]]
 - [[history-g7-l003-core-concepts]]
+- [[臺灣文化協會]]
+- [[臺灣民眾黨]]
+- [[drive-s2-textbook]]
 - [[history-g7-l003-teaching-focus]]
-- [[drive-s2-quiz]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-textbook]]
+- [[drive-s2-quiz]]
 - [[taiwan-cultural-association]]
 - [[taiwan-people-party]]
-- [[taipei-imperial-university]]
 - [[taichung-middle-school]]
 - [[modern-hygiene-concept]]
 - [[time-discipline-system]]
 - [[taiwan-parliament-petition-movement]]
+- [[first-local-council-election-1935]]
 - [[compulsory-education-1943]]
 - [[education-modernization-vs-educational-inequality]]
 - [[cultural-enlightenment-vs-political-autonomy-movements]]

@@ -1,19 +1,20 @@
 ---
-title: 1935年首次地方議員選舉
-created: '2026-05-04'
+title: 現代衛生觀念
+created: '2026-05-05'
 updated: '2026-05-05'
-type: summary
+type: concept
 tags:
 - history
-- event
-- local-autonomy
-- politics
-- taiwan-history
+- concept
+- public-health
+- modernization
+- culture
 - japanese-rule
+- taiwan-history
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
+- wiki/exams/history/g7/l003/drive-s2-quiz.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
-- wiki/students/student-001/progress/history/g7/l003/summary.md
 confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
@@ -21,33 +22,32 @@ student_id: student-001
 
 ## 概述
 
-1935 年，總督府舉辦首次地方議員選舉，這是課文中臺灣自治發展的重要節點。
+日治時期總督府為防止傳染病，逐步在臺灣建立現代衛生觀念，包括西式醫院、預防注射、自來水與下水道等設施。
 
-## 課文意義
-- 這是臺灣民眾第一次行使投票權。
-- 使人民對自治、參政權有初步認識。
-- 但因選民資格限制與僅半數名額民選，成果有限。
+## 具體內容
+- 宣導不可隨地大小便或吐痰
+- 建立刷牙、洗澡等衛生習慣
+- 公共衛生設施逐漸普及
 
-## 學習連結
-- 可連到 [[臺灣地方自治聯盟]]，理解其主張的部分成果。
-- 也可對照 [[臺灣議會設置請願運動]]，看請願與選舉兩種不同路徑。
+## 歷史意義
+- 顯示現代化不只在政治或經濟，也深入日常生活。
+- 可與 [[守時制度]] 一起理解為新生活規律的一部分。
 
 ## 相關頁面
-- [[臺灣地方自治聯盟]]
-- [[臺灣議會設置請願運動]]
+- [[守時制度]]
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
-- [[drive-s2-quiz]]
+- [[drive-s2-textbook]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-textbook]]
+- [[drive-s2-quiz]]
 - [[taiwan-cultural-association]]
 - [[taiwan-people-party]]
 - [[taipei-imperial-university]]
 - [[taichung-middle-school]]
-- [[modern-hygiene-concept]]
 - [[time-discipline-system]]
 - [[taiwan-parliament-petition-movement]]
+- [[first-local-council-election-1935]]
 - [[compulsory-education-1943]]
 - [[education-modernization-vs-educational-inequality]]
 - [[cultural-enlightenment-vs-political-autonomy-movements]]

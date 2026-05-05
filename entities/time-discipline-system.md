@@ -1,19 +1,20 @@
 ---
-title: 1935年首次地方議員選舉
-created: '2026-05-04'
+title: 守時制度
+created: '2026-05-05'
 updated: '2026-05-05'
-type: summary
+type: concept
 tags:
 - history
-- event
-- local-autonomy
-- politics
-- taiwan-history
+- concept
+- time-discipline
+- modernization
+- culture
 - japanese-rule
+- taiwan-history
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
+- wiki/exams/history/g7/l003/drive-s2-quiz.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
-- wiki/students/student-001/progress/history/g7/l003/summary.md
 confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
@@ -21,23 +22,21 @@ student_id: student-001
 
 ## 概述
 
-1935 年，總督府舉辦首次地方議員選舉，這是課文中臺灣自治發展的重要節點。
+日治時期引進西曆、一天 24 小時標準時間制、一週七天的星期制，以及公共場所時鐘，使民眾逐漸形成守時習慣。
 
-## 課文意義
-- 這是臺灣民眾第一次行使投票權。
-- 使人民對自治、參政權有初步認識。
-- 但因選民資格限制與僅半數名額民選，成果有限。
+## 課文重點
+- 學校課程表中的節次與時數觀念逐漸固定。
+- 守時不只是生活習慣，也與現代社會秩序有關。
 
-## 學習連結
-- 可連到 [[臺灣地方自治聯盟]]，理解其主張的部分成果。
-- 也可對照 [[臺灣議會設置請願運動]]，看請願與選舉兩種不同路徑。
+## 學習提醒
+- 可與 [[現代衛生觀念]] 一起看作現代生活方式的建立。
+- 測驗中也可能用海報或制度題型考查此概念。
 
 ## 相關頁面
-- [[臺灣地方自治聯盟]]
-- [[臺灣議會設置請願運動]]
+- [[現代衛生觀念]]
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
 - [[drive-s2-quiz]]
+- [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
@@ -46,8 +45,8 @@ student_id: student-001
 - [[taipei-imperial-university]]
 - [[taichung-middle-school]]
 - [[modern-hygiene-concept]]
-- [[time-discipline-system]]
 - [[taiwan-parliament-petition-movement]]
+- [[first-local-council-election-1935]]
 - [[compulsory-education-1943]]
 - [[education-modernization-vs-educational-inequality]]
 - [[cultural-enlightenment-vs-political-autonomy-movements]]

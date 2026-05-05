@@ -1,19 +1,20 @@
 ---
-title: 1935年首次地方議員選舉
-created: '2026-05-04'
+title: 臺灣民眾黨
+created: '2026-05-05'
 updated: '2026-05-05'
-type: summary
+type: entity
 tags:
 - history
-- event
-- local-autonomy
+- entity
+- social-movements
 - politics
+- local-autonomy
 - taiwan-history
 - japanese-rule
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
+- wiki/exams/history/g7/l003/drive-s2-quiz.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
-- wiki/students/student-001/progress/history/g7/l003/summary.md
 confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
@@ -21,33 +22,33 @@ student_id: student-001
 
 ## 概述
 
-1935 年，總督府舉辦首次地方議員選舉，這是課文中臺灣自治發展的重要節點。
+臺灣民眾黨成立於 1927 年，是課文中指出由臺灣人成立的第一個政黨，與蔣渭水密切相關。
 
-## 課文意義
-- 這是臺灣民眾第一次行使投票權。
-- 使人民對自治、參政權有初步認識。
-- 但因選民資格限制與僅半數名額民選，成果有限。
+## 重點
+- 宣傳民權與自治觀念
+- 積極扶助農、工運動
+- 是本課政治社會運動的重要代表
 
-## 學習連結
-- 可連到 [[臺灣地方自治聯盟]]，理解其主張的部分成果。
-- 也可對照 [[臺灣議會設置請願運動]]，看請願與選舉兩種不同路徑。
+## 學習提醒
+- 不要與 [[臺灣文化協會]] 混為同一類組織。
+- 也可與 [[臺灣地方自治聯盟]] 比較其訴求重點。
 
 ## 相關頁面
+- [[臺灣文化協會]]
 - [[臺灣地方自治聯盟]]
-- [[臺灣議會設置請願運動]]
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-quiz]]
 - [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-teaching-focus]]
 - [[drive-s2-textbook]]
 - [[taiwan-cultural-association]]
-- [[taiwan-people-party]]
 - [[taipei-imperial-university]]
 - [[taichung-middle-school]]
 - [[modern-hygiene-concept]]
 - [[time-discipline-system]]
 - [[taiwan-parliament-petition-movement]]
+- [[first-local-council-election-1935]]
 - [[compulsory-education-1943]]
 - [[education-modernization-vs-educational-inequality]]
 - [[cultural-enlightenment-vs-political-autonomy-movements]]

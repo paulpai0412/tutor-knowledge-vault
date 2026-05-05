@@ -1,11 +1,12 @@
 ---
-title: 1935年首次地方議員選舉
-created: '2026-05-04'
+title: 臺灣議會設置請願運動
+created: '2026-05-05'
 updated: '2026-05-05'
 type: summary
 tags:
 - history
 - event
+- social-movements
 - local-autonomy
 - politics
 - taiwan-history
@@ -21,33 +22,33 @@ student_id: student-001
 
 ## 概述
 
-1935 年，總督府舉辦首次地方議員選舉，這是課文中臺灣自治發展的重要節點。
+臺灣議會設置請願運動於 1921 年展開，由林獻堂、蔣渭水等人領導，要求在臺設立臺灣議會。
 
-## 課文意義
-- 這是臺灣民眾第一次行使投票權。
-- 使人民對自治、參政權有初步認識。
-- 但因選民資格限制與僅半數名額民選，成果有限。
+## 重要性
+- 雖然日本政府最終未採納。
+- 但已引發臺灣人民追求自治的想法。
+- 是理解日治時期政治意識成長的重要事件。
 
-## 學習連結
-- 可連到 [[臺灣地方自治聯盟]]，理解其主張的部分成果。
-- 也可對照 [[臺灣議會設置請願運動]]，看請願與選舉兩種不同路徑。
+## 圖譜連結
+- 可和 [[臺灣地方自治聯盟]] 一起看自治觀念的延伸。
+- 也與 [[臺灣文化協會]] 的知識啟蒙背景互相呼應。
 
 ## 相關頁面
 - [[臺灣地方自治聯盟]]
-- [[臺灣議會設置請願運動]]
+- [[臺灣文化協會]]
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
+- [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
 - [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-textbook]]
 - [[taiwan-cultural-association]]
 - [[taiwan-people-party]]
 - [[taipei-imperial-university]]
 - [[taichung-middle-school]]
 - [[modern-hygiene-concept]]
 - [[time-discipline-system]]
-- [[taiwan-parliament-petition-movement]]
+- [[first-local-council-election-1935]]
 - [[compulsory-education-1943]]
 - [[education-modernization-vs-educational-inequality]]
 - [[cultural-enlightenment-vs-political-autonomy-movements]]

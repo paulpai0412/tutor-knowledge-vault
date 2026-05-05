@@ -1,15 +1,14 @@
 ---
-title: 1935年首次地方議員選舉
-created: '2026-05-04'
+title: 1943年六年國民義務教育實施
+created: '2026-05-05'
 updated: '2026-05-05'
 type: summary
 tags:
 - history
 - event
-- local-autonomy
-- politics
-- taiwan-history
+- education
 - japanese-rule
+- taiwan-history
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
@@ -21,26 +20,23 @@ student_id: student-001
 
 ## 概述
 
-1935 年，總督府舉辦首次地方議員選舉，這是課文中臺灣自治發展的重要節點。
+1943 年開始實施六年國民義務教育，課文將其列為日治時期教育制度的重要里程碑。
 
-## 課文意義
-- 這是臺灣民眾第一次行使投票權。
-- 使人民對自治、參政權有初步認識。
-- 但因選民資格限制與僅半數名額民選，成果有限。
+## 背景
+- 1941 年總督府取消小學校、公學校的區別，一律改稱國民學校。
+- 之後於 1943 年實施六年國民義務教育。
 
-## 學習連結
-- 可連到 [[臺灣地方自治聯盟]]，理解其主張的部分成果。
-- 也可對照 [[臺灣議會設置請願運動]]，看請願與選舉兩種不同路徑。
+## 學習提醒
+- 不可誤用到 1920 年代生活情境題。
+- 要與前期的差別待遇教育政策一起理解其前後變化。
 
 ## 相關頁面
-- [[臺灣地方自治聯盟]]
-- [[臺灣議會設置請願運動]]
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
-- [[drive-s2-quiz]]
 - [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
+- [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-quiz]]
 - [[taiwan-cultural-association]]
 - [[taiwan-people-party]]
 - [[taipei-imperial-university]]
@@ -48,7 +44,7 @@ student_id: student-001
 - [[modern-hygiene-concept]]
 - [[time-discipline-system]]
 - [[taiwan-parliament-petition-movement]]
-- [[compulsory-education-1943]]
+- [[first-local-council-election-1935]]
 - [[education-modernization-vs-educational-inequality]]
 - [[cultural-enlightenment-vs-political-autonomy-movements]]
 - [[index]]

@@ -1,7 +1,7 @@
 ---
-title: 教材來源：日治時期的社會與文化（drive-s2-textbook）
+title: 課本來源筆記：日治時期的社會與文化
 created: '2026-05-04'
-updated: '2026-05-04'
+updated: '2026-05-05'
 type: entity
 tags:
 - history
@@ -11,8 +11,6 @@ tags:
 - taiwan-history
 - japanese-rule
 - education
-- modernization
-- social-movements
 - culture
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
@@ -22,45 +20,37 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 來源筆記
+## 來源說明
 
-此頁對應課文來源 `drive-s2-textbook.pdf`，主題為「日治時期的社會與文化」，可作為[[history-g7-l003-core-concepts]]與[[history-g7-l003-teaching-focus]]的證據節點。
+本頁對應教材來源 [[drive-s2-textbook]]，主題為「日治時期的社會與文化」。內容涵蓋教育制度、文化啟蒙與政治社會運動，以及新舊文化的變遷。
 
-## 摘要重點
+## 來源重點
 - 教育制度採差別待遇與隔離原則。
-- 1920年代展開文化啟蒙與政治社會運動。
-- 衛生、法治、守時與都會文化顯示現代化生活的形成。
-- 新制度與舊風俗並存，呈現新舊文化調適。
+- 知識分子在新式教育與留學經驗下，成為政治社會運動的重要力量。
+- 1920年代後，文化啟蒙、議會請願、政黨與地方自治運動陸續展開。
+- 社會生活中出現現代衛生、法治、守時與都會休閒文化。
+- 臺灣社會逐漸形成新舊文化交融的面貌。
 
-## 可連出的知識節點
-- [[education-under-colonial-rule]]
-- [[tw-cultural-association]]
-- [[tw-parliament-petition-movement]]
-- [[taiwan-local-autonomy-league]]
-- [[time-discipline-modern-life]]
-- [[urban-modernity-vs-rural-continuity]]
-
-## 教學用途
-- 作為概念統整依據，支撐[[history-g7-l003-misconceptions]]中的錯因分析。
-- 可與[[drive-s2-quiz]]對照，觀察測驗如何把課文內容轉成人物題、時序題、情境題與圖像題。
+## 可回鏈的知識圖譜頁
+- [[history-g7-l003-core-concepts]]：整理整課主軸與關係。
+- [[history-g7-l003-teaching-focus]]：整理可重複使用的教學策略。
+- [[history-g7-l003-misconceptions]]：整理可能混淆點。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
-- [[education-under-colonial-rule]]
-- [[tw-cultural-association]]
-- [[tw-parliament-petition-movement]]
-- [[taiwan-local-autonomy-league]]
-- [[time-discipline-modern-life]]
-- [[urban-modernity-vs-rural-continuity]]
 - [[history-g7-l003-misconceptions]]
 - [[drive-s2-quiz]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[lin-hsien-tang]]
-- [[chiang-wei-shui]]
-- [[tw-people-party]]
+- [[taiwan-cultural-association]]
+- [[taiwan-people-party]]
+- [[taipei-imperial-university]]
+- [[taichung-middle-school]]
+- [[modern-hygiene-concept]]
+- [[time-discipline-system]]
+- [[taiwan-parliament-petition-movement]]
 - [[first-local-council-election-1935]]
-- [[sino-japanese-war-1937-impact]]
-- [[national-compulsory-education-1943]]
-- [[education-segregation-vs-obligation]]
+- [[compulsory-education-1943]]
+- [[education-modernization-vs-educational-inequality]]
+- [[cultural-enlightenment-vs-political-autonomy-movements]]
 - [[index]]
