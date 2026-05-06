@@ -1,45 +1,44 @@
 ---
-title: 臺中中學校
-created: '2026-05-05'
+title: 現代化教育與差別待遇的比較
+created: '2026-05-06'
 updated: '2026-05-06'
-type: entity
+type: comparison
 tags:
-- entity
+- comparison
 - history
-- grade-7
 - education
 - japanese-rule
+- modernization
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
-- wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 簡介
-1915年設立的臺中中學校，是教材中提到第一所專收臺灣人子弟的中學，常作為日治教育不平等與後續擴展受教機會的代表例子。
+## 比較重點
+- 現代化面向：建立新式學校、使用日語教學、發展醫學與農工商職業教育、設立[[臺北帝國大學]]。
+- 不平等面向：日本人讀小學校，臺灣人讀公學校，原住民另有不同學校體系，師資與設備也有落差。
 
-## 概念連結
-- 可用來說明[[差別待遇的現代教育]]。
-- 也能和學生作答表現連結，因為此知識點已出現在[[history-g7-l003-student-001-exam-report]]。
+## 教學價值
+此比較能幫助學生避免把「有新制度」直接等同於「人人平等」，是理解[[history-g7-l003-core-concepts]]的重要切入點。
 
 ## 相關頁面
-- [[差別待遇的現代教育]]
-- [[history-g7-l003-student-001-exam-report]]
+- [[臺北帝國大學]]
 - [[history-g7-l003-core-concepts]]
-- [[drive-s2-textbook]]
 - [[history-g7-l003-misconceptions]]
+- [[drive-s2-textbook]]
 - [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-quiz]]
 - [[taiwan-cultural-association]]
 - [[taiwan-peoples-party]]
+- [[taichung-middle-school]]
 - [[taihoku-imperial-university]]
 - [[taiwan-parliament-petition-movement]]
 - [[first-local-council-election-1935]]
 - [[national-self-determination-influence]]
-- [[modernization-vs-discrimination-in-education]]
 - [[awakening-vs-limited-autonomy]]
 - [[health-discipline-and-urban-culture]]
 - [[index]]

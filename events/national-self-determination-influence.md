@@ -1,15 +1,14 @@
 ---
-title: 1935年首次地方議員選舉
-created: '2026-05-04'
+title: 民族自決思潮對臺灣的影響
+created: '2026-05-06'
 updated: '2026-05-06'
 type: summary
 tags:
 - event
 - history
 - taiwan-history
-- local-autonomy
+- social-movements
 - politics
-- comparison
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
@@ -20,26 +19,27 @@ student_id: student-001
 ---
 
 ## 事件摘要
-1935年總督府首次舉辦地方議員選舉，教材指出此舉讓臺灣民眾第一次行使投票權，因此常被視為自治露出曙光；但選民資格與席次設計都有明顯限制。
+教材指出，1920年代臺灣知識分子受到民族自決思潮刺激，開始展開文化啟蒙與政治社會運動，這是理解該時期歷史背景的關鍵線索。
 
-## 教學提醒
-- 可用來說明「有參與機會」不等於「完整自治」。
-- 適合搭配[[臺灣議會設置請願運動]]比較運動成果與限制。
+## 概念連結
+- 幫助學生理解為何知識分子會從教育延伸到自治與民權訴求。
+- 是串聯[[臺灣文化協會]]與[[臺灣民眾黨]]的重要背景節點。
 
 ## 相關頁面
-- [[臺灣議會設置請願運動]]
+- [[臺灣文化協會]]
+- [[臺灣民眾黨]]
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-misconceptions]]
-- [[drive-s2-quiz]]
 - [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
+- [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-quiz]]
 - [[taiwan-cultural-association]]
 - [[taiwan-peoples-party]]
 - [[taichung-middle-school]]
 - [[taihoku-imperial-university]]
 - [[taiwan-parliament-petition-movement]]
-- [[national-self-determination-influence]]
+- [[first-local-council-election-1935]]
 - [[modernization-vs-discrimination-in-education]]
 - [[awakening-vs-limited-autonomy]]
 - [[health-discipline-and-urban-culture]]

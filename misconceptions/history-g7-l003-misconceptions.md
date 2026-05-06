@@ -1,17 +1,19 @@
 ---
 title: 日治時期的社會與文化常見迷思
 created: '2026-05-04'
-updated: '2026-05-05'
-type: concept
+updated: '2026-05-06'
+type: summary
 tags:
 - history
 - grade-7
 - misconception
+- taiwan-history
 - japanese-rule
 - education
 - social-movements
 - local-autonomy
 - culture
+- student-progress
 sources:
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 confidence: medium
@@ -20,49 +22,39 @@ student_id: student-001
 ---
 
 ## 常見迷思
+- 迷思一：日治時期的現代教育等於教育平等。其實教材明確指出總督府採取差別待遇與隔離原則，日本人、臺灣人與原住民接受的教育條件並不相同。
+- 迷思二：政治社會運動代表臺灣已經獲得完整自治。其實[[臺灣議會設置請願運動]]未成功，1935年的地方議員選舉也仍有限制，自治成果有限。
+- 迷思三：現代化只帶來進步、沒有控制。教材同時指出司法、衛生、時間制度改善生活，也服務於殖民統治與社會控制。
+- 迷思四：新文化出現後，傳統文化就消失。教材強調實際情況是新舊文化調適並存，而非完全取代。
 
-依目前進度資料，學生共作答 3 題且 3 題皆答對，沒有留下未解決錯題，因此本次沒有可直接確認的個人化迷思。不過，從本課內容與測驗題型來看，仍可整理出容易混淆的概念。
+## 本次學生狀態
+- 本次評量共作答 3 題，3 題皆答對。
+- 目前沒有未解決錯題，顯示學生至少在已測到的題目上，能辨識[[臺中中學校]]、工商業發展與[[臺灣民眾黨]]等基本知識。
+- 由於作答題數有限，尚不能推定學生已完全掌握[[現代衛生觀念]]、[[地方自治選舉]]或教育差別待遇等延伸概念。
 
-### 可能混淆點
-1. 把「教育現代化」誤解成「教育平等」
-- 課文明確指出日治時期教育採差別待遇與隔離原則。
-- 就學率提高不代表臺灣人與日本人享有相同教育資源。
-
-2. 把「文化啟蒙」與「政治自治」視為完全相同
-- [[臺灣文化協會]] 偏向文化啟蒙、民智開發與社會改良。
-- [[臺灣議會設置請願運動]]、[[臺灣地方自治聯盟]] 則更直接涉及自治與參政訴求。
-
-3. 把「現代化」簡化為單一生活進步
-- 課文中的現代化同時包含衛生、司法、時間制度、都市休閒與社會控制。
-- 因此要分辨哪些改變屬於公共衛生，哪些屬於法治或時間紀律。
-
-### 本次是否已解決
-- 目前作答紀錄顯示第 1、2、3 題皆正確，涵蓋中等教育、工商業與臺灣民眾黨等重點。
-- 這表示學生至少在部分核心知識辨識上表現穩定。
-- 但因作答題數僅 3 題，仍不足以判定整課迷思已全面解除。
-
-## 教學提醒
-- 可用「政策目的」「社會影響」「代表組織」三欄表格，協助學生區分教育、自治運動與文化變遷。
-- 可搭配 [[history-g7-l003-core-concepts]] 與 [[history-g7-l003-teaching-focus]] 進行再整理。
+## 是否已解決
+- 已測到的三個知識點暫時無明顯迷思。
+- 但可持續用[[history-g7-l003-teaching-focus]]中的對比提問，檢查學生是否把「現代化」誤認為「全面平等」或把「自治運動」誤認為「自治已完成」。
 
 ## 相關頁面
-- [[臺灣文化協會]]
 - [[臺灣議會設置請願運動]]
-- [[臺灣地方自治聯盟]]
-- [[history-g7-l003-core-concepts]]
+- [[臺中中學校]]
+- [[臺灣民眾黨]]
+- [[現代衛生觀念]]
+- [[地方自治選舉]]
 - [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-quiz]]
 - [[drive-s2-textbook]]
 - [[taiwan-cultural-association]]
-- [[taiwan-people-party]]
-- [[taipei-imperial-university]]
+- [[taiwan-peoples-party]]
 - [[taichung-middle-school]]
-- [[modern-hygiene-concept]]
-- [[time-discipline-system]]
+- [[taihoku-imperial-university]]
 - [[taiwan-parliament-petition-movement]]
 - [[first-local-council-election-1935]]
-- [[compulsory-education-1943]]
-- [[education-modernization-vs-educational-inequality]]
-- [[cultural-enlightenment-vs-political-autonomy-movements]]
+- [[national-self-determination-influence]]
+- [[modernization-vs-discrimination-in-education]]
+- [[awakening-vs-limited-autonomy]]
+- [[health-discipline-and-urban-culture]]
 - [[index]]

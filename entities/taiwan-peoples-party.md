@@ -1,16 +1,15 @@
 ---
 title: 臺灣民眾黨
-created: '2026-05-05'
-updated: '2026-05-05'
+created: '2026-05-06'
+updated: '2026-05-06'
 type: entity
 tags:
-- history
 - entity
-- social-movements
-- politics
-- local-autonomy
+- history
 - taiwan-history
-- japanese-rule
+- social-movements
+- local-autonomy
+- politics
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -20,21 +19,15 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 概述
+## 簡介
+1927年由蔣渭水等人成立，是教材明確指出的第一個由臺灣人成立的政黨，宣傳民權與自治概念，也關注農、工相關權益。
 
-臺灣民眾黨成立於 1927 年，是課文中指出由臺灣人成立的第一個政黨，與蔣渭水密切相關。
-
-## 重點
-- 宣傳民權與自治觀念
-- 積極扶助農、工運動
-- 是本課政治社會運動的重要代表
-
-## 學習提醒
-- 不要與 [[臺灣文化協會]] 混為同一類組織。
-- 也可與 [[臺灣地方自治聯盟]] 比較其訴求重點。
+## 教學重點
+- 常與人物蔣渭水搭配出題。
+- 可與[[臺灣議會設置請願運動]]、[[臺灣地方自治聯盟]]一起比較不同形式的政治參與。
 
 ## 相關頁面
-- [[臺灣文化協會]]
+- [[臺灣議會設置請願運動]]
 - [[臺灣地方自治聯盟]]
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-student-001-exam-report]]
@@ -43,13 +36,12 @@ student_id: student-001
 - [[history-g7-l003-teaching-focus]]
 - [[drive-s2-textbook]]
 - [[taiwan-cultural-association]]
-- [[taipei-imperial-university]]
 - [[taichung-middle-school]]
-- [[modern-hygiene-concept]]
-- [[time-discipline-system]]
+- [[taihoku-imperial-university]]
 - [[taiwan-parliament-petition-movement]]
 - [[first-local-council-election-1935]]
-- [[compulsory-education-1943]]
-- [[education-modernization-vs-educational-inequality]]
-- [[cultural-enlightenment-vs-political-autonomy-movements]]
+- [[national-self-determination-influence]]
+- [[modernization-vs-discrimination-in-education]]
+- [[awakening-vs-limited-autonomy]]
+- [[health-discipline-and-urban-culture]]
 - [[index]]

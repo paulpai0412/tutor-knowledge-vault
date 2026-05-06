@@ -1,16 +1,14 @@
 ---
 title: student-001 日治時期的社會與文化測驗報告
 created: '2026-05-04'
-updated: '2026-05-05'
-type: query
+updated: '2026-05-06'
+type: summary
 tags:
 - history
 - grade-7
 - exam-analysis
 - student-progress
 - education
-- social-movements
-- culture
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -21,46 +19,45 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 測驗摘要
-
+## 作答摘要
 - 學生：student-001
+- 課組：history-g7-l003
 - 測驗：日治時期的社會與文化
 - 作答次數：3
 - 目前答對題數：3
-- 未訂正錯題：0
-- 錯題編號：無
+- 尚未訂正錯題：0
 
-## 本次表現
-- 第 1 題：答對，內容涉及第一所專收臺人子弟的中學，對應 [[臺中中學校]]。
-- 第 2 題：答對，內容涉及都會休閒空間出現的背景，對應工商業發展與現代都市文化。
-- 第 3 題：答對，內容涉及第一個由臺灣人成立的政黨，對應 [[臺灣民眾黨]]。
+## 已掌握訊號
+- 能辨識第一所專收臺人子弟的中學為[[臺中中學校]]。
+- 能判斷百貨公司、都會公園與新式餐廳增加，和工商業發展有關。
+- 能辨識臺灣人成立的第一個政黨為[[臺灣民眾黨]]。
 
-## 能力判讀
-- 已能辨識部分重要名詞與基本史實。
-- 目前沒有形成可追蹤的錯題群。
-- 但因樣本只有 3 題，仍建議持續檢查自治運動、衛生現代化與時間制度等延伸概念。
+## 仍需留意
+- 目前只有 3 題作答紀錄，尚未覆蓋[[現代衛生觀念]]、[[地方自治選舉]]、司法制度、守時習慣等課程面向。
+- 沒有錯題不代表沒有迷思，仍建議結合[[history-g7-l003-misconceptions]]進行概念檢核。
 
-## 後續建議
-- 下一步可改做跨概念題：比較文化啟蒙、自治運動與社會生活變遷。
-- 若要加深理解，可先回看 [[history-g7-l003-core-concepts]]，再用 [[history-g7-l003-teaching-focus]] 的分類方式做複習。
+## 教師建議
+- 下一步可安排跨段落題型，要求學生比較教育制度、自治運動與社會文化變遷三者的關聯。
+- 若後續仍維持穩定正答，可從記憶型題目轉向因果與比較題。
 
 ## 相關頁面
 - [[臺中中學校]]
 - [[臺灣民眾黨]]
+- [[現代衛生觀念]]
+- [[地方自治選舉]]
+- [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-misconceptions]]
 - [[drive-s2-quiz]]
 - [[drive-s2-textbook]]
 - [[taiwan-cultural-association]]
-- [[taiwan-people-party]]
-- [[taipei-imperial-university]]
+- [[taiwan-peoples-party]]
 - [[taichung-middle-school]]
-- [[modern-hygiene-concept]]
-- [[time-discipline-system]]
+- [[taihoku-imperial-university]]
 - [[taiwan-parliament-petition-movement]]
 - [[first-local-council-election-1935]]
-- [[compulsory-education-1943]]
-- [[education-modernization-vs-educational-inequality]]
-- [[cultural-enlightenment-vs-political-autonomy-movements]]
+- [[national-self-determination-influence]]
+- [[modernization-vs-discrimination-in-education]]
+- [[awakening-vs-limited-autonomy]]
+- [[health-discipline-and-urban-culture]]
 - [[index]]
