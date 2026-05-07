@@ -1,6 +1,6 @@
 ---
-title: 臺灣文化協會
-created: '2026-05-05'
+title: 林獻堂
+created: '2026-05-07'
 updated: '2026-05-07'
 type: entity
 tags:
@@ -9,8 +9,8 @@ tags:
 - taiwan-history
 - japanese-rule
 - social-movements
-- culture
-- education
+- local-autonomy
+- politics
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -22,33 +22,32 @@ student_id: student-001
 
 ## 概要
 
-臺灣文化協會成立於 1921 年，課文指出其宗旨是「謀臺灣文化之向上」，是文化啟蒙運動的代表團體。
+林獻堂在本課中是連接文化啟蒙、議會請願與地方自治主張的重要人物。
 
-## 主要作用
+## 課文可確認的角色
 
-- 發行《臺灣民報》
-- 設立讀報社
-- 舉辦演講會
-- 喚起民族意識並改良社會風氣
+- 參與成立臺灣文化協會。
+- 領導臺灣議會設置請願運動。
+- 籌組臺灣地方自治聯盟。
 
 ## 圖譜連結
 
-- [[jiang-wei-shui]]
-- [[lin-hsien-tang]]
+- [[taiwan-cultural-association]]
+- [[taiwan-parliament-petition-movement-1921]]
+- [[first-local-election-1935]]
 - [[history-g7-l003-core-concepts]]
-- [[drive-s2-textbook]]
 
 ## 相關頁面
-- [[jiang-wei-shui]]
-- [[lin-hsien-tang]]
+- [[taiwan-cultural-association]]
+- [[taiwan-parliament-petition-movement-1921]]
+- [[first-local-election-1935]]
 - [[history-g7-l003-core-concepts]]
-- [[drive-s2-textbook]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[taiwan-parliament-petition-movement-1921]]
-- [[first-local-election-1935]]
+- [[jiang-wei-shui]]
 - [[modern-hygiene-and-time-discipline]]
 - [[colonial-education-segregation-vs-modern-learning]]
 - [[culture-enlightenment-vs-political-autonomy]]

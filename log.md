@@ -25,3 +25,4 @@
 - 2026-05-04 15:02 UTC sync-knowledge(llm-wiki): history-g7-l003 student=student-001 lesson_variant=drive-s2-textbook exam_variant=drive-s2-quiz
 - 2026-05-05 15:02 UTC sync-knowledge(llm-wiki): history-g7-l003 student=student-001 lesson_variant=drive-s2-textbook exam_variant=drive-s2-quiz
 - 2026-05-06 15:02 UTC sync-knowledge(llm-wiki): history-g7-l003 student=student-001 lesson_variant=drive-s2-textbook exam_variant=drive-s2-quiz
+- 2026-05-07 15:02 UTC sync-knowledge(llm-wiki): history-g7-l003 student=student-001 lesson_variant=drive-s2-textbook exam_variant=drive-s2-quiz

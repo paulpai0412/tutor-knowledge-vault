@@ -1,7 +1,7 @@
 ---
-title: 日治時期的社會與文化教學聚焦
+title: 日治時期社會與文化教學焦點
 created: '2026-05-04'
-updated: '2026-05-06'
+updated: '2026-05-07'
 type: summary
 tags:
 - history
@@ -9,7 +9,7 @@ tags:
 - teaching-strategy
 - education
 - social-movements
-- comparison
+- modernization
 - student-progress
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -21,40 +21,32 @@ student_id: student-001
 ---
 
 ## 教學提示
-- 先幫學生建立雙軸架構：第一軸是「教育與現代化」，第二軸是「知識分子與政治社會運動」。
-- 教教育制度時，不只問學生「有哪些新學校」，也要追問「誰能讀、誰比較難讀、條件是否相同」，把[[差別待遇的現代教育]]講清楚。
-- 教自治運動時，可用時間線串聯[[臺灣文化協會]]、[[臺灣議會設置請願運動]]、[[臺灣民眾黨]]、[[臺灣地方自治聯盟]]與1935年選舉，讓學生理解「意識提升」不等於「目標完全達成」。
-- 教社會文化變遷時，可把衛生、司法、時間制度與百貨公司、公園等都會文化放在一起，讓學生看到制度如何進入日常生活。
 
-## 可重複使用的提問
-1. 為什麼說日治時期教育既現代又不平等？
-2. 為什麼知識分子會成為政治社會運動的主力？
-3. 地方議員選舉為何能算是自治露出曙光，但又不能說自治已完成？
-4. 衛生、守法、守時這些改變，哪些是改善生活，哪些也反映統治需求？
+本單元不宜只讓學生背事件名稱，更要協助學生回答「制度為何出現」與「造成哪些影響」。可把內容拆成三條線：教育制度、政治社會運動、社會文化變遷，再引導學生找出彼此關聯。
 
-## 依本次作答的教學判讀
-- 學生目前已能答出部分關鍵事實，但樣本只有 3 題，建議下一輪以概念整合題確認是否真正理解[[history-g7-l003-core-concepts]]。
-- 因目前沒有錯題，教學重點可從補救轉為「擴展與比較」，避免學生只記住單點人物或校名。
+## 可重複使用的教學重點
+
+1. 教育主題要同時講「差別待遇」與「現代知識的擴散」，避免學生只記得有學校增加，卻忽略制度不平等。
+2. 政治社會運動可用時間線整理：文化協會、議會請願、臺灣民眾黨、地方自治聯盟、1935 地方選舉，幫助學生分辨先後與成果。
+3. 現代化生活可用「衛生、法治、守時、都市休閒」四組例子，提醒學生這些改變與公共治理、工業化需求有關。
+4. 評量時可優先設計因果題與判讀題，而不只考名詞配對。
+
+## 依本次學生紀錄的提醒
+
+目前學生已作答的 3 題皆正確，表示在已接觸的小範圍題目上，基本辨識能力良好。下一步可增加跨段整合題，檢查是否能把 [[drive-s2-textbook]] 的敘述轉化成因果理解，而不是只靠選項辨識。
 
 ## 相關頁面
-- [[差別待遇的現代教育]]
-- [[臺灣文化協會]]
-- [[臺灣議會設置請願運動]]
-- [[臺灣民眾黨]]
-- [[臺灣地方自治聯盟]]
+- [[drive-s2-textbook]]
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-textbook]]
+- [[taiwan-parliament-petition-movement-1921]]
+- [[modern-hygiene-and-time-discipline]]
 - [[drive-s2-quiz]]
+- [[jiang-wei-shui]]
+- [[lin-hsien-tang]]
 - [[taiwan-cultural-association]]
-- [[taiwan-peoples-party]]
-- [[taichung-middle-school]]
-- [[taihoku-imperial-university]]
-- [[taiwan-parliament-petition-movement]]
-- [[first-local-council-election-1935]]
-- [[national-self-determination-influence]]
-- [[modernization-vs-discrimination-in-education]]
-- [[awakening-vs-limited-autonomy]]
-- [[health-discipline-and-urban-culture]]
+- [[first-local-election-1935]]
+- [[colonial-education-segregation-vs-modern-learning]]
+- [[culture-enlightenment-vs-political-autonomy]]
 - [[index]]
