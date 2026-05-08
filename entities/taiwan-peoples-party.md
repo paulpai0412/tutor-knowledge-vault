@@ -1,15 +1,16 @@
 ---
-title: 蔣渭水
-created: '2026-05-07'
+title: 臺灣民眾黨
+created: '2026-05-08'
 updated: '2026-05-08'
 type: entity
 tags:
 - history
 - entity
 - social-movements
-- culture
 - politics
+- local-autonomy
 - taiwan-history
+- japanese-rule
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -21,22 +22,22 @@ student_id: student-001
 
 ## 簡介
 
-蔣渭水與臺灣文化協會、臺灣議會設置請願運動及臺灣民眾黨等重要行動有關，是本課重要人物。
+臺灣民眾黨成立於1927年，為臺灣人成立的第一個政黨，主張民權、自治，並積極扶助農工運動。
 
-## 教學提醒
+## 歷史意義
 
-- 可作為串連人物、團體與運動的核心節點。
-- 容易與其他時代人物混淆，適合搭配時間線教學。
+- 顯示政治社會運動從文化啟蒙進一步走向政黨組織。
+- 是學生常見考點，容易與其他運動或團體混淆。
 
 ## 相關頁面
-- [[taiwan-cultural-association]]
-- [[taiwan-peoples-party]]
 - [[history-g7-l003-core-concepts]]
-- [[drive-s2-quiz]]
-- [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-misconceptions]]
+- [[jiang-wei-shui]]
+- [[history-g7-l003-teaching-focus]]
 - [[drive-s2-textbook]]
+- [[drive-s2-quiz]]
+- [[taiwan-cultural-association]]
 - [[petition-movement-for-taiwan-parliament]]
 - [[first-local-council-election-1935]]
 - [[japanese-colonial-modern-life]]

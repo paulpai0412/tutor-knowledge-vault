@@ -1,13 +1,14 @@
 ---
-title: 學生 student-001 日治時期社會與文化測驗報告
+title: student-001 第3課測驗報告：日治時期的社會與文化
 created: '2026-05-04'
-updated: '2026-05-07'
+updated: '2026-05-08'
 type: summary
 tags:
 - history
 - grade-7
 - exam-analysis
 - student-progress
+- japanese-rule
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -21,36 +22,38 @@ student_id: student-001
 ## 作答摘要
 
 - 學生：student-001
-- 測驗：日治時期的社會與文化
-- 已作答次數：3
+- 課程：日治時期的社會與文化
+- 已作答題數：3
 - 目前答對題數：3
-- 未完成訂正題數：0
-- 錯題清單：無
+- 未解決錯題：0
 
-## 目前可確認的表現
+## 已展現的能力
 
-進度摘要顯示，學生目前已提交的 3 題全部答對，分別對應到臺中中學校、工商業發達與臺灣民眾黨等題目。就現有資料看，學生在已接觸的小範圍題目上，對本課關鍵名詞與基本判斷有一定掌握。
+- 能辨認第一所專收臺人子弟的中學為臺中中學校。
+- 能判斷新式休閒場所增加與工商業發達有關。
+- 能辨認臺灣民眾黨是臺灣人成立的第一個政黨。
 
-## 解讀限制
+## 目前判讀
 
-這份紀錄只能反映目前已作答的 3 題，不能直接推論整份測驗的完整表現，也不能判定所有子概念都已穩固掌握。
+本次表現顯示學生在基礎事實題上掌握良好，但由於作答樣本僅 3 題，仍不足以全面判定其對教育差別待遇、自治成果有限、以及新舊文化交融等核心概念的深層理解。
 
-## 建議後續
+## 後續建議
 
-下一步可增加尚未作答題型，特別檢查學生是否能分辨教育差別待遇、自治運動成果有限，以及守時與現代化制度的關聯。
+- 下一輪可優先加入比較題與因果題。
+- 可特別檢查學生是否能分辨文化啟蒙團體、政黨與自治運動的不同功能。
+- 因目前沒有錯題，暫無需建立錯題複習單。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[drive-s2-quiz]]
+- [[taiwan-peoples-party]]
 - [[drive-s2-textbook]]
-- [[jiang-wei-shui]]
-- [[lin-hsien-tang]]
 - [[taiwan-cultural-association]]
-- [[taiwan-parliament-petition-movement-1921]]
-- [[first-local-election-1935]]
-- [[modern-hygiene-and-time-discipline]]
-- [[colonial-education-segregation-vs-modern-learning]]
-- [[culture-enlightenment-vs-political-autonomy]]
+- [[jiang-wei-shui]]
+- [[petition-movement-for-taiwan-parliament]]
+- [[first-local-council-election-1935]]
+- [[japanese-colonial-modern-life]]
+- [[education-under-japanese-rule-vs-political-awakening]]
 - [[index]]

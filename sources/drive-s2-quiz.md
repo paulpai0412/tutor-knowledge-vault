@@ -1,52 +1,57 @@
 ---
-title: 測驗來源筆記：日治時期的社會與文化
+title: 測驗來源筆記：日治時期的社會與文化（drive-s2-quiz）
 created: '2026-05-04'
-updated: '2026-05-07'
+updated: '2026-05-08'
 type: summary
 tags:
 - history
 - grade-7
 - exam-analysis
 - source-note
-- taiwan-history
 - japanese-rule
-- education
-- social-movements
-- culture
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
-confidence: medium
+confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 來源定位
+## 來源摘要
 
-[[drive-s2-quiz]] 是本課測驗來源，從可見題目可確認其重點集中在中學校設立、都會文化出現原因、臺灣民眾黨、蔣渭水、現代司法、地方選舉、議會請願與現代衛生、守時等主題。
+此測驗題型主要檢查學生是否能辨認關鍵名詞、人物、時間順序、制度目的與生活情境。
 
-## 題型特徵
+## 題目重心
 
-- 以單選題測驗人物、事件、制度與因果判讀。
-- 常把相近概念放入選項中，檢查學生是否能分辨「文化啟蒙」與「政治自治」等不同層次。
-- 題目也要求學生把生活場景與制度背景連結，而不只是背誦名詞。
+- 教育差別待遇與臺中中學校的歷史定位。
+- 臺灣文化協會、臺灣民眾黨、地方自治聯盟等組織辨識。
+- 地方議員選舉、議會請願、民族自決思潮等事件理解。
+- 現代司法、衛生、守時與都會休閒文化等生活變遷。
 
-## 使用限制
+## 與學生進度的關聯
 
-目前提供的測驗節錄後段已截斷，且來源標示為 `review_required`，因此此頁僅整理已可確認的題目訊息，不延伸到未見內容。
+- 本次學生實際完成 3 題，皆為基礎辨識題。
+- 現有資料尚未覆蓋時間排序、自治成果限制、衛生與時間制度等較完整範圍。
+
+## 連結到知識圖譜
+
+- [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-misconceptions]]
+- [[first-local-council-election-1935]]
+- [[education-under-japanese-rule-vs-political-awakening]]
+- [[drive-s2-textbook]]
 
 ## 相關頁面
 - [[history-g7-l003-student-001-exam-report]]
 - [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-core-concepts]]
-- [[jiang-wei-shui]]
-- [[taiwan-parliament-petition-movement-1921]]
+- [[first-local-council-election-1935]]
+- [[education-under-japanese-rule-vs-political-awakening]]
 - [[drive-s2-textbook]]
+- [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
-- [[lin-hsien-tang]]
 - [[taiwan-cultural-association]]
-- [[first-local-election-1935]]
-- [[modern-hygiene-and-time-discipline]]
-- [[colonial-education-segregation-vs-modern-learning]]
-- [[culture-enlightenment-vs-political-autonomy]]
+- [[taiwan-peoples-party]]
+- [[jiang-wei-shui]]
+- [[petition-movement-for-taiwan-parliament]]
+- [[japanese-colonial-modern-life]]
 - [[index]]

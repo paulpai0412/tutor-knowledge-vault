@@ -1,17 +1,16 @@
 ---
-title: 日治時期社會與文化常見迷思
+title: 七下歷史第3課常見迷思：日治時期的社會與文化
 created: '2026-05-04'
-updated: '2026-05-07'
+updated: '2026-05-08'
 type: summary
 tags:
 - history
 - grade-7
 - misconception
-- taiwan-history
 - japanese-rule
 - education
 - social-movements
-- student-progress
+- culture
 sources:
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 confidence: medium
@@ -21,33 +20,32 @@ student_id: student-001
 
 ## 常見迷思
 
-根據目前進度紀錄，學生已作答的 3 題皆正確，且沒有未完成訂正的錯題，因此本次資料不足以判定有固定且未解決的個人迷思。
+依本次進度紀錄，學生目前已作答 3 題且 3 題皆正確，沒有留下未解決錯題，因此沒有可直接判定的穩定性迷思。
 
-不過，從課文與測驗題型可看出本單元常見混淆點包括：
+## 預防型易混點
 
-- 把「現代化教育的建立」直接理解成「教育平等」；其實課文強調的是差別待遇與隔離原則。
-- 把「臺灣議會設置請願運動」誤認為已成功設立臺灣議會；實際上課文指出請願未被採納，但喚起自治意識。
-- 把都市休閒文化的出現單純歸因於政治開放；題目顯示更應連到工商業發展與都市現代化。
-- 把現代制度引進理解為全面取代傳統；課文更強調新舊文化衝突與調適並存。
+- 把「新式教育」直接等同於「完全平等的現代教育」：實際上教材明確指出教育採差別待遇與隔離原則。
+- 把「地方議員選舉」誤解為「臺灣已完成自治」：教材指出選民資格與席次皆受限制，成果有限。
+- 把「現代化」理解成只有正面進步：教材同時呈現統治、同化、控制與社會改變並存。
+- 把「文化協會、議會請願、民眾黨、地方自治聯盟」混成同一性質組織：其目標與形式各有不同。
 
-## 目前判讀
+## 本次學生狀態
 
-- 已解題目範圍內，學生表現穩定。
-- 尚無錯題證據可支持特定個人迷思已形成。
-- 若後續擴大作答範圍，應繼續觀察是否在「自治成果有限」與「教育差別待遇」兩處出現混淆。
+- 已答對的題目集中在中學校、工商業帶動新式休閒、以及臺灣民眾黨。
+- 目前看來，學生對基礎事實辨識表現穩定。
+- 是否真正掌握「限制中的現代化」與「自治成果有限」等較高層次概念，仍需後續題目驗證。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-quiz]]
-- [[colonial-education-segregation-vs-modern-learning]]
+- [[education-under-japanese-rule-vs-political-awakening]]
 - [[drive-s2-textbook]]
-- [[jiang-wei-shui]]
-- [[lin-hsien-tang]]
 - [[taiwan-cultural-association]]
-- [[taiwan-parliament-petition-movement-1921]]
-- [[first-local-election-1935]]
-- [[modern-hygiene-and-time-discipline]]
-- [[culture-enlightenment-vs-political-autonomy]]
+- [[taiwan-peoples-party]]
+- [[jiang-wei-shui]]
+- [[petition-movement-for-taiwan-parliament]]
+- [[first-local-council-election-1935]]
+- [[japanese-colonial-modern-life]]
 - [[index]]

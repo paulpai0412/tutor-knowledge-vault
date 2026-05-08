@@ -1,7 +1,7 @@
 ---
-title: 日治時期社會與文化核心概念
+title: 七下歷史第3課核心概念：日治時期的社會與文化
 created: '2026-05-04'
-updated: '2026-05-07'
+updated: '2026-05-08'
 type: concept
 tags:
 - history
@@ -25,30 +25,32 @@ student_id: student-001
 
 ## 核心概念
 
-日治時期的臺灣社會變遷，可從「教育制度」、「政治社會運動」與「新舊文化交融」三條主線一起理解。總督府以新式教育推動統治與同化，但同時也培養出能夠吸收現代知識、進一步參與公共事務的知識分子。
+日治時期的臺灣社會與文化，可從「教育制度」、「文化啟蒙與政治社會運動」以及「現代生活習慣的形成」三條主線來理解，三者彼此相連。
 
-政治社會運動的興起，與知識分子受到民族自決思潮刺激有關。像是文化啟蒙、議會請願、政黨成立與地方自治主張，都顯示臺灣人民逐步接觸自治、民權與參政觀念。
+## 概念關係
 
-在社會生活方面，衛生、法治、守時與都市休閒文化的出現，反映現代化制度進入日常生活；但這種改變並不是完全取代傳統，而是形成新舊文化並存與調適的面貌。
+- 教育方面：總督府建立新式教育體系，但採取差別待遇與隔離原則；教育同時具有統治、同化與培養人才的功能。
+- 知識分子方面：受新式教育與留學經驗影響，部分臺灣知識分子投入文化啟蒙與政治社會運動。
+- 社會文化方面：衛生、法治、守時與都會休閒文化逐漸進入日常生活，形成新舊文化並存的局面。
+- 歷史發展方面：政治社會運動讓臺灣人逐步接觸自治、參政與民權觀念，但成果仍受殖民統治限制。
 
-## 關係整理
+## 本課關鍵線索
 
-- 教育既是統治工具，也是知識分子成長的途徑。
-- 文化啟蒙常是政治社會運動的前導。
-- 現代化帶來制度與習慣改變，但城鄉差距與傳統延續同時存在。
+1. 教育不是單純進步，而是帶有殖民統治目的。
+2. 現代化不只表現在學校，也表現在衛生、時間制度、司法與都市生活。
+3. 臺灣人的回應不是被動接受，而是透過文化啟蒙與政治運動爭取權益。
 
 ## 相關頁面
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
-- [[drive-s2-quiz]]
 - [[taiwan-cultural-association]]
-- [[first-local-election-1935]]
+- [[taiwan-peoples-party]]
+- [[drive-s2-quiz]]
 - [[jiang-wei-shui]]
-- [[lin-hsien-tang]]
-- [[taiwan-parliament-petition-movement-1921]]
-- [[modern-hygiene-and-time-discipline]]
-- [[colonial-education-segregation-vs-modern-learning]]
-- [[culture-enlightenment-vs-political-autonomy]]
+- [[petition-movement-for-taiwan-parliament]]
+- [[first-local-council-election-1935]]
+- [[japanese-colonial-modern-life]]
+- [[education-under-japanese-rule-vs-political-awakening]]
 - [[index]]
