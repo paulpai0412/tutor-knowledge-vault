@@ -1,16 +1,19 @@
 ---
 title: 七下歷史第3課教學重點：日治時期的社會與文化
 created: '2026-05-04'
-updated: '2026-05-08'
+updated: '2026-05-09'
 type: summary
 tags:
 - history
 - grade-7
 - teaching-strategy
+- lesson
+- taiwan-history
+- japanese-rule
 - education
 - modernization
 - social-movements
-- culture
+- student-progress
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
@@ -22,32 +25,49 @@ student_id: student-001
 
 ## 教學提示
 
-本課最適合用「一項制度，兩種效果」來教：同一套新制度可能同時帶來現代知識與殖民控制。
+本課最適合用「統治措施 → 社會回應 → 生活改變」的順序帶學生整理，而不是把教育、運動、風俗變遷分成三塊孤立背誦。
 
-## 可強化的教學焦點
+### 建議教學主軸
+1. 先用[[history-g7-l003-core-concepts]]建立整體圖像：
+   - 教育制度
+   - 文化啟蒙與政治社會運動
+   - 新舊文化變遷
+2. 再用人物與團體帶脈絡：
+   - [[chiang-wei-shui]]
+   - [[lin-hsien-tang]]
+   - [[taiwan-cultural-association]]
+3. 最後用題目驗證學生是否能分辨：
+   - 文化啟蒙 vs 政治參與
+   - 現代化 vs 平等化
+   - 時間先後與事件對應
 
-- 教育主題：先讓學生分清小學校、公學校、蕃人公學校／蕃童教育所，再追問這種分類反映何種統治原則。
-- 運動主題：把臺灣文化協會、臺灣議會設置請願運動、臺灣民眾黨、臺灣地方自治聯盟排成時間線，幫助辨認功能差異。
-- 生活主題：從刷牙、洗澡、標準時間制、星期制、法院、公園、百貨公司等具體生活例子切入，比抽象講「現代化」更容易理解。
-- 評量主題：可多出「成果有限但意義重要」類題目，檢查學生是否能區分自治曙光與真正自治。
+## 可重複使用的提問句
+- 新式教育為什麼一方面培養人才，一方面又是不平等制度？
+- 為什麼說自治運動成果有限，但仍有歷史意義？
+- 生活中的守時、衛生、法院制度，和殖民統治有什麼關係？
 
-## 依本次作答的教學判讀
+## 依本次作答的教學判斷
+- 學生已答對 3 題，顯示基本辨識能力存在。
+- 目前沒有錯題累積，因此可把下一步放在「連結型理解」而非補單一知識點。
+- 建議下次不要只問名詞配對，而要問因果題與比較題。
 
-- 學生目前能辨認基本史實與選項關鍵詞。
-- 後續可提升到比較與因果層次，例如：教育如何培養知識分子、知識分子又如何推動政治社會運動。
-- 因目前無錯題，下一步較適合做整合型題目，而非單純補救。
+## 追蹤重點
+- 是否能說出[[taiwan-parliament-petition-movement-1921]]、[[taiwan-people-party-1927]]、[[first-local-council-election-1935]]之間的先後與意義。
+- 是否能把[[drive-s2-textbook]]中的教育不平等與[[drive-s2-quiz]]中的題目情境對起來。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-student-001-exam-report]]
+- [[chiang-wei-shui]]
+- [[lin-hsien-tang]]
 - [[taiwan-cultural-association]]
+- [[taiwan-parliament-petition-movement-1921]]
+- [[taiwan-people-party-1927]]
 - [[first-local-council-election-1935]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[taiwan-peoples-party]]
-- [[jiang-wei-shui]]
-- [[petition-movement-for-taiwan-parliament]]
-- [[japanese-colonial-modern-life]]
-- [[education-under-japanese-rule-vs-political-awakening]]
+- [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[compulsory-education-1943]]
+- [[colonial-education-segregation-comparison]]
+- [[social-movements-vs-lifestyle-modernization]]
 - [[index]]

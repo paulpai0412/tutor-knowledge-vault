@@ -1,7 +1,7 @@
 ---
 title: 七下歷史第3課核心概念：日治時期的社會與文化
 created: '2026-05-04'
-updated: '2026-05-08'
+updated: '2026-05-09'
 type: concept
 tags:
 - history
@@ -14,6 +14,7 @@ tags:
 - modernization
 - social-movements
 - culture
+- politics
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -25,32 +26,40 @@ student_id: student-001
 
 ## 核心概念
 
-日治時期的臺灣社會與文化，可從「教育制度」、「文化啟蒙與政治社會運動」以及「現代生活習慣的形成」三條主線來理解，三者彼此相連。
+日治時期的臺灣社會，一方面受到總督府推動的新制度影響，另一方面也出現知識分子主導的文化啟蒙與政治社會運動，兩股力量共同改變了社會面貌。
 
-## 概念關係
+### 1. 教育具有統治與培養人才的雙重功能
+- 總督府以差別待遇與隔離原則建立教育制度。
+- 日本人、臺灣人與原住民接受的學校類型與資源不同。
+- 新式教育雖不平等，但也培養出後來投入社會改革與政治運動的知識分子。
 
-- 教育方面：總督府建立新式教育體系，但採取差別待遇與隔離原則；教育同時具有統治、同化與培養人才的功能。
-- 知識分子方面：受新式教育與留學經驗影響，部分臺灣知識分子投入文化啟蒙與政治社會運動。
-- 社會文化方面：衛生、法治、守時與都會休閒文化逐漸進入日常生活，形成新舊文化並存的局面。
-- 歷史發展方面：政治社會運動讓臺灣人逐步接觸自治、參政與民權觀念，但成果仍受殖民統治限制。
+### 2. 文化啟蒙與政治社會運動相互連動
+- 1920年代後，知識分子受到民族自決思潮影響，開始透過演講、辦報、組織團體推動改革。
+- [[taiwan-cultural-association]]著重文化啟蒙，[[taiwan-people-party-1927]]與[[taiwan-parliament-petition-movement-1921]]則更直接呈現自治與參政訴求。
 
-## 本課關鍵線索
+### 3. 現代化改變生活，但並未消除差異與衝突
+- 公共衛生、法治、守時習慣與都會休閒空間逐漸普及。
+- 這些改變主要集中於都市，且新制度並未完全取代原有風俗。
+- 因此本課不能只看成「進步史」，而要同時看到統治、限制與調適。
 
-1. 教育不是單純進步，而是帶有殖民統治目的。
-2. 現代化不只表現在學校，也表現在衛生、時間制度、司法與都市生活。
-3. 臺灣人的回應不是被動接受，而是透過文化啟蒙與政治運動爭取權益。
+## 關係整理
+- 教育制度提供了現代知識，也形塑出參與運動的知識群體。
+- 政治社會運動提升了自治與民權意識，但成果有限。
+- 生活文化的變化反映的是殖民統治下的現代化，而非單純自由發展。
 
 ## 相關頁面
+- [[taiwan-cultural-association]]
+- [[taiwan-people-party-1927]]
+- [[taiwan-parliament-petition-movement-1921]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
-- [[taiwan-cultural-association]]
-- [[taiwan-peoples-party]]
 - [[drive-s2-quiz]]
-- [[jiang-wei-shui]]
-- [[petition-movement-for-taiwan-parliament]]
+- [[chiang-wei-shui]]
+- [[lin-hsien-tang]]
 - [[first-local-council-election-1935]]
-- [[japanese-colonial-modern-life]]
-- [[education-under-japanese-rule-vs-political-awakening]]
+- [[compulsory-education-1943]]
+- [[colonial-education-segregation-comparison]]
+- [[social-movements-vs-lifestyle-modernization]]
 - [[index]]

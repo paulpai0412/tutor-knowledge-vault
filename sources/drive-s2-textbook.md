@@ -1,15 +1,19 @@
 ---
-title: 教材來源筆記：日治時期的社會與文化（drive-s2-textbook）
+title: 教材來源註記：日治時期的社會與文化（drive-s2-textbook）
 created: '2026-05-04'
-updated: '2026-05-08'
-type: summary
+updated: '2026-05-09'
+type: entity
 tags:
+- source-note
 - history
 - grade-7
 - lesson
-- source-note
 - taiwan-history
 - japanese-rule
+- education
+- modernization
+- social-movements
+- culture
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -18,46 +22,40 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 來源摘要
+## 來源說明
 
-此教材以三大部分組織內容：差別待遇的現代教育、文化啟蒙與政治社會運動、以及新舊文化的變遷。
+此筆記對應 lesson_variant_id `drive-s2-textbook`，教材標題為《日治時期的社會與文化》。
 
-## 可支持的核心知識
+## 教材涵蓋主題
+- 差別待遇的現代教育
+- 文化啟蒙與政治社會運動
+- 新舊文化的變遷
 
-- 教育制度採差別待遇與隔離原則，並以日語教學。
-- 新式教育與留學培養出知識分子，成為文化與政治運動的重要推手。
-- 1920年代後，民族自決思潮刺激文化啟蒙與自治訴求。
-- 現代衛生、司法、時間制度與都會文化逐漸改變臺灣社會生活。
-- 新文化引進後，並未完全取代傳統，而是形成新舊交融。
-
-## 教材中的代表節點
-
-- 臺中中學校
-- 臺灣文化協會
-- 臺灣民眾黨
-- 臺灣地方自治聯盟
-- 1935年地方議員選舉
-- 六年國民義務教育
-
-## 連結到知識圖譜
-
+## 可抽出的知識節點
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-misconceptions]]
 - [[taiwan-cultural-association]]
-- [[petition-movement-for-taiwan-parliament]]
-- [[japanese-colonial-modern-life]]
+- [[taiwan-people-party-1927]]
+- [[chiang-wei-shui]]
+- [[first-local-council-election-1935]]
+
+## 教材用途
+- 作為本課概念整理與教學提問的主要來源。
+- 可與[[drive-s2-quiz]]對照，觀察題目如何把教材中的概念轉成史實辨識題。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
-- [[taiwan-cultural-association]]
-- [[petition-movement-for-taiwan-parliament]]
-- [[japanese-colonial-modern-life]]
 - [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-quiz]]
-- [[taiwan-peoples-party]]
-- [[jiang-wei-shui]]
+- [[taiwan-cultural-association]]
+- [[taiwan-people-party-1927]]
+- [[chiang-wei-shui]]
 - [[first-local-council-election-1935]]
-- [[education-under-japanese-rule-vs-political-awakening]]
+- [[drive-s2-quiz]]
+- [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[lin-hsien-tang]]
+- [[taiwan-parliament-petition-movement-1921]]
+- [[compulsory-education-1943]]
+- [[colonial-education-segregation-comparison]]
+- [[social-movements-vs-lifestyle-modernization]]
 - [[index]]
