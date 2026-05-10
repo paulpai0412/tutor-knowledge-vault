@@ -29,6 +29,23 @@ if git diff --cached --quiet; then
 fi
 
 git commit -m "$COMMIT_MSG"
-git push origin main
+
+max_push_attempts="${MAX_PUSH_ATTEMPTS:-3}"
+push_retry_delay="${PUSH_RETRY_DELAY_SECONDS:-5}"
+push_attempt=1
+while true; do
+  if git push origin main; then
+    break
+  fi
+
+  if [ "$push_attempt" -ge "$max_push_attempts" ]; then
+    echo "git push failed after ${push_attempt} attempt(s)." >&2
+    exit 1
+  fi
+
+  echo "git push failed on attempt ${push_attempt}/${max_push_attempts}; retrying in ${push_retry_delay}s..." >&2
+  sleep "$push_retry_delay"
+  push_attempt=$((push_attempt + 1))
+done
 
 echo "Knowledge vault synced and pushed successfully."
