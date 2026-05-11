@@ -1,7 +1,7 @@
 ---
-title: 七下歷史第3課常見迷思：日治時期的社會與文化
+title: 日治時期的社會與文化常見迷思
 created: '2026-05-04'
-updated: '2026-05-09'
+updated: '2026-05-11'
 type: concept
 tags:
 - history
@@ -10,9 +10,8 @@ tags:
 - taiwan-history
 - japanese-rule
 - education
-- modernization
-- social-movements
-- politics
+- exam-analysis
+- student-progress
 sources:
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 confidence: medium
@@ -21,43 +20,33 @@ student_id: student-001
 ---
 
 ## 常見迷思
-
-依目前提供的作答紀錄，學生已完成 3 次作答且目前 3 題皆正確，沒有 outstanding wrong questions，因此沒有可確認為「尚未解決」的個別迷思。不過，從本課題型設計可整理出幾個容易混淆的重點。
-
-### 1. 把現代化直接等同於平等
-- 本課常出現「有新式教育、法院、衛生設施」就誤認為所有人待遇相同。
-- 其實教材明確指出教育制度有差別待遇，現代化措施也服務於統治需要。
-
-### 2. 把文化啟蒙與政黨、自治運動混為一談
-- [[taiwan-cultural-association]]偏向文化啟蒙與提升民智。
-- [[taiwan-people-party-1927]]、[[taiwan-parliament-petition-movement-1921]]、[[first-local-council-election-1935]]則更接近政治參與、自治與民權的脈絡。
-
-### 3. 把制度出現時間前後弄混
-- 例如六年國民義務教育是在 1943 年才實施，不適合放到 1920 年代情境中。
-- 同樣地，地方議員選舉是 1935 年，不可提前到較早期的運動背景中。
+- 容易把「現代化教育的推行」誤解為「教育機會已經平等」，忽略日人、臺灣人與原住民之間的差別待遇。可對照 [[education-segregation-and-modern-learning]]。
+- 容易把政治社會運動理解成已經成功建立完整自治，其實教材只指出 1935 年地方議員選舉讓自治露出曙光，成果仍有限，可連到 [[first-local-election-1935]]。
+- 容易把都會文化的出現只看成文化風氣變化，而忽略教材與試題都強調其背景和工商業發展有關，可參照 [[urban-culture-and-industrial-growth]]。
 
 ## 本次學生狀態
-- 目前沒有錯題殘留，表示已掌握已作答題目的核心辨識。
-- 但因作答樣本只有 3 題，且未見錯題與複習紀錄，仍不宜推定整份測驗所有概念都完全穩定。
+- 依現有進度摘要，學生已完成 3 次作答且 3 題皆正確。
+- outstanding_wrong_questions 為 0，尚無可確認的固定錯誤類型。
+- 但目前樣本只涵蓋第 1 至 3 題，仍不足以判定所有概念都已穩固。
 
-## 教師可追問
-- 為什麼教育擴張不代表平等？
-- 文化協會、議會請願、民眾黨三者的目標有何不同？
-- 哪些改變屬於生活文化，哪些屬於政治制度？
+## 是否已解決
+- 已解決：目前已作答題目未留下錯題。
+- 尚待確認：[[time-discipline-modernity]]、[[public-health-modernization]]、[[taiwan-local-autonomy-league]] 等後段概念尚未在作答紀錄中驗證。
 
 ## 相關頁面
-- [[taiwan-cultural-association]]
-- [[taiwan-people-party-1927]]
-- [[taiwan-parliament-petition-movement-1921]]
-- [[first-local-council-election-1935]]
+- [[education-segregation-and-modern-learning]]
+- [[first-local-election-1935]]
+- [[urban-culture-and-industrial-growth]]
+- [[time-discipline-modernity]]
+- [[public-health-modernization]]
+- [[taiwan-local-autonomy-league]]
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-quiz]]
 - [[drive-s2-textbook]]
-- [[chiang-wei-shui]]
-- [[lin-hsien-tang]]
-- [[compulsory-education-1943]]
-- [[colonial-education-segregation-comparison]]
-- [[social-movements-vs-lifestyle-modernization]]
+- [[drive-s2-quiz]]
+- [[taiwan-cultural-association]]
+- [[taiwan-peoples-party]]
+- [[taipei-imperial-university]]
+- [[taiwan-parliament-petition-movement]]
 - [[index]]

@@ -1,7 +1,7 @@
 ---
-title: 學生 student-001 測驗報告：日治時期的社會與文化
+title: student-001 日治時期的社會與文化測驗報告
 created: '2026-05-04'
-updated: '2026-05-09'
+updated: '2026-05-11'
 type: summary
 tags:
 - history
@@ -21,46 +21,39 @@ student_id: student-001
 ---
 
 ## 作答摘要
-
 - 學生：student-001
-- 課次：日治時期的社會與文化
+- 測驗：日治時期的社會與文化
 - attempted_answers：3
 - currently_correct_questions：3
 - outstanding_wrong_questions：0
-- wrong_question_ids：none
 
-## 目前可確認的表現
-- 已作答的 3 題目前皆為正確。
-- 進度摘要未產生 wrong-question artifact，也未產生 review-plan artifact。
-- 這表示目前沒有需要集中重做的錯題。
+## 已驗證表現
+- 第 1 題答對：能辨識第一所專收臺人子弟的中學是臺中中學校，對應 [[education-segregation-and-modern-learning]]。
+- 第 2 題答對：能辨識新式休閒場所增加與工商業發達相關，對應 [[urban-culture-and-industrial-growth]]。
+- 第 3 題答對：能辨識臺灣人第一個成立的政黨是 [[taiwan-peoples-party]]。
 
-## 能力訊號
-- 已掌握題目中出現的基本史實辨識。
-- top_skills 顯示目前表現涉及「日治時期」、「工商業」、「政治社會運動」、「教育」、「社會生活」、「臺灣民眾黨」等面向。
-- 但因僅有 3 次作答資料，這份報告較適合視為初步進度快照，而不是完整單元總結。
+## 判讀
+- 目前沒有錯題，因此無法從錯題反推明確迷思。
+- 不過目前只驗證到前 3 題，尚未涵蓋 [[taiwan-parliament-petition-movement]]、[[first-local-election-1935]]、[[public-health-modernization]]、[[time-discipline-modernity]] 等後續重點。
 
-## 教學判讀
-- 目前不需要做錯題回補，可直接進入概念連結與時序整理。
-- 建議下一步從[[history-g7-l003-core-concepts]]與[[history-g7-l003-teaching-focus]]延伸，檢查學生是否能把人物、團體、制度與生活變遷串起來。
-
-## 來源與關聯
-- 教材來源：[[drive-s2-textbook]]
-- 測驗來源：[[drive-s2-quiz]]
-- 常見迷思整理：[[history-g7-l003-misconceptions]]
+## 後續建議
+- 下一步可優先檢查學生是否能區分「文化啟蒙團體」、「政黨」與「自治運動」三種不同組織／事件層級。
+- 也可補問衛生、守時與法治等生活文化題，連回 [[history-g7-l003-core-concepts]] 與 [[history-g7-l003-teaching-focus]]。
 
 ## 相關頁面
+- [[education-segregation-and-modern-learning]]
+- [[urban-culture-and-industrial-growth]]
+- [[taiwan-peoples-party]]
+- [[taiwan-parliament-petition-movement]]
+- [[first-local-election-1935]]
+- [[public-health-modernization]]
+- [[time-discipline-modernity]]
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
-- [[drive-s2-textbook]]
-- [[drive-s2-quiz]]
 - [[history-g7-l003-misconceptions]]
+- [[drive-s2-quiz]]
+- [[drive-s2-textbook]]
 - [[taiwan-cultural-association]]
-- [[taiwan-people-party-1927]]
-- [[chiang-wei-shui]]
-- [[lin-hsien-tang]]
-- [[taiwan-parliament-petition-movement-1921]]
-- [[first-local-council-election-1935]]
-- [[compulsory-education-1943]]
-- [[colonial-education-segregation-comparison]]
-- [[social-movements-vs-lifestyle-modernization]]
+- [[taipei-imperial-university]]
+- [[taiwan-local-autonomy-league]]
 - [[index]]

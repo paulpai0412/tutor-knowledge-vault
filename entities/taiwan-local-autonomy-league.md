@@ -1,6 +1,6 @@
 ---
-title: 臺灣文化協會
-created: '2026-05-05'
+title: 臺灣地方自治聯盟
+created: '2026-05-11'
 updated: '2026-05-11'
 type: entity
 tags:
@@ -8,8 +8,8 @@ tags:
 - entity
 - taiwan-history
 - japanese-rule
-- culture
-- social-movements
+- politics
+- local-autonomy
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -20,27 +20,26 @@ student_id: student-001
 ---
 
 ## 概要
-- 1921年成立。
-- 宗旨是提升臺灣文化、啟迪民智並喚起民族意識。
-- 教材提到其透過《臺灣民報》、讀報社與演講會推動啟蒙。
+- 1930年由林獻堂等人籌組。
+- 主張實施地方自治。
+- 其訴求與 1935 年地方議員選舉有直接關聯。
 
-## 圖譜位置
-- 可視為 [[history-g7-l003-core-concepts]] 中「文化啟蒙」主線的代表節點。
-- 與 [[taiwan-parliament-petition-movement]] 同樣出現在 1921 年的政治社會運動脈絡中。
-- 也與人物與組織發展脈絡中的 [[taiwan-peoples-party]] 有關聯。
+## 教學連結
+- 可和 [[first-local-election-1935]] 一起講，幫助學生理解自治成果為何有限。
+- 也可與更早的 [[taiwan-parliament-petition-movement]] 對照，觀察自治訴求如何延續。
 
 ## 相關頁面
-- [[history-g7-l003-core-concepts]]
+- [[first-local-election-1935]]
 - [[taiwan-parliament-petition-movement]]
-- [[taiwan-peoples-party]]
-- [[drive-s2-textbook]]
+- [[history-g7-l003-core-concepts]]
 - [[drive-s2-quiz]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-textbook]]
+- [[taiwan-cultural-association]]
+- [[taiwan-peoples-party]]
 - [[taipei-imperial-university]]
-- [[taiwan-local-autonomy-league]]
-- [[first-local-election-1935]]
 - [[public-health-modernization]]
 - [[time-discipline-modernity]]
 - [[education-segregation-and-modern-learning]]

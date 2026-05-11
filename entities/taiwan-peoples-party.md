@@ -1,6 +1,6 @@
 ---
-title: 臺灣文化協會
-created: '2026-05-05'
+title: 臺灣民眾黨
+created: '2026-05-11'
 updated: '2026-05-11'
 type: entity
 tags:
@@ -8,7 +8,7 @@ tags:
 - entity
 - taiwan-history
 - japanese-rule
-- culture
+- politics
 - social-movements
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -20,24 +20,24 @@ student_id: student-001
 ---
 
 ## 概要
-- 1921年成立。
-- 宗旨是提升臺灣文化、啟迪民智並喚起民族意識。
-- 教材提到其透過《臺灣民報》、讀報社與演講會推動啟蒙。
+- 1927年成立。
+- 教材指出這是臺灣人成立的第一個政黨。
+- 主張民權、自治，並積極扶助農、工運動。
 
-## 圖譜位置
-- 可視為 [[history-g7-l003-core-concepts]] 中「文化啟蒙」主線的代表節點。
-- 與 [[taiwan-parliament-petition-movement]] 同樣出現在 1921 年的政治社會運動脈絡中。
-- 也與人物與組織發展脈絡中的 [[taiwan-peoples-party]] 有關聯。
+## 教學連結
+- 常與 [[taiwan-cultural-association]] 混成同一類型組織，教學時應提醒前者偏文化啟蒙，後者是政黨。
+- 試題第 3 題與第 4 題都直接檢驗此概念，因此與 [[history-g7-l003-student-001-exam-report]] 密切相關。
+- 其出現也屬於 [[history-g7-l003-core-concepts]] 中政治社會運動的重要節點。
 
 ## 相關頁面
+- [[taiwan-cultural-association]]
+- [[history-g7-l003-student-001-exam-report]]
 - [[history-g7-l003-core-concepts]]
 - [[taiwan-parliament-petition-movement]]
-- [[taiwan-peoples-party]]
-- [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-textbook]]
 - [[taipei-imperial-university]]
 - [[taiwan-local-autonomy-league]]
 - [[first-local-election-1935]]

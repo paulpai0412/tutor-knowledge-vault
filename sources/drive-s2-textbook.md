@@ -1,19 +1,15 @@
 ---
-title: 教材來源註記：日治時期的社會與文化（drive-s2-textbook）
+title: 教材來源：日治時期的社會與文化
 created: '2026-05-04'
-updated: '2026-05-09'
+updated: '2026-05-11'
 type: entity
 tags:
-- source-note
 - history
 - grade-7
 - lesson
+- source-note
 - taiwan-history
 - japanese-rule
-- education
-- modernization
-- social-movements
-- culture
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -23,39 +19,37 @@ student_id: student-001
 ---
 
 ## 來源說明
+- lesson_variant_id：drive-s2-textbook
+- 標題：日治時期的社會與文化
+- 來源檔案：drive-s2-textbook.pdf
+- converter：markitdown
+- conversion_state：wiki_ready
 
-此筆記對應 lesson_variant_id `drive-s2-textbook`，教材標題為《日治時期的社會與文化》。
+## 來源重點
+- 教材將本課分成差別待遇的現代教育、文化啟蒙與政治社會運動、新舊文化變遷三部分。
+- 教育部分可連到 [[education-segregation-and-modern-learning]] 與 [[taipei-imperial-university]]。
+- 政治社會運動部分可連到 [[taiwan-cultural-association]]、[[taiwan-parliament-petition-movement]]、[[taiwan-peoples-party]]、[[taiwan-local-autonomy-league]]。
+- 生活文化部分可連到 [[public-health-modernization]]、[[time-discipline-modernity]]、[[urban-culture-and-industrial-growth]]。
 
-## 教材涵蓋主題
-- 差別待遇的現代教育
-- 文化啟蒙與政治社會運動
-- 新舊文化的變遷
-
-## 可抽出的知識節點
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-misconceptions]]
-- [[taiwan-cultural-association]]
-- [[taiwan-people-party-1927]]
-- [[chiang-wei-shui]]
-- [[first-local-council-election-1935]]
-
-## 教材用途
-- 作為本課概念整理與教學提問的主要來源。
-- 可與[[drive-s2-quiz]]對照，觀察題目如何把教材中的概念轉成史實辨識題。
+## 圖譜用途
+- 本來源是 [[history-g7-l003-core-concepts]] 的主要依據。
+- 教學轉化可參考 [[history-g7-l003-teaching-focus]]。
+- 若需比對學生表現，可回看 [[history-g7-l003-student-001-exam-report]]。
 
 ## 相關頁面
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-misconceptions]]
+- [[education-segregation-and-modern-learning]]
+- [[taipei-imperial-university]]
 - [[taiwan-cultural-association]]
-- [[taiwan-people-party-1927]]
-- [[chiang-wei-shui]]
-- [[first-local-council-election-1935]]
-- [[drive-s2-quiz]]
+- [[taiwan-parliament-petition-movement]]
+- [[taiwan-peoples-party]]
+- [[taiwan-local-autonomy-league]]
+- [[public-health-modernization]]
+- [[time-discipline-modernity]]
+- [[urban-culture-and-industrial-growth]]
+- [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[lin-hsien-tang]]
-- [[taiwan-parliament-petition-movement-1921]]
-- [[compulsory-education-1943]]
-- [[colonial-education-segregation-comparison]]
-- [[social-movements-vs-lifestyle-modernization]]
+- [[drive-s2-quiz]]
+- [[history-g7-l003-misconceptions]]
+- [[first-local-election-1935]]
 - [[index]]

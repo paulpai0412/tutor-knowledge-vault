@@ -1,19 +1,17 @@
 ---
-title: 七下歷史第3課教學重點：日治時期的社會與文化
+title: 日治時期的社會與文化教學重點
 created: '2026-05-04'
-updated: '2026-05-09'
+updated: '2026-05-11'
 type: summary
 tags:
 - history
 - grade-7
 - teaching-strategy
-- lesson
 - taiwan-history
 - japanese-rule
 - education
-- modernization
-- social-movements
-- student-progress
+- culture
+- politics
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
@@ -24,50 +22,34 @@ student_id: student-001
 ---
 
 ## 教學提示
+- 先抓三條主線：教育制度、政治社會運動、生活文化變遷，避免學生把零散名詞背成片段知識。
+- 講教育時，要同時指出「差別待遇」與「現代知識傳入」兩面，並連到 [[education-segregation-and-modern-learning]]。
+- 講自治運動時，可用時間線串起 [[taiwan-parliament-petition-movement]]、[[taiwan-peoples-party]]、[[taiwan-local-autonomy-league]]、[[first-local-election-1935]]。
+- 講社會生活時，宜把衛生、守時、都會文化都放回「現代化制度進入日常」來理解，連到 [[public-health-modernization]]、[[time-discipline-modernity]]、[[urban-culture-and-industrial-growth]]。
 
-本課最適合用「統治措施 → 社會回應 → 生活改變」的順序帶學生整理，而不是把教育、運動、風俗變遷分成三塊孤立背誦。
+## 可重用提問
+1. 為什麼日治時期的教育既能壓迫，也能培養知識分子？
+2. 為什麼 1935 年選舉被說成是自治露出曙光，而不是自治完成？
+3. 百貨公司、公園、喫茶店增加，背後反映的是哪一種社會條件？
 
-### 建議教學主軸
-1. 先用[[history-g7-l003-core-concepts]]建立整體圖像：
-   - 教育制度
-   - 文化啟蒙與政治社會運動
-   - 新舊文化變遷
-2. 再用人物與團體帶脈絡：
-   - [[chiang-wei-shui]]
-   - [[lin-hsien-tang]]
-   - [[taiwan-cultural-association]]
-3. 最後用題目驗證學生是否能分辨：
-   - 文化啟蒙 vs 政治參與
-   - 現代化 vs 平等化
-   - 時間先後與事件對應
-
-## 可重複使用的提問句
-- 新式教育為什麼一方面培養人才，一方面又是不平等制度？
-- 為什麼說自治運動成果有限，但仍有歷史意義？
-- 生活中的守時、衛生、法院制度，和殖民統治有什麼關係？
-
-## 依本次作答的教學判斷
-- 學生已答對 3 題，顯示基本辨識能力存在。
-- 目前沒有錯題累積，因此可把下一步放在「連結型理解」而非補單一知識點。
-- 建議下次不要只問名詞配對，而要問因果題與比較題。
-
-## 追蹤重點
-- 是否能說出[[taiwan-parliament-petition-movement-1921]]、[[taiwan-people-party-1927]]、[[first-local-council-election-1935]]之間的先後與意義。
-- 是否能把[[drive-s2-textbook]]中的教育不平等與[[drive-s2-quiz]]中的題目情境對起來。
+## 依本次進度的教學判讀
+- 學生目前前 3 題全對，顯示對臺中中學校、工商業與臺灣民眾黨已有初步辨識。
+- 仍可繼續追問人物、組織、事件之間的因果，避免只記單點答案。
 
 ## 相關頁面
+- [[education-segregation-and-modern-learning]]
+- [[taiwan-parliament-petition-movement]]
+- [[taiwan-peoples-party]]
+- [[taiwan-local-autonomy-league]]
+- [[first-local-election-1935]]
+- [[public-health-modernization]]
+- [[time-discipline-modernity]]
+- [[urban-culture-and-industrial-growth]]
 - [[history-g7-l003-core-concepts]]
-- [[chiang-wei-shui]]
-- [[lin-hsien-tang]]
-- [[taiwan-cultural-association]]
-- [[taiwan-parliament-petition-movement-1921]]
-- [[taiwan-people-party-1927]]
-- [[first-local-council-election-1935]]
-- [[drive-s2-textbook]]
-- [[drive-s2-quiz]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[compulsory-education-1943]]
-- [[colonial-education-segregation-comparison]]
-- [[social-movements-vs-lifestyle-modernization]]
+- [[drive-s2-textbook]]
+- [[drive-s2-quiz]]
+- [[taiwan-cultural-association]]
+- [[taipei-imperial-university]]
 - [[index]]

@@ -1,18 +1,15 @@
 ---
-title: 測驗來源註記：日治時期的社會與文化（drive-s2-quiz）
+title: 測驗來源：日治時期的社會與文化
 created: '2026-05-04'
-updated: '2026-05-09'
+updated: '2026-05-11'
 type: entity
 tags:
-- source-note
 - history
 - grade-7
+- source-note
 - exam-analysis
 - taiwan-history
 - japanese-rule
-- education
-- social-movements
-- culture
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -22,38 +19,35 @@ student_id: student-001
 ---
 
 ## 來源說明
+- exam_variant_id：drive-s2-quiz
+- 標題：日治時期的社會與文化
+- 來源檔案：drive-s2-quiz.pdf
+- converter：marker
+- conversion_state：review_required
 
-此筆記對應 exam_variant_id `drive-s2-quiz`，測驗標題為《日治時期的社會與文化》。提供的題目摘錄可見其重點集中於學校制度、政治社會運動、地方自治、司法制度、衛生與守時觀念等。
+## 題目覆蓋重點
+- 教育制度：臺中中學校、差別待遇、留學與高等教育，對應 [[education-segregation-and-modern-learning]]、[[taipei-imperial-university]]。
+- 政治社會運動：[[taiwan-cultural-association]]、[[taiwan-parliament-petition-movement]]、[[taiwan-peoples-party]]、[[taiwan-local-autonomy-league]]、[[first-local-election-1935]]。
+- 生活文化：[[public-health-modernization]]、[[time-discipline-modernity]]、[[urban-culture-and-industrial-growth]]。
 
-## 可辨識的測驗焦點
-- 臺中中學校與教育差別待遇
-- [[taiwan-people-party-1927]]與[[chiang-wei-shui]]
-- [[taiwan-parliament-petition-movement-1921]]與[[first-local-council-election-1935]]
-- 現代司法、衛生、守時與都會文化
-
-## 與進度資料的關係
-- 目前進度只顯示 3 次作答，且 3 題皆正確。
-- 因未提供完整作答明細與後續錯題紀錄，較適合作為[[history-g7-l003-student-001-exam-report]]的來源支撐，而非完整錯誤分析依據。
-
-## 連回知識圖譜
-- 概念整理：[[history-g7-l003-core-concepts]]
-- 常見迷思：[[history-g7-l003-misconceptions]]
-- 教學建議：[[history-g7-l003-teaching-focus]]
-- 教材來源：[[drive-s2-textbook]]
+## 與學生進度的關聯
+- 目前進度摘要只顯示前 3 題作答結果，因此 [[history-g7-l003-student-001-exam-report]] 仍屬部分樣本判讀。
+- 此來源可用來補齊 [[history-g7-l003-misconceptions]] 尚未被作答驗證的後段概念。
 
 ## 相關頁面
-- [[taiwan-people-party-1927]]
-- [[chiang-wei-shui]]
-- [[taiwan-parliament-petition-movement-1921]]
-- [[first-local-council-election-1935]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-teaching-focus]]
-- [[drive-s2-textbook]]
+- [[education-segregation-and-modern-learning]]
+- [[taipei-imperial-university]]
 - [[taiwan-cultural-association]]
-- [[lin-hsien-tang]]
-- [[compulsory-education-1943]]
-- [[colonial-education-segregation-comparison]]
-- [[social-movements-vs-lifestyle-modernization]]
+- [[taiwan-parliament-petition-movement]]
+- [[taiwan-peoples-party]]
+- [[taiwan-local-autonomy-league]]
+- [[first-local-election-1935]]
+- [[public-health-modernization]]
+- [[time-discipline-modernity]]
+- [[urban-culture-and-industrial-growth]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-misconceptions]]
+- [[drive-s2-textbook]]
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-teaching-focus]]
 - [[index]]
