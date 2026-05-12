@@ -1,7 +1,7 @@
 ---
 title: student-001 日治時期的社會與文化測驗報告
 created: '2026-05-04'
-updated: '2026-05-11'
+updated: '2026-05-12'
 type: summary
 tags:
 - history
@@ -9,51 +9,72 @@ tags:
 - exam-analysis
 - student-progress
 - taiwan-history
-- japanese-rule
+- education
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 - wiki/students/student-001/progress/history/g7/l003/summary.md
-confidence: medium
+confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 作答摘要
+## 測驗摘要
+
 - 學生：student-001
-- 測驗：日治時期的社會與文化
-- attempted_answers：3
-- currently_correct_questions：3
-- outstanding_wrong_questions：0
+- 課組：history-g7-l003
+- 測驗版本：drive-s2-quiz
+- 已作答次數：3
+- 目前答對題數：3
+- 尚未解決錯題：0
 
-## 已驗證表現
-- 第 1 題答對：能辨識第一所專收臺人子弟的中學是臺中中學校，對應 [[education-segregation-and-modern-learning]]。
-- 第 2 題答對：能辨識新式休閒場所增加與工商業發達相關，對應 [[urban-culture-and-industrial-growth]]。
-- 第 3 題答對：能辨識臺灣人第一個成立的政黨是 [[taiwan-peoples-party]]。
+## 已掌握表現
 
-## 判讀
-- 目前沒有錯題，因此無法從錯題反推明確迷思。
-- 不過目前只驗證到前 3 題，尚未涵蓋 [[taiwan-parliament-petition-movement]]、[[first-local-election-1935]]、[[public-health-modernization]]、[[time-discipline-modernity]] 等後續重點。
+依進度摘要，學生目前完成的 3 題皆作答正確：
+- q-1：臺中中學校
+- q-2：新式休閒場所與工商業發達
+- q-3：臺灣民眾黨
 
-## 後續建議
-- 下一步可優先檢查學生是否能區分「文化啟蒙團體」、「政黨」與「自治運動」三種不同組織／事件層級。
-- 也可補問衛生、守時與法治等生活文化題，連回 [[history-g7-l003-core-concepts]] 與 [[history-g7-l003-teaching-focus]]。
+這表示學生對以下基礎辨識已有掌握：
+- 日治時期教育發展中的代表學校
+- 都會文化與經濟發展的連動
+- 政治社會運動中的重要組織
+
+## 錯題與補救狀態
+- wrong_question_ids：none
+- wrong-question artifact：無
+- review-plan artifact：無
+
+因此，目前沒有可列入集中重考的錯題，這與 [[history-g7-l003-misconceptions]] 的觀察一致。
+
+## 解讀限制
+- 目前資料只顯示 3 題作答紀錄，不能據此推定整份測驗的完整表現。
+- 本報告反映的是「目前已提交作答的部分進度」，不是整張試卷總成績。
+- 可回查來源 [[drive-s2-quiz]]，並對照概念整理 [[history-g7-l003-core-concepts]]。
+
+## 建議下一步
+- 進入更高層次的因果與比較題。
+- 優先追問自治運動、差別待遇教育與現代化生活三條主線如何互相連結。
 
 ## 相關頁面
-- [[education-segregation-and-modern-learning]]
-- [[urban-culture-and-industrial-growth]]
-- [[taiwan-peoples-party]]
-- [[taiwan-parliament-petition-movement]]
-- [[first-local-election-1935]]
-- [[public-health-modernization]]
-- [[time-discipline-modernity]]
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-misconceptions]]
 - [[drive-s2-quiz]]
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-teaching-focus]]
 - [[drive-s2-textbook]]
 - [[taiwan-cultural-association]]
+- [[taiwan-popular-party]]
+- [[lin-xian-tang]]
+- [[jiang-wei-shui]]
 - [[taipei-imperial-university]]
-- [[taiwan-local-autonomy-league]]
+- [[education-segregation]]
+- [[public-health-modernization]]
+- [[time-discipline-modernity]]
+- [[taiwan-parliament-petition-movement-1921]]
+- [[local-election-1935]]
+- [[compulsory-education-1943]]
+- [[cultural-enlightenment-vs-political-mobilization]]
+- [[urban-modernity-vs-rural-continuity]]
+- [[local-autonomy-limited-participation]]
 - [[index]]

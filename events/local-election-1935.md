@@ -1,55 +1,56 @@
 ---
-title: 臺北帝國大學
-created: '2026-05-11'
+title: 1935年首次地方議員選舉
+created: '2026-05-12'
 updated: '2026-05-12'
-type: entity
+type: summary
 tags:
 - history
-- entity
+- event
 - taiwan-history
-- education
-- modernization
+- local-autonomy
+- politics
+- comparison
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
-- wiki/exams/history/g7/l003/drive-s2-quiz.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
+- wiki/students/student-001/progress/history/g7/l003/summary.md
 confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 概要
+## 事件概述
 
-臺北帝國大學於1928年設立，是教材中最具代表性的高等教育機構，也是今日國立臺灣大學前身之一。
+1935年總督府舉辦首次地方議員選舉，教材指出這是臺灣民眾第一次行使投票權，讓人民對自治與參政觀念有初步認識。
 
-## 學習重點
-- 它象徵高等教育的現代化發展。
-- 但教材也指出就學名額有限，因此許多有志升學者仍需赴日留學。
+## 歷史意義
+- 具有象徵性的政治參與意義。
+- 但並不等於完全自治成功，因為選民資格與席次都有限制。
 
 ## 相關連結
+- [[local-autonomy-limited-participation]]
+- [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-core-concepts]]
-- [[education-segregation]]
-- [[drive-s2-textbook]]
-- [[history-g7-l003-teaching-focus]]
+- [[drive-s2-quiz]]
 
 ## 相關頁面
-- [[history-g7-l003-core-concepts]]
-- [[education-segregation]]
-- [[drive-s2-textbook]]
-- [[history-g7-l003-teaching-focus]]
+- [[local-autonomy-limited-participation]]
 - [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-core-concepts]]
 - [[drive-s2-quiz]]
+- [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-textbook]]
 - [[taiwan-cultural-association]]
 - [[taiwan-popular-party]]
 - [[lin-xian-tang]]
 - [[jiang-wei-shui]]
+- [[taipei-imperial-university]]
+- [[education-segregation]]
 - [[public-health-modernization]]
 - [[time-discipline-modernity]]
 - [[taiwan-parliament-petition-movement-1921]]
-- [[local-election-1935]]
 - [[compulsory-education-1943]]
 - [[cultural-enlightenment-vs-political-mobilization]]
 - [[urban-modernity-vs-rural-continuity]]
-- [[local-autonomy-limited-participation]]
 - [[index]]

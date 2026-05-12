@@ -1,13 +1,14 @@
 ---
-title: 臺北帝國大學
-created: '2026-05-11'
+title: 差別待遇的教育制度
+created: '2026-05-12'
 updated: '2026-05-12'
-type: entity
+type: concept
 tags:
 - history
-- entity
-- taiwan-history
+- concept
+- grade-7
 - education
+- japanese-rule
 - modernization
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -20,26 +21,26 @@ student_id: student-001
 
 ## 概要
 
-臺北帝國大學於1928年設立，是教材中最具代表性的高等教育機構，也是今日國立臺灣大學前身之一。
+教材指出日治時期初等教育以差別待遇與隔離原則為核心：日本人、臺灣人與原住民分別進入不同學校體系，資源與待遇亦有差距。
 
-## 學習重點
-- 它象徵高等教育的現代化發展。
-- 但教材也指出就學名額有限，因此許多有志升學者仍需赴日留學。
+## 歷史意義
+- 顯示教育不只是啟蒙工具，也是殖民治理工具。
+- 解題時要避免把「有現代教育」直接等同於「教育平等」。
 
 ## 相關連結
 - [[history-g7-l003-core-concepts]]
-- [[education-segregation]]
-- [[drive-s2-textbook]]
-- [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-misconceptions]]
+- [[taipei-imperial-university]]
+- [[drive-s2-quiz]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[education-segregation]]
-- [[drive-s2-textbook]]
-- [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-student-001-exam-report]]
+- [[taipei-imperial-university]]
 - [[drive-s2-quiz]]
+- [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-textbook]]
 - [[taiwan-cultural-association]]
 - [[taiwan-popular-party]]
 - [[lin-xian-tang]]

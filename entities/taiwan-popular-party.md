@@ -1,14 +1,15 @@
 ---
-title: 臺北帝國大學
-created: '2026-05-11'
+title: 臺灣民眾黨
+created: '2026-05-12'
 updated: '2026-05-12'
 type: entity
 tags:
 - history
 - entity
 - taiwan-history
-- education
-- modernization
+- social-movements
+- politics
+- local-autonomy
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -20,36 +21,36 @@ student_id: student-001
 
 ## 概要
 
-臺北帝國大學於1928年設立，是教材中最具代表性的高等教育機構，也是今日國立臺灣大學前身之一。
+臺灣民眾黨成立於1927年，是教材明確指出的「臺灣人成立的第一個政黨」。其主張包括民權、自治，並積極扶助農工運動。
 
 ## 學習重點
-- 它象徵高等教育的現代化發展。
-- 但教材也指出就學名額有限，因此許多有志升學者仍需赴日留學。
+- 常與蔣渭水連結出題。
+- 應放在文化啟蒙之後、自治運動脈絡中理解，而不是孤立背誦。
 
 ## 相關連結
+- [[jiang-wei-shui]]
 - [[history-g7-l003-core-concepts]]
-- [[education-segregation]]
-- [[drive-s2-textbook]]
-- [[history-g7-l003-teaching-focus]]
+- [[cultural-enlightenment-vs-political-mobilization]]
+- [[drive-s2-quiz]]
 
 ## 相關頁面
-- [[history-g7-l003-core-concepts]]
-- [[education-segregation]]
-- [[drive-s2-textbook]]
-- [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-quiz]]
-- [[taiwan-cultural-association]]
-- [[taiwan-popular-party]]
-- [[lin-xian-tang]]
 - [[jiang-wei-shui]]
+- [[history-g7-l003-core-concepts]]
+- [[cultural-enlightenment-vs-political-mobilization]]
+- [[drive-s2-quiz]]
+- [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-textbook]]
+- [[taiwan-cultural-association]]
+- [[lin-xian-tang]]
+- [[taipei-imperial-university]]
+- [[education-segregation]]
 - [[public-health-modernization]]
 - [[time-discipline-modernity]]
 - [[taiwan-parliament-petition-movement-1921]]
 - [[local-election-1935]]
 - [[compulsory-education-1943]]
-- [[cultural-enlightenment-vs-political-mobilization]]
 - [[urban-modernity-vs-rural-continuity]]
 - [[local-autonomy-limited-participation]]
 - [[index]]

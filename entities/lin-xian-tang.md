@@ -1,14 +1,15 @@
 ---
-title: 臺北帝國大學
-created: '2026-05-11'
+title: 林獻堂
+created: '2026-05-12'
 updated: '2026-05-12'
 type: entity
 tags:
 - history
 - entity
 - taiwan-history
-- education
-- modernization
+- social-movements
+- politics
+- local-autonomy
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -20,34 +21,34 @@ student_id: student-001
 
 ## 概要
 
-臺北帝國大學於1928年設立，是教材中最具代表性的高等教育機構，也是今日國立臺灣大學前身之一。
+教材中林獻堂與臺灣文化協會、臺灣議會設置請願運動、臺灣地方自治聯盟都有關聯，是理解自治運動的重要人物。
 
-## 學習重點
-- 它象徵高等教育的現代化發展。
-- 但教材也指出就學名額有限，因此許多有志升學者仍需赴日留學。
+## 教學定位
+- 可作為「文化啟蒙—請願—地方自治」這條線的代表人物。
+- 題目常考其與地方自治、溫和政治訴求的關聯。
 
 ## 相關連結
-- [[history-g7-l003-core-concepts]]
-- [[education-segregation]]
-- [[drive-s2-textbook]]
+- [[taiwan-cultural-association]]
+- [[taiwan-parliament-petition-movement-1921]]
+- [[local-election-1935]]
 - [[history-g7-l003-teaching-focus]]
 
 ## 相關頁面
-- [[history-g7-l003-core-concepts]]
-- [[education-segregation]]
-- [[drive-s2-textbook]]
-- [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-quiz]]
 - [[taiwan-cultural-association]]
-- [[taiwan-popular-party]]
-- [[lin-xian-tang]]
-- [[jiang-wei-shui]]
-- [[public-health-modernization]]
-- [[time-discipline-modernity]]
 - [[taiwan-parliament-petition-movement-1921]]
 - [[local-election-1935]]
+- [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-textbook]]
+- [[drive-s2-quiz]]
+- [[taiwan-popular-party]]
+- [[jiang-wei-shui]]
+- [[taipei-imperial-university]]
+- [[education-segregation]]
+- [[public-health-modernization]]
+- [[time-discipline-modernity]]
 - [[compulsory-education-1943]]
 - [[cultural-enlightenment-vs-political-mobilization]]
 - [[urban-modernity-vs-rural-continuity]]

@@ -1,54 +1,55 @@
 ---
-title: 臺北帝國大學
-created: '2026-05-11'
+title: 1943年六年國民義務教育實施
+created: '2026-05-12'
 updated: '2026-05-12'
-type: entity
+type: summary
 tags:
 - history
-- entity
+- event
 - taiwan-history
 - education
+- japanese-rule
 - modernization
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
-- wiki/exams/history/g7/l003/drive-s2-quiz.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
+- wiki/students/student-001/progress/history/g7/l003/summary.md
 confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 概要
+## 事件概述
 
-臺北帝國大學於1928年設立，是教材中最具代表性的高等教育機構，也是今日國立臺灣大學前身之一。
+教材指出1943年開始實施六年國民義務教育，前一階段則於1941年取消小學校與公學校區別，改稱國民學校。
 
-## 學習重點
-- 它象徵高等教育的現代化發展。
-- 但教材也指出就學名額有限，因此許多有志升學者仍需赴日留學。
+## 歷史意義
+- 顯示教育制度在日治後期有形式上的整併。
+- 但理解時仍需回到整體殖民教育背景，不能單看制度名稱改變。
 
 ## 相關連結
-- [[history-g7-l003-core-concepts]]
 - [[education-segregation]]
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-misconceptions]]
 - [[drive-s2-textbook]]
-- [[history-g7-l003-teaching-focus]]
 
 ## 相關頁面
-- [[history-g7-l003-core-concepts]]
 - [[education-segregation]]
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-misconceptions]]
 - [[drive-s2-textbook]]
 - [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-quiz]]
 - [[taiwan-cultural-association]]
 - [[taiwan-popular-party]]
 - [[lin-xian-tang]]
 - [[jiang-wei-shui]]
+- [[taipei-imperial-university]]
 - [[public-health-modernization]]
 - [[time-discipline-modernity]]
 - [[taiwan-parliament-petition-movement-1921]]
 - [[local-election-1935]]
-- [[compulsory-education-1943]]
 - [[cultural-enlightenment-vs-political-mobilization]]
 - [[urban-modernity-vs-rural-continuity]]
 - [[local-autonomy-limited-participation]]

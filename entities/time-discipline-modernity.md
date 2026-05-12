@@ -1,14 +1,15 @@
 ---
-title: 臺北帝國大學
-created: '2026-05-11'
+title: 守時習慣與時間制度
+created: '2026-05-12'
 updated: '2026-05-12'
-type: entity
+type: concept
 tags:
 - history
-- entity
-- taiwan-history
-- education
+- concept
+- time-discipline
 - modernization
+- culture
+- education
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -20,32 +21,32 @@ student_id: student-001
 
 ## 概要
 
-臺北帝國大學於1928年設立，是教材中最具代表性的高等教育機構，也是今日國立臺灣大學前身之一。
+教材提到政府機關與學校改用西曆、24小時標準時間制與星期制，公共場所設置時鐘，學校課程節次固定，逐步培養民眾守時習慣。
 
-## 學習重點
-- 它象徵高等教育的現代化發展。
-- 但教材也指出就學名額有限，因此許多有志升學者仍需赴日留學。
+## 歷史意義
+- 這不只是生活小細節，而是現代社會運作規律的一部分。
+- 測驗也以宣傳海報題型考查學生是否理解「準時、守時、惜時」的意義。
 
 ## 相關連結
+- [[public-health-modernization]]
 - [[history-g7-l003-core-concepts]]
-- [[education-segregation]]
-- [[drive-s2-textbook]]
+- [[drive-s2-quiz]]
 - [[history-g7-l003-teaching-focus]]
 
 ## 相關頁面
+- [[public-health-modernization]]
 - [[history-g7-l003-core-concepts]]
-- [[education-segregation]]
-- [[drive-s2-textbook]]
+- [[drive-s2-quiz]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-quiz]]
+- [[drive-s2-textbook]]
 - [[taiwan-cultural-association]]
 - [[taiwan-popular-party]]
 - [[lin-xian-tang]]
 - [[jiang-wei-shui]]
-- [[public-health-modernization]]
-- [[time-discipline-modernity]]
+- [[taipei-imperial-university]]
+- [[education-segregation]]
 - [[taiwan-parliament-petition-movement-1921]]
 - [[local-election-1935]]
 - [[compulsory-education-1943]]

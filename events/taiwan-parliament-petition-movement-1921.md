@@ -1,49 +1,50 @@
 ---
-title: 臺灣文化協會
-created: '2026-05-05'
+title: 1921年臺灣議會設置請願運動
+created: '2026-05-12'
 updated: '2026-05-12'
-type: entity
+type: summary
 tags:
 - history
-- entity
+- event
 - taiwan-history
 - social-movements
-- culture
-- education
+- local-autonomy
+- politics
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
-- wiki/exams/history/g7/l003/drive-s2-quiz.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
+- wiki/students/student-001/progress/history/g7/l003/summary.md
 confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 概要
+## 事件概述
 
-臺灣文化協會成立於1921年，是日治時期重要的文化啟蒙團體。教材指出其宗旨為提升臺灣文化，並透過《臺灣民報》、讀報社、演講會等方式啟迪民智。
+1921年開始的臺灣議會設置請願運動，主張在臺設立議會，以制衡總督府專制統治。教材指出此運動歷時多年，雖未被採納，但已喚起人民的政治意識。
 
 ## 歷史意義
-- 它不只是文化團體，也是後續政治社會運動的重要基礎。
-- 文化啟蒙讓更多人理解自治、民權與社會改革等觀念。
+- 反映知識分子從文化啟蒙進一步轉向制度改革。
+- 是理解自治訴求的重要節點。
 
 ## 相關連結
+- [[lin-xian-tang]]
+- [[taiwan-cultural-association]]
 - [[history-g7-l003-core-concepts]]
-- [[taiwan-parliament-petition-movement-1921]]
-- [[jiang-wei-shui]]
-- [[drive-s2-textbook]]
+- [[local-autonomy-limited-participation]]
 
 ## 相關頁面
+- [[lin-xian-tang]]
+- [[taiwan-cultural-association]]
 - [[history-g7-l003-core-concepts]]
-- [[taiwan-parliament-petition-movement-1921]]
-- [[jiang-wei-shui]]
-- [[drive-s2-textbook]]
+- [[local-autonomy-limited-participation]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
 - [[taiwan-popular-party]]
-- [[lin-xian-tang]]
+- [[jiang-wei-shui]]
 - [[taipei-imperial-university]]
 - [[education-segregation]]
 - [[public-health-modernization]]
@@ -52,5 +53,4 @@ student_id: student-001
 - [[compulsory-education-1943]]
 - [[cultural-enlightenment-vs-political-mobilization]]
 - [[urban-modernity-vs-rural-continuity]]
-- [[local-autonomy-limited-participation]]
 - [[index]]
