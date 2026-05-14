@@ -1,8 +1,8 @@
 ---
-title: 教材來源筆記：日治時期的社會與文化課文
+title: 教材來源｜日治時期的社會與文化（課本節錄）
 created: '2026-05-04'
-updated: '2026-05-12'
-type: entity
+updated: '2026-05-14'
+type: summary
 tags:
 - history
 - grade-7
@@ -12,6 +12,7 @@ tags:
 - japanese-rule
 - education
 - modernization
+- social-movements
 - culture
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
@@ -21,53 +22,34 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 來源說明
+## 來源摘要
+- 來源代號：drive-s2-textbook
+- 標題：日治時期的社會與文化
+- 內容主軸：差別待遇的現代教育、文化啟蒙與政治社會運動、新舊文化的變遷。
+- 教材敘事重點是：日本統治帶來新制度與新觀念，但臺灣社會並非被動接受，而是在不平等、啟蒙與調適中形成新面貌。
 
-- lesson_group_id：history-g7-l003
-- lesson_variant_id：drive-s2-textbook
-- title：日治時期的社會與文化
-- source_pdf：drive-s2-textbook.pdf
-- converter：markitdown
-- conversion_state：wiki_ready
+## 可抽取的知識節點
+- 教育制度：[[comparison-education-and-social-change]]
+- 組織與人物：[[entity-taiwan-cultural-association]]、[[entity-taiwan-peoples-party]]
+- 事件：[[event-first-local-election-1935]]、[[event-compulsory-education-1943]]
 
-## 來源重點
-
-本教材主軸清楚分成三部分：
-1. 差別待遇的現代教育
-2. 文化啟蒙與政治社會運動
-3. 新舊文化的變遷
-
-教材強調日治時期的現代化並非單一路線，而是教育制度、自治訴求、社會風俗與都市文化共同變動的結果。這些內容已整理到 [[history-g7-l003-core-concepts]]，並延伸出教學建議 [[history-g7-l003-teaching-focus]]。
-
-## 可追蹤的知識節點
-- [[taiwan-cultural-association]]
-- [[taiwan-popular-party]]
-- [[lin-xian-tang]]
-- [[jiang-wei-shui]]
-- [[time-discipline-modernity]]
-
-## 教材用途
-- 作為概念整合的主要來源。
-- 作為檢查學生是否能從事件背後看出制度與社會變遷的依據。
+## 教學連結
+- 本來源是 [[history-g7-l003-core-concepts]] 的主要依據。
+- 學生表現回顧見 [[history-g7-l003-student-001-exam-report]]。
+- 常見混淆整理見 [[history-g7-l003-misconceptions]]。
 
 ## 相關頁面
+- [[comparison-education-and-social-change]]
+- [[entity-taiwan-cultural-association]]
+- [[entity-taiwan-peoples-party]]
+- [[event-first-local-election-1935]]
+- [[event-compulsory-education-1943]]
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
-- [[taiwan-cultural-association]]
-- [[taiwan-popular-party]]
-- [[lin-xian-tang]]
-- [[jiang-wei-shui]]
-- [[time-discipline-modernity]]
-- [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-teaching-focus]]
 - [[drive-s2-quiz]]
-- [[taipei-imperial-university]]
-- [[education-segregation]]
-- [[public-health-modernization]]
-- [[taiwan-parliament-petition-movement-1921]]
-- [[local-election-1935]]
-- [[compulsory-education-1943]]
-- [[cultural-enlightenment-vs-political-mobilization]]
-- [[urban-modernity-vs-rural-continuity]]
-- [[local-autonomy-limited-participation]]
+- [[entity-taipei-imperial-university]]
+- [[event-petition-movement-1921]]
+- [[comparison-cultural-enlightenment-vs-political-movement]]
 - [[index]]

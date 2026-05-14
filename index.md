@@ -2,41 +2,35 @@
 
 > Content catalog for the derived tutor knowledge wiki.
 > Open this vault in Obsidian to browse `[[wikilinks]]` and graph view.
-> Last updated: 2026-05-12 15:11 UTC | Total pages: 21
+> Last updated: 2026-05-14 15:02 UTC | Total pages: 15
 
 ## Concepts
-- [[history-g7-l003-core-concepts]] — 本課重點在於理解日治時期教育、政治社會運動與新舊文化變遷之間的相互關係。
+- [[history-g7-l003-core-concepts]] — 本課重點在於理解日治時期教育、政治社會運動與新舊文化變遷如何共同改變臺灣社會。
 
 ## Misconceptions
-- [[history-g7-l003-misconceptions]] — 目前已作答題目未顯示穩定錯誤概念，但本課常見迷思集中在自治、教育差別待遇與現代化意義的判讀。
+- [[history-g7-l003-misconceptions]] — 目前作答紀錄未顯示持續性迷思，但教學上仍需提醒學生不要把現代化、自治與平等教育混為一談。
 
 ## Teaching Notes
-- [[history-g7-l003-teaching-focus]] — 本課教學宜聚焦於「殖民統治下的現代化」這條主線，幫助學生把教育、運動與生活變遷串成因果。
+- [[history-g7-l003-teaching-focus]] — 教學上可先抓住教育差別待遇、知識分子運動與生活現代化三條主線，再用對照方式避免概念混淆。
 
 ## Sources
-- [[drive-s2-quiz]] — 此來源筆記整理 drive-s2-quiz 測驗已知題型，聚焦教育差別待遇、自治運動與現代生活變遷的判讀。
-- [[drive-s2-textbook]] — 此來源筆記整理 drive-s2-textbook 教材中關於教育、政治社會運動與新舊文化變遷的重點。
+- [[drive-s2-quiz]] — 這份來源筆記整理了 drive-s2-quiz 的評量重點，題目集中在教育、政治社會運動與生活現代化。
+- [[drive-s2-textbook]] — 這份來源筆記整理了 drive-s2-textbook 所呈現的課文主題、時代脈絡與核心敘事。
 
 ## Entities
-- [[education-segregation]] — 日治時期教育制度以差別待遇與隔離原則運作，反映殖民統治下的不平等。
-- [[jiang-wei-shui]] — 蔣渭水是文化啟蒙與政治社會運動的重要推動者，與臺灣文化協會及臺灣民眾黨密切相關。
-- [[lin-xian-tang]] — 林獻堂是日治時期以較溫和方式推動政治社會運動與地方自治的重要人物。
-- [[public-health-modernization]] — 日治時期藉由醫院、預防注射與衛生設施推廣現代公共衛生觀念，改變臺灣人的日常生活。
-- [[taipei-imperial-university]] — 臺北帝國大學是1928年設立的代表性高等教育機構，反映日治時期高等教育發展但名額有限。
-- [[taiwan-cultural-association]] — 臺灣文化協會是1921年成立的重要文化啟蒙團體，透過辦報、演講與讀報社喚起民智與民族意識。
-- [[taiwan-popular-party]] — 臺灣民眾黨是1927年由臺灣人成立的第一個政黨，主張民權、自治並扶助農工運動。
-- [[time-discipline-modernity]] — 西曆、24小時制與星期制的引進，讓守時成為日治時期現代生活的重要特徵。
+- [[entity-taipei-imperial-university]] — 臺北帝國大學是日治時期代表性的高等教育機構，也反映高等教育機會仍有限。
+- [[entity-taiwan-cultural-association]] — 臺灣文化協會是日治時期以文化啟蒙、演講與讀報社喚起民智的重要團體。
+- [[entity-taiwan-peoples-party]] — 臺灣民眾黨是臺灣人於日治時期成立的第一個政黨，主張民權、自治並扶助農工運動。
 
 ## Events
-- [[compulsory-education-1943]] — 1943年六年國民義務教育開始實施，反映日治後期教育制度的重要調整。
-- [[local-election-1935]] — 1935年地方議員選舉是臺灣人首次行使投票權的重要事件，但自治成果仍受限制。
-- [[taiwan-parliament-petition-movement-1921]] — 臺灣議會設置請願運動主張設立臺灣議會，雖未成功，卻喚起自治與政治意識。
+- [[event-compulsory-education-1943]] — 1943年六年國民義務教育的實施顯示日治晚期教育制度進一步擴張，但不應忽略其前期差別待遇背景。
+- [[event-first-local-election-1935]] — 1935年首次地方議員選舉讓臺灣民眾第一次行使投票權，但自治成果仍受制度限制。
+- [[event-petition-movement-1921]] — 臺灣議會設置請願運動象徵臺灣知識分子正式以請願方式要求自治與參政。
 
 ## Comparisons
-- [[cultural-enlightenment-vs-political-mobilization]] — 文化啟蒙偏向提升民智與喚起意識，政治社會運動則更直接指向自治、民權與制度改革。
-- [[local-autonomy-limited-participation]] — 日治時期地方選舉讓臺灣人初次接觸投票，但政治參與仍受到殖民制度明顯限制。
-- [[urban-modernity-vs-rural-continuity]] — 日治時期現代化多集中於都市，鄉村與原住民部落則較多保留原有生活型態。
+- [[comparison-cultural-enlightenment-vs-political-movement]] — 文化啟蒙偏重提升民智與社會風氣，政治社會運動則更直接要求自治、民權與參政。
+- [[comparison-education-and-social-change]] — 日治時期教育一方面存在差別待遇，另一方面又成為現代知識與社會變遷的重要入口。
 
 ## Queries
 - [[history-g7-l003-knowledge-sync-plan]] — 知識同步方案
-- [[history-g7-l003-student-001-exam-report]] — student-001 目前在此課測驗已嘗試 3 題且 3 題答對，尚無待複習錯題。
+- [[history-g7-l003-student-001-exam-report]] — student-001 目前在本課測驗共作答 3 次且 3 題全對，尚無待複習錯題。
