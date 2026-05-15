@@ -1,7 +1,7 @@
 ---
 title: 日治時期的社會與文化常見迷思
 created: '2026-05-04'
-updated: '2026-05-14'
+updated: '2026-05-15'
 type: summary
 tags:
 - history
@@ -10,8 +10,9 @@ tags:
 - taiwan-history
 - japanese-rule
 - education
-- modernization
 - social-movements
+- modernization
+- student-progress
 sources:
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 confidence: medium
@@ -20,20 +21,36 @@ student_id: student-001
 ---
 
 ## 常見迷思
-- 迷思一：把「現代化」直接理解成「平等」；其實課文明確指出教育制度採差別待遇與隔離原則。
-- 迷思二：把政治社會運動看成已經成功取得完全自治；實際上請願運動未被採納，1935年的地方議員選舉成果也有限。
-- 迷思三：把新文化的出現理解成傳統文化完全消失；教材強調的是新舊文化調適與並存。
+
+目前提供的作答紀錄中，學生已完成 3 題且全對，沒有未訂正題目，因此本頁以「潛在迷思」為主，而非已確認的錯誤清單。
+
+### 1. 把「現代化」誤解成「全面平等」
+- 教材指出日治時期引進新式教育、司法、衛生與時間制度。
+- 但這不代表殖民統治下人人享有平等資源。
+- 例如教育明顯採差別待遇，這是理解本課最重要的區分。
+
+### 2. 把「文化啟蒙」和「政治自治」混成同一件事
+- 臺灣文化協會偏向啟迪民智、提升文化與社會意識。
+- 議會請願、地方自治與政黨活動則更接近政治權利與參政訴求。
+- 兩者彼此相關，但不能直接畫上等號。
+
+### 3. 把「有選舉」誤解成「已完全自治」
+- 1935年首次地方議員選舉確實是重要轉折。
+- 但教材也明確指出，選民資格與議員名額皆受限制，所以成果有限。
 
 ## 本次學生狀態
-- 目前共有 3 次作答，3 題皆答對，未留下未訂正題目。
-- 已答對題目集中在臺中中學校、工商業發達與臺灣民眾黨，顯示學生在基礎事實辨識上表現穩定。
-- 由於錯題紀錄為空，現階段不能判定有明確未解迷思；較適合作預防性提醒，而非補救性矯正。
+- attempted_answers: 3
+- currently_correct_questions: 3
+- outstanding_wrong_questions: 0
+- wrong_question_ids: none
+
+這表示目前沒有需要建立錯題回收的證據，但樣本仍少，不能直接推論整課都已完全穩固。
 
 ## 教學提醒
-- 可搭配 [[history-g7-l003-core-concepts]] 區分「統治工具」與「社會影響」兩條線索。
-- 可參考 [[history-g7-l003-teaching-focus]]，用對照方式澄清自治有限、教育不平等與文化交融。
-- 評量結果請連回 [[history-g7-l003-student-001-exam-report]]。
-- 原始題目來源見 [[drive-s2-quiz]]。
+- 可用 [[history-g7-l003-core-concepts]] 區分「制度現代化」與「殖民差別待遇」。
+- 可用 [[history-g7-l003-teaching-focus]] 設計比較題或因果題。
+- 學生本次表現摘要見 [[history-g7-l003-student-001-exam-report]]。
+- 題目來源可回看 [[drive-s2-quiz]]。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
@@ -41,12 +58,11 @@ student_id: student-001
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-quiz]]
 - [[drive-s2-textbook]]
-- [[entity-taiwan-cultural-association]]
-- [[entity-taiwan-peoples-party]]
-- [[entity-taipei-imperial-university]]
-- [[event-petition-movement-1921]]
-- [[event-first-local-election-1935]]
-- [[event-compulsory-education-1943]]
-- [[comparison-education-and-social-change]]
-- [[comparison-cultural-enlightenment-vs-political-movement]]
+- [[jiang-wei-shui]]
+- [[lin-xian-tang]]
+- [[taiwan-cultural-association]]
+- [[taiwan-people-party]]
+- [[event-1921-taiwan-cultural-association-founded]]
+- [[event-1935-local-council-election]]
+- [[comparison-colonial-education-vs-modern-knowledge]]
 - [[index]]
