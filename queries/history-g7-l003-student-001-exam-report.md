@@ -1,7 +1,7 @@
 ---
 title: student-001 日治時期的社會與文化測驗報告
 created: '2026-05-04'
-updated: '2026-05-15'
+updated: '2026-05-16'
 type: summary
 tags:
 - history
@@ -11,6 +11,7 @@ tags:
 - taiwan-history
 - japanese-rule
 - education
+- social-movements
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -21,48 +22,45 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
+# [[history-g7-l003-student-001-exam-report]]
+
 ## 作答摘要
+- 學生：student-001
+- 作答次數：3
+- 目前答對題數：3
+- 目前未解決錯題：0
+- 錯題清單：無
 
-- student_id: student-001
-- lesson_group_id: history-g7-l003
-- exam_title: 日治時期的社會與文化
-- attempted_answers: 3
-- currently_correct_questions: 3
-- outstanding_wrong_questions: 0
+## 已展現的掌握
+- 能辨識第一所專收臺人子弟的中學是[[taichung-middle-school-1915]]。
+- 能判斷百貨公司、都會公園與新式餐廳增加，和工商業發展有關，顯示對社會生活變遷有基本理解。
+- 能辨識第一個由臺灣人成立的政黨為[[taiwan-people-party]]。
 
-## 最新作答狀態
-- q-1：正確
-- q-2：正確
-- q-3：正確
+## 目前可做的判讀
+- 已作答部分顯示學生對人物、組織與社會變遷的基礎知識掌握良好。
+- 因目前僅有3題作答紀錄，這份報告較適合視為階段性表現，不宜過度推論整份試卷所有面向都已完全穩定。
+- 目前沒有需要整理進錯題回補的題目，可把重點轉向概念整合，對照[[history-g7-l003-core-concepts]]與[[history-g7-l003-teaching-focus]]。
 
-## 初步判讀
-本次學生至少已正確掌握以下題型中的部分知識：
-- 第一所專收臺人子弟的中學
-- 都會休閒場所增加與工商業發展的關聯
-- 臺灣民眾黨的辨識
-
-## 需要注意的地方
-- 目前僅有 3 題資料，樣本偏少。
-- 沒有錯題，代表暫時不需要錯題回收，但不等於整課所有概念都已穩定。
-- 後續若加入人物、年代排序、自治運動與社會生活題型，較能判斷理解是否全面。
-
-## 與知識頁面的連結
-- 核心知識整理見 [[history-g7-l003-core-concepts]]。
-- 潛在混淆點整理見 [[history-g7-l003-misconceptions]]。
-- 教師可用的教學提示見 [[history-g7-l003-teaching-focus]]。
-- 測驗原始來源見 [[drive-s2-quiz]]。
+## 建議下一步
+- 可進一步追問教育差別待遇、自治成果有限、以及新舊文化調適三條主線是否能互相連結。
+- 若後續新增作答資料，應再更新[[history-g7-l003-misconceptions]]以確認是否出現新的混淆點。
 
 ## 相關頁面
+- [[taichung-middle-school-1915]]
+- [[taiwan-people-party]]
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-misconceptions]]
 - [[drive-s2-quiz]]
 - [[drive-s2-textbook]]
-- [[jiang-wei-shui]]
-- [[lin-xian-tang]]
 - [[taiwan-cultural-association]]
-- [[taiwan-people-party]]
-- [[event-1921-taiwan-cultural-association-founded]]
-- [[event-1935-local-council-election]]
-- [[comparison-colonial-education-vs-modern-knowledge]]
+- [[chiang-wei-shui]]
+- [[lin-hsien-tang]]
+- [[taiwan-local-autonomy-alliance]]
+- [[taiwan-parliament-petition-movement]]
+- [[first-local-council-election-1935]]
+- [[six-year-compulsory-education-1943]]
+- [[education-control-vs-knowledge]]
+- [[cultural-enlightenment-vs-political-movement]]
+- [[modernization-vs-full-equality]]
 - [[index]]

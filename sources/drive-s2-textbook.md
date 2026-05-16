@@ -1,8 +1,8 @@
 ---
-title: 教材來源：日治時期的社會與文化（drive-s2-textbook）
+title: 教材來源：日治時期的社會與文化
 created: '2026-05-04'
-updated: '2026-05-15'
-type: entity
+updated: '2026-05-16'
+type: summary
 tags:
 - history
 - grade-7
@@ -22,42 +22,47 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
+# [[drive-s2-textbook]]
+
 ## 來源定位
+- 來源類型：課本教材摘錄
+- 課次：history-g7-l003
+- 標題：日治時期的社會與文化
+- 主要主題：差別待遇的教育、文化啟蒙與政治社會運動、新舊文化變遷
 
-本頁對應教材變體 `drive-s2-textbook`，是 [[history-g7-l003-core-concepts]]、[[history-g7-l003-teaching-focus]] 與其他知識頁的主要來源筆記。
+## 可支撐的知識點
+- 教育制度兼具同化、統治與培養人才功能，且存在差別待遇。
+- 知識分子的文化啟蒙與政治社會運動，與民族自決思潮及新式教育有關。
+- 衛生、法治、守時與都會文化的建立，是社會生活現代化的重要面向。
+- 教材最後強調的是新舊文化交融，而非單一文化完全取代另一文化。
 
-## 教材重點
+## 可連結的圖譜節點
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-teaching-focus]]
+- [[taiwan-cultural-association]]
+- [[taiwan-parliament-petition-movement]]
+- [[first-local-council-election-1935]]
 
-### 教育
-- 日治時期建立現代教育體系，但採差別待遇與隔離原則。
-- 日本人、臺灣人與原住民接受不同學校體系。
-- 1941年後改稱國民學校，1943年開始實施六年國民義務教育。
-
-### 文化啟蒙與政治社會運動
-- 1921年成立臺灣文化協會。
-- 臺灣議會設置請願運動、臺灣民眾黨、臺灣地方自治聯盟是重要政治社會運動。
-- 1935年首次地方議員選舉讓臺灣人初步接觸投票與自治概念。
-
-### 社會生活變遷
-- 衛生、法治、守時與都會文化逐步進入日常生活。
-- 同時存在城鄉差距與新舊文化並存的情況。
-
-## 可支援的知識節點
-- 人物與組織：[[jiang-wei-shui]]、[[lin-xian-tang]]、[[taiwan-cultural-association]]、[[taiwan-people-party]]
-- 事件：[[event-1921-taiwan-cultural-association-founded]]、[[event-1935-local-council-election]]
-- 比較：[[comparison-colonial-education-vs-modern-knowledge]]
+## 備註
+- 本來源屬於概念建構的主要依據。
+- 學生表現與題目設計可再參照[[drive-s2-quiz]]與[[history-g7-l003-student-001-exam-report]]。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
-- [[jiang-wei-shui]]
-- [[lin-xian-tang]]
 - [[taiwan-cultural-association]]
-- [[taiwan-people-party]]
-- [[event-1921-taiwan-cultural-association-founded]]
-- [[event-1935-local-council-election]]
-- [[comparison-colonial-education-vs-modern-knowledge]]
-- [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-student-001-exam-report]]
+- [[taiwan-parliament-petition-movement]]
+- [[first-local-council-election-1935]]
 - [[drive-s2-quiz]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-misconceptions]]
+- [[taiwan-people-party]]
+- [[chiang-wei-shui]]
+- [[lin-hsien-tang]]
+- [[taichung-middle-school-1915]]
+- [[taiwan-local-autonomy-alliance]]
+- [[six-year-compulsory-education-1943]]
+- [[education-control-vs-knowledge]]
+- [[cultural-enlightenment-vs-political-movement]]
+- [[modernization-vs-full-equality]]
 - [[index]]

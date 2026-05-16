@@ -2,34 +2,39 @@
 
 > Content catalog for the derived tutor knowledge wiki.
 > Open this vault in Obsidian to browse `[[wikilinks]]` and graph view.
-> Last updated: 2026-05-15 15:02 UTC | Total pages: 14
+> Last updated: 2026-05-16 15:03 UTC | Total pages: 19
 
 ## Concepts
-- [[history-g7-l003-core-concepts]] — 本課重點在於理解日治時期教育、政治社會運動與社會文化變遷之間的相互關係。
+- [[history-g7-l003-core-concepts]] — 本課重點在於理解日治時期教育、政治社會運動與新舊文化變遷之間的互動關係。
 
 ## Misconceptions
-- [[history-g7-l003-misconceptions]] — 本次作答未出現錯題，但從教材與題型可預期學生容易把現代化、自治與平等混為同一概念。
+- [[history-g7-l003-misconceptions]] — 目前作答紀錄未顯示持續性錯誤，但本課常見迷思集中在把現代化、教育與自治誤解成全面平等或全面成功。
 
 ## Teaching Notes
-- [[history-g7-l003-teaching-focus]] — 教學上應先幫學生分清楚殖民統治、現代化變遷與自治訴求三條脈絡，再帶入題目判讀。
+- [[history-g7-l003-teaching-focus]] — 教學上應引導學生同時看見殖民統治下的差別待遇、現代知識傳入，以及自治與文化變遷的歷史連動。
 
 ## Sources
-- [[drive-s2-quiz]] — 這份測驗來源集中檢驗學生對教育制度、政治社會運動、自治與現代生活變遷的辨識能力。
-- [[drive-s2-textbook]] — 這份教材來源整理了本課關於教育、政治社會運動與社會文化變遷的主要敘述與時間線。
+- [[drive-s2-quiz]] — 此來源筆記整理測驗卷實際考查的史實與概念焦點，可用來對照學生掌握情況。
+- [[drive-s2-textbook]] — 此來源筆記整理教材對教育、政治社會運動與社會文化變遷的主要敘述，作為知識頁面的依據。
 
 ## Entities
-- [[jiang-wei-shui]] — 蔣渭水是本課中推動文化啟蒙與政治社會運動的重要知識分子。
-- [[lin-xian-tang]] — 林獻堂是日治時期重要的臺灣知識分子，與文化啟蒙、議會請願與地方自治運動密切相關。
-- [[taiwan-cultural-association]] — 臺灣文化協會是以文化啟蒙、啟迪民智與喚起民族意識為重點的團體。
-- [[taiwan-people-party]] — 臺灣民眾黨是教材中指出的第一個由臺灣人成立的政黨。
+- [[chiang-wei-shui]] — 蔣渭水是日治時期重要知識分子，與文化啟蒙、議會請願及臺灣民眾黨等行動密切相關。
+- [[lin-hsien-tang]] — 林獻堂是日治時期以較溫和方式爭取臺灣人權益的重要人物，與多項自治訴求運動相關。
+- [[taichung-middle-school-1915]] — 臺中中學校是1915年成立的第一所專收臺灣人子弟的中學，反映日治教育中的限制與突破。
+- [[taiwan-cultural-association]] — 臺灣文化協會是1921年成立的文化啟蒙組織，目標在啟迪民智並喚起臺灣人民族意識。
+- [[taiwan-local-autonomy-alliance]] — 臺灣地方自治聯盟成立於1930年，主張實施地方自治，並與1935年地方選舉脈絡相連。
+- [[taiwan-people-party]] — 臺灣民眾黨是1927年成立的臺灣人第一個政黨，主張民權、自治並扶助農工運動。
 
 ## Events
-- [[event-1921-taiwan-cultural-association-founded]] — 1921年臺灣文化協會成立，標誌文化啟蒙運動進入較有組織的階段。
-- [[event-1935-local-council-election]] — 1935年首次地方議員選舉讓臺灣民眾初步接觸投票與自治觀念，但成果仍受限制。
+- [[first-local-council-election-1935]] — 1935年首次地方議員選舉讓臺灣民眾初步接觸投票與自治觀念，但選舉資格與席次仍受限制。
+- [[six-year-compulsory-education-1943]] — 1943年開始實施六年國民義務教育，反映日治後期教育制度調整，但不能因此忽略前期差別待遇。
+- [[taiwan-parliament-petition-movement]] — 臺灣議會設置請願運動自1921年展開，雖未成功設立議會，但喚起了自治與政治意識。
 
 ## Comparisons
-- [[comparison-colonial-education-vs-modern-knowledge]] — 日治教育既是殖民統治工具，也讓部分臺灣人獲得現代知識，兩者需要同時理解。
+- [[cultural-enlightenment-vs-political-movement]] — 文化啟蒙偏向提升民智與意識，政治社會運動則更直接指向制度改革與自治訴求，但兩者彼此連動。
+- [[education-control-vs-knowledge]] — 日治教育同時具有統治同化功能與知識啟蒙效果，理解其雙重性比單純評價進步或壓迫更重要。
+- [[modernization-vs-full-equality]] — 日治時期雖引入衛生、法治、時間制度與都會文化，但這些現代化成果並不代表政治與教育已全面平等。
 
 ## Queries
 - [[history-g7-l003-knowledge-sync-plan]] — 知識同步方案
-- [[history-g7-l003-student-001-exam-report]] — student-001 目前在此課測驗中完成 3 次作答且全對，暫無待複習錯題，但仍需更多題目驗證概念是否穩定。
+- [[history-g7-l003-student-001-exam-report]] — student-001 目前在已作答的3題中全數答對，顯示對本課部分基礎史實已有穩定掌握。

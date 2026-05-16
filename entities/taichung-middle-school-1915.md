@@ -1,15 +1,15 @@
 ---
-title: 臺灣民眾黨
-created: '2026-05-15'
+title: 臺中中學校
+created: '2026-05-16'
 updated: '2026-05-16'
 type: entity
 tags:
 - history
 - entity
+- grade-7
 - taiwan-history
 - japanese-rule
-- social-movements
-- politics
+- education
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -19,28 +19,27 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-# 臺灣民眾黨
+# 臺中中學校
 
 ## 概要
-- 1927年成立。
-- 是教材與測驗都明確指出的臺灣人第一個政黨。
-- 宣傳民權、自治等概念，並扶助農、工運動。
+- 1915年成立。
+- 教材指出它是第一所專收臺灣人的中學，測驗也直接以此作為基礎史實題。
 
 ## 教學意義
-- 適合用來連結人物、組織與政治訴求。
-- 也可和[[taiwan-cultural-association]]相比較：前者更偏政治組織，後者更偏文化啟蒙。
+- 可用來說明日治時期中等教育原本主要招收日本人，臺灣人能進入普通中學的機會受限。
+- 因此它既代表教育發展，也反映差別待遇制度下的限制。
 
 ## 相關頁面
-- [[taiwan-cultural-association]]
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-quiz]]
+- [[drive-s2-textbook]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
-- [[drive-s2-textbook]]
+- [[drive-s2-quiz]]
+- [[taiwan-cultural-association]]
+- [[taiwan-people-party]]
 - [[chiang-wei-shui]]
 - [[lin-hsien-tang]]
-- [[taichung-middle-school-1915]]
 - [[taiwan-local-autonomy-alliance]]
 - [[taiwan-parliament-petition-movement]]
 - [[first-local-council-election-1935]]

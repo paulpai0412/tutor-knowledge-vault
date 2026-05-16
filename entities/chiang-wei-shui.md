@@ -1,6 +1,6 @@
 ---
-title: 臺灣民眾黨
-created: '2026-05-15'
+title: 蔣渭水
+created: '2026-05-16'
 updated: '2026-05-16'
 type: entity
 tags:
@@ -10,6 +10,7 @@ tags:
 - japanese-rule
 - social-movements
 - politics
+- culture
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -19,30 +20,29 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-# 臺灣民眾黨
+# 蔣渭水
 
 ## 概要
-- 1927年成立。
-- 是教材與測驗都明確指出的臺灣人第一個政黨。
-- 宣傳民權、自治等概念，並扶助農、工運動。
+- 教材指出他參與成立[[taiwan-cultural-association]]，也與[[taiwan-parliament-petition-movement]]及[[taiwan-people-party]]有關。
+- 補充閱讀中的「臨床講義」顯示他把臺灣社會問題與文化啟蒙連在一起思考。
 
-## 教學意義
-- 適合用來連結人物、組織與政治訴求。
-- 也可和[[taiwan-cultural-association]]相比較：前者更偏政治組織，後者更偏文化啟蒙。
+## 教學提醒
+- 教學時可用他作為「知識分子如何把教育、啟蒙與政治行動連起來」的代表人物。
+- 測驗中也直接考到他與臺灣民眾黨的關聯。
 
 ## 相關頁面
 - [[taiwan-cultural-association]]
+- [[taiwan-parliament-petition-movement]]
+- [[taiwan-people-party]]
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-teaching-focus]]
 - [[drive-s2-quiz]]
 - [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
-- [[chiang-wei-shui]]
 - [[lin-hsien-tang]]
 - [[taichung-middle-school-1915]]
 - [[taiwan-local-autonomy-alliance]]
-- [[taiwan-parliament-petition-movement]]
 - [[first-local-council-election-1935]]
 - [[six-year-compulsory-education-1943]]
 - [[education-control-vs-knowledge]]

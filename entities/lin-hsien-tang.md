@@ -1,6 +1,6 @@
 ---
-title: 臺灣民眾黨
-created: '2026-05-15'
+title: 林獻堂
+created: '2026-05-16'
 updated: '2026-05-16'
 type: entity
 tags:
@@ -19,30 +19,28 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-# 臺灣民眾黨
+# 林獻堂
 
 ## 概要
-- 1927年成立。
-- 是教材與測驗都明確指出的臺灣人第一個政黨。
-- 宣傳民權、自治等概念，並扶助農、工運動。
+- 教材指出他與[[taiwan-cultural-association]]、[[taiwan-parliament-petition-movement]]及[[taiwan-local-autonomy-alliance]]相關。
+- 測驗中也以人物辨識方式出題，強調其溫和爭取權益的形象。
 
-## 教學意義
-- 適合用來連結人物、組織與政治訴求。
-- 也可和[[taiwan-cultural-association]]相比較：前者更偏政治組織，後者更偏文化啟蒙。
+## 歷史位置
+- 適合作為理解日治時期自治訴求與政治社會運動的重要人物節點。
 
 ## 相關頁面
 - [[taiwan-cultural-association]]
+- [[taiwan-parliament-petition-movement]]
+- [[taiwan-local-autonomy-alliance]]
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
-- [[drive-s2-textbook]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[taiwan-people-party]]
 - [[chiang-wei-shui]]
-- [[lin-hsien-tang]]
 - [[taichung-middle-school-1915]]
-- [[taiwan-local-autonomy-alliance]]
-- [[taiwan-parliament-petition-movement]]
 - [[first-local-council-election-1935]]
 - [[six-year-compulsory-education-1943]]
 - [[education-control-vs-knowledge]]

@@ -1,18 +1,18 @@
 ---
 title: 日治時期的社會與文化常見迷思
 created: '2026-05-04'
-updated: '2026-05-15'
+updated: '2026-05-16'
 type: summary
 tags:
 - history
 - grade-7
+- lesson
 - misconception
 - taiwan-history
 - japanese-rule
 - education
 - social-movements
-- modernization
-- student-progress
+- culture
 sources:
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 confidence: medium
@@ -20,49 +20,38 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
+# [[history-g7-l003-misconceptions]]
+
 ## 常見迷思
+- 把日治時期的新式教育直接理解成「人人平等受教」：教材明確指出教育採差別待遇與隔離原則，日本人、臺灣人與原住民的受教條件不同。
+- 把政治社會運動理解成「已經成功取得自治」：教材顯示請願運動未被採納，1935年地方選舉也仍有限制，因此較適合理解為自治觀念的開展，而非完全實現。
+- 把社會現代化理解成「傳統文化完全消失」：教材強調的是新舊文化交融與調適，而不是單向取代。
 
-目前提供的作答紀錄中，學生已完成 3 題且全對，沒有未訂正題目，因此本頁以「潛在迷思」為主，而非已確認的錯誤清單。
+## 本次學生表現
+- 目前進度摘要顯示已作答3題，3題皆正確，暫無未訂正錯題。
+- 因目前只有3題作答資料，能確認的是學生至少能正確辨識[[taichung-middle-school-1915]]、工商業發展與都會休閒關係，以及[[taiwan-people-party]]的基本史實。
+- 現階段沒有可確認的個別錯誤概念殘留，但仍建議持續檢查學生是否能區分「教育帶來知識」與「教育制度存在不平等」這兩件事。
 
-### 1. 把「現代化」誤解成「全面平等」
-- 教材指出日治時期引進新式教育、司法、衛生與時間制度。
-- 但這不代表殖民統治下人人享有平等資源。
-- 例如教育明顯採差別待遇，這是理解本課最重要的區分。
-
-### 2. 把「文化啟蒙」和「政治自治」混成同一件事
-- 臺灣文化協會偏向啟迪民智、提升文化與社會意識。
-- 議會請願、地方自治與政黨活動則更接近政治權利與參政訴求。
-- 兩者彼此相關，但不能直接畫上等號。
-
-### 3. 把「有選舉」誤解成「已完全自治」
-- 1935年首次地方議員選舉確實是重要轉折。
-- 但教材也明確指出，選民資格與議員名額皆受限制，所以成果有限。
-
-## 本次學生狀態
-- attempted_answers: 3
-- currently_correct_questions: 3
-- outstanding_wrong_questions: 0
-- wrong_question_ids: none
-
-這表示目前沒有需要建立錯題回收的證據，但樣本仍少，不能直接推論整課都已完全穩固。
-
-## 教學提醒
-- 可用 [[history-g7-l003-core-concepts]] 區分「制度現代化」與「殖民差別待遇」。
-- 可用 [[history-g7-l003-teaching-focus]] 設計比較題或因果題。
-- 學生本次表現摘要見 [[history-g7-l003-student-001-exam-report]]。
-- 題目來源可回看 [[drive-s2-quiz]]。
+## 是否已解決
+- 就現有作答紀錄來看，已作答部分沒有持續性迷思。
+- 但因測驗全卷未完整呈現學生作答結果，對整課理解仍應以[[history-g7-l003-student-001-exam-report]]與[[history-g7-l003-core-concepts]]交叉判讀。
 
 ## 相關頁面
+- [[taichung-middle-school-1915]]
+- [[taiwan-people-party]]
+- [[history-g7-l003-student-001-exam-report]]
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-quiz]]
 - [[drive-s2-textbook]]
-- [[jiang-wei-shui]]
-- [[lin-xian-tang]]
 - [[taiwan-cultural-association]]
-- [[taiwan-people-party]]
-- [[event-1921-taiwan-cultural-association-founded]]
-- [[event-1935-local-council-election]]
-- [[comparison-colonial-education-vs-modern-knowledge]]
+- [[chiang-wei-shui]]
+- [[lin-hsien-tang]]
+- [[taiwan-local-autonomy-alliance]]
+- [[taiwan-parliament-petition-movement]]
+- [[first-local-council-election-1935]]
+- [[six-year-compulsory-education-1943]]
+- [[education-control-vs-knowledge]]
+- [[cultural-enlightenment-vs-political-movement]]
+- [[modernization-vs-full-equality]]
 - [[index]]
