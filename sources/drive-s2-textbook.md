@@ -1,7 +1,7 @@
 ---
-title: 教材來源：日治時期的社會與文化
+title: 教材來源筆記：日治時期的社會與文化課文
 created: '2026-05-04'
-updated: '2026-05-16'
+updated: '2026-05-17'
 type: summary
 tags:
 - history
@@ -22,47 +22,42 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-# [[drive-s2-textbook]]
+## 來源說明
 
-## 來源定位
-- 來源類型：課本教材摘錄
-- 課次：history-g7-l003
-- 標題：日治時期的社會與文化
-- 主要主題：差別待遇的教育、文化啟蒙與政治社會運動、新舊文化變遷
+此頁對應教材來源 [[drive-s2-textbook]]，內容主題為〈日治時期的社會與文化〉，可作為本課概念圖譜的來源筆記。
 
-## 可支撐的知識點
-- 教育制度兼具同化、統治與培養人才功能，且存在差別待遇。
-- 知識分子的文化啟蒙與政治社會運動，與民族自決思潮及新式教育有關。
-- 衛生、法治、守時與都會文化的建立，是社會生活現代化的重要面向。
-- 教材最後強調的是新舊文化交融，而非單一文化完全取代另一文化。
+## 來源重點
+- 教育制度採差別待遇與隔離原則。
+- 知識分子在新式教育與留學經驗下，成為文化啟蒙與政治社會運動的重要推動者。
+- 新舊文化變遷包含風俗、衛生、法治、守時與都會文化等面向。
+- 1935年地方議員選舉具有自治觀念上的象徵意義，但成果有限。
 
-## 可連結的圖譜節點
+## 可抽取的知識節點
 - [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
-- [[taiwan-cultural-association]]
-- [[taiwan-parliament-petition-movement]]
-- [[first-local-council-election-1935]]
+- [[history-g7-l003-student-001-exam-report]]
 
 ## 備註
-- 本來源屬於概念建構的主要依據。
-- 學生表現與題目設計可再參照[[drive-s2-quiz]]與[[history-g7-l003-student-001-exam-report]]。
+本來源同時提供多個可細分的圖譜節點，例如教育差別待遇、臺灣文化協會、臺灣民眾黨、地方自治、公共衛生與時間制度。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
-- [[taiwan-cultural-association]]
-- [[taiwan-parliament-petition-movement]]
-- [[first-local-council-election-1935]]
-- [[drive-s2-quiz]]
-- [[history-g7-l003-student-001-exam-report]]
 - [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-quiz]]
+- [[taiwan-cultural-association]]
 - [[taiwan-people-party]]
 - [[chiang-wei-shui]]
 - [[lin-hsien-tang]]
-- [[taichung-middle-school-1915]]
-- [[taiwan-local-autonomy-alliance]]
-- [[six-year-compulsory-education-1943]]
-- [[education-control-vs-knowledge]]
+- [[taipei-imperial-university]]
+- [[education-discrimination-under-japanese-rule]]
+- [[taiwan-parliament-petition-movement]]
+- [[first-local-council-election-1935]]
+- [[national-obligation-education-1943]]
+- [[taiwan-local-autonomy-league]]
 - [[cultural-enlightenment-vs-political-movement]]
-- [[modernization-vs-full-equality]]
+- [[modernization-vs-equality-in-education]]
+- [[urban-modern-life-vs-traditional-customs]]
 - [[index]]

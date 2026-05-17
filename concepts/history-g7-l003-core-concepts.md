@@ -1,7 +1,7 @@
 ---
 title: 日治時期的社會與文化核心概念
 created: '2026-05-04'
-updated: '2026-05-16'
+updated: '2026-05-17'
 type: concept
 tags:
 - history
@@ -13,6 +13,9 @@ tags:
 - education
 - modernization
 - social-movements
+- local-autonomy
+- public-health
+- time-discipline
 - culture
 - politics
 sources:
@@ -24,39 +27,47 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-# [[history-g7-l003-core-concepts]]
-
 ## 核心概念
-- 日治時期的教育制度一方面具有統治與同化目的，另一方面也讓部分臺灣人接觸現代知識，進而成為後續政治社會運動的重要基礎。
-- 1920年代的文化啟蒙與政治社會運動，與知識分子興起及民族自決思潮有關，重點不只是組織成立，更是臺灣人開始接觸自治、民權與參政觀念。
-- 社會生活的變化包含衛生、法治、守時與都會休閒文化的建立，但這些改變並非全面一致，仍受到城鄉差距與新舊文化調適的影響。
 
-## 關係整理
-- 新式教育培養知識分子，進一步連到[[taiwan-cultural-association]]與[[taiwan-people-party]]等行動者與組織。
-- 自治與參政觀念的擴散，可從[[taiwan-parliament-petition-movement]]與[[first-local-council-election-1935]]觀察。
-- 社會文化的變遷不只是風俗改變，也包括公共衛生與時間制度，相關教學提醒可見[[history-g7-l003-teaching-focus]]。
+本課〈日治時期的社會與文化〉可整理成三條主線：教育制度、政治社會運動、社會文化變遷。這些內容共同說明日本統治下的臺灣，如何在統治、現代化與在地回應之間形成新的社會樣貌。
 
-## 教學上要抓的主線
-1. 教育不是單純進步，也包含差別待遇。
-2. 政治社會運動不是突然出現，而是知識、思潮與組織累積的結果。
-3. 現代化不等於全面西化或全面平等，而是制度引入與在地調適並存。
+### 1. 教育既是統治工具，也是知識來源
+- 總督府以差別待遇與隔離原則建立教育制度。
+- 日本人、臺灣人與原住民接受不同型態的學校教育，且資源不均。
+- 教育一方面服務同化與產業政策，另一方面也讓臺灣人接觸現代知識，培養出後來投入公共事務的知識分子。
+
+### 2. 文化啟蒙帶動政治社會運動
+- 1920年代起，臺灣知識分子受到民族自決思潮刺激，展開文化啟蒙與政治社會運動。
+- 重要行動包括臺灣文化協會、臺灣議會設置請願運動、臺灣民眾黨、臺灣地方自治聯盟。
+- 這些運動未必立刻達成目標，但推動了自治、參政與民權觀念的傳播。
+
+### 3. 現代化改變日常生活
+- 總督府推動衛生、法治、標準時間與都市空間建設，使生活習慣與社會秩序逐步改變。
+- 風俗、服裝、公共衛生、守時觀念與都會休閒文化都出現變化。
+- 但變遷並不平均，都市較明顯，鄉村與部落保留較多原有生活型態。
+
+### 4. 本課的關鍵關係
+- 教育提升知識與識字能力，促成知識分子成長。
+- 知識分子再進一步推動文化啟蒙與政治社會運動。
+- 現代化制度則改變社會風俗與生活節奏，但也帶來新舊文化衝突與調適。
 
 ## 相關頁面
-- [[taiwan-cultural-association]]
-- [[taiwan-people-party]]
-- [[taiwan-parliament-petition-movement]]
-- [[first-local-council-election-1935]]
-- [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
+- [[taiwan-cultural-association]]
+- [[taiwan-people-party]]
 - [[chiang-wei-shui]]
 - [[lin-hsien-tang]]
-- [[taichung-middle-school-1915]]
-- [[taiwan-local-autonomy-alliance]]
-- [[six-year-compulsory-education-1943]]
-- [[education-control-vs-knowledge]]
+- [[taipei-imperial-university]]
+- [[education-discrimination-under-japanese-rule]]
+- [[taiwan-parliament-petition-movement]]
+- [[first-local-council-election-1935]]
+- [[national-obligation-education-1943]]
+- [[taiwan-local-autonomy-league]]
 - [[cultural-enlightenment-vs-political-movement]]
-- [[modernization-vs-full-equality]]
+- [[modernization-vs-equality-in-education]]
+- [[urban-modern-life-vs-traditional-customs]]
 - [[index]]

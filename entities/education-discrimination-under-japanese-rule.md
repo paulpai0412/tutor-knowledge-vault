@@ -1,16 +1,15 @@
 ---
-title: 臺灣民眾黨
-created: '2026-05-15'
+title: 日治時期教育差別待遇
+created: '2026-05-17'
 updated: '2026-05-17'
-type: entity
+type: concept
 tags:
 - history
-- entity
-- social-movements
-- politics
-- local-autonomy
-- taiwan-history
+- concept
+- education
 - japanese-rule
+- taiwan-history
+- modernization
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -22,32 +21,33 @@ student_id: student-001
 
 ## 概要
 
-臺灣民眾黨成立於1927年，是課文中明確指出的臺灣人成立的第一個政黨。
+日治時期教育制度的重要特色，不是單純的普及教育，而是建立在差別待遇與隔離原則上的現代教育體系。
 
 ## 重點
-- 與蔣渭水有關
-- 宣傳民權、自治等概念
-- 積極扶助農工運動
-- 是政治社會運動的重要節點
+- 日本人讀小學校
+- 臺灣人讀公學校
+- 原住民讀蕃人公學校或蕃童教育所
+- 教學語言以日語為主
+- 資源配置存在明顯不平等
 
 ## 圖譜連結
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[chiang-wei-shui]]
-- [[taiwan-cultural-association]]
+- [[history-g7-l003-misconceptions]]
+- [[taipei-imperial-university]]
+- [[drive-s2-textbook]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[chiang-wei-shui]]
-- [[taiwan-cultural-association]]
 - [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-teaching-focus]]
-- [[drive-s2-textbook]]
-- [[drive-s2-quiz]]
-- [[lin-hsien-tang]]
 - [[taipei-imperial-university]]
-- [[education-discrimination-under-japanese-rule]]
+- [[drive-s2-textbook]]
+- [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-quiz]]
+- [[taiwan-cultural-association]]
+- [[taiwan-people-party]]
+- [[chiang-wei-shui]]
+- [[lin-hsien-tang]]
 - [[taiwan-parliament-petition-movement]]
 - [[first-local-council-election-1935]]
 - [[national-obligation-education-1943]]

@@ -1,15 +1,14 @@
 ---
 title: 1943年六年國民義務教育實施
-created: '2026-05-16'
-updated: '2026-05-16'
-type: summary
+created: '2026-05-17'
+updated: '2026-05-17'
+type: entity
 tags:
 - history
 - event
-- taiwan-history
-- japanese-rule
 - education
-- modernization
+- japanese-rule
+- taiwan-history
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
@@ -19,32 +18,38 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-# 1943年六年國民義務教育實施
+## 概要
 
-## 事件重點
-- 1941年小學校與公學校改稱國民學校。
-- 1943年開始實施六年國民義務教育。
+1943年開始實施六年國民義務教育，是本課教育制度時間線中的重要節點。
 
-## 教學意義
-- 這個時間點容易和整個日治教育制度混為一談，因此要提醒學生：後期制度調整不代表前期沒有[[history-g7-l003-misconceptions]]中提到的差別待遇。
-- 測驗也利用時間判斷來區分1920年代與1943年後的教育情境。
+## 重點
+- 1941年小學校、公學校改稱國民學校
+- 1943年開始實施六年國民義務教育
+- 這屬於後期制度變化，不能套用到1920年代情境
 
-## 相關頁面
+## 圖譜連結
+- [[education-discrimination-under-japanese-rule]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-core-concepts]]
-- [[drive-s2-quiz]]
+- [[drive-s2-textbook]]
+
+## 相關頁面
+- [[education-discrimination-under-japanese-rule]]
+- [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-core-concepts]]
+- [[drive-s2-textbook]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-textbook]]
+- [[drive-s2-quiz]]
 - [[taiwan-cultural-association]]
 - [[taiwan-people-party]]
 - [[chiang-wei-shui]]
 - [[lin-hsien-tang]]
-- [[taichung-middle-school-1915]]
-- [[taiwan-local-autonomy-alliance]]
+- [[taipei-imperial-university]]
 - [[taiwan-parliament-petition-movement]]
 - [[first-local-council-election-1935]]
-- [[education-control-vs-knowledge]]
+- [[taiwan-local-autonomy-league]]
 - [[cultural-enlightenment-vs-political-movement]]
-- [[modernization-vs-full-equality]]
+- [[modernization-vs-equality-in-education]]
+- [[urban-modern-life-vs-traditional-customs]]
 - [[index]]
