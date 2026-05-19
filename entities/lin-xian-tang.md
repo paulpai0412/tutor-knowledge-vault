@@ -1,40 +1,39 @@
 ---
-title: 臺灣議會設置請願運動
-created: '2026-05-16'
+title: 林獻堂
+created: '2026-05-19'
 updated: '2026-05-19'
-type: summary
+type: entity
 tags:
 - history
-- event
+- entity
 - social-movements
 - politics
-- local-autonomy
 - taiwan-history
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
+- wiki/exams/history/g7/l003/drive-s2-quiz.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
-- wiki/students/student-001/progress/history/g7/l003/summary.md
 confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 事件概要
+## 概要
 
-[[taiwan-parliament-petition-movement]]始於1921年，是本課理解自治訴求的重要事件。雖未成功設立臺灣議會，但它喚起臺灣人民對自治與參政的想像，並與[[first-local-election-1935]]形成前後呼應。
+[[lin-xian-tang]]在教材中與[[taiwan-parliament-petition-movement]]、[[first-local-election-1935]]前的自治訴求密切相關，適合作為理解溫和政治運動路線的代表人物。
 
-## 歷史意義
-- 顯示知識分子試圖以制度內方式爭取權益。
-- 有助理解為何本課的政治社會運動不只是抗爭，也包含自治觀念的培養。
+## 教學重點
+- 常與蔣渭水並列，但角色重點可放在議會請願與地方自治。
+- 題目也以其出生地與溫和路線作為辨識線索。
 
 ## 相關頁面
+- [[taiwan-parliament-petition-movement]]
 - [[first-local-election-1935]]
-- [[lin-xian-tang]]
 - [[history-g7-l003-core-concepts]]
-- [[drive-s2-textbook]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
 - [[taiwan-cultural-association]]
 - [[taiwan-peoples-party]]

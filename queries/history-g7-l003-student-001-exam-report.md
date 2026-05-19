@@ -1,16 +1,15 @@
 ---
-title: student-001 日治時期的社會與文化測驗報告
+title: student-001 第三課測驗報告
 created: '2026-05-04'
-updated: '2026-05-17'
+updated: '2026-05-19'
 type: summary
 tags:
 - history
 - grade-7
 - exam-analysis
 - student-progress
+- taiwan-history
 - education
-- social-movements
-- culture
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -23,60 +22,41 @@ student_id: student-001
 
 ## 測驗摘要
 
-- 學生：student-001
-- 課次：日治時期的社會與文化
-- attempted_answers：3
-- currently_correct_questions：3
-- outstanding_wrong_questions：0
-- wrong_question_ids：none
+本次測驗對應課程為「日治時期的社會與文化」。student-001 目前共作答3次，3題皆答對，沒有未解決錯題；就目前紀錄來看，基礎辨識表現穩定，可連回[[history-g7-l003-core-concepts]]檢查概念統整程度，並參考[[history-g7-l003-misconceptions]]確認是否仍有潛在混淆。
 
-## 作答表現
-依目前進度摘要：
-- q-1：答對
-- q-2：答對
-- q-3：答對
+### 作答結果
+- attempted_answers: 3
+- currently_correct_questions: 3
+- outstanding_wrong_questions: 0
+- wrong_question_ids: none
 
-整體來看，學生在目前已嘗試的題目中，能正確辨識：
-- 日治時期教育相關史實
-- 工商業發展與都會生活的連結
-- 臺灣民眾黨的基本定位
+### 已展現的能力
+- 能正確辨識第一所專收臺人子弟的中學為臺中中學校。
+- 能判斷都會休閒場所增加與工商業發展相關。
+- 能辨識臺灣民眾黨是臺灣人成立的第一個政黨。
 
-## 能力判讀
-- 基礎史實辨識：穩定
-- 關鍵名詞辨認：穩定
-- 概念延伸判讀：目前資料不足，尚需更多題目驗證
+### 解讀限制
+- 目前僅涵蓋3題，且多屬關鍵史實辨識。
+- 尚未充分驗證學生是否能整合自治運動、文化啟蒙與社會現代化之間的因果關係。
+- 因無錯題紀錄，暫時也沒有可追蹤的個別誤概念修正歷程。
 
-## 後續建議
-由於目前沒有錯題與 review-plan artifact，可把下一步放在：
-1. 加強事件間的先後順序。
-2. 練習「原因—影響」與「制度—社會反應」的題型。
-3. 比較文化啟蒙、政黨活動與地方自治訴求的不同。
-
-## 關聯技能
-- 日治時期
-- 工商業
-- 政治社會運動
-- 教育
-- 社會生活
-- 臺灣民眾黨
+## 教師可用判讀
+- 若要追求更穩定的學習證據，下一輪宜補充比較題、排序題與因果題。
+- 可優先追問[[taiwan-cultural-association]]、[[taiwan-peoples-party]]與[[first-local-election-1935]]之間的關係。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
+- [[taiwan-cultural-association]]
+- [[taiwan-peoples-party]]
+- [[first-local-election-1935]]
 - [[history-g7-l003-teaching-focus]]
 - [[drive-s2-quiz]]
 - [[drive-s2-textbook]]
-- [[taiwan-cultural-association]]
-- [[taiwan-people-party]]
-- [[chiang-wei-shui]]
-- [[lin-hsien-tang]]
-- [[taipei-imperial-university]]
-- [[education-discrimination-under-japanese-rule]]
+- [[jiang-wei-shui]]
+- [[lin-xian-tang]]
 - [[taiwan-parliament-petition-movement]]
-- [[first-local-council-election-1935]]
-- [[national-obligation-education-1943]]
-- [[taiwan-local-autonomy-league]]
-- [[cultural-enlightenment-vs-political-movement]]
-- [[modernization-vs-equality-in-education]]
-- [[urban-modern-life-vs-traditional-customs]]
+- [[public-health-modernization]]
+- [[time-discipline-modern-life]]
+- [[差別待遇教育制度比較]]
 - [[index]]

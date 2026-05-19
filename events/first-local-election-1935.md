@@ -1,15 +1,15 @@
 ---
-title: 臺灣議會設置請願運動
-created: '2026-05-16'
+title: 1935年首次地方議員選舉
+created: '2026-05-19'
 updated: '2026-05-19'
 type: summary
 tags:
 - history
 - event
-- social-movements
-- politics
 - local-autonomy
+- politics
 - taiwan-history
+- japanese-rule
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
@@ -21,21 +21,21 @@ student_id: student-001
 
 ## 事件概要
 
-[[taiwan-parliament-petition-movement]]始於1921年，是本課理解自治訴求的重要事件。雖未成功設立臺灣議會，但它喚起臺灣人民對自治與參政的想像，並與[[first-local-election-1935]]形成前後呼應。
+[[first-local-election-1935]]是教材中「自治曙光」的關鍵案例。它的重要性不在於自治已完成，而在於民眾第一次行使投票權，開始接觸參政觀念，這也是[[history-g7-l003-misconceptions]]最需要澄清的地方之一。
 
-## 歷史意義
-- 顯示知識分子試圖以制度內方式爭取權益。
-- 有助理解為何本課的政治社會運動不只是抗爭，也包含自治觀念的培養。
+## 教學重點
+- 有地方選舉，不代表制度已經民主平等。
+- 需連回[[taiwan-parliament-petition-movement]]理解其前史，也可連到[[lin-xian-tang]]理解推動者。
 
 ## 相關頁面
-- [[first-local-election-1935]]
-- [[lin-xian-tang]]
-- [[history-g7-l003-core-concepts]]
-- [[drive-s2-textbook]]
 - [[history-g7-l003-misconceptions]]
+- [[taiwan-parliament-petition-movement]]
+- [[lin-xian-tang]]
+- [[drive-s2-quiz]]
+- [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-quiz]]
+- [[drive-s2-textbook]]
 - [[taiwan-cultural-association]]
 - [[taiwan-peoples-party]]
 - [[jiang-wei-shui]]

@@ -1,15 +1,15 @@
 ---
-title: 臺灣文化協會
-created: '2026-05-15'
+title: 蔣渭水
+created: '2026-05-19'
 updated: '2026-05-19'
 type: entity
 tags:
 - history
 - entity
 - social-movements
+- politics
 - culture
 - taiwan-history
-- japanese-rule
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -21,24 +21,24 @@ student_id: student-001
 
 ## 概要
 
-[[taiwan-cultural-association]]是本課重要的文化啟蒙組織，教材指出其宗旨在於促進臺灣文化向上，並透過《臺灣民報》、讀報社與演講會喚起民眾意識。它是理解[[history-g7-l003-core-concepts]]與[[taiwan-parliament-petition-movement]]的重要節點。
+[[jiang-wei-shui]]在教材中同時出現在文化啟蒙與政治社會運動脈絡，是串聯[[taiwan-cultural-association]]與[[taiwan-peoples-party]]的重要人物。
 
-## 教學重點
-- 重點在文化啟蒙與民智提升。
-- 不宜與政黨活動直接混同，需和[[taiwan-peoples-party]]區分。
-- 與蔣渭水等知識分子的公共參與有關。
+## 在本課中的角色
+- 參與文化啟蒙工作。
+- 與臺灣民眾黨的成立相關。
+- 在測驗中也被拿來檢驗學生是否能辨識人物與運動之間的關聯。
 
 ## 相關頁面
-- [[history-g7-l003-core-concepts]]
-- [[taiwan-parliament-petition-movement]]
+- [[taiwan-cultural-association]]
 - [[taiwan-peoples-party]]
-- [[drive-s2-textbook]]
+- [[drive-s2-quiz]]
+- [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-quiz]]
-- [[jiang-wei-shui]]
+- [[drive-s2-textbook]]
 - [[lin-xian-tang]]
+- [[taiwan-parliament-petition-movement]]
 - [[first-local-election-1935]]
 - [[public-health-modernization]]
 - [[time-discipline-modern-life]]

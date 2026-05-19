@@ -1,8 +1,8 @@
 ---
 title: 日治時期的社會與文化常見迷思
 created: '2026-05-04'
-updated: '2026-05-17'
-type: summary
+updated: '2026-05-19'
+type: concept
 tags:
 - history
 - grade-7
@@ -10,12 +10,9 @@ tags:
 - taiwan-history
 - japanese-rule
 - education
+- modernization
 - social-movements
-- local-autonomy
-- public-health
-- time-discipline
-- culture
-- politics
+- student-progress
 sources:
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 confidence: medium
@@ -25,49 +22,43 @@ student_id: student-001
 
 ## 常見迷思
 
-本次學生作答的 3 題皆答對，現有測驗紀錄中沒有未解決迷思；不過依本課內容與題型，可以整理出幾個高機率混淆點，供後續教學預防。
+依目前作答資料，學生在已作答的3題中全數答對，且沒有未解決錯題，因此看不出明確而持續的個人迷思；不過，根據教材與題目設計，仍可整理出本課高機率混淆點，供對照[[history-g7-l003-student-001-exam-report]]與[[history-g7-l003-teaching-focus]]使用。
 
-### 1. 把「教育現代化」誤解成「教育平等化」
-- 課文明確指出日治初期教育採差別待遇與隔離原則。
-- 就學率雖提升，但日本人與臺灣人之間仍有明顯差距。
-- 因此不能只看到「新式教育」就推論成完全平等。
+### 1. 現代化不等於平等
+- 容易誤以為「建立現代教育制度」就代表各族群受教權一致。
+- 教材明確指出日治初期教育採差別待遇與隔離原則，這是理解[[差別待遇教育制度比較]]的核心。
 
-### 2. 把政治社會運動當成已經成功取得自治
-- 臺灣議會設置請願運動並未被日本政府採納。
-- 1935年的地方議員選舉只是自治觀念露出曙光，且成果有限。
-- 學生容易把「有選舉」直接等同「已完成自治」，需要特別釐清。
+### 2. 有選舉不等於完全自治
+- 容易把1935年地方議員選舉理解成自治已經完成。
+- 實際上，地方選舉只是自治曙光，仍有選民資格與議席比例限制，可連回[[first-local-election-1935]]與[[taiwan-parliament-petition-movement]]理解。
 
-### 3. 混淆文化啟蒙與政黨、自治運動的角色
-- 臺灣文化協會重在文化啟蒙、讀報、演講與民智開發。
-- 臺灣民眾黨屬於政黨，較聚焦民權、自治與社會改革。
-- 臺灣地方自治聯盟則更直接主張地方自治。
+### 3. 都會文化出現的原因不能只看政治開放
+- 題目顯示百貨公司、公園、新式餐廳等現象，重點在工商業發展與現代都市生活，而非單純政治開放。
+- 這點可與[[time-discipline-modern-life]]、[[public-health-modernization]]一起理解為社會生活整體轉型。
 
-### 4. 把社會生活變遷只看成單一文化取代
-- 課文強調的是新舊文化交融與調適，不是傳統文化完全消失。
-- 都市與鄉村、不同族群之間的變化速度也不一致。
+### 4. 文化團體與政黨功能不同
+- [[taiwan-cultural-association]]重點是啟蒙民智、文化推廣。
+- [[taiwan-peoples-party]]則是臺灣人成立的第一個政黨，訴求民權與自治。
+- 學生若只記人物名字，容易把組織性質混淆。
 
 ## 本次學生狀態
-- 已作答 3 題，3 題皆正確。
-- 目前沒有 outstanding wrong questions。
-- 依現有資料，迷思可視為「暫未表現出來」，而不是「永遠不存在」。
+- 已作答3題，皆答對。
+- outstanding wrong questions = 0。
+- 因樣本僅限3題，目前只能說「未觀察到顯著迷思」，不能直接推論整課概念已完全穩固。
 
 ## 相關頁面
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-teaching-focus]]
+- [[差別待遇教育制度比較]]
+- [[first-local-election-1935]]
+- [[taiwan-parliament-petition-movement]]
+- [[time-discipline-modern-life]]
+- [[public-health-modernization]]
+- [[taiwan-cultural-association]]
+- [[taiwan-peoples-party]]
+- [[history-g7-l003-core-concepts]]
 - [[drive-s2-quiz]]
 - [[drive-s2-textbook]]
-- [[taiwan-cultural-association]]
-- [[taiwan-people-party]]
-- [[chiang-wei-shui]]
-- [[lin-hsien-tang]]
-- [[taipei-imperial-university]]
-- [[education-discrimination-under-japanese-rule]]
-- [[taiwan-parliament-petition-movement]]
-- [[first-local-council-election-1935]]
-- [[national-obligation-education-1943]]
-- [[taiwan-local-autonomy-league]]
-- [[cultural-enlightenment-vs-political-movement]]
-- [[modernization-vs-equality-in-education]]
-- [[urban-modern-life-vs-traditional-customs]]
+- [[jiang-wei-shui]]
+- [[lin-xian-tang]]
 - [[index]]
