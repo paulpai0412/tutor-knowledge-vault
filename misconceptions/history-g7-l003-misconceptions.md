@@ -1,7 +1,7 @@
 ---
 title: 日治時期的社會與文化常見迷思
 created: '2026-05-04'
-updated: '2026-05-19'
+updated: '2026-05-20'
 type: concept
 tags:
 - history
@@ -12,7 +12,6 @@ tags:
 - education
 - modernization
 - social-movements
-- student-progress
 sources:
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 confidence: medium
@@ -21,44 +20,31 @@ student_id: student-001
 ---
 
 ## 常見迷思
+- 迷思一：把「現代化」直接等同於「平等進步」。本課需區分制度帶來的改變，與制度背後的殖民控制目的。
+- 迷思二：把文化啟蒙、政黨活動、自治訴求視為彼此無關的事件。其實它們都與知識分子興起及民族自決思潮有關。
+- 迷思三：把新舊文化變遷理解成單向全面日本化。課文更強調的是調適、並存與城鄉差異。
 
-依目前作答資料，學生在已作答的3題中全數答對，且沒有未解決錯題，因此看不出明確而持續的個人迷思；不過，根據教材與題目設計，仍可整理出本課高機率混淆點，供對照[[history-g7-l003-student-001-exam-report]]與[[history-g7-l003-teaching-focus]]使用。
+## 本生作答觀察
+- 目前僅有 3 次作答、3 題皆答對，且沒有錯題清單，因此尚未形成可確認的個人化迷思模式。
+- 目前可視為「暫無已記錄且未解決的迷思」，但仍應在後續題目持續檢查是否能分辨 [[colonial-education-and-assimilation]] 與 [[modern-hygiene-and-urban-life]] 的不同面向。
 
-### 1. 現代化不等於平等
-- 容易誤以為「建立現代教育制度」就代表各族群受教權一致。
-- 教材明確指出日治初期教育採差別待遇與隔離原則，這是理解[[差別待遇教育制度比較]]的核心。
-
-### 2. 有選舉不等於完全自治
-- 容易把1935年地方議員選舉理解成自治已經完成。
-- 實際上，地方選舉只是自治曙光，仍有選民資格與議席比例限制，可連回[[first-local-election-1935]]與[[taiwan-parliament-petition-movement]]理解。
-
-### 3. 都會文化出現的原因不能只看政治開放
-- 題目顯示百貨公司、公園、新式餐廳等現象，重點在工商業發展與現代都市生活，而非單純政治開放。
-- 這點可與[[time-discipline-modern-life]]、[[public-health-modernization]]一起理解為社會生活整體轉型。
-
-### 4. 文化團體與政黨功能不同
-- [[taiwan-cultural-association]]重點是啟蒙民智、文化推廣。
-- [[taiwan-peoples-party]]則是臺灣人成立的第一個政黨，訴求民權與自治。
-- 學生若只記人物名字，容易把組織性質混淆。
-
-## 本次學生狀態
-- 已作答3題，皆答對。
-- outstanding wrong questions = 0。
-- 因樣本僅限3題，目前只能說「未觀察到顯著迷思」，不能直接推論整課概念已完全穩固。
+## 教學提醒
+- 可用「有現代化成果，不代表沒有差別待遇」作為辨識句。
+- 可用時間線連結 [[taiwan-cultural-association]]、[[taiwan-peoples-party]]、[[local-autonomy-movement]]，避免把事件切碎記憶。
 
 ## 相關頁面
-- [[history-g7-l003-student-001-exam-report]]
-- [[history-g7-l003-teaching-focus]]
-- [[差別待遇教育制度比較]]
-- [[first-local-election-1935]]
-- [[taiwan-parliament-petition-movement]]
-- [[time-discipline-modern-life]]
-- [[public-health-modernization]]
+- [[colonial-education-and-assimilation]]
+- [[modern-hygiene-and-urban-life]]
 - [[taiwan-cultural-association]]
 - [[taiwan-peoples-party]]
+- [[local-autonomy-movement]]
 - [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-quiz]]
 - [[drive-s2-textbook]]
-- [[jiang-wei-shui]]
-- [[lin-xian-tang]]
+- [[taiwan-parliament-petition-movement]]
+- [[time-discipline-under-japanese-rule]]
+- [[education-modernization-vs-colonial-control]]
+- [[cultural-enlightenment-vs-political-mobilization]]
 - [[index]]

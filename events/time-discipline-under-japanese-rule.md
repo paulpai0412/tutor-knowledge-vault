@@ -1,6 +1,6 @@
 ---
-title: 臺灣議會設置請願運動
-created: '2026-05-16'
+title: 日治時期的守時制度化
+created: '2026-05-20'
 updated: '2026-05-20'
 type: summary
 tags:
@@ -8,9 +8,9 @@ tags:
 - event
 - taiwan-history
 - japanese-rule
-- social-movements
-- local-autonomy
-- politics
+- modernization
+- time-discipline
+- culture
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
@@ -21,26 +21,26 @@ student_id: student-001
 ---
 
 ## 事件概要
-- 1921 年開始，林獻堂、蔣渭水等人推動臺灣議會設置請願運動。
-- 雖未成功設立臺灣議會，但喚起了人民對自治與參政的認識。
+- 日治時期引進西曆、一天 24 小時標準時間制與一週七天星期制。
+- 公共場所設置時鐘，學校課程節次與時數觀念逐漸固定。
 
 ## 歷史意義
-- 顯示政治社會運動不只停留在文化宣傳，也進一步要求制度改革。
-- 可視為通往 [[local-autonomy-movement]] 與地方選舉經驗的重要前段。
+- 守時不只是生活習慣改變，也與現代制度化管理有關。
+- 可與 [[modern-hygiene-and-urban-life]] 一起理解現代生活規範如何形成。
 
 ## 相關頁面
-- [[local-autonomy-movement]]
+- [[modern-hygiene-and-urban-life]]
 - [[history-g7-l003-core-concepts]]
-- [[drive-s2-textbook]]
+- [[drive-s2-quiz]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-quiz]]
+- [[drive-s2-textbook]]
 - [[taiwan-cultural-association]]
 - [[taiwan-peoples-party]]
 - [[colonial-education-and-assimilation]]
-- [[modern-hygiene-and-urban-life]]
-- [[time-discipline-under-japanese-rule]]
+- [[taiwan-parliament-petition-movement]]
+- [[local-autonomy-movement]]
 - [[education-modernization-vs-colonial-control]]
 - [[cultural-enlightenment-vs-political-mobilization]]
 - [[index]]

@@ -1,15 +1,16 @@
 ---
 title: 臺灣文化協會
 created: '2026-05-15'
-updated: '2026-05-19'
+updated: '2026-05-20'
 type: entity
 tags:
 - history
 - entity
-- social-movements
-- culture
 - taiwan-history
 - japanese-rule
+- social-movements
+- culture
+- politics
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -19,28 +20,30 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 概要
+## 核心定位
+臺灣文化協會成立於 1921 年，是日治時期文化啟蒙的重要組織。
 
-[[taiwan-cultural-association]]是本課重要的文化啟蒙組織，教材指出其宗旨在於促進臺灣文化向上，並透過《臺灣民報》、讀報社與演講會喚起民眾意識。它是理解[[history-g7-l003-core-concepts]]與[[taiwan-parliament-petition-movement]]的重要節點。
+## 作用
+- 透過《臺灣民報》、讀報社、演講會等方式推動啟蒙。
+- 目標是提升民智、喚起民族意識、改良社會風氣。
 
-## 教學重點
-- 重點在文化啟蒙與民智提升。
-- 不宜與政黨活動直接混同，需和[[taiwan-peoples-party]]區分。
-- 與蔣渭水等知識分子的公共參與有關。
+## 關聯
+- 可與 [[history-g7-l003-core-concepts]] 一起理解知識分子如何從教育走向社會行動。
+- 也可與 [[local-autonomy-movement]]、[[taiwan-peoples-party]] 對照其後續政治化發展。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[taiwan-parliament-petition-movement]]
+- [[local-autonomy-movement]]
 - [[taiwan-peoples-party]]
 - [[drive-s2-textbook]]
-- [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-quiz]]
-- [[jiang-wei-shui]]
-- [[lin-xian-tang]]
-- [[first-local-election-1935]]
-- [[public-health-modernization]]
-- [[time-discipline-modern-life]]
-- [[差別待遇教育制度比較]]
+- [[colonial-education-and-assimilation]]
+- [[modern-hygiene-and-urban-life]]
+- [[taiwan-parliament-petition-movement]]
+- [[time-discipline-under-japanese-rule]]
+- [[education-modernization-vs-colonial-control]]
+- [[cultural-enlightenment-vs-political-mobilization]]
 - [[index]]

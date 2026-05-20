@@ -1,6 +1,6 @@
 ---
-title: 臺灣議會設置請願運動
-created: '2026-05-16'
+title: 地方自治運動與首次地方選舉
+created: '2026-05-20'
 updated: '2026-05-20'
 type: summary
 tags:
@@ -21,21 +21,25 @@ student_id: student-001
 ---
 
 ## 事件概要
-- 1921 年開始，林獻堂、蔣渭水等人推動臺灣議會設置請願運動。
-- 雖未成功設立臺灣議會，但喚起了人民對自治與參政的認識。
+- 1930 年成立臺灣地方自治聯盟，主張實施地方自治。
+- 1935 年首次地方議員選舉舉行，但選民資格與名額皆受限制。
 
 ## 歷史意義
-- 顯示政治社會運動不只停留在文化宣傳，也進一步要求制度改革。
-- 可視為通往 [[local-autonomy-movement]] 與地方選舉經驗的重要前段。
+- 這是臺灣民眾首次行使投票權的重要節點。
+- 同時也反映自治成果有限，不能誤解為完全政治開放。
+
+## 教學連結
+- 可與 [[taiwan-parliament-petition-movement]] 比較訴求形式與成果。
+- 也可回扣 [[history-g7-l003-misconceptions]]，提醒學生區分「出現曙光」與「完全實現」。
 
 ## 相關頁面
-- [[local-autonomy-movement]]
-- [[history-g7-l003-core-concepts]]
-- [[drive-s2-textbook]]
+- [[taiwan-parliament-petition-movement]]
 - [[history-g7-l003-misconceptions]]
+- [[drive-s2-textbook]]
+- [[drive-s2-quiz]]
+- [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-quiz]]
 - [[taiwan-cultural-association]]
 - [[taiwan-peoples-party]]
 - [[colonial-education-and-assimilation]]

@@ -1,7 +1,7 @@
 ---
-title: student-001 第三課測驗報告
+title: student-001 日治時期的社會與文化測驗報告
 created: '2026-05-04'
-updated: '2026-05-19'
+updated: '2026-05-20'
 type: summary
 tags:
 - history
@@ -9,7 +9,7 @@ tags:
 - exam-analysis
 - student-progress
 - taiwan-history
-- education
+- japanese-rule
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -20,43 +20,41 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 測驗摘要
+## 作答摘要
+- 學生：student-001
+- 題組：日治時期的社會與文化
+- 作答次數：3
+- 目前答對題數：3
+- 未解決錯題：0
+- 錯題編號：無
 
-本次測驗對應課程為「日治時期的社會與文化」。student-001 目前共作答3次，3題皆答對，沒有未解決錯題；就目前紀錄來看，基礎辨識表現穩定，可連回[[history-g7-l003-core-concepts]]檢查概念統整程度，並參考[[history-g7-l003-misconceptions]]確認是否仍有潛在混淆。
+## 已表現出的掌握
+- 能辨識第一所專收臺人子弟的中學為臺中中學校。
+- 能辨識百貨公司、公園與新式餐廳增加，與工商業發達有關。
+- 能辨識臺灣人成立的第一個政黨為臺灣民眾黨。
 
-### 作答結果
-- attempted_answers: 3
-- currently_correct_questions: 3
-- outstanding_wrong_questions: 0
-- wrong_question_ids: none
+## 判讀
+- 目前資料顯示學生在基礎名詞與單點史實辨識上表現穩定。
+- 但因僅涵蓋 3 題，尚不足以確認是否完全掌握 [[history-g7-l003-core-concepts]] 中的因果關係與比較能力。
+- 目前沒有可整理進 [[history-g7-l003-misconceptions]] 的個別錯誤模式。
 
-### 已展現的能力
-- 能正確辨識第一所專收臺人子弟的中學為臺中中學校。
-- 能判斷都會休閒場所增加與工商業發展相關。
-- 能辨識臺灣民眾黨是臺灣人成立的第一個政黨。
-
-### 解讀限制
-- 目前僅涵蓋3題，且多屬關鍵史實辨識。
-- 尚未充分驗證學生是否能整合自治運動、文化啟蒙與社會現代化之間的因果關係。
-- 因無錯題紀錄，暫時也沒有可追蹤的個別誤概念修正歷程。
-
-## 教師可用判讀
-- 若要追求更穩定的學習證據，下一輪宜補充比較題、排序題與因果題。
-- 可優先追問[[taiwan-cultural-association]]、[[taiwan-peoples-party]]與[[first-local-election-1935]]之間的關係。
+## 建議下一步
+- 可進一步練習自治運動、民族自決思潮、差別待遇教育與新舊文化調適等題型。
+- 建議教師依 [[history-g7-l003-teaching-focus]] 追問原因與影響，而不只檢查名詞記憶。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
-- [[taiwan-cultural-association]]
-- [[taiwan-peoples-party]]
-- [[first-local-election-1935]]
 - [[history-g7-l003-teaching-focus]]
 - [[drive-s2-quiz]]
 - [[drive-s2-textbook]]
-- [[jiang-wei-shui]]
-- [[lin-xian-tang]]
+- [[taiwan-cultural-association]]
+- [[taiwan-peoples-party]]
+- [[colonial-education-and-assimilation]]
+- [[modern-hygiene-and-urban-life]]
 - [[taiwan-parliament-petition-movement]]
-- [[public-health-modernization]]
-- [[time-discipline-modern-life]]
-- [[差別待遇教育制度比較]]
+- [[local-autonomy-movement]]
+- [[time-discipline-under-japanese-rule]]
+- [[education-modernization-vs-colonial-control]]
+- [[cultural-enlightenment-vs-political-mobilization]]
 - [[index]]

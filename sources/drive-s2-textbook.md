@@ -1,8 +1,8 @@
 ---
-title: 教材來源：日治時期的社會與文化
+title: 教材來源：日治時期的社會與文化課文摘記
 created: '2026-05-04'
-updated: '2026-05-19'
-type: summary
+updated: '2026-05-20'
+type: entity
 tags:
 - history
 - grade-7
@@ -14,6 +14,7 @@ tags:
 - modernization
 - social-movements
 - culture
+- politics
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -22,37 +23,38 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 來源筆記
+## 來源定位
+- 來源：drive-s2-textbook.pdf
+- 章節：日治時期的社會與文化
+- 用途：提供 [[history-g7-l003-core-concepts]] 與 [[history-g7-l003-teaching-focus]] 的事實依據。
 
-本頁對應教材變體 [[drive-s2-textbook]]，主題為「日治時期的社會與文化」。教材主軸可整理為三部分：差別待遇的新式教育、文化啟蒙與政治社會運動、以及新舊文化交融下的生活變遷。其內容是[[history-g7-l003-core-concepts]]與[[history-g7-l003-teaching-focus]]的重要依據。
+## 來源重點
+- 教育制度採差別待遇與隔離原則，以日語教學，並在 1941 年改稱國民學校、1943 年實施六年國民義務教育。
+- 新式教育與留學培養知識分子，帶動文化啟蒙與政治社會運動。
+- 1921 年成立臺灣文化協會並展開臺灣議會設置請願運動，1927 年成立臺灣民眾黨，1930 年成立臺灣地方自治聯盟，1935 年首次地方議員選舉。
+- 社會文化方面包括放足斷髮、鴉片漸禁、衛生設施、自來水、法治、標準時間制與都會文化形成。
 
-### 教材可抽出的核心線索
-- 教育制度兼具統治工具與知識培養功能。
-- 1920年代知識分子受民族自決思潮影響，推動文化與自治運動。
-- 風俗、衛生、法治、守時與都會文化呈現現代化痕跡，但城鄉差距仍在。
-
-### 可連出的圖譜節點
-- 組織：[[taiwan-cultural-association]]、[[taiwan-peoples-party]]
-- 事件：[[taiwan-parliament-petition-movement]]、[[first-local-election-1935]]
-- 主題：[[public-health-modernization]]、[[time-discipline-modern-life]]、[[差別待遇教育制度比較]]
-
-## 用途
-- 作為概念頁與教學頁的來源支點。
-- 幫助回查教材中對「現代化」與「殖民限制」並存的敘述。
+## 可連回的知識節點
+- [[colonial-education-and-assimilation]]
+- [[taiwan-cultural-association]]
+- [[taiwan-peoples-party]]
+- [[local-autonomy-movement]]
+- [[modern-hygiene-and-urban-life]]
+- [[time-discipline-under-japanese-rule]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
+- [[colonial-education-and-assimilation]]
 - [[taiwan-cultural-association]]
 - [[taiwan-peoples-party]]
-- [[taiwan-parliament-petition-movement]]
-- [[first-local-election-1935]]
-- [[public-health-modernization]]
-- [[time-discipline-modern-life]]
-- [[差別待遇教育制度比較]]
-- [[history-g7-l003-misconceptions]]
+- [[local-autonomy-movement]]
+- [[modern-hygiene-and-urban-life]]
+- [[time-discipline-under-japanese-rule]]
 - [[drive-s2-quiz]]
+- [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[jiang-wei-shui]]
-- [[lin-xian-tang]]
+- [[taiwan-parliament-petition-movement]]
+- [[education-modernization-vs-colonial-control]]
+- [[cultural-enlightenment-vs-political-mobilization]]
 - [[index]]

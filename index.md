@@ -2,36 +2,36 @@
 
 > Content catalog for the derived tutor knowledge wiki.
 > Open this vault in Obsidian to browse `[[wikilinks]]` and graph view.
-> Last updated: 2026-05-19 15:03 UTC | Total pages: 16
+> Last updated: 2026-05-20 15:02 UTC | Total pages: 16
 
 ## Concepts
-- [[history-g7-l003-core-concepts]] — 本課重點在於理解日治時期教育、政治社會運動與社會文化變遷之間的連動關係。
+- [[history-g7-l003-core-concepts]] — 本課重點在於理解日治時期的教育、政治社會運動與新舊文化變遷彼此如何相互影響。
 
 ## Misconceptions
-- [[history-g7-l003-misconceptions]] — 目前作答紀錄未顯示持續性錯誤，但本課容易把現代化、平等化與自治成果混為一談。
+- [[history-g7-l003-misconceptions]] — 目前作答紀錄未顯示穩定錯誤，但本課容易把現代化成果與殖民統治目的混為一談。
 
 ## Teaching Notes
-- [[history-g7-l003-teaching-focus]] — 教學上宜把教育差別待遇、自治訴求限制與生活現代化三條線並行對照，幫助學生建立整體歷史圖像。
+- [[history-g7-l003-teaching-focus]] — 教學上應抓住殖民統治、現代化改變與知識分子運動三條主線，幫助學生建立因果與比較。
 
 ## Sources
-- [[drive-s2-quiz]] — 本來源筆記整理測驗題型所強調的重點史實、概念辨識與常見混淆方向。
-- [[drive-s2-textbook]] — 本來源筆記整理教材對日治時期教育、政治社會運動與社會文化變遷的主要敘述脈絡。
+- [[drive-s2-quiz]] — 此來源筆記整理測驗題所聚焦的知識點，可用來對照學生目前掌握與待檢核概念。
+- [[drive-s2-textbook]] — 此來源筆記整理教材中關於教育、政治社會運動與新舊文化變遷的核心證據。
 
 ## Entities
-- [[jiang-wei-shui]] — 蔣渭水是日治時期重要知識分子，與文化啟蒙、政黨活動及自治訴求密切相關。
-- [[lin-xian-tang]] — 林獻堂是日治時期溫和路線的重要領導人物，與議會請願與地方自治運動關聯密切。
-- [[taiwan-cultural-association]] — 臺灣文化協會是1921年成立的文化啟蒙團體，透過辦報、演講與讀報社等方式提升民智。
-- [[taiwan-peoples-party]] — 臺灣民眾黨是日治時期第一個由臺灣人成立的政黨，主張民權與自治並扶助農工運動。
+- [[colonial-education-and-assimilation]] — 日治時期教育兼具現代化知識傳播與殖民統治同化目的，必須從雙重面向理解。
+- [[modern-hygiene-and-urban-life]] — 日治時期的衛生設施、生活規範與都市休閒空間，顯示現代化如何進入日常生活。
+- [[taiwan-cultural-association]] — 臺灣文化協會是日治時期重要的文化啟蒙團體，透過演講、辦報與讀報社喚起民智與民族意識。
+- [[taiwan-peoples-party]] — 臺灣民眾黨是臺灣人成立的第一個政黨，代表政治社會運動由啟蒙走向更明確的民權與自治訴求。
 
 ## Events
-- [[first-local-election-1935]] — 1935年首次地方議員選舉象徵臺灣民眾開始接觸投票與自治觀念，但自治成果仍十分有限。
-- [[public-health-modernization]] — 日治時期公共衛生設施與衛生宣導的推行，改變了臺灣社會的生活習慣與疾病防治方式。
-- [[taiwan-parliament-petition-movement]] — 臺灣議會設置請願運動反映臺灣知識分子以請願方式爭取自治與制衡總督權力的努力。
-- [[time-discipline-modern-life]] — 西曆、標準時間制與星期制的引入，使日常生活逐步形成守時與規律的現代時間觀。
+- [[local-autonomy-movement]] — 地方自治運動與 1935 年首次地方議員選舉，讓臺灣人初步接觸投票與自治觀念，但成果仍受限制。
+- [[taiwan-parliament-petition-movement]] — 臺灣議會設置請願運動表現出知識分子以合法請願方式爭取自治與制衡總督統治的努力。
+- [[time-discipline-under-japanese-rule]] — 西曆、標準時間制、星期制與學校課表的推行，使守時成為日常生活中的新規範。
 
 ## Comparisons
-- [[差別待遇教育制度比較]] — 本比較頁用來區分日治時期新式教育的現代化成果與其族群差別待遇的制度限制。
+- [[cultural-enlightenment-vs-political-mobilization]] — 文化啟蒙偏向提升民智與喚醒意識，政治動員則更進一步要求制度改革與自治權利。
+- [[education-modernization-vs-colonial-control]] — 本課中的教育不能只看成進步或壓迫單一面向，而要同時比較其現代化效果與殖民控制目的。
 
 ## Queries
 - [[history-g7-l003-knowledge-sync-plan]] — 知識同步方案
-- [[history-g7-l003-student-001-exam-report]] — student-001 目前在本課已作答3題且全對，暫未出現待複習錯題，但整體掌握度仍需更多題目驗證。
+- [[history-g7-l003-student-001-exam-report]] — student-001 目前共作答 3 次且 3 題皆正確，暫無未訂正錯題，但證據仍限於少量題目。
