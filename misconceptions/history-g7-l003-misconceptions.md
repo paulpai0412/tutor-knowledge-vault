@@ -1,17 +1,18 @@
 ---
-title: 日治時期的社會與文化常見迷思
+title: 日治時期社會與文化常見迷思
 created: '2026-05-04'
-updated: '2026-05-20'
-type: concept
+updated: '2026-05-21'
+type: summary
 tags:
 - history
 - grade-7
 - misconception
+- student-progress
 - taiwan-history
 - japanese-rule
 - education
-- modernization
 - social-movements
+- modernization
 sources:
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 confidence: medium
@@ -20,31 +21,44 @@ student_id: student-001
 ---
 
 ## 常見迷思
-- 迷思一：把「現代化」直接等同於「平等進步」。本課需區分制度帶來的改變，與制度背後的殖民控制目的。
-- 迷思二：把文化啟蒙、政黨活動、自治訴求視為彼此無關的事件。其實它們都與知識分子興起及民族自決思潮有關。
-- 迷思三：把新舊文化變遷理解成單向全面日本化。課文更強調的是調適、並存與城鄉差異。
 
-## 本生作答觀察
-- 目前僅有 3 次作答、3 題皆答對，且沒有錯題清單，因此尚未形成可確認的個人化迷思模式。
-- 目前可視為「暫無已記錄且未解決的迷思」，但仍應在後續題目持續檢查是否能分辨 [[colonial-education-and-assimilation]] 與 [[modern-hygiene-and-urban-life]] 的不同面向。
+依目前 [[history-g7-l003-student-001-exam-report]] 的作答資料，學生已答對前 3 題，暫未出現未解決的錯題；因此本頁較接近「潛在混淆點整理」，可與 [[history-g7-l003-core-concepts]]、[[drive-s2-quiz]] 一起使用。
 
-## 教學提醒
-- 可用「有現代化成果，不代表沒有差別待遇」作為辨識句。
-- 可用時間線連結 [[taiwan-cultural-association]]、[[taiwan-peoples-party]]、[[local-autonomy-movement]]，避免把事件切碎記憶。
+### 1. 把「現代教育」誤解成「平等教育」
+- 教材強調新式教育制度確實帶來現代知識，但同時存在差別待遇與隔離原則。
+- 不能因為有學校制度擴張，就直接推論各族群受教機會完全平等。
+- 可對照 [[segregated-education-and-modern-knowledge]]、[[compulsory-education-1943]]。
+
+### 2. 把政治社會運動看成已經成功自治
+- 臺灣議會設置請願運動、臺灣民眾黨、地方自治聯盟都反映自治訴求。
+- 但教材指出成果有限，例如議會請願未被採納，1935年地方選舉也有限制。
+- 可對照 [[taiwan-parliament-petition-1921]]、[[local-self-government-election-1935]]。
+
+### 3. 把都會文化的出現只歸因於政治開放
+- 測驗題特別考到百貨公司、公園、新式餐廳增加，主要連到工商業發展與都市現代化。
+- 不能把休閒場所增加直接等同於政治制度開放。
+- 可對照 [[urban-culture-and-industrial-modernization]]、[[drive-s2-quiz]]。
+
+## 本次學生狀態
+- 已記錄作答 3 次，前 3 題皆正確。
+- 目前沒有 outstanding wrong questions，因此沒有可確認的固定迷思鏈。
+- 若後續題目開始出錯，建議優先檢查是否混淆「制度存在」與「制度效果」之間的差別。
 
 ## 相關頁面
-- [[colonial-education-and-assimilation]]
-- [[modern-hygiene-and-urban-life]]
-- [[taiwan-cultural-association]]
-- [[taiwan-peoples-party]]
-- [[local-autonomy-movement]]
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-core-concepts]]
 - [[drive-s2-quiz]]
+- [[segregated-education-and-modern-knowledge]]
+- [[compulsory-education-1943]]
+- [[taiwan-parliament-petition-1921]]
+- [[local-self-government-election-1935]]
+- [[urban-culture-and-industrial-modernization]]
+- [[history-g7-l003-teaching-focus]]
 - [[drive-s2-textbook]]
-- [[taiwan-parliament-petition-movement]]
-- [[time-discipline-under-japanese-rule]]
-- [[education-modernization-vs-colonial-control]]
-- [[cultural-enlightenment-vs-political-mobilization]]
+- [[taiwan-cultural-association]]
+- [[taiwan-people-party]]
+- [[taipei-imperial-university]]
+- [[lin-hsien-tang]]
+- [[public-health-modernization]]
+- [[time-discipline-and-modern-life]]
 - [[index]]

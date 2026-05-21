@@ -1,6 +1,6 @@
 ---
-title: 臺灣文化協會
-created: '2026-05-15'
+title: 林獻堂
+created: '2026-05-21'
 updated: '2026-05-21'
 type: entity
 tags:
@@ -9,8 +9,7 @@ tags:
 - taiwan-history
 - japanese-rule
 - social-movements
-- culture
-- education
+- politics
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -22,28 +21,28 @@ student_id: student-001
 
 ## 概要
 
-臺灣文化協會成立於 1921 年，是教材中最重要的文化啟蒙組織之一，可與 [[history-g7-l003-core-concepts]]、[[taiwan-parliament-petition-1921]] 一起理解。
+林獻堂是本課重要人物，常與蔣渭水並列，可連到 [[taiwan-cultural-association]]、[[local-self-government-election-1935]]。
 
 ## 教材可支持內容
-- 重要人物包括林獻堂、蔣渭水等人。
-- 宗旨為提升臺灣文化、啟迪民智。
-- 具體方式包括發行《臺灣民報》、設立讀報社、舉辦演講會等。
+- 參與成立臺灣文化協會。
+- 領導臺灣議會設置請願運動。
+- 籌組臺灣地方自治聯盟。
 
 ## 教學意義
-它顯示政治社會運動不只靠請願，也包括文化啟蒙與社會教育，並可連到 [[history-g7-l003-teaching-focus]]、[[drive-s2-textbook]]。
+若學生能把林獻堂放回多個運動脈絡，就較不易把各組織視為彼此無關的零碎記憶。可回看 [[history-g7-l003-core-concepts]]、[[history-g7-l003-teaching-focus]]。
 
 ## 相關頁面
+- [[taiwan-cultural-association]]
+- [[local-self-government-election-1935]]
 - [[history-g7-l003-core-concepts]]
-- [[taiwan-parliament-petition-1921]]
 - [[history-g7-l003-teaching-focus]]
-- [[drive-s2-textbook]]
-- [[taiwan-people-party]]
+- [[taiwan-parliament-petition-1921]]
+- [[drive-s2-quiz]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-quiz]]
+- [[drive-s2-textbook]]
+- [[taiwan-people-party]]
 - [[taipei-imperial-university]]
-- [[lin-hsien-tang]]
-- [[local-self-government-election-1935]]
 - [[compulsory-education-1943]]
 - [[public-health-modernization]]
 - [[segregated-education-and-modern-knowledge]]

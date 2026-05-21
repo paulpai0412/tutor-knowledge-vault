@@ -1,6 +1,6 @@
 ---
-title: 臺灣文化協會
-created: '2026-05-15'
+title: 臺灣民眾黨
+created: '2026-05-21'
 updated: '2026-05-21'
 type: entity
 tags:
@@ -9,8 +9,7 @@ tags:
 - taiwan-history
 - japanese-rule
 - social-movements
-- culture
-- education
+- politics
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -22,28 +21,29 @@ student_id: student-001
 
 ## 概要
 
-臺灣文化協會成立於 1921 年，是教材中最重要的文化啟蒙組織之一，可與 [[history-g7-l003-core-concepts]]、[[taiwan-parliament-petition-1921]] 一起理解。
+臺灣民眾黨成立於 1927 年，是本課政治社會運動的重要節點，可連到 [[history-g7-l003-core-concepts]] 與 [[history-g7-l003-student-001-exam-report]]。
 
 ## 教材可支持內容
-- 重要人物包括林獻堂、蔣渭水等人。
-- 宗旨為提升臺灣文化、啟迪民智。
-- 具體方式包括發行《臺灣民報》、設立讀報社、舉辦演講會等。
+- 由蔣渭水等人成立。
+- 是臺灣人成立的第一個政黨。
+- 宣傳民權、自治等概念。
+- 積極扶助農、工運動，爭取相關權益。
 
-## 教學意義
-它顯示政治社會運動不只靠請願，也包括文化啟蒙與社會教育，並可連到 [[history-g7-l003-teaching-focus]]、[[drive-s2-textbook]]。
+## 學習提醒
+學生常把「成立政黨」誤解為已取得政治開放成果；其實教材更強調觀念推廣與權益爭取的歷史意義。可對照 [[taiwan-parliament-petition-1921]]、[[local-self-government-election-1935]]。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[taiwan-parliament-petition-1921]]
-- [[history-g7-l003-teaching-focus]]
-- [[drive-s2-textbook]]
-- [[taiwan-people-party]]
-- [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[taiwan-parliament-petition-1921]]
+- [[local-self-government-election-1935]]
 - [[drive-s2-quiz]]
+- [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-misconceptions]]
+- [[drive-s2-textbook]]
+- [[taiwan-cultural-association]]
 - [[taipei-imperial-university]]
 - [[lin-hsien-tang]]
-- [[local-self-government-election-1935]]
 - [[compulsory-education-1943]]
 - [[public-health-modernization]]
 - [[segregated-education-and-modern-knowledge]]

@@ -2,36 +2,38 @@
 
 > Content catalog for the derived tutor knowledge wiki.
 > Open this vault in Obsidian to browse `[[wikilinks]]` and graph view.
-> Last updated: 2026-05-20 15:02 UTC | Total pages: 16
+> Last updated: 2026-05-21 15:03 UTC | Total pages: 18
 
 ## Concepts
-- [[history-g7-l003-core-concepts]] — 本課重點在於理解日治時期的教育、政治社會運動與新舊文化變遷彼此如何相互影響。
+- [[history-g7-l003-core-concepts]] — 本課重點在於理解日治時期教育、政治社會運動與生活文化現代化之間的連動關係。
 
 ## Misconceptions
-- [[history-g7-l003-misconceptions]] — 目前作答紀錄未顯示穩定錯誤，但本課容易把現代化成果與殖民統治目的混為一談。
+- [[history-g7-l003-misconceptions]] — 目前作答紀錄未顯示固定迷思，但本課常見混淆點集中在教育差別待遇、自治運動成果與現代化原因判讀。
 
 ## Teaching Notes
-- [[history-g7-l003-teaching-focus]] — 教學上應抓住殖民統治、現代化改變與知識分子運動三條主線，幫助學生建立因果與比較。
+- [[history-g7-l003-teaching-focus]] — 教學上宜用「制度目的、實際限制、社會影響」三步驟，幫學生區分日治現代化的表面進步與殖民統治性質。
 
 ## Sources
-- [[drive-s2-quiz]] — 此來源筆記整理測驗題所聚焦的知識點，可用來對照學生目前掌握與待檢核概念。
-- [[drive-s2-textbook]] — 此來源筆記整理教材中關於教育、政治社會運動與新舊文化變遷的核心證據。
+- [[drive-s2-quiz]] — 此來源筆記整理測驗卷目前可確認的題型焦點與已記錄作答範圍。
+- [[drive-s2-textbook]] — 此來源筆記整理教材頁提供的核心主題、時代脈絡與可回鏈的知識圖譜節點。
 
 ## Entities
-- [[colonial-education-and-assimilation]] — 日治時期教育兼具現代化知識傳播與殖民統治同化目的，必須從雙重面向理解。
-- [[modern-hygiene-and-urban-life]] — 日治時期的衛生設施、生活規範與都市休閒空間，顯示現代化如何進入日常生活。
-- [[taiwan-cultural-association]] — 臺灣文化協會是日治時期重要的文化啟蒙團體，透過演講、辦報與讀報社喚起民智與民族意識。
-- [[taiwan-peoples-party]] — 臺灣民眾黨是臺灣人成立的第一個政黨，代表政治社會運動由啟蒙走向更明確的民權與自治訴求。
+- [[lin-hsien-tang]] — 林獻堂是教材中多次出現的知識分子與社會運動領導者，參與文化協會、議會請願與地方自治聯盟。
+- [[taipei-imperial-university]] — 臺北帝國大學是1928年設立的代表性高等教育機構，但名額有限，許多升學者仍選擇赴日留學。
+- [[taiwan-cultural-association]] — 臺灣文化協會是1921年成立的文化啟蒙組織，透過辦報、演講與讀報社喚起民智與民族意識。
+- [[taiwan-people-party]] — 臺灣民眾黨是教材所述由臺灣人成立的第一個政黨，主張民權、自治並扶助農工運動。
 
 ## Events
-- [[local-autonomy-movement]] — 地方自治運動與 1935 年首次地方議員選舉，讓臺灣人初步接觸投票與自治觀念，但成果仍受限制。
-- [[taiwan-parliament-petition-movement]] — 臺灣議會設置請願運動表現出知識分子以合法請願方式爭取自治與制衡總督統治的努力。
-- [[time-discipline-under-japanese-rule]] — 西曆、標準時間制、星期制與學校課表的推行，使守時成為日常生活中的新規範。
+- [[compulsory-education-1943]] — 1943年實施六年國民義務教育，是日治後期教育制度的重要變化，但不應倒推到1920年代的生活情境。
+- [[local-self-government-election-1935]] — 1935年首次地方議員選舉讓臺灣人首度行使投票權，但因選民資格與席次限制，自治成果仍相當有限。
+- [[public-health-modernization]] — 總督府透過西式醫院、預防注射與公共衛生設施推動現代衛生觀念，並使死亡率下降、人口增加。
+- [[taiwan-parliament-petition-1921]] — 臺灣議會設置請願運動雖未成功設立議會，但喚起了臺灣人民對自治與政治參與的認識。
 
 ## Comparisons
-- [[cultural-enlightenment-vs-political-mobilization]] — 文化啟蒙偏向提升民智與喚醒意識，政治動員則更進一步要求制度改革與自治權利。
-- [[education-modernization-vs-colonial-control]] — 本課中的教育不能只看成進步或壓迫單一面向，而要同時比較其現代化效果與殖民控制目的。
+- [[segregated-education-and-modern-knowledge]] — 日治教育同時具有不平等的殖民控制性質與傳播現代知識的效果，理解兩者並存是本課關鍵。
+- [[time-discipline-and-modern-life]] — 西曆、標準時間制、星期制與公共時鐘的引入，讓時間管理成為日治時期現代生活與社會控制的一部分。
+- [[urban-culture-and-industrial-modernization]] — 百貨公司、公園與新式餐廳的增加，教材與測驗都指向工商業發展帶來的都市現代化，而非單純政治開放。
 
 ## Queries
 - [[history-g7-l003-knowledge-sync-plan]] — 知識同步方案
-- [[history-g7-l003-student-001-exam-report]] — student-001 目前共作答 3 次且 3 題皆正確，暫無未訂正錯題，但證據仍限於少量題目。
+- [[history-g7-l003-student-001-exam-report]] — 目前僅記錄前3題作答且三題全對，顯示學生已掌握部分基礎辨識，但尚不足以代表整份測驗全卷表現。
