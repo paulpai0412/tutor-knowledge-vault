@@ -1,18 +1,18 @@
 ---
-title: 日治時期社會與文化教學重點
+title: 日治時期的社會與文化教學重點
 created: '2026-05-04'
-updated: '2026-05-21'
+updated: '2026-05-22'
 type: summary
 tags:
 - history
 - grade-7
 - teaching-strategy
+- lesson
 - education
-- taiwan-history
-- japanese-rule
-- modernization
 - social-movements
-- student-progress
+- modernization
+- culture
+- politics
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
@@ -23,44 +23,36 @@ student_id: student-001
 ---
 
 ## 教學提示
+- 先用一條主線統整：差別待遇的教育制度 → 知識分子形成 → 文化啟蒙與政治社會運動 → 社會生活改變與新舊文化交融。
+- 教學時要提醒學生區分「制度」「組織」「事件」「結果」四種類型，例如國民學校是制度、臺灣文化協會是組織、1935年地方議員選舉是事件、自治觀念普及是結果。
+- 可用對照方式幫助記憶：教育的現代化不代表平等；地方選舉的出現不代表完全自治；都市新文化的出現不代表全臺同步改變。
 
-本課最適合用「制度目的 → 社會效果 → 例外與限制」的方式帶讀，並與 [[history-g7-l003-core-concepts]]、[[history-g7-l003-misconceptions]] 互相參照。
+## 可重用的提問句
+- 為什麼新式教育一方面帶來現代知識，另一方面又被視為殖民統治工具？
+- 臺灣文化協會、臺灣民眾黨、臺灣地方自治聯盟的訴求有何不同？
+- 衛生、法治、守時習慣為何也算是社會文化變遷的一部分？
 
-### 1. 先抓三大主軸
-1. 教育制度：差別待遇下的新式教育。
-2. 政治社會運動：知識分子以文化與組織爭取權益。
-3. 社會文化變遷：衛生、法治、時間觀念與都會文化的出現。
-
-### 2. 常用提問句型
-- 為什麼說日治教育「有進步也有不平等」？
-- 為什麼政治社會運動沒有完全成功，卻仍然重要？
-- 哪些生活變化代表現代化？哪些又顯示殖民統治的控制？
-- 可搭配 [[segregated-education-and-modern-knowledge]]、[[time-discipline-and-modern-life]]。
-
-### 3. 本次學生可延伸的教學方向
-- 目前學生前 3 題全對，代表對基礎事實辨識已有起步掌握。
-- 接下來可提升到「原因—影響—限制」層次，而不只記事件名稱。
-- 可優先練習把 [[taiwan-cultural-association]]、[[taiwan-people-party]]、[[local-self-government-election-1935]] 放回時代脈絡中比較。
-
-### 4. 教師提醒
-- 不宜把所有現代化內容講成單向進步，教材明確呈現新舊文化衝突與城鄉差距。
-- 不宜把所有政治運動講成已達成自治，應強調其啟蒙與觀念擴散效果。
+## 針對本次學生
+- 本次學生已完成3次作答且目前3題全對，顯示基礎辨識題表現穩定。
+- 由於尚無錯題與複答紀錄，下一步可改用比較題或因果題，檢查是否只是記住答案，還是真正理解脈絡。
+- 建議從 [[history-g7-l003-student-001-exam-report]] 延伸到概念串聯，再回扣 [[history-g7-l003-core-concepts]]。
 
 ## 相關頁面
+- [[history-g7-l003-student-001-exam-report]]
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
-- [[segregated-education-and-modern-knowledge]]
-- [[time-discipline-and-modern-life]]
+- [[drive-s2-quiz]]
+- [[drive-s2-textbook]]
+- [[social-modernization-in-daily-life]]
 - [[taiwan-cultural-association]]
 - [[taiwan-people-party]]
-- [[local-self-government-election-1935]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-textbook]]
-- [[drive-s2-quiz]]
+- [[taiwan-local-autonomy-league]]
+- [[chiang-wei-shui]]
 - [[taipei-imperial-university]]
-- [[lin-hsien-tang]]
-- [[taiwan-parliament-petition-1921]]
-- [[compulsory-education-1943]]
-- [[public-health-modernization]]
-- [[urban-culture-and-industrial-modernization]]
+- [[taiwan-parliament-petition-movement]]
+- [[1935-local-election]]
+- [[1943-compulsory-education]]
+- [[modern-public-health-campaigns]]
+- [[colonial-education-vs-modern-learning]]
+- [[cultural-enlightenment-vs-political-mobilization]]
 - [[index]]

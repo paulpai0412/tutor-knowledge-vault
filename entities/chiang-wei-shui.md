@@ -1,6 +1,6 @@
 ---
-title: 臺灣文化協會
-created: '2026-05-15'
+title: 蔣渭水
+created: '2026-05-22'
 updated: '2026-05-22'
 type: entity
 tags:
@@ -9,8 +9,8 @@ tags:
 - taiwan-history
 - japanese-rule
 - social-movements
-- culture
 - politics
+- culture
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -21,29 +21,28 @@ student_id: student-001
 ---
 
 ## 簡介
-1921年成立的臺灣文化協會，是日治時期文化啟蒙的重要團體，宗旨是提升臺灣文化與啟迪民智。
+蔣渭水是教材中特別提到的重要人物，與臺灣文化協會、臺灣議會設置請願運動及臺灣民眾黨都有關聯。
 
-## 作用
-- 發行《臺灣民報》
-- 設立讀報社
-- 舉辦演講會
-- 喚起民族意識與社會改革意識
+## 教材定位
+- 知識分子代表人物
+- 主張以文化啟蒙與社會改革改善臺灣社會
+- 是理解政治社會運動發展的重要人物節點
 
 ## 圖譜連結
-- 屬於 [[history-g7-l003-core-concepts]] 中的文化啟蒙面向。
-- 常與 [[taiwan-people-party]]、[[taiwan-local-autonomy-league]] 一起比較。
-- 題目辨識可回看 [[drive-s2-quiz]]。
+- 所在脈絡見 [[history-g7-l003-core-concepts]]。
+- 相關組織可連到 [[taiwan-cultural-association]] 與 [[taiwan-people-party]]。
+- 題目辨識可參考 [[drive-s2-quiz]]。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
+- [[taiwan-cultural-association]]
 - [[taiwan-people-party]]
-- [[taiwan-local-autonomy-league]]
 - [[drive-s2-quiz]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
-- [[chiang-wei-shui]]
+- [[taiwan-local-autonomy-league]]
 - [[taipei-imperial-university]]
 - [[taiwan-parliament-petition-movement]]
 - [[1935-local-election]]

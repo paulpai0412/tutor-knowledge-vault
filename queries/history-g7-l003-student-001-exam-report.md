@@ -1,7 +1,7 @@
 ---
 title: 學生 student-001 測驗報告：日治時期的社會與文化
 created: '2026-05-04'
-updated: '2026-05-21'
+updated: '2026-05-22'
 type: summary
 tags:
 - history
@@ -9,8 +9,7 @@ tags:
 - exam-analysis
 - student-progress
 - taiwan-history
-- japanese-rule
-- education
+- lesson
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -22,45 +21,48 @@ student_id: student-001
 ---
 
 ## 作答摘要
+- 學生：student-001
+- 課程：日治時期的社會與文化
+- 已作答次數：3
+- 目前答對題數：3
+- 目前未訂正錯題：0
+- 錯題清單：無
 
-本頁根據 [[drive-s2-quiz]] 的進度摘要整理，並建議回看 [[history-g7-l003-core-concepts]] 與 [[history-g7-l003-teaching-focus]]。
-
-- attempted_answers: 3
-- unique_questions: 3
-- currently_correct_questions: 3
-- outstanding_wrong_questions: 0
-- wrong_question_ids: 無
-
-## 已掌握內容
-- 第 1 題：能辨識第一所專收臺人子弟的中學是臺中中學校。
-- 第 2 題：能辨識新式休閒場所增加與工商業發達有關。
-- 第 3 題：能辨識臺灣人所成立的第一個政黨是臺灣民眾黨。
-- 可連到 [[taiwan-people-party]]、[[urban-culture-and-industrial-modernization]]。
+## 已答對題目
+- 第1題：臺中中學校
+- 第2題：工商業日漸發達
+- 第3題：臺灣民眾黨
 
 ## 表現解讀
-- 目前資料只涵蓋前 3 題，且皆一次答對。
-- 這表示學生對課文中的基礎名詞、學校名稱與現代化現象已有初步掌握。
-- 但尚未看到後續題目，因此不能推論對整章所有細節、時序與因果都已穩定掌握。
+- 目前學生能正確辨識中等教育代表案例、都會文化形成的背景，以及臺灣人第一個政黨。
+- 這表示學生在「教育發展」「工商業與都市文化」「政治社會運動基本名詞」三個面向已有初步掌握。
+- 但因作答樣本僅3題，仍不足以判定整課已全面穩固，尤其尚未直接檢驗公共衛生、守時制度、地方自治成果有限等概念。
 
 ## 後續建議
-- 下一步可加強事件排序、運動目的與成果限制的比較。
-- 可優先複習 [[taiwan-parliament-petition-1921]]、[[local-self-government-election-1935]]、[[segregated-education-and-modern-knowledge]]。
+- 先回讀 [[history-g7-l003-core-concepts]]，把三題放回完整歷史脈絡。
+- 再參考 [[history-g7-l003-teaching-focus]] 用比較題或因果題加深理解。
+- 若日後出現新錯題，可補充到 [[history-g7-l003-misconceptions]]。
+
+## 來源連結
+- [[drive-s2-quiz]]
+- [[drive-s2-textbook]]
 
 ## 相關頁面
-- [[drive-s2-quiz]]
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
-- [[taiwan-people-party]]
-- [[urban-culture-and-industrial-modernization]]
-- [[taiwan-parliament-petition-1921]]
-- [[local-self-government-election-1935]]
-- [[segregated-education-and-modern-knowledge]]
 - [[history-g7-l003-misconceptions]]
+- [[drive-s2-quiz]]
 - [[drive-s2-textbook]]
 - [[taiwan-cultural-association]]
+- [[taiwan-people-party]]
+- [[taiwan-local-autonomy-league]]
+- [[chiang-wei-shui]]
 - [[taipei-imperial-university]]
-- [[lin-hsien-tang]]
-- [[compulsory-education-1943]]
-- [[public-health-modernization]]
-- [[time-discipline-and-modern-life]]
+- [[taiwan-parliament-petition-movement]]
+- [[1935-local-election]]
+- [[1943-compulsory-education]]
+- [[modern-public-health-campaigns]]
+- [[colonial-education-vs-modern-learning]]
+- [[social-modernization-in-daily-life]]
+- [[cultural-enlightenment-vs-political-mobilization]]
 - [[index]]

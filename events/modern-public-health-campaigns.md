@@ -1,55 +1,54 @@
 ---
-title: 臺灣文化協會
-created: '2026-05-15'
+title: 現代公共衛生推行
+created: '2026-05-22'
 updated: '2026-05-22'
-type: entity
+type: summary
 tags:
 - history
-- entity
+- event
 - taiwan-history
 - japanese-rule
-- social-movements
+- public-health
+- modernization
 - culture
-- politics
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
-- wiki/exams/history/g7/l003/drive-s2-quiz.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
+- wiki/students/student-001/progress/history/g7/l003/summary.md
 confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 簡介
-1921年成立的臺灣文化協會，是日治時期文化啟蒙的重要團體，宗旨是提升臺灣文化與啟迪民智。
+## 事件概要
+日治時期總督府陸續建立西式醫院、辦理預防注射，並興建自來水與下水道等設施，以防治傳染病。
 
-## 作用
-- 發行《臺灣民報》
-- 設立讀報社
-- 舉辦演講會
-- 喚起民族意識與社會改革意識
+## 歷史意義
+- 衛生觀念逐漸普及
+- 死亡率下降、人口增加
+- 社會生活開始受到現代公共治理影響
 
 ## 圖譜連結
-- 屬於 [[history-g7-l003-core-concepts]] 中的文化啟蒙面向。
-- 常與 [[taiwan-people-party]]、[[taiwan-local-autonomy-league]] 一起比較。
-- 題目辨識可回看 [[drive-s2-quiz]]。
+- 屬於 [[social-modernization-in-daily-life]] 的重要內容。
+- 整體脈絡見 [[history-g7-l003-core-concepts]]。
+- 來源對照 [[drive-s2-textbook]] 與 [[drive-s2-quiz]]。
 
 ## 相關頁面
+- [[social-modernization-in-daily-life]]
 - [[history-g7-l003-core-concepts]]
-- [[taiwan-people-party]]
-- [[taiwan-local-autonomy-league]]
+- [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-textbook]]
+- [[taiwan-cultural-association]]
+- [[taiwan-people-party]]
+- [[taiwan-local-autonomy-league]]
 - [[chiang-wei-shui]]
 - [[taipei-imperial-university]]
 - [[taiwan-parliament-petition-movement]]
 - [[1935-local-election]]
 - [[1943-compulsory-education]]
-- [[modern-public-health-campaigns]]
 - [[colonial-education-vs-modern-learning]]
-- [[social-modernization-in-daily-life]]
 - [[cultural-enlightenment-vs-political-mobilization]]
 - [[index]]
