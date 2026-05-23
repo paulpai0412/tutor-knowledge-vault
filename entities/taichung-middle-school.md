@@ -1,16 +1,15 @@
 ---
-title: 臺灣民眾黨
-created: '2026-05-21'
+title: 臺中中學校
+created: '2026-05-23'
 updated: '2026-05-23'
 type: entity
 tags:
 - history
 - entity
+- grade-7
 - taiwan-history
 - japanese-rule
-- social-movements
-- politics
-- local-autonomy
+- education
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -22,25 +21,25 @@ student_id: student-001
 
 ## 概要
 
-臺灣民眾黨成立於 1927 年，教材明確指出它是臺灣人成立的第一個政黨，與蔣渭水有關，並宣傳民權、自治等概念，也積極扶助農工運動。
+臺中中學校於 1915 年成立，是教材所列第一所專收臺灣人的中學。它反映日治初期普通中學主要招收日本人，而臺灣人的中等教育機會較晚才逐步出現。
 
-## 教學意義
+## 概念連結
 
-- 它是政治社會運動的代表節點。
-- 學生常需要分清楚它和 [[taiwan-cultural-association]] 的功能差異。
-- 在評量中，它也是高頻辨識點，可與 [[history-g7-l003-student-001-exam-report]] 對照。
+- 它可作為「差別待遇教育」的具體例子。
+- 也能幫助學生理解現代教育擴張與不平等並存的情況。
+- 在學生作答紀錄中，它已出現在 [[history-g7-l003-student-001-exam-report]]。
 
 ## 相關頁面
-- [[taiwan-cultural-association]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[history-g7-l003-core-concepts]]
-- [[cultural-enlightenment-vs-political-movements]]
-- [[drive-s2-quiz]]
 - [[history-g7-l003-misconceptions]]
+- [[drive-s2-quiz]]
 - [[history-g7-l003-teaching-focus]]
 - [[drive-s2-textbook]]
-- [[taichung-middle-school]]
+- [[taiwan-cultural-association]]
+- [[taiwan-people-party]]
 - [[1935-local-council-election]]
 - [[1943-compulsory-education]]
+- [[cultural-enlightenment-vs-political-movements]]
 - [[modernization-with-inequality]]
 - [[index]]

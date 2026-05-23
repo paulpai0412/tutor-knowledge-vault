@@ -1,7 +1,7 @@
 ---
-title: 學生 student-001 測驗報告：日治時期的社會與文化
+title: student-001 第3課評量摘要：日治時期的社會與文化
 created: '2026-05-04'
-updated: '2026-05-22'
+updated: '2026-05-23'
 type: summary
 tags:
 - history
@@ -9,7 +9,8 @@ tags:
 - exam-analysis
 - student-progress
 - taiwan-history
-- lesson
+- japanese-rule
+- education
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -21,48 +22,45 @@ student_id: student-001
 ---
 
 ## 作答摘要
+
 - 學生：student-001
-- 課程：日治時期的社會與文化
-- 已作答次數：3
+- 作答次數：3
 - 目前答對題數：3
-- 目前未訂正錯題：0
-- 錯題清單：無
+- 待訂正錯題：0
+- wrong_question_ids：none
 
-## 已答對題目
-- 第1題：臺中中學校
-- 第2題：工商業日漸發達
-- 第3題：臺灣民眾黨
+## 已掌握的題目證據
 
-## 表現解讀
-- 目前學生能正確辨識中等教育代表案例、都會文化形成的背景，以及臺灣人第一個政黨。
-- 這表示學生在「教育發展」「工商業與都市文化」「政治社會運動基本名詞」三個面向已有初步掌握。
-- 但因作答樣本僅3題，仍不足以判定整課已全面穩固，尤其尚未直接檢驗公共衛生、守時制度、地方自治成果有限等概念。
+- q-1：能辨識第一所專收臺人子弟的中學是 [[taichung-middle-school]]。
+- q-2：能判斷新式休閒場所增加與工商業發達有關。
+- q-3：能辨識第一個由臺灣人成立的政黨是 [[taiwan-people-party]]。
+
+## 學習判讀
+
+目前紀錄顯示學生對基礎名詞與代表性事例有初步掌握，尤其在學校、政黨與社會經濟現象的對應上表現正確。不過，目前只覆蓋 3 題，仍不足以判定學生是否已穩定掌握整課的重要比較概念，例如差別待遇、自治成果有限，以及文化啟蒙與政治運動的區分。
 
 ## 後續建議
-- 先回讀 [[history-g7-l003-core-concepts]]，把三題放回完整歷史脈絡。
-- 再參考 [[history-g7-l003-teaching-focus]] 用比較題或因果題加深理解。
-- 若日後出現新錯題，可補充到 [[history-g7-l003-misconceptions]]。
+
+- 先回看 [[history-g7-l003-core-concepts]]，確認三大主軸是否能口頭說明。
+- 再利用 [[history-g7-l003-misconceptions]] 做概念辨析，而不只是背答案。
+- 教師可依 [[history-g7-l003-teaching-focus]] 補問原因型題目，確認是否真正理解。
 
 ## 來源連結
+
 - [[drive-s2-quiz]]
 - [[drive-s2-textbook]]
 
 ## 相關頁面
+- [[taichung-middle-school]]
+- [[taiwan-people-party]]
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-teaching-focus]]
 - [[drive-s2-quiz]]
 - [[drive-s2-textbook]]
 - [[taiwan-cultural-association]]
-- [[taiwan-people-party]]
-- [[taiwan-local-autonomy-league]]
-- [[chiang-wei-shui]]
-- [[taipei-imperial-university]]
-- [[taiwan-parliament-petition-movement]]
-- [[1935-local-election]]
+- [[1935-local-council-election]]
 - [[1943-compulsory-education]]
-- [[modern-public-health-campaigns]]
-- [[colonial-education-vs-modern-learning]]
-- [[social-modernization-in-daily-life]]
-- [[cultural-enlightenment-vs-political-mobilization]]
+- [[cultural-enlightenment-vs-political-movements]]
+- [[modernization-with-inequality]]
 - [[index]]

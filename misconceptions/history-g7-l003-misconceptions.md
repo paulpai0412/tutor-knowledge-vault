@@ -1,8 +1,8 @@
 ---
-title: 日治時期的社會與文化常見迷思
+title: 國一下歷史第3課常見迷思：日治時期的社會與文化
 created: '2026-05-04'
-updated: '2026-05-22'
-type: concept
+updated: '2026-05-23'
+type: summary
 tags:
 - history
 - grade-7
@@ -11,7 +11,6 @@ tags:
 - japanese-rule
 - education
 - social-movements
-- modernization
 - culture
 sources:
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
@@ -21,38 +20,35 @@ student_id: student-001
 ---
 
 ## 常見迷思
-1. 「有現代教育」不等於「教育平等」。教材明確指出日治初期教育採差別待遇與隔離原則，日本人、臺灣人與原住民所受教育條件不同。
-2. 「就學率提高」不等於「沒有歧視」。即使臺灣人就學率上升，與在臺日人之間仍存在明顯差距。
-3. 「政治社會運動」不只是單一組織。臺灣文化協會、臺灣議會設置請願運動、臺灣民眾黨、臺灣地方自治聯盟各有不同功能與訴求。
-4. 「現代化」不只是都市娛樂增加，也包含衛生、法治、時間制度與生活規律的改變。
-5. 「地方自治有進展」不等於「真正完全自治」。1935年地方議員選舉具有象徵意義，但成果有限。
 
-## 本次學生情況
-- 目前提供的作答紀錄只有3題，且全部答對，未留下持續性的錯題證據。
-- 因此，本頁整理的是教材與測驗最可能出現的概念混淆，而不是已確認的個人長期誤解。
-- 本次可視為「目前未觀察到未解決迷思」，但仍建議持續檢查學生是否能分辨組織、事件與制度之間的差異。
+根據目前提供的評量紀錄，學生已作答 3 題且目前 3 題皆答對，沒有 outstanding wrong questions，因此沒有可直接指認的未解決迷思。不過，從本課內容與題型設計來看，仍可整理出幾種高機率混淆點。
 
-## 教學連結
-- 可先對照 [[history-g7-l003-core-concepts]]，再用 [[history-g7-l003-teaching-focus]] 安排澄清活動。
-- 若要追蹤學生個別表現，可搭配 [[history-g7-l003-student-001-exam-report]]。
-- 相關題材來源見 [[drive-s2-textbook]] 與 [[drive-s2-quiz]]。
+1. 把「現代化」誤解成「人人平等」：日治時期確實建立現代教育、衛生與司法制度，但教育上仍有明顯差別待遇。
+2. 把「有選舉」誤解成「已完全自治」：[[1935-local-council-election]] 具有啟蒙意義，但成果有限，不能等同真正全面自治。
+3. 把「文化啟蒙」與「政黨運動」混為一談：[[taiwan-cultural-association]] 偏向啟迪民智與文化改革，[[taiwan-people-party]] 則更接近政治組織與民權訴求。
+4. 把「新生活方式出現」理解成「傳統文化消失」：教材強調的是新舊文化調適與並存。
+
+## 本次學生狀態
+
+- 已答對題目集中在臺中中學校、工商業發達與臺灣民眾黨。
+- 目前證據顯示學生對基礎識別題已有掌握。
+- 但因作答樣本只有 3 題，尚不能判定其是否真正掌握制度意義與概念比較。
+
+## 教學提醒
+
+若後續複習時學生把制度名稱背對，卻說不出原因與影響，表示理解仍停留在記憶層次，可回到 [[history-g7-l003-core-concepts]] 與 [[history-g7-l003-teaching-focus]] 做概念連結。
 
 ## 相關頁面
+- [[1935-local-council-election]]
+- [[taiwan-cultural-association]]
+- [[taiwan-people-party]]
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[taiwan-cultural-association]]
-- [[1935-local-election]]
-- [[colonial-education-vs-modern-learning]]
-- [[taiwan-people-party]]
-- [[taiwan-local-autonomy-league]]
-- [[chiang-wei-shui]]
-- [[taipei-imperial-university]]
-- [[taiwan-parliament-petition-movement]]
+- [[drive-s2-textbook]]
+- [[taichung-middle-school]]
 - [[1943-compulsory-education]]
-- [[modern-public-health-campaigns]]
-- [[social-modernization-in-daily-life]]
-- [[cultural-enlightenment-vs-political-mobilization]]
+- [[cultural-enlightenment-vs-political-movements]]
+- [[modernization-with-inequality]]
 - [[index]]
