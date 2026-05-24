@@ -1,7 +1,7 @@
 ---
-title: 國一下歷史第3課核心概念：日治時期的社會與文化
+title: 日治時期的社會與文化核心概念
 created: '2026-05-04'
-updated: '2026-05-23'
+updated: '2026-05-24'
 type: concept
 tags:
 - history
@@ -25,37 +25,41 @@ student_id: student-001
 
 ## 核心概念
 
-日治時期的臺灣社會與文化，可從三條主線理解：教育制度、文化啟蒙與政治社會運動、以及新舊文化的調適。這些變化彼此連動，並不是彼此孤立的現象。
+本課可用三條主線理解日治時期的社會與文化：第一是總督府以教育制度推動統治、同化與人才培養；第二是知識分子在新式教育與時代思潮影響下，發展文化啟蒙與政治社會運動；第三是現代衛生、法治、守時與都會生活逐步改變臺灣社會，形成新舊文化並存的局面。
 
-1. 教育方面，總督府建立現代學校體系，但採取差別待遇與隔離原則；教育一方面是統治與同化工具，另一方面也讓部分臺灣人取得現代知識。
-2. 知識分子在受教育與留學後，進一步推動文化啟蒙與政治社會運動，例如 [[taiwan-cultural-association]]、[[taiwan-people-party]]。
-3. 在社會生活上，衛生、法治、守時與都市休閒文化逐漸普及，但傳統文化並未完全消失，形成新舊交融的面貌。
+## 重要關係
 
-## 關係整理
+- 教育制度不是單純讓人民讀書，也帶有統治與同化目的。
+- 新式教育與留學經驗培養出知識分子，成為推動[[taiwan-cultural-association]]、[[taiwan-peoples-party]]等行動的重要力量。
+- 社會變遷不只表現在政治，也表現在日常生活，例如衛生觀念、時間制度、服飾與都市休閒空間。
+- 現代化帶來改變，但並非全面一致，都市與鄉村之間仍有差距。
 
-- 教育制度帶來現代知識，卻同時存在不平等。
-- 現代知識促成知識分子參與自治、民權與文化改革。
-- 現代化生活習慣的建立，不等於傳統文化完全被取代。
-- 日治時期的社會變化，常同時包含「控制」與「改變」兩面。
+## 概念串聯
 
-## 重要例子
+1. 差別待遇的教育制度
+   - 日本人、臺灣人、原住民接受不同型態的初等教育。
+   - 就學率提升，不代表教育平等已經實現。
 
-- 初等教育中的小學校、公學校與蕃童教育所，反映差別待遇。
-- [[taichung-middle-school]] 的成立，顯示臺灣人爭取受教權的過程。
-- [[1935-local-council-election]] 讓臺灣民眾第一次實際接觸投票與自治概念。
-- [[1943-compulsory-education]] 反映戰時後期教育制度的進一步調整。
+2. 文化啟蒙與自治意識
+   - 1920年代知識分子受民族自決思潮刺激。
+   - 從文化啟蒙逐步延伸到議會請願、政黨、地方自治等訴求。
+
+3. 新舊文化交融
+   - 衛生、司法、時間制度與都會文化改變生活方式。
+   - 傳統風俗未完全消失，社會呈現調適與並存。
 
 ## 相關頁面
 - [[taiwan-cultural-association]]
-- [[taiwan-people-party]]
-- [[taichung-middle-school]]
-- [[1935-local-council-election]]
-- [[1943-compulsory-education]]
+- [[taiwan-peoples-party]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[cultural-enlightenment-vs-political-movements]]
-- [[modernization-with-inequality]]
+- [[taipei-imperial-university]]
+- [[event-1921-cultural-and-petition-movement]]
+- [[event-1935-local-election]]
+- [[event-1943-compulsory-education]]
+- [[comparison-elementary-education-segregation]]
+- [[comparison-cultural-enlightenment-vs-political-movements]]
 - [[index]]
