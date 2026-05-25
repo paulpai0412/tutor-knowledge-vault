@@ -2,35 +2,39 @@
 
 > Content catalog for the derived tutor knowledge wiki.
 > Open this vault in Obsidian to browse `[[wikilinks]]` and graph view.
-> Last updated: 2026-05-24 15:02 UTC | Total pages: 15
+> Last updated: 2026-05-25 15:03 UTC | Total pages: 19
 
 ## Concepts
-- [[history-g7-l003-core-concepts]] — 本課重點在於理解日治時期的現代教育、文化啟蒙與政治社會運動，以及新舊文化交融下的社會變遷。
+- [[history-g7-l003-core-concepts]] — 本課重點在於理解日治時期的教育、政治社會運動與新舊文化變遷之間彼此連動的關係。
 
 ## Misconceptions
-- [[history-g7-l003-misconceptions]] — 目前作答紀錄顯示學生已答對已嘗試題目，但本課常見迷思仍集中在教育不平等、政治社會運動目的與現代化影響的判讀。
+- [[history-g7-l003-misconceptions]] — 本次作答樣本中沒有留下未解決錯題，但本課常見迷思多集中在現代化與殖民統治並存、以及文化運動與政治運動的區分。
 
 ## Teaching Notes
-- [[history-g7-l003-teaching-focus]] — 教學上宜先釐清教育制度的差別待遇，再串聯文化啟蒙、自治訴求與日常生活變遷，幫助學生建立因果關係。
+- [[history-g7-l003-teaching-focus]] — 教學上宜同時強調殖民統治下的差別待遇、知識分子運動的脈絡，以及生活現代化與傳統文化調適並存。
 
 ## Sources
-- [[drive-s2-quiz]] — 此來源筆記整理測驗版本中實際出題的重點，顯示題目集中檢驗教育、自治運動、現代化生活與文化啟蒙。
-- [[drive-s2-textbook]] — 此來源筆記整理課本版本中關於日治時期教育、政治社會運動與社會文化變遷的核心資訊。
+- [[drive-s2-quiz]] — 這份測驗來源主要檢查學生對日治時期教育、自治運動、政治組織與社會文化變遷的辨識與理解。
+- [[drive-s2-textbook]] — 這份教材來源重點描述日治時期的教育制度、文化啟蒙與政治社會運動，以及社會生活的新舊文化變遷。
 
 ## Entities
-- [[taipei-imperial-university]] — 臺北帝國大學於1928年設立，是日治時期代表性的高等教育機構。
-- [[taiwan-cultural-association]] — 臺灣文化協會是1921年成立的文化啟蒙團體，透過辦報、演講與讀報社喚起民智與本土意識。
-- [[taiwan-peoples-party]] — 臺灣民眾黨是1927年由臺灣人成立的第一個政黨，主張民權、自治並扶助農工運動。
+- [[education-stratification-under-japanese-rule]] — 日治時期教育一面引進現代制度，一面以族群區分學校與資源，呈現明顯的差別待遇。
+- [[taiwan-cultural-association]] — 臺灣文化協會是1921年成立的文化啟蒙組織，透過讀報、演講與刊物喚起民智與民族意識。
+- [[taiwan-local-autonomy-league]] — 臺灣地方自治聯盟是1930年成立、主張地方自治的組織，與1935年首次地方議員選舉的歷史脈絡相關。
+- [[taiwan-peoples-party]] — 臺灣民眾黨是1927年成立、由臺灣人成立的第一個政黨，主張民權、自治並扶助農工運動。
+- [[urban-culture-in-japanese-era-taiwan]] — 日治時期在都市中出現公園、百貨公司與新式餐廳等場所，反映工商業發展與新生活風尚的形成。
 
 ## Events
-- [[event-1921-cultural-and-petition-movement]] — 1921年同時出現臺灣文化協會與臺灣議會設置請願運動，是日治時期公共意識發展的重要轉折。
-- [[event-1935-local-election]] — 1935年的首次地方議員選舉雖然限制很多，但讓臺灣民眾第一次實際接觸投票與自治觀念。
-- [[event-1943-compulsory-education]] — 1943年開始實施六年國民義務教育，是日治晚期教育制度的重要變化。
+- [[first-local-council-election-1935]] — 1935年首次地方議員選舉讓臺灣民眾初步接觸投票與自治觀念，但自治成果仍有限。
+- [[taichung-middle-school-1915]] — 1915年臺中中學校設立，是第一所專收臺灣人子弟的中學，反映中等教育差別待遇下的變化。
+- [[taiwan-cultural-association-founded-1921]] — 1921年臺灣文化協會成立，象徵日治時期文化啟蒙運動的重要起點。
+- [[taiwan-peoples-party-founded-1927]] — 1927年臺灣民眾黨成立，代表臺灣政治社會運動進一步發展到政黨組織層次。
 
 ## Comparisons
-- [[comparison-cultural-enlightenment-vs-political-movements]] — 文化啟蒙重在提升民智與思想啟發，政治社會運動則更直接訴求制度改革、自治與權利爭取。
-- [[comparison-elementary-education-segregation]] — 日治時期初等教育雖屬現代學校制度，但日本人、臺灣人與原住民所受教育條件明顯不同。
+- [[cultural-enlightenment-vs-political-movement]] — 文化啟蒙重在提升民智與社會風氣，政治社會運動則更直接聚焦自治、民權與制度改革。
+- [[modernization-vs-colonial-control]] — 日治時期的社會改革既帶來現代制度，也服務於殖民統治，因此需要從並存而非單線進步的角度理解。
+- [[taiwan-parliament-petition-movement]] — 臺灣議會設置請願運動以請願方式爭取設立臺灣議會，展現臺灣人追求自治與制衡總督權力的努力。
 
 ## Queries
 - [[history-g7-l003-knowledge-sync-plan]] — 知識同步方案
-- [[history-g7-l003-student-001-exam-report]] — 此學生目前在已作答的3題中全數答對，暫無未解決錯題，但覆蓋範圍仍有限。
+- [[history-g7-l003-student-001-exam-report]] — student-001 目前已作答 3 次且 3 題皆正確，暫無未訂正錯題，但可用證據仍屬小樣本。

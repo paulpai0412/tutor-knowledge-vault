@@ -1,16 +1,18 @@
 ---
 title: 日治時期的社會與文化常見迷思
 created: '2026-05-04'
-updated: '2026-05-24'
+updated: '2026-05-25'
 type: summary
 tags:
 - history
 - grade-7
+- lesson
 - misconception
+- taiwan-history
+- japanese-rule
 - education
 - social-movements
-- culture
-- student-progress
+- modernization
 sources:
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 confidence: medium
@@ -18,44 +20,39 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
+# [[history-g7-l003-misconceptions]]
+
 ## 常見迷思
+### 1. 把「現代化」直接等同於「平等進步」
+本課最容易混淆的是：日治時期確實引進現代教育、衛生與時間制度，但教育上仍存在差別待遇與隔離原則，因此不能只看到現代化的一面，而忽略殖民統治的控制性。
 
-依目前紀錄，學生已完成的3題皆作答正確，且沒有未解決錯題，因此看不出明確且持續存在的個人迷思。不過，根據本課內容與測驗題型，仍可整理出幾類高機率混淆點，供後續教學追蹤。
+### 2. 把文化啟蒙與政治社會運動當成同一件事
+[[taiwan-cultural-association]] 偏重啟迪民智、演講、讀報與文化啟蒙；[[taiwan-peoples-party]]、[[taiwan-parliament-petition-movement]]、[[taiwan-local-autonomy-league]] 則更直接涉及自治、民權與參政訴求。
 
-### 1. 把「就學率提升」誤解成「教育已經平等」
-- 課文明確指出日治初期教育採差別待遇與隔離原則。
-- 就學率上升，並不代表日本人與臺灣人受教育條件相同。
-- 這一點可對照[[history-g7-l003-core-concepts]]與[[comparison-elementary-education-segregation]]。
-
-### 2. 把文化啟蒙與政治社會運動混成同一件事
-- 文化啟蒙偏重提升民智、辦報、演講、讀報社。
-- 政治社會運動偏重議會請願、政黨、地方自治等公共權利訴求。
-- 兩者彼此相關，但功能不完全相同，可連到[[taiwan-cultural-association]]與[[taiwan-peoples-party]]。
-
-### 3. 把現代化只看成「進步」，忽略其統治面
-- 課文中的衛生、法治、守時與都市建設，確實改變生活。
-- 但教材也指出教育與制度推行同時服務統治與社會控制。
-- 教學時應同時看見改變與權力作用，參考[[history-g7-l003-teaching-focus]]與[[event-1943-compulsory-education]].
+### 3. 以為地方議員選舉等於已經完全自治
+1935年地方議員選舉的意義，在於讓臺灣民眾初步接觸投票與自治觀念，但成果仍有限，不能理解成臺灣議會已經成功設立。
 
 ## 本次學生狀態
-
-- 已嘗試題數：3
-- 目前答對題數：3
-- 未完成訂正錯題：0
-- 因資料僅涵蓋3題，暫時只能判定「目前沒有留存迷思」，不能直接推論全課所有概念都完全穩固。
+- 目前提供的作答紀錄只有 3 題，且 3 題皆答對。
+- 目前沒有 outstanding wrong questions，因此沒有可確認的個人化錯誤模式。
+- 因樣本數很少，這一頁以「本課常見迷思」為主，不能過度推論學生已完全掌握全部內容。
 
 ## 相關頁面
-- [[history-g7-l003-core-concepts]]
-- [[comparison-elementary-education-segregation]]
 - [[taiwan-cultural-association]]
 - [[taiwan-peoples-party]]
+- [[taiwan-parliament-petition-movement]]
+- [[taiwan-local-autonomy-league]]
+- [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
-- [[event-1943-compulsory-education]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[taipei-imperial-university]]
-- [[event-1921-cultural-and-petition-movement]]
-- [[event-1935-local-election]]
-- [[comparison-cultural-enlightenment-vs-political-movements]]
+- [[drive-s2-textbook]]
+- [[education-stratification-under-japanese-rule]]
+- [[urban-culture-in-japanese-era-taiwan]]
+- [[taiwan-cultural-association-founded-1921]]
+- [[taiwan-peoples-party-founded-1927]]
+- [[first-local-council-election-1935]]
+- [[taichung-middle-school-1915]]
+- [[modernization-vs-colonial-control]]
+- [[cultural-enlightenment-vs-political-movement]]
 - [[index]]

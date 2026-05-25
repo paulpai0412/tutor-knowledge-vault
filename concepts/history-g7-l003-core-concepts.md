@@ -1,7 +1,7 @@
 ---
 title: 日治時期的社會與文化核心概念
 created: '2026-05-04'
-updated: '2026-05-24'
+updated: '2026-05-25'
 type: concept
 tags:
 - history
@@ -23,43 +23,41 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
+# [[history-g7-l003-core-concepts]]
+
 ## 核心概念
+- 日治時期的教育制度具有「現代化」與「差別待遇」兩面性：一方面引進新式教育與現代知識，另一方面又以隔離原則區分日本人、臺灣人與原住民。
+- 新式教育與海外留學培養出的知識分子，成為後來推動 [[taiwan-cultural-association]]、[[taiwan-peoples-party]] 等文化啟蒙與政治社會運動的重要力量。
+- 1920年代以後，臺灣知識分子受到民族自決思潮影響，開始爭取自治、民權與參政，並透過請願、組織與演講等方式擴散政治意識。
+- 社會生活方面，總督府推動公共衛生、法治與守時觀念，也帶來都市休閒與消費文化，使臺灣社會呈現新舊文化交融的面貌。
 
-本課可用三條主線理解日治時期的社會與文化：第一是總督府以教育制度推動統治、同化與人才培養；第二是知識分子在新式教育與時代思潮影響下，發展文化啟蒙與政治社會運動；第三是現代衛生、法治、守時與都會生活逐步改變臺灣社會，形成新舊文化並存的局面。
+## 關係整理
+1. 教育制度不只是學習安排，也服務於統治與同化。
+2. 教育帶來的知識分子，進一步推動文化啟蒙與政治社會運動。
+3. 現代化措施改變生活習慣，但並沒有完全消除原有傳統，而是形成調適與並存。
 
-## 重要關係
-
-- 教育制度不是單純讓人民讀書，也帶有統治與同化目的。
-- 新式教育與留學經驗培養出知識分子，成為推動[[taiwan-cultural-association]]、[[taiwan-peoples-party]]等行動的重要力量。
-- 社會變遷不只表現在政治，也表現在日常生活，例如衛生觀念、時間制度、服飾與都市休閒空間。
-- 現代化帶來改變，但並非全面一致，都市與鄉村之間仍有差距。
-
-## 概念串聯
-
-1. 差別待遇的教育制度
-   - 日本人、臺灣人、原住民接受不同型態的初等教育。
-   - 就學率提升，不代表教育平等已經實現。
-
-2. 文化啟蒙與自治意識
-   - 1920年代知識分子受民族自決思潮刺激。
-   - 從文化啟蒙逐步延伸到議會請願、政黨、地方自治等訴求。
-
-3. 新舊文化交融
-   - 衛生、司法、時間制度與都會文化改變生活方式。
-   - 傳統風俗未完全消失，社會呈現調適與並存。
+## 重要連結
+- 教育制度的差別待遇，可對照 [[education-stratification-under-japanese-rule]]。
+- 政治社會運動的組織與主張，可連到 [[taiwan-cultural-association]]、[[taiwan-peoples-party]]、[[taiwan-local-autonomy-league]]。
+- 學生目前的作答結果整理於 [[history-g7-l003-student-001-exam-report]]，而常見誤解整理於 [[history-g7-l003-misconceptions]]。
+- 原始教材來源請見 [[drive-s2-textbook]]，測驗來源請見 [[drive-s2-quiz]]。
 
 ## 相關頁面
 - [[taiwan-cultural-association]]
 - [[taiwan-peoples-party]]
-- [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-teaching-focus]]
+- [[education-stratification-under-japanese-rule]]
+- [[taiwan-local-autonomy-league]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-misconceptions]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[taipei-imperial-university]]
-- [[event-1921-cultural-and-petition-movement]]
-- [[event-1935-local-election]]
-- [[event-1943-compulsory-education]]
-- [[comparison-elementary-education-segregation]]
-- [[comparison-cultural-enlightenment-vs-political-movements]]
+- [[history-g7-l003-teaching-focus]]
+- [[urban-culture-in-japanese-era-taiwan]]
+- [[taiwan-cultural-association-founded-1921]]
+- [[taiwan-peoples-party-founded-1927]]
+- [[first-local-council-election-1935]]
+- [[taichung-middle-school-1915]]
+- [[modernization-vs-colonial-control]]
+- [[cultural-enlightenment-vs-political-movement]]
+- [[taiwan-parliament-petition-movement]]
 - [[index]]

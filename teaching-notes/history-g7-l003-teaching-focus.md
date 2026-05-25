@@ -1,67 +1,73 @@
 ---
 title: 日治時期的社會與文化教學重點
 created: '2026-05-04'
-updated: '2026-05-24'
+updated: '2026-05-25'
 type: summary
 tags:
 - history
 - grade-7
 - teaching-strategy
 - education
-- social-movements
 - modernization
+- social-movements
 - culture
+- student-progress
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 - wiki/students/student-001/progress/history/g7/l003/summary.md
-confidence: high
+confidence: medium
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
+# [[history-g7-l003-teaching-focus]]
+
 ## 教學提示
+### 1. 先抓三條主線
+可將本課整理成三條主線：
+- 教育制度：現代教育 + 差別待遇
+- 政治社會運動：文化啟蒙 + 自治訴求
+- 社會文化變遷：衛生、守時、法治與都市文化
 
-本課最適合用「制度 → 知識分子 → 社會運動 → 生活改變」的因果鏈來教，避免學生把零散名詞背成沒有關聯的事件。
+### 2. 強調「一體兩面」
+學生常把教材讀成單向的進步史，因此教學時可反覆提醒：
+- 教育提升識字與知識，但也是統治工具。
+- 衛生與時間制度改善生活，但也和社會控制有關。
+- 新文化進入社會，但傳統並未完全消失，而是與新制度並存。
+可搭配 [[education-stratification-under-japanese-rule]] 與 [[modernization-vs-colonial-control]] 做對照。
 
-## 可重用教學焦點
+### 3. 區分組織、事件與目標
+可引導學生用「誰做的、想做什麼、結果如何」來分辨：
+- [[taiwan-cultural-association]]：文化啟蒙
+- [[taiwan-peoples-party]]：政黨、民權與自治
+- [[taiwan-local-autonomy-league]]：地方自治
+- [[taiwan-parliament-petition-movement]]：請願設置議會
 
-### 1. 先抓一個核心矛盾：現代化不等於平等
-- 日治時期引進現代教育、衛生與司法制度。
-- 但教育制度本身仍帶有差別待遇與殖民統治目的。
-- 可先讓學生看[[comparison-elementary-education-segregation]]，再回扣[[history-g7-l003-core-concepts]]。
+### 4. 目前學生進度的可用訊號
+- 目前 3 次作答皆正確，顯示對部分基礎辨識題已有掌握。
+- 但作答只覆蓋少量題目，建議不要過早判定整課已熟練。
 
-### 2. 用人物與團體串起運動脈絡
-- 以林獻堂、蔣渭水相關行動作為主線，比只背年份更容易理解。
-- 先教[[taiwan-cultural-association]]的文化啟蒙，再接[[taiwan-peoples-party]]與[[event-1935-local-election]]的自治與參政觀念。
-
-### 3. 把抽象制度落回生活情境
-- 守時、星期制、標準時間、法院、西式醫院、公園與百貨公司，都是學生較容易想像的生活例子。
-- 可讓學生比較「以前的生活方式」與「新制度後的改變」，協助理解新舊文化調適。
-
-## 對本次學生的教學判讀
-
-- 目前作答紀錄顯示，學生已正確掌握已嘗試的3題。
-- 但已作答題目集中在臺中中學校、工商業與臺灣民眾黨，尚未充分驗證其對衛生、時間制度、地方自治與文化啟蒙細節的掌握。
-- 因此複習時不必急著重做已答對題，而應擴大到[[drive-s2-textbook]]中的其餘主題。
-
-## 下一步建議
-
-- 先口頭複述三條主線：教育、運動、社會文化變遷。
-- 再用[[drive-s2-quiz]]補查尚未覆蓋的題型。
+## 建議下一步教學
+- 可先讓學生口頭比較「[[taiwan-cultural-association]] 與 [[taiwan-peoples-party]] 有何不同」。
+- 再請學生說明「為什麼日治時期的教育既能培養知識分子，又帶有不平等」。
 
 ## 相關頁面
-- [[comparison-elementary-education-segregation]]
-- [[history-g7-l003-core-concepts]]
+- [[education-stratification-under-japanese-rule]]
+- [[modernization-vs-colonial-control]]
 - [[taiwan-cultural-association]]
 - [[taiwan-peoples-party]]
-- [[event-1935-local-election]]
-- [[drive-s2-textbook]]
-- [[drive-s2-quiz]]
+- [[taiwan-local-autonomy-league]]
+- [[taiwan-parliament-petition-movement]]
+- [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[taipei-imperial-university]]
-- [[event-1921-cultural-and-petition-movement]]
-- [[event-1943-compulsory-education]]
-- [[comparison-cultural-enlightenment-vs-political-movements]]
+- [[drive-s2-textbook]]
+- [[drive-s2-quiz]]
+- [[urban-culture-in-japanese-era-taiwan]]
+- [[taiwan-cultural-association-founded-1921]]
+- [[taiwan-peoples-party-founded-1927]]
+- [[first-local-council-election-1935]]
+- [[taichung-middle-school-1915]]
+- [[cultural-enlightenment-vs-political-movement]]
 - [[index]]

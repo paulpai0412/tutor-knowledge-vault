@@ -1,13 +1,15 @@
 ---
-title: 學生 student-001 日治時期的社會與文化測驗報告
+title: student-001 日治時期的社會與文化測驗報告
 created: '2026-05-04'
-updated: '2026-05-24'
+updated: '2026-05-25'
 type: summary
 tags:
 - history
 - grade-7
 - exam-analysis
 - student-progress
+- taiwan-history
+- japanese-rule
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -18,46 +20,47 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
+# [[history-g7-l003-student-001-exam-report]]
+
 ## 作答摘要
+- lesson_group_id: history-g7-l003
+- student_id: student-001
+- attempted_answers: 3
+- currently_correct_questions: 3
+- outstanding_wrong_questions: 0
+- wrong_question_ids: none
 
-- 學生：student-001
-- 測驗：日治時期的社會與文化
-- 已作答次數：3
-- 目前答對題數：3
-- 未解決錯題：0
-- 錯題編號：無
+## 已知表現
+- q-1：作答正確，題目與 [[taichung-middle-school-1915]] 相關。
+- q-2：作答正確，題目與都市休閒場所出現、工商業發展相關，可連到 [[urban-culture-in-japanese-era-taiwan]]。
+- q-3：作答正確，題目與 [[taiwan-peoples-party]] 相關。
 
-## 已掌握內容
+## 解讀
+- 目前看得出學生能辨識部分基礎事實題。
+- 目前沒有錯題累積，因此 [[history-g7-l003-misconceptions]] 沒有個人化未解迷思可記錄。
+- 但目前只覆蓋 3 題，尚不足以代表整份測驗或整課已完全掌握。
 
-從目前紀錄來看，學生已正確回答下列主題的題目：
-- 第一所專收臺人的中學：臺中中學校
-- 新式休閒場所增加與工商業發達的關聯
-- 第一個由臺灣人成立的政黨：臺灣民眾黨
-
-這表示學生對部分[[history-g7-l003-core-concepts]]已有初步掌握，尤其是教育發展與政治社會運動的基本辨識。
-
-## 目前限制
-
-- 目前僅有3題作答紀錄，不能代表整份測驗的完整掌握度。
-- 尚無錯題可分析，因此[[history-g7-l003-misconceptions]]目前以「潛在高頻迷思」整理為主，而非個人持續錯誤。
-
-## 教師判讀
-
-- 這是一份「目前表現穩定，但證據仍少」的紀錄。
-- 若要更準確判斷學生是否真正掌握本課，仍需補看教育差別待遇、文化啟蒙、地方自治、公共衛生與守時制度等題型。
+## 可追蹤重點
+- 是否能區分文化啟蒙、政黨活動、自治訴求三者。
+- 是否能理解「現代化」與「殖民控制」並存，而非只記單一面向。
+- 是否能把時間序列事件串起來，如 [[taiwan-cultural-association-founded-1921]]、[[taiwan-peoples-party-founded-1927]]、[[first-local-council-election-1935]]。
 
 ## 相關頁面
-- [[history-g7-l003-core-concepts]]
+- [[taichung-middle-school-1915]]
+- [[urban-culture-in-japanese-era-taiwan]]
+- [[taiwan-peoples-party]]
 - [[history-g7-l003-misconceptions]]
+- [[taiwan-cultural-association-founded-1921]]
+- [[taiwan-peoples-party-founded-1927]]
+- [[first-local-council-election-1935]]
+- [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
 - [[drive-s2-quiz]]
 - [[drive-s2-textbook]]
 - [[taiwan-cultural-association]]
-- [[taiwan-peoples-party]]
-- [[taipei-imperial-university]]
-- [[event-1921-cultural-and-petition-movement]]
-- [[event-1935-local-election]]
-- [[event-1943-compulsory-education]]
-- [[comparison-elementary-education-segregation]]
-- [[comparison-cultural-enlightenment-vs-political-movements]]
+- [[taiwan-local-autonomy-league]]
+- [[education-stratification-under-japanese-rule]]
+- [[modernization-vs-colonial-control]]
+- [[cultural-enlightenment-vs-political-movement]]
+- [[taiwan-parliament-petition-movement]]
 - [[index]]
