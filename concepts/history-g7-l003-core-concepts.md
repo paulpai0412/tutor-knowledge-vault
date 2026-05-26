@@ -1,7 +1,7 @@
 ---
-title: 日治時期的社會與文化核心概念
+title: 國一歷史第3課核心概念：日治時期的社會與文化
 created: '2026-05-04'
-updated: '2026-05-25'
+updated: '2026-05-26'
 type: concept
 tags:
 - history
@@ -14,6 +14,7 @@ tags:
 - modernization
 - social-movements
 - culture
+- politics
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -23,41 +24,34 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-# [[history-g7-l003-core-concepts]]
+# 日治時期的社會與文化核心概念
 
 ## 核心概念
-- 日治時期的教育制度具有「現代化」與「差別待遇」兩面性：一方面引進新式教育與現代知識，另一方面又以隔離原則區分日本人、臺灣人與原住民。
-- 新式教育與海外留學培養出的知識分子，成為後來推動 [[taiwan-cultural-association]]、[[taiwan-peoples-party]] 等文化啟蒙與政治社會運動的重要力量。
-- 1920年代以後，臺灣知識分子受到民族自決思潮影響，開始爭取自治、民權與參政，並透過請願、組織與演講等方式擴散政治意識。
-- 社會生活方面，總督府推動公共衛生、法治與守時觀念，也帶來都市休閒與消費文化，使臺灣社會呈現新舊文化交融的面貌。
+- 日治時期的教育制度一方面帶有殖民統治下的差別待遇與同化目的，另一方面也培養出接受現代知識的臺灣知識分子。
+- 1920年代後，知識分子受民族自決思潮影響，推動文化啟蒙與政治社會運動，逐步讓臺灣社會接觸自治、民權與參政觀念。
+- 總督府引進現代衛生、司法、時間制度與都市休閒空間，使臺灣社會出現新式生活方式，但並未完全取代原有傳統，最終形成新舊文化並存。
 
 ## 關係整理
-1. 教育制度不只是學習安排，也服務於統治與同化。
-2. 教育帶來的知識分子，進一步推動文化啟蒙與政治社會運動。
-3. 現代化措施改變生活習慣，但並沒有完全消除原有傳統，而是形成調適與並存。
-
-## 重要連結
-- 教育制度的差別待遇，可對照 [[education-stratification-under-japanese-rule]]。
-- 政治社會運動的組織與主張，可連到 [[taiwan-cultural-association]]、[[taiwan-peoples-party]]、[[taiwan-local-autonomy-league]]。
-- 學生目前的作答結果整理於 [[history-g7-l003-student-001-exam-report]]，而常見誤解整理於 [[history-g7-l003-misconceptions]]。
-- 原始教材來源請見 [[drive-s2-textbook]]，測驗來源請見 [[drive-s2-quiz]]。
+- [[drive-s2-textbook]] 提供本課的主要敘事主軸，說明教育、運動與生活變遷如何彼此影響。
+- 教育制度與知識分子的形成，可連到 [[taiwan-cultural-association]] 與 [[taiwan-peoples-party]] 這類政治社會運動節點。
+- 地方自治觀念的發展，可由 [[taiwan-parliament-petition-movement]] 延伸到 [[first-local-council-election-1935]]。
+- 學生日後若在制度目的與社會影響之間混淆，可參考 [[history-g7-l003-misconceptions]] 與 [[history-g7-l003-teaching-focus]]。
 
 ## 相關頁面
+- [[drive-s2-textbook]]
 - [[taiwan-cultural-association]]
 - [[taiwan-peoples-party]]
-- [[education-stratification-under-japanese-rule]]
-- [[taiwan-local-autonomy-league]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[history-g7-l003-misconceptions]]
-- [[drive-s2-textbook]]
-- [[drive-s2-quiz]]
-- [[history-g7-l003-teaching-focus]]
-- [[urban-culture-in-japanese-era-taiwan]]
-- [[taiwan-cultural-association-founded-1921]]
-- [[taiwan-peoples-party-founded-1927]]
-- [[first-local-council-election-1935]]
-- [[taichung-middle-school-1915]]
-- [[modernization-vs-colonial-control]]
-- [[cultural-enlightenment-vs-political-movement]]
 - [[taiwan-parliament-petition-movement]]
+- [[first-local-council-election-1935]]
+- [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-quiz]]
+- [[taiwan-local-autonomy-league]]
+- [[lin-hsien-tang]]
+- [[chiang-wei-shui]]
+- [[national-self-determination-influence]]
+- [[education-modernization-vs-equality]]
+- [[cultural-enlightenment-vs-political-movement]]
+- [[modern-life-change-vs-traditional-continuity]]
 - [[index]]

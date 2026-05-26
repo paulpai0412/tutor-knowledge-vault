@@ -1,6 +1,6 @@
 ---
-title: 1935年首次地方議員選舉
-created: '2026-05-25'
+title: 臺灣議會設置請願運動
+created: '2026-05-26'
 updated: '2026-05-26'
 type: entity
 tags:
@@ -9,6 +9,7 @@ tags:
 - grade-7
 - taiwan-history
 - japanese-rule
+- social-movements
 - local-autonomy
 - politics
 sources:
@@ -20,32 +21,32 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-# 1935年首次地方議員選舉
+# 臺灣議會設置請願運動
 
 ## 事件概要
-1935年總督府首次舉辦地方議員選舉，這是臺灣民眾第一次行使投票權的重要歷史節點。
+1921年展開，持續到1934年，是知識分子要求設立臺灣議會的重要運動，雖未成功，但喚起了臺灣人民對自治與參政的認識。
 
 ## 歷史意義
-- 讓人民對自治與參政權有初步認識。
-- 但因選民資格與議員名額皆有限，不能視為完全自治的實現。
+- 反映知識分子試圖制衡總督府專制統治。
+- 是理解 [[history-g7-l003-core-concepts]] 中政治社會運動的重要主軸。
 
-## 教學提醒
-- 很適合搭配 [[history-g7-l003-misconceptions]] 說明「有選舉」不等於「政治已全面開放」。
-- 也可接回 [[taiwan-local-autonomy-league]]，理解其訴求背景。
+## 關聯
+- 與 [[lin-hsien-tang]]、[[chiang-wei-shui]] 等人物相關。
+- 可延伸到 [[first-local-council-election-1935]]，理解自治曙光如何逐步出現。
 
 ## 相關頁面
-- [[history-g7-l003-misconceptions]]
-- [[taiwan-local-autonomy-league]]
 - [[history-g7-l003-core-concepts]]
+- [[lin-hsien-tang]]
+- [[chiang-wei-shui]]
+- [[first-local-council-election-1935]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
+- [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[taiwan-cultural-association]]
 - [[taiwan-peoples-party]]
-- [[lin-hsien-tang]]
-- [[chiang-wei-shui]]
-- [[taiwan-parliament-petition-movement]]
+- [[taiwan-local-autonomy-league]]
 - [[national-self-determination-influence]]
 - [[education-modernization-vs-equality]]
 - [[cultural-enlightenment-vs-political-movement]]

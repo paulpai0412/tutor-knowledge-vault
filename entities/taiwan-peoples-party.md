@@ -1,16 +1,16 @@
 ---
 title: 臺灣民眾黨
 created: '2026-05-24'
-updated: '2026-05-25'
+updated: '2026-05-26'
 type: entity
 tags:
-- history
 - entity
+- history
+- grade-7
 - taiwan-history
 - japanese-rule
 - social-movements
 - politics
-- local-autonomy
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -20,38 +20,33 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-# [[taiwan-peoples-party]]
+# 臺灣民眾黨
 
 ## 概要
-臺灣民眾黨成立於1927年，是臺灣人成立的第一個政黨，與蔣渭水等人有關。
+1927年成立，是臺灣人成立的第一個政黨，教材指出其宣傳民權、自治等概念，並積極扶助農、工運動。
 
-## 重點
-- 宣傳民權與自治觀念
-- 扶助農、工運動
-- 是政治社會運動的重要代表
+## 在本課的位置
+- 它代表政治社會運動從文化啟蒙進一步走向較明確的政治組織化。
+- 本次學生已在測驗中正確辨識此組織，可回看 [[history-g7-l003-student-001-exam-report]]。
 
-## 關係
-- 可對照 [[taiwan-cultural-association]]，理解文化啟蒙與政黨活動的不同。
-- 在 [[history-g7-l003-student-001-exam-report]] 中，學生已答對與此政黨相關的題目。
-- 其成立事件可見 [[taiwan-peoples-party-founded-1927]]。
-- 與整課脈絡的關聯可回看 [[history-g7-l003-core-concepts]]。
+## 教學提醒
+- 學生容易只記「第一個政黨」，卻忽略其與自治、民權之間的關聯，可配合 [[history-g7-l003-teaching-focus]] 追問。
 
 ## 相關頁面
-- [[taiwan-cultural-association]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[taiwan-peoples-party-founded-1927]]
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
-- [[drive-s2-textbook]]
+- [[chiang-wei-shui]]
+- [[history-g7-l003-core-concepts]]
 - [[drive-s2-quiz]]
+- [[history-g7-l003-misconceptions]]
+- [[drive-s2-textbook]]
+- [[taiwan-cultural-association]]
 - [[taiwan-local-autonomy-league]]
-- [[education-stratification-under-japanese-rule]]
-- [[urban-culture-in-japanese-era-taiwan]]
-- [[taiwan-cultural-association-founded-1921]]
-- [[first-local-council-election-1935]]
-- [[taichung-middle-school-1915]]
-- [[modernization-vs-colonial-control]]
-- [[cultural-enlightenment-vs-political-movement]]
+- [[lin-hsien-tang]]
 - [[taiwan-parliament-petition-movement]]
+- [[first-local-council-election-1935]]
+- [[national-self-determination-influence]]
+- [[education-modernization-vs-equality]]
+- [[cultural-enlightenment-vs-political-movement]]
+- [[modern-life-change-vs-traditional-continuity]]
 - [[index]]

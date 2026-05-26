@@ -1,7 +1,7 @@
 ---
-title: 教材來源註記：日治時期的社會與文化
+title: 教材來源筆記：日治時期的社會與文化（drive-s2-textbook）
 created: '2026-05-04'
-updated: '2026-05-25'
+updated: '2026-05-26'
 type: summary
 tags:
 - history
@@ -14,6 +14,7 @@ tags:
 - modernization
 - social-movements
 - culture
+- politics
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -22,45 +23,37 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-# [[drive-s2-textbook]]
+# 教材來源筆記：日治時期的社會與文化
 
-## 來源說明
-- lesson_variant_id: drive-s2-textbook
-- title: 日治時期的社會與文化
-- source_pdf: drive-s2-textbook.pdf
-- conversion_state: wiki_ready
-
-## 來源重點
-這份教材以三個主軸整理日治時期的社會與文化：
-1. 差別待遇下的現代教育
-2. 文化啟蒙與政治社會運動
-3. 新舊文化交融下的社會生活變遷
+## 來源摘要
+- 來源代號：drive-s2-textbook
+- 主題：日治時期的社會與文化
+- 教材主軸分成三部分：差別待遇的現代教育、文化啟蒙與政治社會運動、新舊文化的變遷。
 
 ## 可抽出的知識節點
-- 課程總整見 [[history-g7-l003-core-concepts]]。
-- 教育差別待遇可對照 [[education-stratification-under-japanese-rule]]。
-- 組織節點可連到 [[taiwan-cultural-association]]、[[taiwan-peoples-party]]、[[taiwan-local-autonomy-league]]。
-- 文化生活變化可連到 [[urban-culture-in-japanese-era-taiwan]]。
+- 教育制度：差別待遇、日語教學、1941年國民學校、1943年六年國民義務教育。
+- 政治社會運動：[[taiwan-cultural-association]]、[[taiwan-parliament-petition-movement]]、[[taiwan-peoples-party]]、[[taiwan-local-autonomy-league]]。
+- 社會生活變遷：公共衛生、司法制度、守時習慣、都會文化。
 
-## 備註
-此頁是教材來源註記，不等同學生表現紀錄；學生作答情況另見 [[history-g7-l003-student-001-exam-report]]，相關教學提醒見 [[history-g7-l003-teaching-focus]]。
+## 圖譜用途
+- 本來源是 [[history-g7-l003-core-concepts]] 的主要依據。
+- 也是 [[history-g7-l003-teaching-focus]] 與 [[history-g7-l003-misconceptions]] 判讀常見混淆的基礎來源。
 
 ## 相關頁面
-- [[history-g7-l003-core-concepts]]
-- [[education-stratification-under-japanese-rule]]
 - [[taiwan-cultural-association]]
+- [[taiwan-parliament-petition-movement]]
 - [[taiwan-peoples-party]]
 - [[taiwan-local-autonomy-league]]
-- [[urban-culture-in-japanese-era-taiwan]]
-- [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-misconceptions]]
 - [[drive-s2-quiz]]
-- [[taiwan-cultural-association-founded-1921]]
-- [[taiwan-peoples-party-founded-1927]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[lin-hsien-tang]]
+- [[chiang-wei-shui]]
 - [[first-local-council-election-1935]]
-- [[taichung-middle-school-1915]]
-- [[modernization-vs-colonial-control]]
+- [[national-self-determination-influence]]
+- [[education-modernization-vs-equality]]
 - [[cultural-enlightenment-vs-political-movement]]
-- [[taiwan-parliament-petition-movement]]
+- [[modern-life-change-vs-traditional-continuity]]
 - [[index]]

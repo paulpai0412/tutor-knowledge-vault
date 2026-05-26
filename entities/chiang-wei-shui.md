@@ -1,6 +1,6 @@
 ---
-title: 臺灣文化協會
-created: '2026-05-15'
+title: 蔣渭水
+created: '2026-05-26'
 updated: '2026-05-26'
 type: entity
 tags:
@@ -21,32 +21,32 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-# 臺灣文化協會
+# 蔣渭水
 
 ## 概要
-1921年成立，是日治時期重要的文化啟蒙團體，以提升臺灣文化、啟迪民智與喚起民族意識為重要方向。
+蔣渭水是本課重要人物，與文化啟蒙、議會請願以及臺灣民眾黨的發展有密切關係。
 
-## 作用
-- 發行《臺灣民報》
-- 設立讀報社
-- 舉辦演講會等活動
+## 課本線索
+- 參與 [[taiwan-cultural-association]]
+- 與 [[taiwan-peoples-party]] 的成立有關
+- 補充閱讀中以「臨床講義」批判臺灣社會問題
 
-## 在本課的位置
-- 它是 [[history-g7-l003-core-concepts]] 中「文化啟蒙與政治社會運動」主線的重要節點。
-- 也能幫助學生理解為什麼知識分子與現代教育會連到政治參與，可參考 [[history-g7-l003-teaching-focus]]。
+## 教學用途
+- 可幫助學生理解人物不是孤立記憶點，而是整個 [[history-g7-l003-core-concepts]] 的連接節點。
+- 若學生只會認人名，教師可參考 [[history-g7-l003-teaching-focus]] 追問其思想與行動。
 
 ## 相關頁面
+- [[taiwan-cultural-association]]
+- [[taiwan-peoples-party]]
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
-- [[taiwan-parliament-petition-movement]]
 - [[drive-s2-textbook]]
+- [[drive-s2-quiz]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-quiz]]
-- [[taiwan-peoples-party]]
 - [[taiwan-local-autonomy-league]]
 - [[lin-hsien-tang]]
-- [[chiang-wei-shui]]
+- [[taiwan-parliament-petition-movement]]
 - [[first-local-council-election-1935]]
 - [[national-self-determination-influence]]
 - [[education-modernization-vs-equality]]
