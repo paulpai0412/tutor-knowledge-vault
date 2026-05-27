@@ -1,20 +1,17 @@
 ---
-title: 國一歷史第3課常見迷思：日治時期的社會與文化
+title: 日治時期的社會與文化常見迷思
 created: '2026-05-04'
-updated: '2026-05-26'
+updated: '2026-05-27'
 type: summary
 tags:
 - history
 - grade-7
 - misconception
-- exam-analysis
-- student-progress
 - taiwan-history
 - japanese-rule
 - education
-- modernization
-- social-movements
 - politics
+- modernization
 sources:
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 confidence: medium
@@ -22,39 +19,30 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-# 日治時期的社會與文化常見迷思
-
 ## 常見迷思
-1. 把「引進現代制度」直接理解成「統治就是平等進步」。
-   - 例如教育就學率提升，不代表日本人與臺灣人受到同等待遇；教材明確指出初等教育有差別待遇與隔離原則。
-2. 把「政治社會運動」和「政府主動開放民主」混為一談。
-   - 教材重點是知識分子主動爭取自治、民權與參政，不是總督府主動放權。
-3. 把「社會文化變遷」只看成風俗改變，忽略背後也有公共衛生、司法制度、時間制度與都市空間改造。
+1. 把現代化教育直接等同於教育平等。
+   - 教材明確指出總督府採差別待遇與隔離原則，日本人、臺灣人與原住民接受的教育條件不同。
+2. 把文化啟蒙團體、政黨與自治運動視為同一件事。
+   - 例如 [[taiwan-cultural-association]]、[[taiwan-peoples-party]] 與地方自治相關行動彼此有關，但性質與訴求並不相同。
+3. 把地方選舉誤解為自治已經完全實現。
+   - 教材指出 1935 年首次地方議員選舉仍有限制，成果有限。
 
-## 本生目前狀態
-- 依 [[history-g7-l003-student-001-exam-report]]，學生目前已作答 3 題且全部答對，沒有 outstanding wrong questions。
-- 但目前樣本只涵蓋 3 題，仍不足以判定整課所有概念都已穩定掌握。
-- 因此本頁記錄的是「常見風險點」，不是這位學生已確認存在且未解決的錯誤。
-
-## 教學提醒
-- 可先請學生比較「教育普及」與「教育平等」是否相同，再回到 [[history-g7-l003-core-concepts]]。
-- 也可用 [[taiwan-local-autonomy-league]] 與 [[first-local-council-election-1935]] 說明：有選舉曙光，不等於已完全自治。
+## 本次作答狀態
+- 目前進度紀錄顯示已作答 3 題且全對，沒有未解錯題。
+- 因此本頁整理的是依教材與測驗內容推估的高風險混淆點，不是本次已被錯題證實的迷思。
 
 ## 相關頁面
-- [[history-g7-l003-student-001-exam-report]]
-- [[history-g7-l003-core-concepts]]
-- [[taiwan-local-autonomy-league]]
-- [[first-local-council-election-1935]]
-- [[history-g7-l003-teaching-focus]]
-- [[drive-s2-textbook]]
-- [[drive-s2-quiz]]
 - [[taiwan-cultural-association]]
 - [[taiwan-peoples-party]]
-- [[lin-hsien-tang]]
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-quiz]]
+- [[segregated-education-vs-modern-knowledge]]
+- [[drive-s2-textbook]]
 - [[chiang-wei-shui]]
-- [[taiwan-parliament-petition-movement]]
-- [[national-self-determination-influence]]
-- [[education-modernization-vs-equality]]
-- [[cultural-enlightenment-vs-political-movement]]
-- [[modern-life-change-vs-traditional-continuity]]
+- [[taiwan-cultural-association-1921]]
+- [[first-local-council-election-1935]]
+- [[compulsory-national-education-1943]]
+- [[cultural-enlightenment-vs-political-social-movements]]
 - [[index]]

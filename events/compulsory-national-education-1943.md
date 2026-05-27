@@ -1,6 +1,6 @@
 ---
-title: 1935 年首次地方議員選舉
-created: '2026-05-25'
+title: 1943 年六年國民義務教育實施
+created: '2026-05-27'
 updated: '2026-05-27'
 type: summary
 tags:
@@ -8,9 +8,8 @@ tags:
 - event
 - taiwan-history
 - japanese-rule
-- local-autonomy
-- politics
-- social-movements
+- education
+- modernization
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
@@ -21,25 +20,25 @@ student_id: student-001
 ---
 
 ## 事件重點
-- 1935 年總督府首次舉辦地方議員選舉。
-- 教材指出因選民資格與議席開放有限，所以地方自治成果有限。
+- 教材指出 1941 年取消小學校與公學校區別，改稱國民學校。
+- 1943 年開始實施六年國民義務教育。
 
 ## 歷史意義
-- 這是臺灣民眾第一次行使投票權的重要節點。
-- 但不能把它理解成自治已完整實現。
+- 這顯示日治後期教育制度有形式上的整併與普及。
+- 但教學時仍要連回差別待遇的前期背景，不能單看制度名稱變化。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-misconceptions]]
 - [[drive-s2-textbook]]
-- [[cultural-enlightenment-vs-political-social-movements]]
+- [[segregated-education-vs-modern-knowledge]]
 - [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-quiz]]
 - [[taiwan-cultural-association]]
 - [[taiwan-peoples-party]]
 - [[chiang-wei-shui]]
 - [[taiwan-cultural-association-1921]]
-- [[compulsory-national-education-1943]]
-- [[segregated-education-vs-modern-knowledge]]
+- [[first-local-council-election-1935]]
+- [[cultural-enlightenment-vs-political-social-movements]]
 - [[index]]

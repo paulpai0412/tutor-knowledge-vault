@@ -1,17 +1,16 @@
 ---
 title: 蔣渭水
 created: '2026-05-26'
-updated: '2026-05-26'
+updated: '2026-05-27'
 type: entity
 tags:
-- entity
 - history
-- grade-7
+- entity
 - taiwan-history
 - japanese-rule
 - social-movements
-- culture
 - politics
+- education
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -21,35 +20,26 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-# 蔣渭水
-
 ## 概要
-蔣渭水是本課重要人物，與文化啟蒙、議會請願以及臺灣民眾黨的發展有密切關係。
+- 教材指出蔣渭水參與成立 [[taiwan-cultural-association]]，推動文化啟蒙。
+- 測驗指出他也與 [[taiwan-peoples-party]] 的成立有關。
 
-## 課本線索
-- 參與 [[taiwan-cultural-association]]
-- 與 [[taiwan-peoples-party]] 的成立有關
-- 補充閱讀中以「臨床講義」批判臺灣社會問題
-
-## 教學用途
-- 可幫助學生理解人物不是孤立記憶點，而是整個 [[history-g7-l003-core-concepts]] 的連接節點。
-- 若學生只會認人名，教師可參考 [[history-g7-l003-teaching-focus]] 追問其思想與行動。
+## 教學意義
+- 這個人物適合用來串起知識分子、文化啟蒙與政治社會運動三個層次。
+- 也能幫助學生理解從思想啟蒙走向自治訴求的歷程。
 
 ## 相關頁面
 - [[taiwan-cultural-association]]
 - [[taiwan-peoples-party]]
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
-- [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
 - [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[taiwan-local-autonomy-league]]
-- [[lin-hsien-tang]]
-- [[taiwan-parliament-petition-movement]]
+- [[drive-s2-textbook]]
+- [[taiwan-cultural-association-1921]]
 - [[first-local-council-election-1935]]
-- [[national-self-determination-influence]]
-- [[education-modernization-vs-equality]]
-- [[cultural-enlightenment-vs-political-movement]]
-- [[modern-life-change-vs-traditional-continuity]]
+- [[compulsory-national-education-1943]]
+- [[segregated-education-vs-modern-knowledge]]
+- [[cultural-enlightenment-vs-political-social-movements]]
 - [[index]]

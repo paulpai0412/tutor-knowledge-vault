@@ -1,7 +1,7 @@
 ---
-title: 國一歷史第3課核心概念：日治時期的社會與文化
+title: 日治時期的社會與文化核心概念
 created: '2026-05-04'
-updated: '2026-05-26'
+updated: '2026-05-27'
 type: concept
 tags:
 - history
@@ -12,7 +12,6 @@ tags:
 - japanese-rule
 - education
 - modernization
-- social-movements
 - culture
 - politics
 sources:
@@ -24,34 +23,28 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-# 日治時期的社會與文化核心概念
-
 ## 核心概念
-- 日治時期的教育制度一方面帶有殖民統治下的差別待遇與同化目的，另一方面也培養出接受現代知識的臺灣知識分子。
-- 1920年代後，知識分子受民族自決思潮影響，推動文化啟蒙與政治社會運動，逐步讓臺灣社會接觸自治、民權與參政觀念。
-- 總督府引進現代衛生、司法、時間制度與都市休閒空間，使臺灣社會出現新式生活方式，但並未完全取代原有傳統，最終形成新舊文化並存。
+- 日治時期的教育制度一方面傳播現代知識，另一方面也服務於統治、同化與產業政策。
+- 臺灣知識分子受新式教育與民族自決思潮影響，推動文化啟蒙與政治社會運動，爭取自治與權益。
+- 社會生活出現衛生、法治、守時與都會文化等新變化，但城鄉差距與殖民統治下的不平等仍然存在。
 
 ## 關係整理
-- [[drive-s2-textbook]] 提供本課的主要敘事主軸，說明教育、運動與生活變遷如何彼此影響。
-- 教育制度與知識分子的形成，可連到 [[taiwan-cultural-association]] 與 [[taiwan-peoples-party]] 這類政治社會運動節點。
-- 地方自治觀念的發展，可由 [[taiwan-parliament-petition-movement]] 延伸到 [[first-local-council-election-1935]]。
-- 學生日後若在制度目的與社會影響之間混淆，可參考 [[history-g7-l003-misconceptions]] 與 [[history-g7-l003-teaching-focus]]。
+- 教育不是單純的進步故事，而是同時包含差別待遇與知識擴散的雙重面向。
+- 文化啟蒙與政治社會運動彼此相連：前者偏向提升民智，後者更直接訴求自治、民權與參政。
+- 新舊文化變遷的結果不是全面取代，而是漢人、日本與西洋文化並存與調適。
 
 ## 相關頁面
-- [[drive-s2-textbook]]
-- [[taiwan-cultural-association]]
-- [[taiwan-peoples-party]]
-- [[taiwan-parliament-petition-movement]]
-- [[first-local-council-election-1935]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-textbook]]
+- [[segregated-education-vs-modern-knowledge]]
+- [[cultural-enlightenment-vs-political-social-movements]]
 - [[drive-s2-quiz]]
-- [[taiwan-local-autonomy-league]]
-- [[lin-hsien-tang]]
+- [[taiwan-cultural-association]]
+- [[taiwan-peoples-party]]
 - [[chiang-wei-shui]]
-- [[national-self-determination-influence]]
-- [[education-modernization-vs-equality]]
-- [[cultural-enlightenment-vs-political-movement]]
-- [[modern-life-change-vs-traditional-continuity]]
+- [[taiwan-cultural-association-1921]]
+- [[first-local-council-election-1935]]
+- [[compulsory-national-education-1943]]
 - [[index]]

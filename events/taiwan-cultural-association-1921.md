@@ -1,11 +1,11 @@
 ---
-title: 臺灣文化協會
-created: '2026-05-15'
+title: 1921 年臺灣文化協會成立
+created: '2026-05-27'
 updated: '2026-05-27'
-type: entity
+type: summary
 tags:
 - history
-- entity
+- event
 - taiwan-history
 - japanese-rule
 - social-movements
@@ -13,32 +13,32 @@ tags:
 - politics
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
-- wiki/exams/history/g7/l003/drive-s2-quiz.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
+- wiki/students/student-001/progress/history/g7/l003/summary.md
 confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 概要
-- 成立於 1921 年。
-- 教材指出其宗旨是謀臺灣文化之向上，並以發行報刊、設立讀報社、舉辦演講會等方式推動啟蒙。
+## 事件重點
+- 1921 年，林獻堂、蔣渭水等人成立臺灣文化協會。
+- 教材把這一年同時列為臺灣議會設置請願運動展開的重要時間點。
 
-## 在本課的位置
-- 它是從文化啟蒙連到政治社會運動的重要節點。
-- 可與 [[taiwan-peoples-party]] 對照，理解文化啟蒙與政黨活動的差別。
+## 歷史意義
+- 它代表知識分子開始以文化方式提升民智、喚起民族意識。
+- 也是理解後續政治社會運動的起點。
 
 ## 相關頁面
-- [[taiwan-peoples-party]]
+- [[taiwan-cultural-association]]
+- [[chiang-wei-shui]]
 - [[history-g7-l003-core-concepts]]
-- [[drive-s2-textbook]]
-- [[taiwan-cultural-association-1921]]
 - [[cultural-enlightenment-vs-political-social-movements]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[chiang-wei-shui]]
+- [[taiwan-peoples-party]]
 - [[first-local-council-election-1935]]
 - [[compulsory-national-education-1943]]
 - [[segregated-education-vs-modern-knowledge]]
