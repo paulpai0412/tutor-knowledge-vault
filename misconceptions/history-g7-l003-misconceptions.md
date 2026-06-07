@@ -1,17 +1,15 @@
 ---
-title: 日治時期的社會與文化常見迷思
+title: 日治時期社會與文化迷思監測
 created: '2026-05-04'
-updated: '2026-05-27'
-type: summary
+updated: '2026-06-07'
+type: concept
 tags:
 - history
 - grade-7
+- lesson
 - misconception
-- taiwan-history
-- japanese-rule
-- education
-- politics
-- modernization
+- exam-analysis
+- student-progress
 sources:
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 confidence: medium
@@ -19,30 +17,40 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 常見迷思
-1. 把現代化教育直接等同於教育平等。
-   - 教材明確指出總督府採差別待遇與隔離原則，日本人、臺灣人與原住民接受的教育條件不同。
-2. 把文化啟蒙團體、政黨與自治運動視為同一件事。
-   - 例如 [[taiwan-cultural-association]]、[[taiwan-peoples-party]] 與地方自治相關行動彼此有關，但性質與訴求並不相同。
-3. 把地方選舉誤解為自治已經完全實現。
-   - 教材指出 1935 年首次地方議員選舉仍有限制，成果有限。
+## 目前觀察
+- 從進度摘要可見 `attempted_answers=3`、`currently_correct_questions=3`、`outstanding_wrong_questions=0`，且 `wrong_question_ids` 為 `none`，本段時間內未出現可穩定定位的錯誤模式。
+- 本次前段答題聚焦在：
+  - 公立學校體制與臺灣第一所專收臺人中學
+  - 休閒場所增加原因
+  - 第一個臺灣政黨的性質
+  皆判斷正確。
 
-## 本次作答狀態
-- 目前進度紀錄顯示已作答 3 題且全對，沒有未解錯題。
-- 因此本頁整理的是依教材與測驗內容推估的高風險混淆點，不是本次已被錯題證實的迷思。
+## 可能的高風險迷思（待後段驗證）
+- 可能把**制度現代化**誤認為**完全同化**，忽略原有文化仍並存。
+- 可能把**請願/自治目標**與**成立政黨**或**地方選舉結果**混為同一層次。
+- 可能把**日本推動法治與衛生**直接理解為「全面受惠」而忽略控制色彩。
+
+## 解決狀態
+- 以目前證據，迷思尚未被實際觸發；建議在後續題組透過「事件先後」與「制度目的」追問繼續追蹤。
+
+## 導向連結
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-teaching-focus]]
 
 ## 相關頁面
-- [[taiwan-cultural-association]]
-- [[taiwan-peoples-party]]
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-quiz]]
-- [[segregated-education-vs-modern-knowledge]]
+- [[history-g7-l003-teaching-focus]]
 - [[drive-s2-textbook]]
-- [[chiang-wei-shui]]
-- [[taiwan-cultural-association-1921]]
-- [[first-local-council-election-1935]]
-- [[compulsory-national-education-1943]]
-- [[cultural-enlightenment-vs-political-social-movements]]
+- [[drive-s2-quiz]]
+- [[entity-national-school-differentiated-system]]
+- [[entity-taiwan-culture-association-1921]]
+- [[entity-taiwan-minshu-party-1927]]
+- [[entity-public-health-modern-life-1920s-1940s]]
+- [[event-taiwan-parliament-petition-movement-1921-1934]]
+- [[event-taiwan-minshu-party-1927-founded]]
+- [[event-1943-six-year-compulsory-education]]
+- [[comparison-differentiated-vs-unified-education]]
+- [[comparison-cultural-enlightenment-vs-urban-cultural-modernity]]
 - [[index]]

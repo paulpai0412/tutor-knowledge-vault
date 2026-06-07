@@ -1,7 +1,7 @@
 ---
-title: 教材來源筆記：日治時期的社會與文化
+title: 教材原文摘要：日治時期的社會與文化
 created: '2026-05-04'
-updated: '2026-05-27'
+updated: '2026-06-07'
 type: summary
 tags:
 - history
@@ -10,9 +10,7 @@ tags:
 - source-note
 - taiwan-history
 - japanese-rule
-- education
 - culture
-- politics
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -21,43 +19,35 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 來源資訊
-- lesson_group_id：history-g7-l003
-- lesson_variant_id：drive-s2-textbook
-- title：日治時期的社會與文化
-- source_pdf：drive-s2-textbook.pdf
-- converter：markitdown
-- conversion_state：wiki_ready
+## 來源訊息
+- lesson_id：`history-g7-l003`
+- source_pdf：`drive-s2-textbook.pdf`
+- source_hash：`sha256:4a3578136293aadfd17c04341e7d56642a8652bd4828603d48ad332dadaf267c`
+- conversion_state：`wiki_ready`
+- converter：`markitdown`
 
-## 教材結構
-- 3-1 差別待遇的現代教育
-- 3-2 文化啟蒙與政治社會運動
-- 3-3 新舊文化的變遷
+## 內容重點
+- 教育分為差別待遇的初等、中等、高等層次，後期轉入國民學校與義務教育。
+- 知識分子與文化團體（如臺灣文化協會）展開啟蒙與自治訴求，並發展政治社會運動。
+- 生活層面出現衛生、守時、都會文化與制度化娛樂空間，傳統與現代並行共存。
 
-## 可抽取的知識節點
-- 教育制度的雙重性：統治工具與知識傳播並存。
-- 知識分子透過文化與政治運動爭取權益。
-- 現代衛生、法治、守時與都會文化改變日常生活。
-
-## 回連頁面
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
-- [[taiwan-cultural-association]]
-- [[first-local-council-election-1935]]
-- [[segregated-education-vs-modern-knowledge]]
+## 論述關聯
+- 與測驗重點關係直接，特別是學制、政黨、請願、衛生與都市文化題型。
+- 可作為學生作答迷思排查與回顧的主軸。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
-- [[taiwan-cultural-association]]
-- [[first-local-council-election-1935]]
-- [[segregated-education-vs-modern-knowledge]]
 - [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-quiz]]
-- [[taiwan-peoples-party]]
-- [[chiang-wei-shui]]
-- [[taiwan-cultural-association-1921]]
-- [[compulsory-national-education-1943]]
-- [[cultural-enlightenment-vs-political-social-movements]]
+- [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[entity-national-school-differentiated-system]]
+- [[entity-taiwan-culture-association-1921]]
+- [[entity-taiwan-minshu-party-1927]]
+- [[entity-public-health-modern-life-1920s-1940s]]
+- [[event-taiwan-parliament-petition-movement-1921-1934]]
+- [[event-taiwan-minshu-party-1927-founded]]
+- [[event-1943-six-year-compulsory-education]]
+- [[comparison-differentiated-vs-unified-education]]
+- [[comparison-cultural-enlightenment-vs-urban-cultural-modernity]]
 - [[index]]

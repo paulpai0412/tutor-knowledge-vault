@@ -1,18 +1,15 @@
 ---
-title: 測驗來源筆記：日治時期的社會與文化
+title: 測驗原文摘要：history-g7-l003-drive-s2-quiz
 created: '2026-05-04'
-updated: '2026-05-27'
+updated: '2026-06-07'
 type: summary
 tags:
 - history
 - grade-7
 - exam-analysis
 - source-note
-- taiwan-history
 - japanese-rule
-- education
-- politics
-- culture
+- student-progress
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -21,41 +18,34 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 來源資訊
-- exam_variant_id：drive-s2-quiz
-- title：日治時期的社會與文化
-- source_pdf：drive-s2-quiz.pdf
-- converter：marker
-- conversion_state：review_required
+## 來源訊息
+- exam_id：`history-g7-l003-drive-s2-quiz`
+- converter：`marker`
+- conversion_state：`review_required`
+- source_hash：`sha256:b51e95bbc8e5a18eb07ccbab5f5d97608c7db9aac018d6c59d2614c9df27e`
 
-## 題目重點
-- 學校與教育差別待遇：如臺中中學校、公學校與小學校的差異。
-- 政治社會運動：如臺灣文化協會、臺灣民眾黨、地方自治與議會請願。
-- 現代生活變遷：如司法制度、衛生宣導、守時觀念與都會文化。
+## 前段驗證項目（已對應到作答）
+- 第1題：臺灣第一所專收臺籍學生的中學。
+- 第2題：新休閒場所出現的原因。
+- 第3題：臺灣第一個臺人成立政黨與其主張。
 
-## 與學生進度的連結
-- 目前進度只顯示前 3 題的作答結果，因此可直接支撐的學生分析以 [[history-g7-l003-student-001-exam-report]] 為限。
-- 若後續有新增錯題，應優先回寫到 [[history-g7-l003-misconceptions]] 與 [[history-g7-l003-teaching-focus]]。
-
-## 回連頁面
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[history-g7-l003-misconceptions]]
-- [[taiwan-peoples-party]]
-- [[cultural-enlightenment-vs-political-social-movements]]
+## 與課程頁面的關聯
+- 測驗題型對應「教育制度」、「政治社會運動」、「生活現代化」三大主軸，可直接回推到課文核心。
+- 目前紀錄到 `q-1`~`q-3` 全數正確，尚無錯題。
 
 ## 相關頁面
+- [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-textbook]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-core-concepts]]
-- [[taiwan-peoples-party]]
-- [[cultural-enlightenment-vs-political-social-movements]]
-- [[drive-s2-textbook]]
-- [[taiwan-cultural-association]]
-- [[chiang-wei-shui]]
-- [[taiwan-cultural-association-1921]]
-- [[first-local-council-election-1935]]
-- [[compulsory-national-education-1943]]
-- [[segregated-education-vs-modern-knowledge]]
+- [[entity-national-school-differentiated-system]]
+- [[entity-taiwan-culture-association-1921]]
+- [[entity-taiwan-minshu-party-1927]]
+- [[entity-public-health-modern-life-1920s-1940s]]
+- [[event-taiwan-parliament-petition-movement-1921-1934]]
+- [[event-taiwan-minshu-party-1927-founded]]
+- [[event-1943-six-year-compulsory-education]]
+- [[comparison-differentiated-vs-unified-education]]
+- [[comparison-cultural-enlightenment-vs-urban-cultural-modernity]]
 - [[index]]
