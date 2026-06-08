@@ -1,49 +1,43 @@
 ---
-title: 教材來源節點：日治時期的社會與文化
-created: '2026-05-04'
+title: 1915：臺中中學校成立
+created: '2026-06-08'
 updated: '2026-06-08'
 type: entity
 tags:
-- source-note
-- lesson
+- event
 - history
-- grade-7
-- taiwan-history
-- japanese-rule
 - education
+- japanese-rule
 sources:
-- indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
+- wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
+- wiki/students/student-001/progress/history/g7/l003/summary.md
 confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 來源資訊
-- `lesson_id`: history-g7-l003
-- `lesson_variant_id`: drive-s2-textbook
-- `source_pdf`: drive-s2-textbook.pdf
-- `source_hash`: sha256:4a3578136293aadfd17c04341e7d56642a8652bd4828603d48ad332dadaf267c
-- `converter`: markitdown
-- `conversion_state`: wiki_ready
+## 事件說明
+- 第一所專收臺灣人子弟中學校的成立，標誌制度化知識分子來源逐步擴張。
+- 與高等學府（如1928台北帝國大學）形成教育階梯，影響後續社會運動人力結構。
 
-## 內容地圖
-- 第1主軸：差別待遇教育與社會階層化。
-- 第2主軸：文化啟蒙與政治社會運動。
-- 第3主軸：生活現代化與新舊文化交織。
+## 連結
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-entity-education-hierarchy]]
+- [[history-g7-l003-event-culture-association-1921]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-student-001-exam-report]]
 - [[history-g7-l003-entity-education-hierarchy]]
-- [[drive-s2-quiz]]
+- [[history-g7-l003-event-culture-association-1921]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-textbook]]
+- [[drive-s2-quiz]]
 - [[history-g7-l003-entity-civil-society-movement]]
 - [[history-g7-l003-entity-public-health-modernization]]
 - [[history-g7-l003-entity-urban-modern-culture]]
-- [[history-g7-l003-event-taichung-middle-school-1915]]
-- [[history-g7-l003-event-culture-association-1921]]
 - [[history-g7-l003-event-peoples-party-1927]]
 - [[history-g7-l003-event-local-elections-1935]]
 - [[history-g7-l003-event-autonomy-movement-repression-1937]]

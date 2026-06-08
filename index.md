@@ -2,36 +2,38 @@
 
 > Content catalog for the derived tutor knowledge wiki.
 > Open this vault in Obsidian to browse `[[wikilinks]]` and graph view.
-> Last updated: 2026-06-07 15:00 UTC | Total pages: 16
+> Last updated: 2026-06-08 15:00 UTC | Total pages: 18
 
 ## Concepts
-- [[history-g7-l003-core-concepts]] — 日治時期臺灣的現代化主要透過差別待遇教育、政治社會運動與新舊文化衝突同時推動，造成制度改變、自治思維萌芽與日常生活的逐步現代化。
+- [[history-g7-l003-core-concepts]] — 本章重點是日治政府透過差別化現代教育與同化政策推進統治，同時促使臺灣知識分子形成文化啟蒙與政治社會運動，最終在城市化、衛生、法治與生活習慣中形成新舊文化共存。
 
 ## Misconceptions
-- [[history-g7-l003-misconceptions]] — 目前學生前3題作答全部正確，未出現持續出錯模式，但仍需注意對「自治運動」「文化啟蒙」與「制度現代化」之間因果關係的誤判風險。
+- [[history-g7-l003-misconceptions]] — 目前僅有 3 題作答記錄且皆正確，尚未出現穩定錯誤，但需持續避免將「現代制度」誤讀為「全面平等」或忽略其階層性與地域差異。
 
 ## Teaching Notes
-- [[history-g7-l003-teaching-focus]] — 以時間軸先行、制度與事件對照、概念交互提問為主，可降低學生在日治時期知識點中的混淆並鞏固可遷移理解。
+- [[history-g7-l003-teaching-focus]] — 先肯定學生已掌握首三題事實再加強「制度差別、自治歷程、生活現代化」的時間順序與因果串接，可有效預防後段題目誤判。
 
 ## Sources
-- [[drive-s2-quiz]] — 本次測驗聚焦日治時期社會與文化，前段題目已驗證學生具備關鍵名詞與事件對照能力，但尚未完成全卷。
-- [[drive-s2-textbook]] — 此教材整理日治時期臺灣在教育、政治社會運動與生活文化三向度的變化，重點在於殖民秩序與本土調適的交互作用。
+- [[drive-s2-quiz]] — 測驗來自 dayle2 quiz 版本，採 marker 轉換且顯示需人工審核，題庫涵蓋教育、自治運動、生活現代化等關鍵關係題。
+- [[drive-s2-textbook]] — 此教材頁整理日治時期差別化教育、政治社會運動與新舊文化變遷的基礎脈絡，並可直接對應到測驗題型與教學指引。
 
 ## Entities
-- [[entity-national-school-differentiated-system]] — 日本初期在臺設立差別的教育體系，後期將小學校與公學校改稱國民學校，並推行六年義務教育。
-- [[entity-public-health-modern-life-1920s-1940s]] — 日治政府以防疫、醫療與公共設施為主軸推動現代衛生觀念，並同步擴展守時守法等日常秩序規範。
-- [[entity-taiwan-culture-association-1921]] — 1921年成立的臺灣文化協會以文化啟蒙與社會改善為核心，透過報刊與演講推動臺灣社會自覺。
-- [[entity-taiwan-minshu-party-1927]] — 1927年由蔣渭水等人成立，是臺灣人建立的重要政黨組織之一，主張民權、自治與經濟社會改革。
+- [[history-g7-l003-entity-civil-society-movement]] — 民族自決思潮下，臺灣文化協會等組織推動文化啟蒙與自治訴求，形成地方政治意識的擴張。
+- [[history-g7-l003-entity-education-hierarchy]] — 日治時期初期以不同族群分設學校並不平等配置資源，教育同時具統治與人才培育雙重角色。
+- [[history-g7-l003-entity-public-health-modernization]] — 透過醫療建制、清潔設施與法庭制度，政府逐步塑造臺灣人的衛生與守法習慣。
+- [[history-g7-l003-entity-urban-modern-culture]] — 菊元百貨、臺灣總督府博物館、臺中公園等公共空間與西式餐飲興起，顯示日治後都會生活日漸普及。
 
 ## Events
-- [[event-1943-six-year-compulsory-education]] — 1943年起實施六年義務教育，象徵日治後期教育制度由前期隔離原則走向更完整行政化管理。
-- [[event-taiwan-minshu-party-1927-founded]] — 1927年成立的臺灣民眾黨聚焦民權與自治，成為日治時期臺灣政治社會運動中的重要組織。
-- [[event-taiwan-parliament-petition-movement-1921-1934]] — 臺灣知識分子與民間於1921年至1934年間持續連署與請願，要求設立臺灣議會，未能實現但提升了政治覺醒。
+- [[history-g7-l003-event-autonomy-movement-repression-1937]] — 1937年戰爭背景下，日治當局加強壓制，政治社會運動逐漸轉弱並轉為更受限發展。
+- [[history-g7-l003-event-culture-association-1921]] — 臺灣文化協會成立並進行讀報社、演講與文教活動，連結民族覺醒與社會改造的思想土壤。
+- [[history-g7-l003-event-local-elections-1935]] — 1935 年舉行首次地方議員選舉，選舉受限但開始讓民眾接觸自治與參政概念。
+- [[history-g7-l003-event-peoples-party-1927]] — 臺灣民眾黨以民權與自治為綱領成立，成為關鍵政治組織並扶助工農運動，反映知識分子轉向制度化政治行動。
+- [[history-g7-l003-event-taichung-middle-school-1915]] — 1921年前日本僅少量招收臺灣人的中學機會下，1915 成立臺中中學校成為關鍵門檻事件，顯示受限中等教育的開端。
 
 ## Comparisons
-- [[comparison-cultural-enlightenment-vs-urban-cultural-modernity]] — 文化啟蒙著重思想喚醒與制度抗爭，與都會文化形成著重生活方式與消費空間，是兩條同時推進但不同向度的現代化路徑。
-- [[comparison-differentiated-vs-unified-education]] — 前者以身份差異分層控制資源，後者則將制度外在表徵統一，但實質平權差距與學術深度仍需歷史批判。
+- [[history-g7-l003-comparison-education-assimilation-vs-public-benefit]] — 日治教育既是殖民同化工具，也是新知識分子的誕生場域，需以「矛盾共存」而非單一面向評價。
+- [[history-g7-l003-comparison-traditional-culture-vs-modern-life]] — 日治社會變遷不是傳統全面消失，而是透過放足、斷髮、時間制度、公共衛生等實踐形成漸進調適。
 
 ## Queries
 - [[history-g7-l003-knowledge-sync-plan]] — 知識同步方案
-- [[history-g7-l003-student-001-exam-report]] — 截至目前學生已作答 3 題且全數正確，尚未產生錯題，但整體測驗尚未完成，需繼續完成剩餘題目才能下最終能力判定。
+- [[history-g7-l003-student-001-exam-report]] — 學生在本次測驗目前僅完成 3 題且皆正確，尚無未完成更正要求，建議維持原有正向回饋並進行未作答題段的連貫複習。

@@ -1,44 +1,37 @@
 ---
-title: 教材來源節點：日治時期的社會與文化
-created: '2026-05-04'
+title: 殖民教育：同化工具與知識養成並存
+created: '2026-06-08'
 updated: '2026-06-08'
-type: entity
+type: comparison
 tags:
-- source-note
-- lesson
-- history
-- grade-7
-- taiwan-history
-- japanese-rule
+- comparison
 - education
+- japanese-rule
+- history
+- concept
 sources:
-- indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
+- wiki/exams/history/g7/l003/drive-s2-quiz.md
 confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 來源資訊
-- `lesson_id`: history-g7-l003
-- `lesson_variant_id`: drive-s2-textbook
-- `source_pdf`: drive-s2-textbook.pdf
-- `source_hash`: sha256:4a3578136293aadfd17c04341e7d56642a8652bd4828603d48ad332dadaf267c
-- `converter`: markitdown
-- `conversion_state`: wiki_ready
+## 比較軸
+- 一方面有差別待遇、資源不均、語言與入學限制；另一方面亦孕育醫學、師範、技術人才。
+- 因而同一制度可同時帶來控制效果與能力生成。
 
-## 內容地圖
-- 第1主軸：差別待遇教育與社會階層化。
-- 第2主軸：文化啟蒙與政治社會運動。
-- 第3主軸：生活現代化與新舊文化交織。
+## 學習用途
+- 解題時可先問「目的」再問「結果」，避免只看政策結果或只看歷史影響。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-student-001-exam-report]]
 - [[history-g7-l003-entity-education-hierarchy]]
-- [[drive-s2-quiz]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-textbook]]
+- [[drive-s2-quiz]]
 - [[history-g7-l003-entity-civil-society-movement]]
 - [[history-g7-l003-entity-public-health-modernization]]
 - [[history-g7-l003-entity-urban-modern-culture]]
@@ -47,6 +40,5 @@ student_id: student-001
 - [[history-g7-l003-event-peoples-party-1927]]
 - [[history-g7-l003-event-local-elections-1935]]
 - [[history-g7-l003-event-autonomy-movement-repression-1937]]
-- [[history-g7-l003-comparison-education-assimilation-vs-public-benefit]]
 - [[history-g7-l003-comparison-traditional-culture-vs-modern-life]]
 - [[index]]

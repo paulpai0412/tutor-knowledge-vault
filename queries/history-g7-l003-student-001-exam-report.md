@@ -1,15 +1,13 @@
 ---
-title: student-001 測驗表現紀錄（history-g7-l003-drive-s2-quiz）
+title: 學生-001 第3章測驗回饋（已作答段）
 created: '2026-05-04'
-updated: '2026-06-07'
+updated: '2026-06-08'
 type: summary
 tags:
-- grade-7
 - history
+- grade-7
 - exam-analysis
 - student-progress
-- lesson
-- taiwan-history
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -20,49 +18,37 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 作答結果摘要
-- lesson_group_id：`history-g7-l003`
-- material_id：`history-g7-l003-drive-s2-quiz`
-- attempted_answers：3
-- unique_questions：3
-- correct_attempts：3
-- wrong_attempts：0
-- currently_correct_questions：3
-- outstanding_wrong_questions：0
-- wrong_question_ids：none
+## 成績現況
+- 已作答題數：`3`
+- 目前正確題數：`3`
+- 錯題數：`0`
+- outstanding_wrong_questions：`0`
+- wrong_question_ids：`none`
+- 最近題號紀錄：q-1、q-2、q-3 全部正確。
 
-## 已確認題號
-- `q-1`（題號1）最新答案：B，結果正確
-- `q-2`（題號2）最新答案：B，結果正確
-- `q-3`（題號3）最新答案：A，結果正確
+## 學習解讀
+- 目前可判斷學生對「臺中中學校」、「休閒文化形成原因」、「第一個臺灣政黨」等題型有穩定基礎。
+- 目前資料僅涵蓋前段題目，尚無法全面推論後段（文化、自治運動時間順序、制度題）是否完全穩固。
 
-## 能力訊號（由題型推估）
-- 已可辨識日治時期學校制度與第一所臺人中學。
-- 能分辨休閒現代化與產業發展的關係。
-- 能記得臺灣第一個臺人政黨及其成立背景。
-
-## 待繼續觀察
-- 本次 `exam_source` 仍在進行中，建議持續作答剩餘題後再做錯題回收。
-
-## 參考連結
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-teaching-focus]]
-- [[drive-s2-quiz]]
+## 建議
+- 先完成其餘題目，取得完整題庫分佈再進行再測。
+- 即便目前無錯題，仍可加入「高難題選答」作為概念整合訓練。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
-- [[drive-s2-quiz]]
+- [[history-g7-l003-misconceptions]]
 - [[drive-s2-textbook]]
-- [[entity-national-school-differentiated-system]]
-- [[entity-taiwan-culture-association-1921]]
-- [[entity-taiwan-minshu-party-1927]]
-- [[entity-public-health-modern-life-1920s-1940s]]
-- [[event-taiwan-parliament-petition-movement-1921-1934]]
-- [[event-taiwan-minshu-party-1927-founded]]
-- [[event-1943-six-year-compulsory-education]]
-- [[comparison-differentiated-vs-unified-education]]
-- [[comparison-cultural-enlightenment-vs-urban-cultural-modernity]]
+- [[drive-s2-quiz]]
+- [[history-g7-l003-entity-education-hierarchy]]
+- [[history-g7-l003-entity-civil-society-movement]]
+- [[history-g7-l003-entity-public-health-modernization]]
+- [[history-g7-l003-entity-urban-modern-culture]]
+- [[history-g7-l003-event-taichung-middle-school-1915]]
+- [[history-g7-l003-event-culture-association-1921]]
+- [[history-g7-l003-event-peoples-party-1927]]
+- [[history-g7-l003-event-local-elections-1935]]
+- [[history-g7-l003-event-autonomy-movement-repression-1937]]
+- [[history-g7-l003-comparison-education-assimilation-vs-public-benefit]]
+- [[history-g7-l003-comparison-traditional-culture-vs-modern-life]]
 - [[index]]

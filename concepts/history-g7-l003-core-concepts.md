@@ -1,7 +1,7 @@
 ---
-title: 日治時期社會與文化核心概念
+title: 日治時期社會與文化核心觀念
 created: '2026-05-04'
-updated: '2026-06-07'
+updated: '2026-06-08'
 type: concept
 tags:
 - history
@@ -10,10 +10,10 @@ tags:
 - concept
 - taiwan-history
 - japanese-rule
+- education
 - modernization
 - social-movements
 - culture
-- local-autonomy
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -24,28 +24,30 @@ student_id: student-001
 ---
 
 ## 核心概念
-- **教育制度**：日治初期採「三分」學制（日本人小學校、臺灣人公學校、原住民學校）並以日語為主要教學語言，後續在帝國化背景下轉向「國民學校」與六年義務教育。
-- **政治社會運動**：1920年代起知識分子以文化啟蒙為基礎，透過臺灣文化協會、臺灣民眾黨、地方自治聯盟等組織推動請願與參與公共議題。
-- **生活與文化轉型**：鴉片管制、斷髮放足、守法守時觀念、公共衛生建設與都會娛樂空間形成，共同改變社會秩序與價值。
+- **差別化教育**：日治初期建立不同族群學校，日人、臺灣人、原住民在課程與資源上有差別，成為殖民統治與同化治理工具。
+- **知識分子與政治社會運動**：1920年代起，文化協會、議會設置請願、臺灣民眾黨與地方自治聯盟推動自治與權益意識的擴散。
+- **新舊文化共存**：城市衛生、法治、時間制度與娛樂休閒等逐漸現代化，但傳統與在地習俗並未完全消失。
 
-## 關係
-- 教育不僅是知識傳遞，也是殖民統治與社會工程工具；也因此培養了日後參與政治社會運動的知識分子。
-- 政治社會運動與文化啟蒙彼此相依，前者提供目標，後者提供方法與公共話語。
-- 文化變遷並非取代，而是「新舊並存」：城市與制度先變，鄉村與原住民空間轉變較慢。
+## 章節關係圖
+- 制度面：[[history-g7-l003-entity-education-hierarchy]] 提供教育分層脈絡。
+- 社運面：[[history-g7-l003-entity-civil-society-movement]] 呈現文化啟蒙到政治訴求的節點。
+- 生活面：[[history-g7-l003-entity-urban-modern-culture]] 對應都會化與日常習慣轉變。
 
 ## 相關頁面
+- [[history-g7-l003-entity-education-hierarchy]]
+- [[history-g7-l003-entity-civil-society-movement]]
+- [[history-g7-l003-entity-urban-modern-culture]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[entity-national-school-differentiated-system]]
-- [[entity-taiwan-culture-association-1921]]
-- [[entity-taiwan-minshu-party-1927]]
-- [[entity-public-health-modern-life-1920s-1940s]]
-- [[event-taiwan-parliament-petition-movement-1921-1934]]
-- [[event-taiwan-minshu-party-1927-founded]]
-- [[event-1943-six-year-compulsory-education]]
-- [[comparison-differentiated-vs-unified-education]]
-- [[comparison-cultural-enlightenment-vs-urban-cultural-modernity]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-entity-public-health-modernization]]
+- [[history-g7-l003-event-taichung-middle-school-1915]]
+- [[history-g7-l003-event-culture-association-1921]]
+- [[history-g7-l003-event-peoples-party-1927]]
+- [[history-g7-l003-event-local-elections-1935]]
+- [[history-g7-l003-event-autonomy-movement-repression-1937]]
+- [[history-g7-l003-comparison-education-assimilation-vs-public-benefit]]
+- [[history-g7-l003-comparison-traditional-culture-vs-modern-life]]
 - [[index]]
