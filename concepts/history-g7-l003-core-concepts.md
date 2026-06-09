@@ -1,19 +1,18 @@
 ---
-title: 日治時期社會與文化核心觀念
+title: 日治時期社會與文化核心概念
 created: '2026-05-04'
-updated: '2026-06-08'
+updated: '2026-06-09'
 type: concept
 tags:
 - history
 - grade-7
-- lesson
-- concept
 - taiwan-history
 - japanese-rule
 - education
 - modernization
 - social-movements
 - culture
+- concept
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -24,30 +23,25 @@ student_id: student-001
 ---
 
 ## 核心概念
-- **差別化教育**：日治初期建立不同族群學校，日人、臺灣人、原住民在課程與資源上有差別，成為殖民統治與同化治理工具。
-- **知識分子與政治社會運動**：1920年代起，文化協會、議會設置請願、臺灣民眾黨與地方自治聯盟推動自治與權益意識的擴散。
-- **新舊文化共存**：城市衛生、法治、時間制度與娛樂休閒等逐漸現代化，但傳統與在地習俗並未完全消失。
-
-## 章節關係圖
-- 制度面：[[history-g7-l003-entity-education-hierarchy]] 提供教育分層脈絡。
-- 社運面：[[history-g7-l003-entity-civil-society-movement]] 呈現文化啟蒙到政治訴求的節點。
-- 生活面：[[history-g7-l003-entity-urban-modern-culture]] 對應都會化與日常習慣轉變。
+- **差別教育與同化治理**：日治初期分別設立小學校、公學校與蕃人公學校，體現差別待遇與隔離原則；日語為主要授課語言，資源與待遇不均。
+- **知識分子的文化啟蒙與政治社會運動**：1921年起《臺灣文化協會》、1927年臺灣民眾黨、1930年臺灣地方自治聯盟與1935地方議員選舉，反映自治與民權意識在社會中的擴散。
+- **新舊文化變遷**：現代衛生、法治、守時制度與都會休閒場所逐步普及，但城鄉與族群差異使轉化速度不一，傳統仍保留於日常生活。
+- **關係重點**：教育培養的新知識份子，成為政治社會運動的重要推手；而現代化制度的推進，既有治理與控制功能，也帶來學生、婦女、都市文化等新機會。
 
 ## 相關頁面
-- [[history-g7-l003-entity-education-hierarchy]]
-- [[history-g7-l003-entity-civil-society-movement]]
-- [[history-g7-l003-entity-urban-modern-culture]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-event-1921-parliament-petition]]
+- [[history-g7-l003-entity-education-segregation]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[history-g7-l003-entity-public-health-modernization]]
-- [[history-g7-l003-event-taichung-middle-school-1915]]
-- [[history-g7-l003-event-culture-association-1921]]
-- [[history-g7-l003-event-peoples-party-1927]]
-- [[history-g7-l003-event-local-elections-1935]]
-- [[history-g7-l003-event-autonomy-movement-repression-1937]]
-- [[history-g7-l003-comparison-education-assimilation-vs-public-benefit]]
-- [[history-g7-l003-comparison-traditional-culture-vs-modern-life]]
+- [[history-g7-l003-entity-cultural-movement]]
+- [[history-g7-l003-entity-modern-law-health]]
+- [[history-g7-l003-entity-urban-consumer-culture]]
+- [[history-g7-l003-event-1927-minshu-party]]
+- [[history-g7-l003-event-1930-local-autonomy-alliance]]
+- [[history-g7-l003-event-1937-war-repression]]
+- [[history-g7-l003-comparison-education-control-vs-empowerment]]
+- [[history-g7-l003-comparison-traditional-modern-culture]]
 - [[index]]

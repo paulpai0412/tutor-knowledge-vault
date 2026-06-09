@@ -1,14 +1,15 @@
 ---
-title: 測驗來源節點：日治時期的社會與文化
+title: 測驗來源：drive-s2-quiz（日治時期的社會與文化）
 created: '2026-05-04'
-updated: '2026-06-08'
-type: entity
+updated: '2026-06-09'
+type: summary
 tags:
 - source-note
+- exam-analysis
 - history
 - grade-7
 - japanese-rule
-- exam-analysis
+- social-movements
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -17,33 +18,38 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 來源資訊
-- `exam_id`: history-g7-l003-drive-s2-quiz
-- `exam_variant_id`: drive-s2-quiz
-- `source_pdf`: drive-s2-quiz.pdf
-- `source_hash`: sha256:b51e95bbc8e5a18ebe7097ccbab5f5d97608c7db9aac018d6c59d2614c9df27e
-- `converter`: marker
-- `conversion_state`: review_required
+## 元資料
+- exam_id: `history-g7-l003-drive-s2-quiz`
+- converter: `marker`（本紀錄中為 `review_required`）
+- source_pdf: `drive-s2-quiz.pdf`
+- material_id: `history-g7-l003-drive-s2-quiz`
 
-## 檢核重點
-- 題幹中有少數排版與OCR雜訊（如題目8、題目20段落拼接），需在複習前確認選項邏輯完整。
-- 後段題目（如題次 21）截斷提示，建議以人工核對為準。
+## 題型對應
+- 已確認題目1–3為選擇題基礎識別，與教材中的教育與初始政治運動主軸直接對接。
+- 題幹包含學校制度、政黨成立、現代化休閒、法治與自治運動等高重點單元。
+
+## 教學使用方式
+- 先用 q1–q3 作為暖機，再延伸到排序題與情境判斷題，檢核學生是否能用「時間軸＋原因結果」去推論。
+
+## 參照連結
+- [[drive-s2-textbook]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-core-concepts]]
 
 ## 相關頁面
 - [[drive-s2-textbook]]
+- [[history-g7-l003-student-001-exam-report]]
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[history-g7-l003-entity-education-hierarchy]]
-- [[history-g7-l003-entity-civil-society-movement]]
-- [[history-g7-l003-entity-public-health-modernization]]
-- [[history-g7-l003-entity-urban-modern-culture]]
-- [[history-g7-l003-event-taichung-middle-school-1915]]
-- [[history-g7-l003-event-culture-association-1921]]
-- [[history-g7-l003-event-peoples-party-1927]]
-- [[history-g7-l003-event-local-elections-1935]]
-- [[history-g7-l003-event-autonomy-movement-repression-1937]]
-- [[history-g7-l003-comparison-education-assimilation-vs-public-benefit]]
-- [[history-g7-l003-comparison-traditional-culture-vs-modern-life]]
+- [[history-g7-l003-entity-education-segregation]]
+- [[history-g7-l003-entity-cultural-movement]]
+- [[history-g7-l003-entity-modern-law-health]]
+- [[history-g7-l003-entity-urban-consumer-culture]]
+- [[history-g7-l003-event-1921-parliament-petition]]
+- [[history-g7-l003-event-1927-minshu-party]]
+- [[history-g7-l003-event-1930-local-autonomy-alliance]]
+- [[history-g7-l003-event-1937-war-repression]]
+- [[history-g7-l003-comparison-education-control-vs-empowerment]]
+- [[history-g7-l003-comparison-traditional-modern-culture]]
 - [[index]]

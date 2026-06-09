@@ -1,8 +1,8 @@
 ---
-title: 教材來源節點：日治時期的社會與文化
+title: 課程來源：drive-s2-textbook（日治時期的社會與文化）
 created: '2026-05-04'
-updated: '2026-06-08'
-type: entity
+updated: '2026-06-09'
+type: summary
 tags:
 - source-note
 - lesson
@@ -10,7 +10,6 @@ tags:
 - grade-7
 - taiwan-history
 - japanese-rule
-- education
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -19,34 +18,37 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 來源資訊
-- `lesson_id`: history-g7-l003
-- `lesson_variant_id`: drive-s2-textbook
-- `source_pdf`: drive-s2-textbook.pdf
-- `source_hash`: sha256:4a3578136293aadfd17c04341e7d56642a8652bd4828603d48ad332dadaf267c
-- `converter`: markitdown
-- `conversion_state`: wiki_ready
+## 元資料
+- lesson_id: `history-g7-l003`
+- lesson_no: 3
+- converter: `markitdown`
+- conversion_state: `wiki_ready`
+- source_pdf: `drive-s2-textbook.pdf`
 
-## 內容地圖
-- 第1主軸：差別待遇教育與社會階層化。
-- 第2主軸：文化啟蒙與政治社會運動。
-- 第3主軸：生活現代化與新舊文化交織。
+## 章節主軸
+- 3-1 差別待遇的現代教育：小學校、公學校、蕃人公學校；日語施教；1943年六年國民義務教育。
+- 3-2 文化啟蒙與政治社會運動：臺灣文化協會成立、議會設置請願、臺灣民眾黨與地方自治聯盟。
+- 3-3 新舊文化變遷：風俗改變、現代衛生、法治與守時習慣、都會文化。
+
+## 資料關係
+- 請對應 [[history-g7-l003-core-concepts]] 並與題目證據頁面比對。
+- 透過事件節點串接：[[history-g7-l003-event-1921-parliament-petition]]、[[history-g7-l003-event-1927-minshu-party]]。
+- 可作為解題背景頁，對應到來源檢核頁 [[drive-s2-quiz]]。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[history-g7-l003-entity-education-hierarchy]]
+- [[history-g7-l003-event-1921-parliament-petition]]
+- [[history-g7-l003-event-1927-minshu-party]]
 - [[drive-s2-quiz]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-entity-civil-society-movement]]
-- [[history-g7-l003-entity-public-health-modernization]]
-- [[history-g7-l003-entity-urban-modern-culture]]
-- [[history-g7-l003-event-taichung-middle-school-1915]]
-- [[history-g7-l003-event-culture-association-1921]]
-- [[history-g7-l003-event-peoples-party-1927]]
-- [[history-g7-l003-event-local-elections-1935]]
-- [[history-g7-l003-event-autonomy-movement-repression-1937]]
-- [[history-g7-l003-comparison-education-assimilation-vs-public-benefit]]
-- [[history-g7-l003-comparison-traditional-culture-vs-modern-life]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-entity-education-segregation]]
+- [[history-g7-l003-entity-cultural-movement]]
+- [[history-g7-l003-entity-modern-law-health]]
+- [[history-g7-l003-entity-urban-consumer-culture]]
+- [[history-g7-l003-event-1930-local-autonomy-alliance]]
+- [[history-g7-l003-event-1937-war-repression]]
+- [[history-g7-l003-comparison-education-control-vs-empowerment]]
+- [[history-g7-l003-comparison-traditional-modern-culture]]
 - [[index]]

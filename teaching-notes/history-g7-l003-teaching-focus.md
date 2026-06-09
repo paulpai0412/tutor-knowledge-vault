@@ -1,15 +1,14 @@
 ---
-title: 可複用教學重點與追問策略
+title: 教學重點與可重複使用提示
 created: '2026-05-04'
-updated: '2026-06-08'
+updated: '2026-06-09'
 type: summary
 tags:
+- teaching-strategy
 - history
 - grade-7
-- teaching-strategy
-- concept
-- exam-analysis
 - student-progress
+- education
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
@@ -19,33 +18,40 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 當下可用策略
-- **先獎勵再修正**：目前答對率高，可先肯定已建立的事實框架，避免因過早糾錯削弱自信。
-- **時間線提問**：固定追問「1921、1927、1930、1935、1937」的先後順序，訓練學生建構事件鏈。
-- **概念轉接**：每次提問都連回三軸：教育、社運、生活現代化，避免孤立背誦。
+## 可用教學流程
+1. **先定義核心政策**：用簡單對照表講清「差別待遇」與「六年國民義務教育」的關係。
+2. **再接上行動者**：介紹林獻堂、蔣渭水與臺灣民眾黨，說明他們如何從文化啟蒙轉向請求自治。
+3. **最後談生活轉變**：以衛生、法治、守時、都會娛樂空間為線索，討論為何會有同時存在的文化。
 
-## 需留意的迷你重點
-- 「第一所專收臺灣人子弟中學」與「臺北帝國大學」的角色別是**中等教育起步**與**高等教育象徵**。
-- 「法治與守時」題材常會與「文化禁忌」混在一起，建議用日常情境題分開比較。
+## 錯題管理原則
+- 本次尚無錯題可立刻重作，因此先強化學生已會之概念，避免一次補太多新題。
+- 下一次追蹤時，優先安排「原因題」與「序列題」以驗證時序理解，特別是政治社會運動的先後關係。
 
-## 下一步建議
-- 先補齊未作答題目，再用錯題回顧做二次測驗；本次沒有錯題可進入「高信心題→情境延伸題」模式。
+## 學生可用提問
+- 「政府推行現代制度，對臺灣人的生活最直接的三個改變是什麼？」
+- 「為什麼同時能看到文化啟蒙、自治運動，與政府現代化？有沒有衝突也有沒有互補？」
 
-## 相關頁面
-- [[history-g7-l003-misconceptions]]
+## 參照頁面
 - [[history-g7-l003-core-concepts]]
-- [[drive-s2-quiz]]
+- [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
-- [[history-g7-l003-entity-education-hierarchy]]
-- [[history-g7-l003-entity-civil-society-movement]]
-- [[history-g7-l003-entity-public-health-modernization]]
-- [[history-g7-l003-entity-urban-modern-culture]]
-- [[history-g7-l003-event-taichung-middle-school-1915]]
-- [[history-g7-l003-event-culture-association-1921]]
-- [[history-g7-l003-event-peoples-party-1927]]
-- [[history-g7-l003-event-local-elections-1935]]
-- [[history-g7-l003-event-autonomy-movement-repression-1937]]
-- [[history-g7-l003-comparison-education-assimilation-vs-public-benefit]]
-- [[history-g7-l003-comparison-traditional-culture-vs-modern-life]]
+- [[history-g7-l003-event-1930-local-autonomy-alliance]]
+
+## 相關頁面
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-textbook]]
+- [[history-g7-l003-event-1930-local-autonomy-alliance]]
+- [[drive-s2-quiz]]
+- [[history-g7-l003-entity-education-segregation]]
+- [[history-g7-l003-entity-cultural-movement]]
+- [[history-g7-l003-entity-modern-law-health]]
+- [[history-g7-l003-entity-urban-consumer-culture]]
+- [[history-g7-l003-event-1921-parliament-petition]]
+- [[history-g7-l003-event-1927-minshu-party]]
+- [[history-g7-l003-event-1937-war-repression]]
+- [[history-g7-l003-comparison-education-control-vs-empowerment]]
+- [[history-g7-l003-comparison-traditional-modern-culture]]
 - [[index]]

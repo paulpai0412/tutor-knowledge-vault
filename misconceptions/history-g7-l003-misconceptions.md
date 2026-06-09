@@ -1,15 +1,14 @@
 ---
-title: 學生迷思觀察與訂正
+title: student-001 迷思診斷與修正
 created: '2026-05-04'
-updated: '2026-06-08'
+updated: '2026-06-09'
 type: summary
 tags:
-- history
-- grade-7
 - misconception
-- teaching-strategy
 - exam-analysis
 - student-progress
+- history
+- grade-7
 sources:
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 confidence: medium
@@ -17,39 +16,36 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 目前觀察
-- 作答紀錄顯示 `attempted_answers=3`、`currently_correct_questions=3`、`outstanding_wrong_questions=0`，且 `wrong_question_ids` 為 none。
-- 目前尚未形成可確認的固定迷思，需要更多題量觀察後再定義「長期易錯點」。
+## 已觀察結果
+- 已完成題號1、2、3，答案分別為B、B、A，且皆正確；目前 wrong_question_ids 為空，沒有因答錯形成可追蹤誤區的直接證據。
+- 目前主要是先驗證能力為主：學生對「日治時期第一所專收臺人中學」與「第一個台灣政黨」及「休閒現象之主要成因」的選擇判斷穩定。
 
-## 可能的高風險誤讀（需提前預警）
-- 容易把「差別待遇」與「沒有任何現代化」混為一談，實際上是「既有現代化也有不平等」的並存結構。
-- 容易把休閒文化興起直接歸為政治開放，實務上更核心是工商業與都市發展條件。
-- 容易把自治運動簡化為單次行動，需抓住「1921 請願→1935 選舉→1937 受壓制」的連續過程。
+## 預警型迷思（尚未驗證）
+- **迷思1**：認為教育改革等於對所有族群公平實施。
+- **迷思2**：誤認新舊文化是全面替代關係，忽略城鄉與原住民社群差異。
+- **迷思3**：將政治社會運動與單純文化活動混為一談，未區分請願、政黨與協會各自功能。
 
-## 目前判定
-- 本階段這些迷思未被實際作答證實。
-- 建議維持高頻出題與情境對照，等學生展現穩定誤答後再進一步介入糾偏。
+## 是否已解決
+- 目前資料中這些迷思尚屬潛在狀態，未因錯題被直接觸發；可在後續題目中以情境題加以驗證。
 
-## 連結
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[history-g7-l003-entity-education-hierarchy]]
+## 下一步對應
+- 在下一輪題目前，先用提問釐清「差別待遇」與「義務教育」的差異，並串接 [[history-g7-l003-event-1921-parliament-petition]]、[[history-g7-l003-event-1927-minshu-party]]。
+- 可搭配 [[history-g7-l003-core-concepts]] 與 [[history-g7-l003-teaching-focus]] 進行迷思預防。
 
 ## 相關頁面
+- [[history-g7-l003-event-1921-parliament-petition]]
+- [[history-g7-l003-event-1927-minshu-party]]
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[history-g7-l003-entity-education-hierarchy]]
 - [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-entity-civil-society-movement]]
-- [[history-g7-l003-entity-public-health-modernization]]
-- [[history-g7-l003-entity-urban-modern-culture]]
-- [[history-g7-l003-event-taichung-middle-school-1915]]
-- [[history-g7-l003-event-culture-association-1921]]
-- [[history-g7-l003-event-peoples-party-1927]]
-- [[history-g7-l003-event-local-elections-1935]]
-- [[history-g7-l003-event-autonomy-movement-repression-1937]]
-- [[history-g7-l003-comparison-education-assimilation-vs-public-benefit]]
-- [[history-g7-l003-comparison-traditional-culture-vs-modern-life]]
+- [[history-g7-l003-entity-education-segregation]]
+- [[history-g7-l003-entity-cultural-movement]]
+- [[history-g7-l003-entity-modern-law-health]]
+- [[history-g7-l003-entity-urban-consumer-culture]]
+- [[history-g7-l003-event-1930-local-autonomy-alliance]]
+- [[history-g7-l003-event-1937-war-repression]]
+- [[history-g7-l003-comparison-education-control-vs-empowerment]]
+- [[history-g7-l003-comparison-traditional-modern-culture]]
 - [[index]]
