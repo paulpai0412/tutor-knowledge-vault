@@ -1,64 +1,65 @@
 ---
-title: student-001 目前測驗報告
+title: student-001 試題回顧：history-g7-l003 平時測驗
 created: '2026-05-04'
-updated: '2026-06-09'
+updated: '2026-06-10'
 type: summary
 tags:
 - exam-analysis
 - student-progress
 - history
 - grade-7
-- japanese-rule
+- source-note
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 - wiki/students/student-001/progress/history/g7/l003/summary.md
-confidence: high
+confidence: medium
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 作答結果快照
-- `attempted_answers`: 3
-- `currently_correct_questions`: 3
-- `wrong_attempts`: 0
-- `outstanding_wrong_questions`: 0
-- `wrong_question_ids`: none
+## 成績摘要
+- attempted_answers：3
+- unique_questions：3
+- correct_attempts：3
+- wrong_attempts：0
+- currently_correct_questions：3
+- outstanding_wrong_questions：0
+- wrong_question_ids：none
 
-## 已確認掌握題型
-- q1（專收臺人中學）：B
-- q2（新式休閒場所產生原因）：B
-- q3（第一個臺灣政黨）：A
+## 目前可見學習樣貌
+- 第 1 題（臺灣第一所專收臺人中學）
+- 第 2 題（休閒場所增加主因）
+- 第 3 題（第一個由臺灣人成立政黨）
+這三題均作答正確，代表其關鍵名詞與事件對應能力目前良好。
 
-## 詮釋
-- 依目前紀錄可視為「前段基礎識別能力穩定」，但尚未測到學生在高難度排序、比較與延伸判斷上的表現。
-- 目前可觀察到 `top_skills`: 日治時期3、工商業1、政治社會運動1、教育1、社會生活1、臺灣民眾黨1，與已掌握主題一致，適合延伸到中段/後段題。
-
-## 下一步
-- 先補 q4～q10 中與「運動脈絡」與「文化治理」相關題型。
-- 用錯題未產生的情境，改以 **概念差異題** 評估學生是否會混淆「結果」與「原因」。
+## 後續建議
+- 目前尚不能因此宣告全面掌握，需以 [[drive-s2-quiz]] 的後段題目（如政治運動時間軸、制度效果題）補齊。
+- 對教師而言，重點轉向「為何」而非「答案是誰」，讓學生學會比較與解釋。
 
 ## 連結
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
-- [[drive-s2-quiz]]
 
 ## 相關頁面
+- [[drive-s2-quiz]]
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
-- [[drive-s2-quiz]]
 - [[drive-s2-textbook]]
-- [[history-g7-l003-entity-education-segregation]]
-- [[history-g7-l003-entity-cultural-movement]]
-- [[history-g7-l003-entity-modern-law-health]]
-- [[history-g7-l003-entity-urban-consumer-culture]]
-- [[history-g7-l003-event-1921-parliament-petition]]
-- [[history-g7-l003-event-1927-minshu-party]]
-- [[history-g7-l003-event-1930-local-autonomy-alliance]]
-- [[history-g7-l003-event-1937-war-repression]]
-- [[history-g7-l003-comparison-education-control-vs-empowerment]]
-- [[history-g7-l003-comparison-traditional-modern-culture]]
+- [[history-g7-l003-entity-differentiated-education]]
+- [[history-g7-l003-entity-cultural-association]]
+- [[history-g7-l003-entity-political-social-movements]]
+- [[history-g7-l003-entity-modern-life-adjustment]]
+- [[history-g7-l003-entity-urban-modern-culture-symbols]]
+- [[history-g7-l003-event-parliament-petition-1921]]
+- [[history-g7-l003-event-people-party-1927]]
+- [[history-g7-l003-event-local-autonomy-alliance-1930]]
+- [[history-g7-l003-event-repression-after-1937]]
+- [[history-g7-l003-event-national-school-unification-1941]]
+- [[history-g7-l003-comparison-education-controls-vs-opportunity]]
+- [[history-g7-l003-comparison-tradition-vs-modern-lifestyle]]
+- [[history-g7-l003-comparison-state-control-vs-civil-society]]
 - [[index]]
