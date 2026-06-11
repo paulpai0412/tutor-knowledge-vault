@@ -1,7 +1,7 @@
 ---
-title: 日治時期的臺灣社會與文化：核心概念
+title: 日治時期的社會與文化核心概念
 created: '2026-05-04'
-updated: '2026-06-10'
+updated: '2026-06-11'
 type: concept
 tags:
 - history
@@ -18,39 +18,34 @@ sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
-confidence: medium
+confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
 ## 核心概念
-- 總督府以差別待遇建立初等與中等教育，並以日語與資源分配凸顯日本人優先，導向殖民秩序的同化治理。
-- 1930年代後，台灣知識分子透過文化協會、雜誌、演講與政黨組織推動民族意識與自治訴求，形成政治社會運動。
-- 現代衛生、法治、守時、都會娛樂與消費空間的推行，使生活習慣逐步改變，但鄉村與原住民地區的轉變速度不一。
+日治時期的核心是「現代化治理」與「地方社會回應」並行：總督府以教育與制度推動同化，臺灣知識分子以文化啟蒙與政治社會運動反應。
 
-## 主要關係
-- [[history-g7-l003-entity-differentiated-education]] 顯示教育政策如何產生社會階層化的學習機會，再透過新知識份子回流影響運動。
-- [[history-g7-l003-entity-cultural-association]] 與 [[history-g7-l003-entity-urban-modern-culture]] 說明從思想啟蒙到都市文化形成的接續鏈。
-- [[history-g7-l003-comparison-education-controls-vs-opportunity]] 可用來比較政府意圖與民間實踐的落差。
+## 概念關係
+1. 現代教育：小學校、國民學校、專門中學與高等學校制度建立知識菁英。
+2. 政治社會運動：文化協會、請願、政黨與地方自治倡議讓自治與民權觀念逐步深入。
+3. 生活現代化：衛生、法治、守時與都市休閒文化等推動新舊文化並存。
 
 ## 相關頁面
-- [[history-g7-l003-entity-differentiated-education]]
-- [[history-g7-l003-entity-cultural-association]]
-- [[history-g7-l003-entity-urban-modern-culture]]
-- [[history-g7-l003-comparison-education-controls-vs-opportunity]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-student-001-exam-report]]
+- [[comparison-education-disparity-japanese-vs-taiwanese]]
+- [[entity-taiwan-culture-association]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-entity-political-social-movements]]
-- [[history-g7-l003-entity-modern-life-adjustment]]
-- [[history-g7-l003-entity-urban-modern-culture-symbols]]
-- [[history-g7-l003-event-parliament-petition-1921]]
-- [[history-g7-l003-event-people-party-1927]]
-- [[history-g7-l003-event-local-autonomy-alliance-1930]]
-- [[history-g7-l003-event-repression-after-1937]]
-- [[history-g7-l003-event-national-school-unification-1941]]
-- [[history-g7-l003-comparison-tradition-vs-modern-lifestyle]]
-- [[history-g7-l003-comparison-state-control-vs-civil-society]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[entity-taiwan-democratic-party]]
+- [[entity-jiang-wei-shui]]
+- [[entity-taipei-imperial-university]]
+- [[entity-taichung-middle-school]]
+- [[event-parliament-petition-movement-1921]]
+- [[event-taiwan-democratic-party-founded-1927]]
+- [[event-local-autonomy-elections-1935]]
+- [[event-national-school-reform-1943]]
+- [[comparison-urban-rural-cultural-change]]
 - [[index]]

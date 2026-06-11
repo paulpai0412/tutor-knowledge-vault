@@ -1,14 +1,15 @@
 ---
-title: 日治時期常見迷思：本次作答觀察
+title: 學生常見迷思與本次診斷
 created: '2026-05-04'
-updated: '2026-06-10'
+updated: '2026-06-11'
 type: summary
 tags:
 - misconception
-- exam-analysis
-- student-progress
 - history
 - grade-7
+- exam-analysis
+- student-progress
+- teaching-strategy
 sources:
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 confidence: medium
@@ -16,37 +17,37 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 已觀察到的學生理解
-- 作答摘要顯示題 1、題 2、題 3 皆為正確答案，且皆未出現重複錯誤。
-- 目前可初步判定其「日治時期關鍵名詞辨識」與「政黨與組織對應」有初步穩定度。
+## 目前觀測
+學習歷程顯示 attempted_answers = 3、currently_correct_questions = 3、outstanding_wrong_questions = 0，且 wrong_question_ids = none，表示目前這一輪尚未留下固定性錯題。
 
-## 未驗證但常見的混淆點（待後測）
-- 容易把「文化啟蒙運動」與「政黨活動」混為一談；兩者在教材中有時間與角色差異。
-- 「現代化措施」常被誤認為全面平等推行，需用「城鄉差距與民族差別」加以修正。
-- 有些題目可能將「殖民政府改善公共衛生」與「純惠民」簡化，需補強其統治與控制雙重目的。
+## 本次可能未充分外顯但常見的迷思
+- 混淆文化協會與政黨功能：把推文化啟蒙的組織誤認為政治政黨。
+- 誤以為地方自治的制度存在即完整民主：需理解請願與地方議員選舉仍受限制。
 
-## 連結與追蹤
-- [[history-g7-l003-core-concepts]] 提供整體迷思檢核框架。
-- [[history-g7-l003-student-001-exam-report]] 用於追蹤後續題目是否出現新迷思。
-- [[history-g7-l003-teaching-focus]] 提供對應補救教學設計。
+## 是否已解決
+就本輪資料而言，尚未出現可直接證成為「未修正迷思」的錯誤答案；建議以後續題組觀察是否反覆出現。
+
+## 後續連結
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[entity-taiwan-democratic-party]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-student-001-exam-report]]
 - [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[entity-taiwan-democratic-party]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-entity-differentiated-education]]
-- [[history-g7-l003-entity-cultural-association]]
-- [[history-g7-l003-entity-political-social-movements]]
-- [[history-g7-l003-entity-modern-life-adjustment]]
-- [[history-g7-l003-entity-urban-modern-culture-symbols]]
-- [[history-g7-l003-event-parliament-petition-1921]]
-- [[history-g7-l003-event-people-party-1927]]
-- [[history-g7-l003-event-local-autonomy-alliance-1930]]
-- [[history-g7-l003-event-repression-after-1937]]
-- [[history-g7-l003-event-national-school-unification-1941]]
-- [[history-g7-l003-comparison-education-controls-vs-opportunity]]
-- [[history-g7-l003-comparison-tradition-vs-modern-lifestyle]]
-- [[history-g7-l003-comparison-state-control-vs-civil-society]]
+- [[entity-taiwan-culture-association]]
+- [[entity-jiang-wei-shui]]
+- [[entity-taipei-imperial-university]]
+- [[entity-taichung-middle-school]]
+- [[event-parliament-petition-movement-1921]]
+- [[event-taiwan-democratic-party-founded-1927]]
+- [[event-local-autonomy-elections-1935]]
+- [[event-national-school-reform-1943]]
+- [[comparison-education-disparity-japanese-vs-taiwanese]]
+- [[comparison-urban-rural-cultural-change]]
 - [[index]]

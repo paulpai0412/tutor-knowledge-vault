@@ -1,65 +1,60 @@
 ---
-title: student-001 試題回顧：history-g7-l003 平時測驗
+title: student-001 測驗摘要報告（日治時期社會與文化）
 created: '2026-05-04'
-updated: '2026-06-10'
+updated: '2026-06-11'
 type: summary
 tags:
 - exam-analysis
-- student-progress
 - history
 - grade-7
-- source-note
+- student-progress
+- education
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 - wiki/students/student-001/progress/history/g7/l003/summary.md
-confidence: medium
+confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
 ## 成績摘要
-- attempted_answers：3
-- unique_questions：3
-- correct_attempts：3
-- wrong_attempts：0
-- currently_correct_questions：3
-- outstanding_wrong_questions：0
-- wrong_question_ids：none
+- material_id: history-g7-l003-drive-s2-quiz
+- attempted_answers: 3
+- unique_questions: 3
+- correct_attempts: 3
+- wrong_attempts: 0
+- currently_correct_questions: 3
+- outstanding_wrong_questions: 0
 
-## 目前可見學習樣貌
-- 第 1 題（臺灣第一所專收臺人中學）
-- 第 2 題（休閒場所增加主因）
-- 第 3 題（第一個由臺灣人成立政黨）
-這三題均作答正確，代表其關鍵名詞與事件對應能力目前良好。
+## 題目結果
+已記錄正確者：q-1、q-2、q-3，提交答案分別為 B、B、A，皆與標準答案一致。
 
-## 後續建議
-- 目前尚不能因此宣告全面掌握，需以 [[drive-s2-quiz]] 的後段題目（如政治運動時間軸、制度效果題）補齊。
-- 對教師而言，重點轉向「為何」而非「答案是誰」，讓學生學會比較與解釋。
+## 教學含義
+短程表現顯示學生對本節主軸已具「可立即運用」的理解，但尚未完成全套題目驗證，需在後續題組中再觀察高頻迷思。
 
 ## 連結
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
+- [[drive-s2-quiz]]
 - [[history-g7-l003-teaching-focus]]
 
 ## 相關頁面
-- [[drive-s2-quiz]]
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
+- [[drive-s2-quiz]]
 - [[history-g7-l003-teaching-focus]]
 - [[drive-s2-textbook]]
-- [[history-g7-l003-entity-differentiated-education]]
-- [[history-g7-l003-entity-cultural-association]]
-- [[history-g7-l003-entity-political-social-movements]]
-- [[history-g7-l003-entity-modern-life-adjustment]]
-- [[history-g7-l003-entity-urban-modern-culture-symbols]]
-- [[history-g7-l003-event-parliament-petition-1921]]
-- [[history-g7-l003-event-people-party-1927]]
-- [[history-g7-l003-event-local-autonomy-alliance-1930]]
-- [[history-g7-l003-event-repression-after-1937]]
-- [[history-g7-l003-event-national-school-unification-1941]]
-- [[history-g7-l003-comparison-education-controls-vs-opportunity]]
-- [[history-g7-l003-comparison-tradition-vs-modern-lifestyle]]
-- [[history-g7-l003-comparison-state-control-vs-civil-society]]
+- [[entity-taiwan-culture-association]]
+- [[entity-taiwan-democratic-party]]
+- [[entity-jiang-wei-shui]]
+- [[entity-taipei-imperial-university]]
+- [[entity-taichung-middle-school]]
+- [[event-parliament-petition-movement-1921]]
+- [[event-taiwan-democratic-party-founded-1927]]
+- [[event-local-autonomy-elections-1935]]
+- [[event-national-school-reform-1943]]
+- [[comparison-education-disparity-japanese-vs-taiwanese]]
+- [[comparison-urban-rural-cultural-change]]
 - [[index]]
