@@ -1,13 +1,15 @@
 ---
-title: 學生-001 日治時期測驗成果報告
+title: 學生-001 日治時期測驗表現紀錄
 created: '2026-05-04'
-updated: '2026-06-12'
+updated: '2026-06-13'
 type: summary
 tags:
-- exam-analysis
-- student-progress
 - history
 - grade-7
+- exam-analysis
+- student-progress
+- source-note
+- misconception
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -18,41 +20,45 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 目前結果
-- 已作答數：3
-- 已答唯一題數：3
-- 正確作答：3
-- 錯誤作答：0
-- 目前正確題目：3
-- 尚未補答錯題：0
+## 本次關鍵結果
 
-## 解題特徵
-- 目前可觀察到學生對「主要政黨、教育制度、休閒與現代化」相關題項反應正向，與 `top_skills` 中的「日治時期:3」相符。
-- 目前無 `wrong-question artifact`，亦無 `review-plan artifact`，代表未進入重答或錯題回補流程。
+- attempted_answers：3
+- unique_questions：3
+- correct_attempts：3
+- wrong_attempts：0
+- outstanding_wrong_questions：0
 
-## 風險與對策
-- 因為資料只涵蓋前段作答，建議完成其餘題目後再做一次完整錯題診斷，尤其比較 1921/1927/1930/1935 年事件順序。
+## 解讀
 
-## 連結
+目前可判斷學生已正確掌握：
+1) 臺中中學校為首所專收臺籍中學生的學校
+2) 百貨公司與都會休閒場所成因
+3) 臺灣民眾黨與其綱要方向的辨識
+
+尚未完成整份卷面（卷面題數顯示為 22 題）前，不宜下「全面完成」結論；但以「已呈現題目」而言，基礎定位已穩。
+
+## 後續建議
+
+可持續追蹤尚未作答題目中的「時序排序、制度影響、觀念對照」題型，確保理解從記憶轉為推理。
+
+## 關聯
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[drive-s2-quiz]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[drive-s2-quiz]]
+- [[history-g7-l003-misconceptions]]
 - [[drive-s2-textbook]]
-- [[history-g7-l003-education-stratification]]
-- [[history-g7-l003-cultural-awakening-intellectuals]]
-- [[history-g7-l003-urban-modern-life]]
-- [[history-g7-l003-public-health-lawtime-discipline]]
-- [[history-g7-l003-event-1915-taichung-middle-school]]
-- [[history-g7-l003-event-1921-culture-association]]
-- [[history-g7-l003-event-1927-peoples-party]]
+- [[history-g7-l003-entity-education-stratification]]
+- [[history-g7-l003-entity-taiwan-cultural-association]]
+- [[history-g7-l003-entity-urban-modern-culture]]
+- [[history-g7-l003-entity-health-law-order]]
+- [[history-g7-l003-event-parliament-petition-movement]]
+- [[history-g7-l003-event-taiwan-commoners-party]]
 - [[history-g7-l003-event-1935-local-election]]
-- [[history-g7-l003-comparison-differentiated-education]]
-- [[history-g7-l003-comparison-tradition-modernity]]
+- [[history-g7-l003-comparison-education-vs-governance]]
+- [[history-g7-l003-comparison-modernization-vs-tradition-mix]]
 - [[index]]

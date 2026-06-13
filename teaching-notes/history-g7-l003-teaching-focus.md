@@ -1,13 +1,15 @@
 ---
-title: 日治時期社會與文化教學焦點
+title: 可再用教學策略與回饋重點
 created: '2026-05-04'
-updated: '2026-06-12'
+updated: '2026-06-13'
 type: summary
 tags:
-- teaching-strategy
 - history
 - grade-7
+- teaching-strategy
+- lesson
 - concept
+- student-progress
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
@@ -17,33 +19,34 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 教學提示
-- 先建立時間軸：1915、1921、1927、1930、1935、1937、1943，協助學生看見制度變化與社會回應的節奏。
-- 用雙軸整理：一軸為「政府推動」（教育、衛生、法治、時間制度），另一軸為「臺灣社會回應」（文化協會、政黨、地方自治）。
-- 引導學生區辨「目的」與「結果」：目的是同化與統治，但結果包含現代化機會擴大與政治意識覺醒。
+## 先前表現回饋
 
-## 錯題處理策略
-- 現階段無錯題；可設計兩道延伸情境題驗證是否混淆「1918 世界大戰後思潮→1920s 運動脈絡」。
-- 針對高層次理解，要求學生以「制度措施 + 具體影響」句型作答，避免只背答案。
+目前作答狀態為「3 題 3 皆正確」，可視為學生已具備基礎定位能力。未來可增加高階題，以防止憑記憶猜對，並觀察是否能解釋原因。
 
-## 下一步建議
-- 讓學生比較「日治初期分層教育」與「1943 義務教育」兩制度，做 3 列對照（誰可讀、誰教、語言、權利）。
-- 以 [[history-g7-l003-student-001-exam-report]] 驗證是否從全對轉向高階題型仍保持穩定。
+## 可重複使用提示
 
-## 相關頁面
-- [[history-g7-l003-student-001-exam-report]]
+- 先教「差別教育」再比對「後續日本化與六年義務教育」，讓學生看見政策目的從同化到制度化的延展。
+- 以事件卡（1921 議會請願、1927 臺灣民眾黨、1930 地方自治聯盟、1935 地方議員選舉）練習排序，降低時序迷失。
+- 針對「風俗與衛生」題型，固定要求學生先回答「政府做了什麼」再問「民間怎麼調適」。
+
+## 進一步連結
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-student-001-exam-report]]
+
+## 相關頁面
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-education-stratification]]
-- [[history-g7-l003-cultural-awakening-intellectuals]]
-- [[history-g7-l003-urban-modern-life]]
-- [[history-g7-l003-public-health-lawtime-discipline]]
-- [[history-g7-l003-event-1915-taichung-middle-school]]
-- [[history-g7-l003-event-1921-culture-association]]
-- [[history-g7-l003-event-1927-peoples-party]]
+- [[history-g7-l003-entity-education-stratification]]
+- [[history-g7-l003-entity-taiwan-cultural-association]]
+- [[history-g7-l003-entity-urban-modern-culture]]
+- [[history-g7-l003-entity-health-law-order]]
+- [[history-g7-l003-event-parliament-petition-movement]]
+- [[history-g7-l003-event-taiwan-commoners-party]]
 - [[history-g7-l003-event-1935-local-election]]
-- [[history-g7-l003-comparison-differentiated-education]]
-- [[history-g7-l003-comparison-tradition-modernity]]
+- [[history-g7-l003-comparison-education-vs-governance]]
+- [[history-g7-l003-comparison-modernization-vs-tradition-mix]]
 - [[index]]

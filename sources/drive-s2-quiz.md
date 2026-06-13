@@ -1,35 +1,40 @@
 ---
-title: 測驗來源：日治時期的社會與文化（平時測驗）
+title: 來源筆記：drive-s2-quiz
 created: '2026-05-04'
-updated: '2026-06-12'
+updated: '2026-06-13'
 type: summary
 tags:
-- source-note
-- exam-analysis
 - history
 - grade-7
+- source-note
+- exam-analysis
+- student-progress
+- politics
+- social-movements
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
-confidence: medium
+confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 出處資訊
-- `exam_id`: `history-g7-l003-drive-s2-quiz`
-- `source_pdf`: `drive-s2-quiz.pdf`
-- `source_hash`: `sha256:b51e95bbc8e5a18eb9097ccbab5f5d97608c7db9aac018d6c59d2614c9df27e`
-- `converter`: `marker`
-- `conversion_state`: `review_required`
-- `material_id`: `history-g7-l003-drive-s2-quiz`
+## 來源資訊
 
-## 檔案特徵
-- 題目明確為歷史學科年段測驗，含單選題為主。
-- 目前匯出片段含 1–21 題上下文，後段資訊不完整，建議補齊全文再做全站比對。
+- exam_id：history-g7-l003-drive-s2-quiz
+- exam_variant_id：drive-s2-quiz
+- converter：marker（conversion_state: review_required）
 
-## 對應知識連結
-- 本題庫常測量 `[[history-g7-l003-core-concepts]]` 的史事脈絡與制度影響關係，尤其可對應到差別待遇、自治運動、衛生法治與守時觀念。
+## 可觀察結構
+
+- 題目起始即聚焦學校制度、休閒場所興起、政黨成立、司法改革、議會請願、文化啟蒙、現代衛生與時制規範等核心概念。
+- 目前記錄到學生先答 3 題且正確率滿分，主要對照到「關鍵概念辨識」題群。
+
+## 來源對齊
+
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-textbook]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
@@ -37,14 +42,13 @@ student_id: student-001
 - [[drive-s2-textbook]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-education-stratification]]
-- [[history-g7-l003-cultural-awakening-intellectuals]]
-- [[history-g7-l003-urban-modern-life]]
-- [[history-g7-l003-public-health-lawtime-discipline]]
-- [[history-g7-l003-event-1915-taichung-middle-school]]
-- [[history-g7-l003-event-1921-culture-association]]
-- [[history-g7-l003-event-1927-peoples-party]]
+- [[history-g7-l003-entity-education-stratification]]
+- [[history-g7-l003-entity-taiwan-cultural-association]]
+- [[history-g7-l003-entity-urban-modern-culture]]
+- [[history-g7-l003-entity-health-law-order]]
+- [[history-g7-l003-event-parliament-petition-movement]]
+- [[history-g7-l003-event-taiwan-commoners-party]]
 - [[history-g7-l003-event-1935-local-election]]
-- [[history-g7-l003-comparison-differentiated-education]]
-- [[history-g7-l003-comparison-tradition-modernity]]
+- [[history-g7-l003-comparison-education-vs-governance]]
+- [[history-g7-l003-comparison-modernization-vs-tradition-mix]]
 - [[index]]

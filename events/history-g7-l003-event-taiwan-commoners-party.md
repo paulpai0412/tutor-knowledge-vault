@@ -1,13 +1,13 @@
 ---
-title: 1935 年臺灣首次地方議員選舉
-created: '2026-06-12'
+title: 臺灣民眾黨成立
+created: '2026-06-13'
 updated: '2026-06-13'
 type: entity
 tags:
 - history
 - event
-- politics
 - social-movements
+- politics
 - entity
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -18,32 +18,29 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 內容
+## 時間與內容
 
-選舉設有限制與半數非全民開放，但其象徵意義在於培養制度政治觀念，延續了議會請願與自治思潮。
-
-## 注意
-
-教材指出後續戰事（1937）使政治社會運動受壓制，故此事件兼具「啟發」與「受挫」雙重意義。
+- 1927 年成立，關聯人物含蔣渭水與林獻堂。
+- 主張民權、自治與社會經濟改革，連結各界權益運動。
 
 ## 連結
 - [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-student-001-exam-report]]
 - [[history-g7-l003-event-parliament-petition-movement]]
-- [[history-g7-l003-entity-health-law-order]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-student-001-exam-report]]
 - [[history-g7-l003-event-parliament-petition-movement]]
-- [[history-g7-l003-entity-health-law-order]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
 - [[history-g7-l003-entity-education-stratification]]
 - [[history-g7-l003-entity-taiwan-cultural-association]]
 - [[history-g7-l003-entity-urban-modern-culture]]
-- [[history-g7-l003-event-taiwan-commoners-party]]
+- [[history-g7-l003-entity-health-law-order]]
+- [[history-g7-l003-event-1935-local-election]]
 - [[history-g7-l003-comparison-education-vs-governance]]
 - [[history-g7-l003-comparison-modernization-vs-tradition-mix]]
 - [[index]]
