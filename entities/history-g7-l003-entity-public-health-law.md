@@ -1,12 +1,14 @@
 ---
-title: 差別待遇與教育現代化
-created: '2026-06-13'
+title: 衛生、法治與守時制度化
+created: '2026-06-14'
 updated: '2026-06-14'
 type: entity
 tags:
 - history
+- public-health
+- time-discipline
 - concept
-- education
+- modernization
 - grade-7
 - taiwan-history
 sources:
@@ -19,18 +21,17 @@ student_id: student-001
 ---
 
 ## 核心內容
-- 小學校、公學校、蕃人公學校是教育分層的明顯證據。
-- 1917~1943 臺灣人就學率從 13.1% 提升到 71.3%，但與日本人就學率間仍有鴻溝。
-- 1941 取消名目區別、改為國民學校並自 1943 起推行六年義務教育，顯示政策從分化走向整體規範化。
+- 政府透過西式醫院、預防注射、建設自來水與下水道提升公共衛生。
+- 透過宣導不隨地大小便、刷牙洗澡等行為，建立現代衛生觀。
+- 法院取代傳統衙門、推行標準時間與星期制，並以學校課表穩定節次，培養守時守法習慣。
 
 ## 相關連結
-- [[history-g7-l003-event-education-policy-segregation]]
-- [[history-g7-l003-comparison-education-equity-vs-coverage]]
+- [[history-g7-l003-event-cultural-policy-reform]]
 - [[history-g7-l003-comparison-tradition-vs-modern-culture]]
+- [[history-g7-l003-core-concepts]]
 
 ## 相關頁面
-- [[history-g7-l003-event-education-policy-segregation]]
-- [[history-g7-l003-comparison-education-equity-vs-coverage]]
+- [[history-g7-l003-event-cultural-policy-reform]]
 - [[history-g7-l003-comparison-tradition-vs-modern-culture]]
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
@@ -38,12 +39,14 @@ student_id: student-001
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
+- [[history-g7-l003-entity-education-stratification]]
 - [[history-g7-l003-entity-political-movements]]
-- [[history-g7-l003-entity-public-health-law]]
 - [[history-g7-l003-entity-time-discipline-and-urban-life]]
+- [[history-g7-l003-event-education-policy-segregation]]
 - [[history-g7-l003-event-cultural-association-1921]]
 - [[history-g7-l003-event-local-autonomy-and-elections]]
 - [[history-g7-l003-event-taiwan-democracy-and-repression]]
 - [[history-g7-l003-event-urban-modern-lifestyle]]
+- [[history-g7-l003-comparison-education-equity-vs-coverage]]
 - [[history-g7-l003-comparison-political-demand-vs-colonial-control]]
 - [[index]]

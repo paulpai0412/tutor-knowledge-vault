@@ -1,37 +1,36 @@
 ---
-title: 差別待遇與教育現代化
-created: '2026-06-13'
+title: 「義務化」與「平等化」的差別
+created: '2026-06-14'
 updated: '2026-06-14'
-type: entity
+type: comparison
 tags:
 - history
-- concept
+- comparison
 - education
 - grade-7
 - taiwan-history
+- concept
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
-- wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 核心內容
-- 小學校、公學校、蕃人公學校是教育分層的明顯證據。
-- 1917~1943 臺灣人就學率從 13.1% 提升到 71.3%，但與日本人就學率間仍有鴻溝。
-- 1941 取消名目區別、改為國民學校並自 1943 起推行六年義務教育，顯示政策從分化走向整體規範化。
+## 比較軸
+- 表面：1943 推行六年義務教育、入學率持續上升。
+- 實質：日本人與臺灣人、臺灣人與原住民在學校制度資源與機會上仍有結構性差異。
 
-## 相關連結
+## 導向頁面
+- [[history-g7-l003-entity-education-stratification]]
 - [[history-g7-l003-event-education-policy-segregation]]
-- [[history-g7-l003-comparison-education-equity-vs-coverage]]
-- [[history-g7-l003-comparison-tradition-vs-modern-culture]]
+- [[history-g7-l003-event-culture-association-1921]]
 
 ## 相關頁面
+- [[history-g7-l003-entity-education-stratification]]
 - [[history-g7-l003-event-education-policy-segregation]]
-- [[history-g7-l003-comparison-education-equity-vs-coverage]]
-- [[history-g7-l003-comparison-tradition-vs-modern-culture]]
+- [[history-g7-l003-event-culture-association-1921]]
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
@@ -45,5 +44,6 @@ student_id: student-001
 - [[history-g7-l003-event-local-autonomy-and-elections]]
 - [[history-g7-l003-event-taiwan-democracy-and-repression]]
 - [[history-g7-l003-event-urban-modern-lifestyle]]
+- [[history-g7-l003-comparison-tradition-vs-modern-culture]]
 - [[history-g7-l003-comparison-political-demand-vs-colonial-control]]
 - [[index]]

@@ -1,53 +1,54 @@
 ---
-title: 學生迷思分析與澄清狀態
+title: 日治時期常見迷思與澄清
 created: '2026-05-04'
-updated: '2026-06-13'
+updated: '2026-06-14'
 type: summary
 tags:
+- misconception
 - history
 - grade-7
-- misconception
-- exam-analysis
+- education
+- social-movements
 - student-progress
 sources:
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
-confidence: medium
+confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 目前觀察
+## 主要迷思與澄清
+- **迷思：就學率上升代表人人平等。**
+  事實上，1917 至 1943 年雖有明顯上升，但差距仍然巨大，顯示制度開放並未先天消除不平等。
+- **迷思：現代文化政策等於傳統即被取代。**
+  材料顯示臺灣社會在新舊文化之間不斷調適，呈「並存」與「混合」而非一次性改寫。
+- **迷思：政治社會運動皆持續成功。**
+  運動確實喚醒政治意識，但多數請願未獲政府採納，且1937後受到戰時打壓。
 
-依目前作答紀錄（attempted_answers=3，currently_correct_questions=3），未見錯題或反覆錯誤模式，因此目前無明確已確立的個別迷思可追蹤。
+## 當前澄清狀態
+- 學生目前已完成 3 題且皆正確，無未決錯題；但因尚未涵蓋全部題目，仍不能宣告全部誤解完成修正。
 
-## 潛在高頻迷思預警
-
-- 可能混淆：把「文化啟蒙」與「政黨」等同。
-- 可能混淆：把「政治社會運動」與「殖民政府建制改革」混為同因。
-- 可能混淆：把「地方自治」誤認為立刻成立議會而非長期爭取過程。
-
-## 是否已被暫時校正
-
-就已完成的題目而言，學生的關鍵選答皆正確，代表「日治初步脈絡」與「臺灣民眾黨、議會請願、地方選舉」等核心訊息目前已能掌握。
-
-## 連結
+## 追蹤頁面
 - [[history-g7-l003-core-concepts]]
-- [[drive-s2-quiz]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-event-taiwan-democracy-and-repression]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[drive-s2-quiz]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-event-taiwan-democracy-and-repression]]
 - [[history-g7-l003-teaching-focus]]
 - [[drive-s2-textbook]]
+- [[drive-s2-quiz]]
 - [[history-g7-l003-entity-education-stratification]]
-- [[history-g7-l003-entity-taiwan-cultural-association]]
-- [[history-g7-l003-entity-urban-modern-culture]]
-- [[history-g7-l003-entity-health-law-order]]
-- [[history-g7-l003-event-parliament-petition-movement]]
-- [[history-g7-l003-event-taiwan-commoners-party]]
-- [[history-g7-l003-event-1935-local-election]]
-- [[history-g7-l003-comparison-education-vs-governance]]
-- [[history-g7-l003-comparison-modernization-vs-tradition-mix]]
+- [[history-g7-l003-entity-political-movements]]
+- [[history-g7-l003-entity-public-health-law]]
+- [[history-g7-l003-entity-time-discipline-and-urban-life]]
+- [[history-g7-l003-event-education-policy-segregation]]
+- [[history-g7-l003-event-cultural-association-1921]]
+- [[history-g7-l003-event-local-autonomy-and-elections]]
+- [[history-g7-l003-event-urban-modern-lifestyle]]
+- [[history-g7-l003-comparison-education-equity-vs-coverage]]
+- [[history-g7-l003-comparison-tradition-vs-modern-culture]]
+- [[history-g7-l003-comparison-political-demand-vs-colonial-control]]
 - [[index]]

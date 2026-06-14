@@ -1,49 +1,49 @@
 ---
-title: 差別待遇與教育現代化
-created: '2026-06-13'
+title: 傳統風俗與現代習俗的並存
+created: '2026-06-14'
 updated: '2026-06-14'
-type: entity
+type: comparison
 tags:
 - history
-- concept
-- education
+- comparison
+- culture
+- social-movements
 - grade-7
 - taiwan-history
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
-- wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 核心內容
-- 小學校、公學校、蕃人公學校是教育分層的明顯證據。
-- 1917~1943 臺灣人就學率從 13.1% 提升到 71.3%，但與日本人就學率間仍有鴻溝。
-- 1941 取消名目區別、改為國民學校並自 1943 起推行六年義務教育，顯示政策從分化走向整體規範化。
+## 比較軸
+- 傳統：纏足、辮髮、地方性日常秩序。
+- 現代：西式醫療、衛生、公園休閒、時間制與法治觀念。
+- 現象：兩者並未完全替代，而是並存並互相影響。
 
-## 相關連結
-- [[history-g7-l003-event-education-policy-segregation]]
+## 導向頁面
+- [[history-g7-l003-entity-time-discipline-and-urban-life]]
+- [[history-g7-l003-event-urban-modern-lifestyle]]
 - [[history-g7-l003-comparison-education-equity-vs-coverage]]
-- [[history-g7-l003-comparison-tradition-vs-modern-culture]]
 
 ## 相關頁面
-- [[history-g7-l003-event-education-policy-segregation]]
+- [[history-g7-l003-entity-time-discipline-and-urban-life]]
+- [[history-g7-l003-event-urban-modern-lifestyle]]
 - [[history-g7-l003-comparison-education-equity-vs-coverage]]
-- [[history-g7-l003-comparison-tradition-vs-modern-culture]]
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
+- [[history-g7-l003-entity-education-stratification]]
 - [[history-g7-l003-entity-political-movements]]
 - [[history-g7-l003-entity-public-health-law]]
-- [[history-g7-l003-entity-time-discipline-and-urban-life]]
+- [[history-g7-l003-event-education-policy-segregation]]
 - [[history-g7-l003-event-cultural-association-1921]]
 - [[history-g7-l003-event-local-autonomy-and-elections]]
 - [[history-g7-l003-event-taiwan-democracy-and-repression]]
-- [[history-g7-l003-event-urban-modern-lifestyle]]
 - [[history-g7-l003-comparison-political-demand-vs-colonial-control]]
 - [[index]]
