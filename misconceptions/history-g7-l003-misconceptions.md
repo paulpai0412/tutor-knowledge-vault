@@ -1,15 +1,15 @@
 ---
-title: 日治時期常見迷思與澄清
+title: 日治時期常見迷思
 created: '2026-05-04'
-updated: '2026-06-14'
+updated: '2026-06-15'
 type: summary
 tags:
 - misconception
-- history
 - grade-7
+- history
+- taiwan-history
 - education
-- social-movements
-- student-progress
+- exam-analysis
 sources:
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 confidence: high
@@ -17,38 +17,30 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 主要迷思與澄清
-- **迷思：就學率上升代表人人平等。**
-  事實上，1917 至 1943 年雖有明顯上升，但差距仍然巨大，顯示制度開放並未先天消除不平等。
-- **迷思：現代文化政策等於傳統即被取代。**
-  材料顯示臺灣社會在新舊文化之間不斷調適，呈「並存」與「混合」而非一次性改寫。
-- **迷思：政治社會運動皆持續成功。**
-  運動確實喚醒政治意識，但多數請願未獲政府採納，且1937後受到戰時打壓。
+## 已辨識混淆模式
+- 前3題全部正確，未出現可歸因於固定錯誤概念的證據。
+- **尚未被觀察到的潛在迷思**：如將《日治時期政治開放」誤認為自治已實現；或誤以為三種族群教育完全相同，仍需後續題目檢核。
 
-## 當前澄清狀態
-- 學生目前已完成 3 題且皆正確，無未決錯題；但因尚未涵蓋全部題目，仍不能宣告全部誤解完成修正。
+## 是否已解決
+- 就目前紀錄看，關鍵基礎事實（如臺中中學校、臺灣民眾黨、工商業與休閒化關係）已可穩定答對。
+- 尚未建立到「長期未解」層級，因為作答樣本有限。
 
-## 追蹤頁面
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[history-g7-l003-event-taiwan-democracy-and-repression]]
+## 追蹤建議
+- 待後續題目再次出現「制度差別」與「自治運動時序」時，先以概念對照而非直接告訴答案。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[history-g7-l003-event-taiwan-democracy-and-repression]]
 - [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-entity-education-stratification]]
-- [[history-g7-l003-entity-political-movements]]
-- [[history-g7-l003-entity-public-health-law]]
-- [[history-g7-l003-entity-time-discipline-and-urban-life]]
-- [[history-g7-l003-event-education-policy-segregation]]
-- [[history-g7-l003-event-cultural-association-1921]]
-- [[history-g7-l003-event-local-autonomy-and-elections]]
-- [[history-g7-l003-event-urban-modern-lifestyle]]
-- [[history-g7-l003-comparison-education-equity-vs-coverage]]
-- [[history-g7-l003-comparison-tradition-vs-modern-culture]]
-- [[history-g7-l003-comparison-political-demand-vs-colonial-control]]
+- [[history-g7-l003-entity-taichung-middle-school]]
+- [[history-g7-l003-entity-taiwan-cultural-association]]
+- [[history-g7-l003-entity-taiwan-democratic-party]]
+- [[history-g7-l003-entity-modern-hygiene-policy]]
+- [[history-g7-l003-event-parliament-petition-movement]]
+- [[history-g7-l003-event-cultural-enlightenment-wave]]
+- [[history-g7-l003-event-suppression-after-1937]]
+- [[history-g7-l003-comparison-differential-education]]
+- [[history-g7-l003-comparison-old-new-culture]]
 - [[index]]

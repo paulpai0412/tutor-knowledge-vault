@@ -1,7 +1,7 @@
 ---
-title: student-001 日治時期測驗回饋
+title: student-001 章三測驗診斷：日治時期社會與文化
 created: '2026-05-04'
-updated: '2026-06-14'
+updated: '2026-06-15'
 type: summary
 tags:
 - exam-analysis
@@ -20,43 +20,40 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 作答結果
-- attempted_answers：3（q-1、q-2、q-3）
+## 成績快照
+- attempted_answers：3
+- unique_questions：3
 - correct_attempts：3
 - wrong_attempts：0
 - currently_correct_questions：3
 - outstanding_wrong_questions：0
 - wrong_question_ids：none
-- 最新作答：q-1=B、q-2=B、q-3=A，皆為正確。
 
-## 學習狀態判讀
-- 前段表現顯示對「臺中中學校、休閒現代化原因、臺灣民眾黨」三類題型有穩定掌握。
-- 未覆蓋題號 4 之後，無法推斷其對地方自治、公共衛生、時間制度等高頻考點是否完整吸收。
+## 近期答題記錄
+- q1：答 `B`，正確。
+- q2：答 `B`，正確。
+- q3：答 `A`，正確。
 
-## 下一步行動
-- 建議持續完成其餘題目，優先補 6、12、16、19、21 題，形成從政治、教育到生活文化的全章整合。
+## 解題狀態解讀
+- 目前沒有「需重考」的錯題；若遵循既定流程，可暫不追加補答。
+- 目前錯誤風險主要來自未被測到的後段題：如年表先後、制度對照、地方自治受限機制。
 
-## 銜接頁面
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-entity-time-discipline-and-urban-life]]
+## 後續建議
+- 保留正向回饋後，下一步改做連結題與時序題，檢驗《歷史協會—請願—政黨—自治運動》完整鏈條。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-entity-time-discipline-and-urban-life]]
 - [[history-g7-l003-teaching-focus]]
-- [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-entity-education-stratification]]
-- [[history-g7-l003-entity-political-movements]]
-- [[history-g7-l003-entity-public-health-law]]
-- [[history-g7-l003-event-education-policy-segregation]]
-- [[history-g7-l003-event-cultural-association-1921]]
-- [[history-g7-l003-event-local-autonomy-and-elections]]
-- [[history-g7-l003-event-taiwan-democracy-and-repression]]
-- [[history-g7-l003-event-urban-modern-lifestyle]]
-- [[history-g7-l003-comparison-education-equity-vs-coverage]]
-- [[history-g7-l003-comparison-tradition-vs-modern-culture]]
-- [[history-g7-l003-comparison-political-demand-vs-colonial-control]]
+- [[drive-s2-textbook]]
+- [[history-g7-l003-entity-taichung-middle-school]]
+- [[history-g7-l003-entity-taiwan-cultural-association]]
+- [[history-g7-l003-entity-taiwan-democratic-party]]
+- [[history-g7-l003-entity-modern-hygiene-policy]]
+- [[history-g7-l003-event-parliament-petition-movement]]
+- [[history-g7-l003-event-cultural-enlightenment-wave]]
+- [[history-g7-l003-event-suppression-after-1937]]
+- [[history-g7-l003-comparison-differential-education]]
+- [[history-g7-l003-comparison-old-new-culture]]
 - [[index]]

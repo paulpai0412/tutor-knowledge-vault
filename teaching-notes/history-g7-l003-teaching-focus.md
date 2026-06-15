@@ -1,15 +1,15 @@
 ---
-title: 日治時期社會與文化教學重點與策略
+title: 日治時期教學重點與引導策略
 created: '2026-05-04'
-updated: '2026-06-14'
+updated: '2026-06-15'
 type: summary
 tags:
 - teaching-strategy
-- education
 - history
 - grade-7
-- concept
-- student-progress
+- education
+- exam-analysis
+- taiwan-history
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
@@ -19,37 +19,28 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 可重複使用的教學提示
-- 先用數據（如入學率表）建立「進步與不平等同時存在」觀念，再談教材中「國民學校」與先前分群學校，減少概念偷換。
-- 將事件拆成三段：成立《臺灣文化協會》→成立《臺灣民眾黨》→1935地區選舉，並逐步評估學生對目標與限制的理解。
-- 對第 8、11、20 題等情境型題目，可先要求學生先說出生活場景是否對得上「時間制度、法治、衛生、都會生活」再選項判斷。
+## 可重複使用的教師提示
+- **先強化優勢知識**：學生已正確命中第一段重點（臺中中學校、臺灣民眾黨、休閒場域成因），可先肯定後再擴展。
+- **再補盲點預防**：安排「同一句話可對應兩題」類型，例如差別教育制度與義務教育推行的先後、政治社會運動受壓因素與自治要求的張力。
+- **提示式引導**：以「這個變化是誰推動？誰受益？誰受限？」引導學生辨識現代化政策背後關係，而非背答案。
 
-## 目前教學重點
-- 已看見學生能穩定回答 [[history-g7-l003-event-education-policy-segregation]] 及 [[history-g7-l003-event-political-activism-1921-1935]] 的核心關係，建議延伸至後段題目加深推論。
-- 把「文化啟蒙」與「政治訴求」分開提問，避免學生只記住名詞而沒抓到因果。
-
-## 關聯頁面
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-comparison-tradition-vs-modern-culture]]
+## 可直接用於下次提問的連結提示
+- 讓學生在一題中連接『教育』到『知識分子』到『政治社會運動』。
+- 讓學生比較『法治與守時』與『傳統社會規矩』，形成生活史觀。
 
 ## 相關頁面
-- [[history-g7-l003-event-education-policy-segregation]]
-- [[history-g7-l003-event-political-activism-1921-1935]]
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-comparison-tradition-vs-modern-culture]]
-- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-entity-education-stratification]]
-- [[history-g7-l003-entity-political-movements]]
-- [[history-g7-l003-entity-public-health-law]]
-- [[history-g7-l003-entity-time-discipline-and-urban-life]]
-- [[history-g7-l003-event-cultural-association-1921]]
-- [[history-g7-l003-event-local-autonomy-and-elections]]
-- [[history-g7-l003-event-taiwan-democracy-and-repression]]
-- [[history-g7-l003-event-urban-modern-lifestyle]]
-- [[history-g7-l003-comparison-education-equity-vs-coverage]]
-- [[history-g7-l003-comparison-political-demand-vs-colonial-control]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-entity-taichung-middle-school]]
+- [[history-g7-l003-entity-taiwan-cultural-association]]
+- [[history-g7-l003-entity-taiwan-democratic-party]]
+- [[history-g7-l003-entity-modern-hygiene-policy]]
+- [[history-g7-l003-event-parliament-petition-movement]]
+- [[history-g7-l003-event-cultural-enlightenment-wave]]
+- [[history-g7-l003-event-suppression-after-1937]]
+- [[history-g7-l003-comparison-differential-education]]
+- [[history-g7-l003-comparison-old-new-culture]]
 - [[index]]
