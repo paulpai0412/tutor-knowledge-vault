@@ -1,7 +1,7 @@
 ---
 title: 日治時期社會與文化核心概念
 created: '2026-05-04'
-updated: '2026-06-15'
+updated: '2026-06-17'
 type: concept
 tags:
 - history
@@ -10,9 +10,7 @@ tags:
 - concept
 - taiwan-history
 - japanese-rule
-- education
 - modernization
-- social-movements
 - culture
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
@@ -24,27 +22,35 @@ student_id: student-001
 ---
 
 ## 核心概念
-- **殖民教育的階層化與治理功能**：日治初期教育採「小學校／公學校／蕃人公學校」差別安排，語言與資源配置不平等，但也使臺灣社會進入現代課程與義務教育框架。
-- **知識分子的文化啟蒙與政治參與**：從《臺灣文化協會》到《臺灣民眾黨》與《臺灣地方自治聯盟》，透過報章、演講、社團與請願推動民族意識與自治討論。
-- **新舊文化並存與生活規律化**：衛生、法治、守時與都市休閒空間的推動，改變日常習慣，但農村與原住民社群的轉變較慢。
+- **差別待遇的現代教育**：日治初期設有小學校、普通中學與職業學校的分工，並以日語為主要教學語言，臺灣人與日本人在資源上不完全平等。
+- **知識分子與政治覺醒**：以《臺灣文化協會》、議會請願、政黨與自治倡議為核心的運動，推動民智、民主與自治意識。
+- **新舊文化並存**：傳統風俗與西式法治、衛生、守時等新規範同時存在，最終形成混合的社會文化樣態。
 
-## 概念關係
-1. 現代教育擴張培育的知識分子，反過來推動政治社會運動，進而影響《臺灣文化協會》與《臺灣民眾黨》等組織。
-2. 政治權益爭取與公共衛生、法治、時間制度等「現代觀念」一起塑造出同時包含傳統與新制度的社會面貌。
+## 主要關係
+1. 現代教育提供制度與語言工具，孕育了可組織政治社會運動的知識分子。
+2. 政治社會運動在文化啟蒙與自治訴求間互補，與新制度（如教育、衛生、司法）產生張力。
+3. 都會文化的擴展與公共衛生推動，讓日常生活節奏、消費與公共空間使用模式改變，但區域差異仍明顯。
 
 ## 相關頁面
+- [[history-g7-l003-core-concepts|核心概念總覽（此頁）]]
+- [[history-g7-l003-misconceptions|常見迷思與修正]]
+- [[history-g7-l003-student-001-exam-report|學生001考核紀錄]]
+- [[history-g7-l003-taiwan-cultural-association|臺灣文化協會]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-entity-taichung-middle-school]]
-- [[history-g7-l003-entity-taiwan-cultural-association]]
-- [[history-g7-l003-entity-taiwan-democratic-party]]
-- [[history-g7-l003-entity-modern-hygiene-policy]]
-- [[history-g7-l003-event-parliament-petition-movement]]
-- [[history-g7-l003-event-cultural-enlightenment-wave]]
-- [[history-g7-l003-event-suppression-after-1937]]
-- [[history-g7-l003-comparison-differential-education]]
-- [[history-g7-l003-comparison-old-new-culture]]
+- [[history-g7-l003-education-differentiation]]
+- [[history-g7-l003-taiwan-cultural-association]]
+- [[history-g7-l003-people-party]]
+- [[history-g7-l003-public-health-law]]
+- [[history-g7-l003-urban-modern-culture]]
+- [[history-g7-l003-event-1921-cultural-association]]
+- [[history-g7-l003-event-1927-taiwan-people-party]]
+- [[history-g7-l003-event-1935-local-elections]]
+- [[history-g7-l003-event-1945-japan-surrender]]
+- [[history-g7-l003-event-1937-suppression]]
+- [[history-g7-l003-comparison-education-vs-equality]]
+- [[history-g7-l003-comparison-tradition-vs-modernity]]
 - [[index]]

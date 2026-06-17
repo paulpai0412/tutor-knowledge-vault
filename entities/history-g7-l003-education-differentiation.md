@@ -1,55 +1,41 @@
 ---
-title: 教材來源筆記：日治時期的社會與文化
-created: '2026-05-04'
+title: 日治時期差別待遇教育體系
+created: '2026-06-17'
 updated: '2026-06-17'
 type: entity
 tags:
+- entity
 - history
-- grade-7
-- lesson
-- source-note
+- education
 - taiwan-history
 - japanese-rule
-- education
-- culture
-- social-movements
+- grade-7
 sources:
-- indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
+- wiki/exams/history/g7/l003/drive-s2-quiz.md
+- wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 來源資訊
-- lesson_group_id：`history-g7-l003`
-- lesson_variant_id：`drive-s2-textbook`
-- 來源檔名：`drive-s2-textbook.pdf`
-- 轉檔方式：`markitdown`
-- 轉檔狀態：`wiki_ready`
+## 定義
+日治時期臺灣初等與中等教育中，常見日本人、公學校、蕃人教育等分層制度，反映殖民治理下的制度差別。
 
-## 內容主軸
-- 3-1 差別待遇的現代教育（公學校、小學校、日語教學、就學率）
-- 3-2 文化啟蒙與政治社會運動（文化協會、議會請願、民眾黨、地方自治）
-- 3-3 新舊文化變遷（衛生、法治、守時、都會文化）
-
-## 圖譜化摘要
-教材提供可直接建構的三軸：
-1. **制度軸**：教育與司法
-2. **運動軸**：文化啟蒙與自治訴求
-3. **生活軸**：衛生、時間觀、都市娛樂
+## 關聯
+- 與政治覺醒關係：受教育群體中知識分子後續參與社會運動。
+- 與衛生法治文化：教育也是傳播現代衛生與法治觀念的通路。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts|核心概念總覽]]
-- [[history-g7-l003-teaching-focus|教學重點與操作建議]]
-- [[history-g7-l003-taiwan-cultural-association|臺灣文化協會]]
 - [[history-g7-l003-event-1921-cultural-association|1921 文化協會成立與請願運動起點]]
+- [[history-g7-l003-taiwan-cultural-association|臺灣文化協會]]
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-education-differentiation]]
 - [[history-g7-l003-taiwan-cultural-association]]
 - [[history-g7-l003-people-party]]
 - [[history-g7-l003-public-health-law]]
