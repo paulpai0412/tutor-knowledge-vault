@@ -1,15 +1,14 @@
 ---
-title: 日治時期常見迷思
+title: 學生常見迷思與修正狀態
 created: '2026-05-04'
-updated: '2026-06-17'
+updated: '2026-06-18'
 type: summary
 tags:
 - history
 - grade-7
 - misconception
-- concept
-- education
-- social-movements
+- student-progress
+- exam-analysis
 sources:
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 confidence: medium
@@ -17,38 +16,31 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 學習狀態
-- 依目前紀錄，學生001已完成 3 題且皆為正確，尚未形成可直接驗證的高頻錯誤。
-- 雖無明確錯題，但可預設監測以下潛在迷思，避免在後續長卷出現。
+## 迷思觀察
+依最新作答紀錄，學生於 q1～q3 全部正確且未出現任何錯題，代表基礎辨識能力目前穩定；但因目前作答範圍仍為前段題目，尚無足夠樣本證明高階迷思是否已消除。
 
-## 主要迷思型態
-1. **誤以為只有偏向同化的一面**：實際上日治下同時有制度化治理與知識分子反彈。
-2. **誤以為教育全面平等**：就學率提升後仍存在日本人與臺灣人顯著落差與資源差異。
-3. **誤以為文化衝擊是全域同速**：新生活方式多在城市先行，鄉村與部落落差仍大。
+## 可能待驗證迷思
+- 可能將文化衝擊理解成「舊=壞、全新即好」，需要在 [[comparison-tradition-vs-modernity-in-daily-life]] 中加以校正。
+- 可能混淆政治社會運動與政黨成立的時序，建議延伸到 [[event-1927-taiwan-peoples-party-formation]] 段落追問。
 
-## 解決與追蹤
-- 建議在下一輪練習中用題目讓學生比較「制度目的」與「制度效應」的不同面向。
-- 已觀察到學生對基本事實題（學校名稱、政黨成立、政策目的）具備穩定正確率，建議下一步加重「關聯推理」題。
+## 目前修正狀態
+- 基本名詞識別（如臺中中學校、臺灣民眘黨）可判定已穩定。
+- 迷思未被大量觸發，目前標示為【待觀察】。
+- 後續可由概念鞏固與比較題擴展校正：[[history-g7-l003-core-concepts]]、[[history-g7-l003-teaching-focus]]。
 
 ## 相關頁面
-- [[history-g7-l003-core-concepts|核心概念總覽]]
-- [[history-g7-l003-teaching-focus|教學重點與操作建議]]
-- [[history-g7-l003-student-001-exam-report|學生001考核紀錄]]
+- [[comparison-tradition-vs-modernity-in-daily-life]]
+- [[event-1927-taiwan-peoples-party-formation]]
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-education-differentiation]]
-- [[history-g7-l003-taiwan-cultural-association]]
-- [[history-g7-l003-people-party]]
-- [[history-g7-l003-public-health-law]]
-- [[history-g7-l003-urban-modern-culture]]
-- [[history-g7-l003-event-1921-cultural-association]]
-- [[history-g7-l003-event-1927-taiwan-people-party]]
-- [[history-g7-l003-event-1935-local-elections]]
-- [[history-g7-l003-event-1945-japan-surrender]]
-- [[history-g7-l003-event-1937-suppression]]
-- [[history-g7-l003-comparison-education-vs-equality]]
-- [[history-g7-l003-comparison-tradition-vs-modernity]]
+- [[entity-colonial-school-hierarchy]]
+- [[entity-taiwan-cultural-association]]
+- [[entity-taiwan-peoples-party]]
+- [[entity-urban-modern-culture]]
+- [[event-1921-culture-association-formation]]
+- [[event-1921-taiwan-parliament-petition]]
+- [[comparison-education-policy-vs-autonomy-movement]]
 - [[index]]

@@ -1,17 +1,18 @@
 ---
 title: 日治時期社會與文化核心概念
 created: '2026-05-04'
-updated: '2026-06-17'
+updated: '2026-06-18'
 type: concept
 tags:
 - history
 - grade-7
 - lesson
-- concept
 - taiwan-history
 - japanese-rule
+- education
 - modernization
 - culture
+- social-movements
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -22,35 +23,30 @@ student_id: student-001
 ---
 
 ## 核心概念
-- **差別待遇的現代教育**：日治初期設有小學校、普通中學與職業學校的分工，並以日語為主要教學語言，臺灣人與日本人在資源上不完全平等。
-- **知識分子與政治覺醒**：以《臺灣文化協會》、議會請願、政黨與自治倡議為核心的運動，推動民智、民主與自治意識。
-- **新舊文化並存**：傳統風俗與西式法治、衛生、守時等新規範同時存在，最終形成混合的社會文化樣態。
+日治時期的臺灣教育採取三段式分化（日本人、臺灣人、原住民）與日語教學，目的兼具殖民治理與產業需求，但同時也促成了現代知識人才與政治意識的擴張，進而推動社會與文化轉型。
 
-## 主要關係
-1. 現代教育提供制度與語言工具，孕育了可組織政治社會運動的知識分子。
-2. 政治社會運動在文化啟蒙與自治訴求間互補，與新制度（如教育、衛生、司法）產生張力。
-3. 都會文化的擴展與公共衛生推動，讓日常生活節奏、消費與公共空間使用模式改變，但區域差異仍明顯。
+## 重點鏈結
+- 差別待遇教育政策與社會結構的關係，請參考 [[entity-colonial-school-hierarchy]]。
+- 文化啟蒙組織與政治社會運動的角色，請見 [[entity-taiwan-cultural-association]]。
+
+## 學習關聯
+- 這些概念的理解可回頭對應到迷思排查與教學補救：[[history-g7-l003-misconceptions]]。
+- 對應本次成效整理與後續教學設計：[[history-g7-l003-teaching-focus]]。
+- 可由教材與測驗文本補齊史實細節：[[drive-s2-textbook]]、[[drive-s2-quiz]]。
 
 ## 相關頁面
-- [[history-g7-l003-core-concepts|核心概念總覽（此頁）]]
-- [[history-g7-l003-misconceptions|常見迷思與修正]]
-- [[history-g7-l003-student-001-exam-report|學生001考核紀錄]]
-- [[history-g7-l003-taiwan-cultural-association|臺灣文化協會]]
+- [[entity-colonial-school-hierarchy]]
+- [[entity-taiwan-cultural-association]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-education-differentiation]]
-- [[history-g7-l003-taiwan-cultural-association]]
-- [[history-g7-l003-people-party]]
-- [[history-g7-l003-public-health-law]]
-- [[history-g7-l003-urban-modern-culture]]
-- [[history-g7-l003-event-1921-cultural-association]]
-- [[history-g7-l003-event-1927-taiwan-people-party]]
-- [[history-g7-l003-event-1935-local-elections]]
-- [[history-g7-l003-event-1945-japan-surrender]]
-- [[history-g7-l003-event-1937-suppression]]
-- [[history-g7-l003-comparison-education-vs-equality]]
-- [[history-g7-l003-comparison-tradition-vs-modernity]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[entity-taiwan-peoples-party]]
+- [[entity-urban-modern-culture]]
+- [[event-1921-culture-association-formation]]
+- [[event-1927-taiwan-peoples-party-formation]]
+- [[event-1921-taiwan-parliament-petition]]
+- [[comparison-tradition-vs-modernity-in-daily-life]]
+- [[comparison-education-policy-vs-autonomy-movement]]
 - [[index]]

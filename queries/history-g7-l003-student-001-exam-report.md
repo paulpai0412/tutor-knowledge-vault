@@ -1,16 +1,13 @@
 ---
-title: 學生001日治時期社會與文化測驗紀錄
+title: student-001 測驗報告（學習成效摘要）
 created: '2026-05-04'
-updated: '2026-06-17'
-type: query
+updated: '2026-06-18'
+type: summary
 tags:
 - history
 - grade-7
 - exam-analysis
 - student-progress
-- lesson
-- concept
-- source-note
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -21,46 +18,35 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 成績摘要
-- 嘗試作答：3 題
-- 當前正確題數：3 題
-- 已完成唯一題目：3 題
-- 尚未處理：0 題
+## 成績現況
+- attempted_answers：3
+- currently_correct_questions：3
+- outstanding_wrong_questions：0
+- wrong_question_ids：none
+- 最新題目狀態：q1、q2、q3 全部正確
 
-## 已掌握能力
-- 基本事實判讀能力目前穩定（如學校、政黨、題目主軸）。
-- 進階關聯推理尚待更多題量驗證（目前僅到第 3 題）。
+## 判讀意義
+- 表現顯示學生對前段重點（差別待遇教育、工商業發展與新舊文化連動、臺灣民眾黨）辨識準確。
+- 目前缺乏錯題可供修正，但也代表資料仍為「局部成效」，不能直接外推到全卷。
 
-## 題材對應
-- 本次成功觸發能力：
-  - 日治教育制度差異與名稱辨識
-  - 早期臺灣政治社會運動主體
-  - 重大象徵事件與政策關係
-
-## 下一步評量建議
-- 依據 `top_skills`（日治時期、政黨、政治社會運動、教育、社會生活）加入混合題目。
-- 加入「排序題」與「解釋題」檢視學生是否能從事實推導治理邏輯。
+## 導向後續
+- 先連結到核心概念框架：[[history-g7-l003-core-concepts]]。
+- 依迷思監測補齊未驗證區域：[[history-g7-l003-misconceptions]]。
+- 測驗題本身作為補強依據：[[drive-s2-quiz]]。
 
 ## 相關頁面
-- [[history-g7-l003-core-concepts|核心概念總覽]]
-- [[history-g7-l003-teaching-focus|教學重點與操作建議]]
-- [[drive-s2-quiz|測驗文本來源]]
-- [[history-g7-l003-misconceptions|常見迷思與修正]]
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
+- [[drive-s2-quiz]]
 - [[history-g7-l003-teaching-focus]]
 - [[drive-s2-textbook]]
-- [[drive-s2-quiz]]
-- [[history-g7-l003-education-differentiation]]
-- [[history-g7-l003-taiwan-cultural-association]]
-- [[history-g7-l003-people-party]]
-- [[history-g7-l003-public-health-law]]
-- [[history-g7-l003-urban-modern-culture]]
-- [[history-g7-l003-event-1921-cultural-association]]
-- [[history-g7-l003-event-1927-taiwan-people-party]]
-- [[history-g7-l003-event-1935-local-elections]]
-- [[history-g7-l003-event-1945-japan-surrender]]
-- [[history-g7-l003-event-1937-suppression]]
-- [[history-g7-l003-comparison-education-vs-equality]]
-- [[history-g7-l003-comparison-tradition-vs-modernity]]
+- [[entity-colonial-school-hierarchy]]
+- [[entity-taiwan-cultural-association]]
+- [[entity-taiwan-peoples-party]]
+- [[entity-urban-modern-culture]]
+- [[event-1921-culture-association-formation]]
+- [[event-1927-taiwan-peoples-party-formation]]
+- [[event-1921-taiwan-parliament-petition]]
+- [[comparison-tradition-vs-modernity-in-daily-life]]
+- [[comparison-education-policy-vs-autonomy-movement]]
 - [[index]]
