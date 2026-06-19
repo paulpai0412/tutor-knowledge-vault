@@ -1,34 +1,33 @@
 ---
-title: 臺灣文化協會
-created: '2026-06-18'
+title: 文化啟蒙與政治社會運動的關係
+created: '2026-06-19'
 updated: '2026-06-19'
-type: entity
+type: comparison
 tags:
 - social-movements
+- education
+- politics
+- comparison
 - history
-- taiwan-history
 - grade-7
-- culture
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
-- wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 說明
-- 成立背景為日治體制下民族自決思潮與政治覺醒。
-- 功能主軸：反思社會風氣、提升民意、培養自治觀念。
-
-## 與政治運動關係
-- 與後續議會請願、臺灣地方自治聯盟、臺灣民眾黨形成同一時期知識分子鏈條。
+## 比較軸
+- 啟蒙面向：讀報、演講、文教團體，重在提升認知。
+- 政治面向：請願、組黨、自治倡議，重在制度行動。
+- 出題常見陷阱：學生易將兩者視為同一時間、同一組織，需用案例串接。
 
 ## 相關頁面
-- [[history-g7-l003-core-concepts]]
+- [[entity-taiwan-cultural-association]]
 - [[event-1921-parliament-petition-movement]]
-- [[comparison-culture-enlightenment-vs-political-mobilization]]
+- [[event-1927-taiwan-people-party-formation]]
+- [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
@@ -38,7 +37,6 @@ student_id: student-001
 - [[entity-japanese-era-legal-modernization]]
 - [[entity-urban-modern-culture]]
 - [[entity-knowledge-elites-and-movement-link]]
-- [[event-1927-taiwan-people-party-formation]]
 - [[event-1935-first-local-assembly-election]]
 - [[event-1943-national-school-unification]]
 - [[comparison-differentiated-education-vs-national-education]]

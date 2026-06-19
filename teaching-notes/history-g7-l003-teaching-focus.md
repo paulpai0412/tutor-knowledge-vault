@@ -1,7 +1,7 @@
 ---
-title: 教學重點與後續作答介入
+title: 日治時期社會與文化教學重點與追蹤建議
 created: '2026-05-04'
-updated: '2026-06-18'
+updated: '2026-06-19'
 type: summary
 tags:
 - history
@@ -9,7 +9,7 @@ tags:
 - teaching-strategy
 - lesson
 - student-progress
-- student-progress
+- exam-analysis
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
@@ -19,33 +19,38 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 教學提示
-- 先複習已經做對的核心：差別教育原則、臺灣民眾黨成立、文化啟蒙與議會請願脈絡。
-- 再進入未作答區塊，加入情境題與比較題避免只停留於記憶背誦。
+## 教學重點
+- 保持優勢：先肯定其已掌握的『臺中中學校、臺灣民眾黨、國民學校/六年義務教育』等關鍵節點。
+- 深化目標：把三大主線接起來——教育、政治運動、生活規範。
+- 減少迷思：加入「先差別後整合」的時間軸，區辨不同政策的適用階段。
 
-## 連結到檔案
-- 先回到核心概念頁整理框架：[[history-g7-l003-core-concepts]]。
-- 用本次成績頁確認學生已穩定掌握的考點：[[history-g7-l003-student-001-exam-report]]。
-- 搭配比較圖式加深理解：[[comparison-hygiene-time-discipline-vs-traditional-lifestyle]]。
+## 實務操作
+- 可用「事件順序＋制度影響」的兩欄表格練習。
+- 用情境題引導：同一個臺灣人家庭在1917與1943的差別在哪裡？
+- 下一輪評量建議先集中第14、16、18、19題（教育原則、運動受壓、啟蒙團體、公共衛生），形成概念鏈而非獨立猜題。
 
-## 可直接使用的課堂活動
-- 讓學生在 [[event-1921-culture-association-formation]]、[[event-1927-taiwan-peoples-party-formation]] 中選一則，繪製因果箭頭（運動起因→組織行動→社會影響）。
-- 以 [[entity-urban-modern-culture]] 為主題，對照傳統習俗與新制度，做「三句話解釋」回饋。
+## 連結
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[event-1921-parliament-petition-movement]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[comparison-hygiene-time-discipline-vs-traditional-lifestyle]]
-- [[event-1921-culture-association-formation]]
-- [[event-1927-taiwan-peoples-party-formation]]
-- [[entity-urban-modern-culture]]
 - [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[event-1921-parliament-petition-movement]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[entity-colonial-school-hierarchy]]
+- [[entity-differentiated-school-system]]
 - [[entity-taiwan-cultural-association]]
-- [[entity-taiwan-peoples-party]]
-- [[event-1921-taiwan-parliament-petition]]
-- [[comparison-tradition-vs-modernity-in-daily-life]]
-- [[comparison-education-policy-vs-autonomy-movement]]
+- [[entity-japanese-era-legal-modernization]]
+- [[entity-urban-modern-culture]]
+- [[entity-knowledge-elites-and-movement-link]]
+- [[event-1927-taiwan-people-party-formation]]
+- [[event-1935-first-local-assembly-election]]
+- [[event-1943-national-school-unification]]
+- [[comparison-differentiated-education-vs-national-education]]
+- [[comparison-traditional-habit-vs-modern-civil-order]]
+- [[comparison-culture-enlightenment-vs-political-mobilization]]
 - [[index]]

@@ -1,50 +1,54 @@
 ---
-title: 測驗來源：日治時期的社會與文化（drive-s2-quiz）
+title: 測驗來源：日治時期平時測驗（drive-s2-quiz）
 created: '2026-05-04'
-updated: '2026-06-18'
+updated: '2026-06-19'
 type: summary
 tags:
-- source-note
 - history
-- grade-7
 - exam-analysis
-- japanese-rule
+- source-note
+- grade-7
 - social-movements
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
-confidence: high
+confidence: medium
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
 ## 來源資訊
-- exam_id：history-g7-l003-drive-s2-quiz
-- conversion_state：review_required
-- converter：marker
-- 題數分佈：前段含單選題與綜合辨識題，總分80。
+- exam_id: `history-g7-l003-drive-s2-quiz`
+- lesson_no: `3`
+- title: 日治時期的社會與文化
+- source_pdf: `drive-s2-quiz.pdf`
+- converter: marker
+- conversion_state: review_required
 
-## 與教材對照
-- 與教材衝突點一致：差別待遇教育、自治訴求、政治社會運動組織成立與都市文化形成。
-- 目前已驗證題號對應：q1（臺中中學校）、q2（新休閒場所）、q3（臺灣民眾黨）。
+## 觀念覆蓋
+- 問題類型包含：學制分化、政治團體、自治願望、休閒現代化、司法與衛生制度、時代順序。
+- 題號示例顯示重點：1、2、3、5、6、7、14、16、18、19等皆對應核心主題。
+- 作答紀錄顯示學生已通過首輪前3題，但完整題庫尚未全部通關。
 
-## 連結
-- 成效回寫至學生紀錄：[[history-g7-l003-student-001-exam-report]]。
-- 用於概念補充與迷思釐清：[[history-g7-l003-core-concepts]]、[[history-g7-l003-misconceptions]]。
+## 注意
+- 測驗資料在摘要中有截斷段落，未對最後題組細節作完整全文校對。
 
 ## 相關頁面
-- [[history-g7-l003-student-001-exam-report]]
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-teaching-focus]]
 - [[drive-s2-textbook]]
-- [[entity-colonial-school-hierarchy]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-teaching-focus]]
+- [[entity-differentiated-school-system]]
 - [[entity-taiwan-cultural-association]]
-- [[entity-taiwan-peoples-party]]
+- [[entity-japanese-era-legal-modernization]]
 - [[entity-urban-modern-culture]]
-- [[event-1921-culture-association-formation]]
-- [[event-1927-taiwan-peoples-party-formation]]
-- [[event-1921-taiwan-parliament-petition]]
-- [[comparison-tradition-vs-modernity-in-daily-life]]
-- [[comparison-education-policy-vs-autonomy-movement]]
+- [[entity-knowledge-elites-and-movement-link]]
+- [[event-1921-parliament-petition-movement]]
+- [[event-1927-taiwan-people-party-formation]]
+- [[event-1935-first-local-assembly-election]]
+- [[event-1943-national-school-unification]]
+- [[comparison-differentiated-education-vs-national-education]]
+- [[comparison-traditional-habit-vs-modern-civil-order]]
+- [[comparison-culture-enlightenment-vs-political-mobilization]]
 - [[index]]

@@ -1,14 +1,14 @@
 ---
-title: 都會文化與休閒空間
-created: '2026-06-18'
+title: 差別性教育制度
+created: '2026-06-19'
 updated: '2026-06-19'
 type: entity
 tags:
-- culture
-- modernization
+- education
 - history
-- grade-7
 - taiwan-history
+- japanese-rule
+- grade-7
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -18,29 +18,31 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 內容
-- 菊元百貨、臺灣總督府博物館（今國立臺灣博物館）及臺中公園等例證，顯示新生活樣式。
-- 都會文化形成與工商業發展、媒體與交通條件同時進展。
+## 說明
+- 總督府以日本人小學校、臺灣人公學校、原住民學校做分隔，教材與資源不均，是理解時期政治性的關鍵。
+- 1941後統一為國民學校，且 1943 年起實施六年義務教育，代表制度整合但非完全平等。
 
-## 與課程主軸
-- 支撐了「休閒空間增多」與「社會習慣轉變」的考點。
+## 連結
+- [[history-g7-l003-core-concepts]]
+- [[comparison-differentiated-education-vs-national-education]]
+- [[event-1921-parliament-petition-movement]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
-- [[comparison-traditional-habit-vs-modern-civil-order]]
+- [[comparison-differentiated-education-vs-national-education]]
+- [[event-1921-parliament-petition-movement]]
 - [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[entity-differentiated-school-system]]
 - [[entity-taiwan-cultural-association]]
 - [[entity-japanese-era-legal-modernization]]
+- [[entity-urban-modern-culture]]
 - [[entity-knowledge-elites-and-movement-link]]
-- [[event-1921-parliament-petition-movement]]
 - [[event-1927-taiwan-people-party-formation]]
 - [[event-1935-first-local-assembly-election]]
 - [[event-1943-national-school-unification]]
-- [[comparison-differentiated-education-vs-national-education]]
+- [[comparison-traditional-habit-vs-modern-civil-order]]
 - [[comparison-culture-enlightenment-vs-political-mobilization]]
 - [[index]]

@@ -1,14 +1,15 @@
 ---
-title: 都會文化與休閒空間
-created: '2026-06-18'
+title: 法治與衛生制度現代化
+created: '2026-06-19'
 updated: '2026-06-19'
 type: entity
 tags:
-- culture
-- modernization
+- public-health
 - history
-- grade-7
 - taiwan-history
+- japanese-rule
+- time-discipline
+- grade-7
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -19,23 +20,24 @@ student_id: student-001
 ---
 
 ## 內容
-- 菊元百貨、臺灣總督府博物館（今國立臺灣博物館）及臺中公園等例證，顯示新生活樣式。
-- 都會文化形成與工商業發展、媒體與交通條件同時進展。
+- 法庭取代傳統衙門、推行律師與程序觀念。
+- 防疫措施包含西式醫療、預防注射、自來水與下水道等。
+- 時間秩序化（24小時制、固定節次）改變日常節奏。
 
-## 與課程主軸
-- 支撐了「休閒空間增多」與「社會習慣轉變」的考點。
+## 學習關係
+- 對比傳統生活方式，能幫助學生理解制度變遷不是抽象名詞，而是具體行為規範。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
 - [[comparison-traditional-habit-vs-modern-civil-order]]
+- [[entity-urban-modern-culture]]
 - [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
 - [[entity-differentiated-school-system]]
 - [[entity-taiwan-cultural-association]]
-- [[entity-japanese-era-legal-modernization]]
 - [[entity-knowledge-elites-and-movement-link]]
 - [[event-1921-parliament-petition-movement]]
 - [[event-1927-taiwan-people-party-formation]]

@@ -1,41 +1,39 @@
 ---
-title: 都會文化與休閒空間
-created: '2026-06-18'
+title: 傳統習俗與現代衛生、守時秩序的衝突
+created: '2026-06-19'
 updated: '2026-06-19'
-type: entity
+type: comparison
 tags:
+- public-health
+- time-discipline
 - culture
-- modernization
+- comparison
 - history
-- grade-7
 - taiwan-history
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
-- wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 內容
-- 菊元百貨、臺灣總督府博物館（今國立臺灣博物館）及臺中公園等例證，顯示新生活樣式。
-- 都會文化形成與工商業發展、媒體與交通條件同時進展。
-
-## 與課程主軸
-- 支撐了「休閒空間增多」與「社會習慣轉變」的考點。
+## 比較軸
+- 傳統面向：纏足、辮髮、地方衙門式審判等。
+- 現代制度：放足斷髮、刷牙洗澡、法院制度、24小時制、公共衛生設施。
+- 結果：行為規範漸改變，但鄉村與原住民地區現代化滲透較慢。
 
 ## 相關頁面
+- [[entity-japanese-era-legal-modernization]]
+- [[entity-urban-modern-culture]]
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
-- [[comparison-traditional-habit-vs-modern-civil-order]]
 - [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
 - [[entity-differentiated-school-system]]
 - [[entity-taiwan-cultural-association]]
-- [[entity-japanese-era-legal-modernization]]
 - [[entity-knowledge-elites-and-movement-link]]
 - [[event-1921-parliament-petition-movement]]
 - [[event-1927-taiwan-people-party-formation]]
