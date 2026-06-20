@@ -1,58 +1,46 @@
 ---
-title: 學生常見迷思與目前辨識結果
+title: 日治時期常見迷思與學習修正
 created: '2026-05-04'
-updated: '2026-06-19'
+updated: '2026-06-20'
 type: summary
 tags:
 - history
 - grade-7
 - misconception
-- exam-analysis
+- education
+- politics
+- culture
 - student-progress
 sources:
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
-confidence: high
+confidence: medium
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 目前狀態
-- 目前 `attempted_answers: 3` 且 `currently_correct_questions: 3`，`outstanding_wrong_questions: 0`，未出現可直接定位的錯題紀錄。
-- 因此可判定第一階段作答迷思風險偏低，但知識關係仍需深化。
+## 常見迷思
+- **迷思一：把教育現代化等同於階層平等**。實際上課文指出教育制度有明顯差別待遇，尤其在初等與中等階段資源不均。
+- **迷思二：把三類主要運動混淆**。議會請願、臺灣民眾黨與地方自治聯盟雖都屬政治社會運動，但成立背景與訴求重點不同。
+- **迷思三：認為新文化立即取代舊文化**。教材顯示改變多為長期並存與調適，非瞬間替換。
 
-## 主要迷思風險（尚未驗證）
-- 迷思1：認為日治初期教育一開始就全面同工同酬。\
-  事實是教材明確列出明顯差別待遇，後續才逐步收斂。
-- 迷思2：認為政治社會運動都成功成立自治機制。\
-  事實是請願與選舉多受限制，成果有限但喚醒自治意識。
-- 迷思3：認為新文化一出現即取代舊文化。\
-  事實是逐步交融與調適，仍保留傳統。
-
-## 轉化建議
-- 先用「前後對比」鞏固時間順序再延伸機制意義。
-- 以題幹情境提問：如果只看某一政策面（如法治或衛生），是否就能解釋整體文化變遷？
-
-## 導向資源
-- [[history-g7-l003-core-concepts]]
-- [[comparison-differentiated-education-vs-national-education]]
-- [[history-g7-l003-student-001-exam-report]]
+## 是否已被確認修正
+- 目前錯題紀錄為 0、未完成題目待處理列表為 0，未有直接錯誤證據可判定已出現持續性迷思。
+- 但高分仍不代表概念鞏固完成，建議以時間軸與組織對照題再次追蹤。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[comparison-differentiated-education-vs-national-education]]
-- [[history-g7-l003-student-001-exam-report]]
 - [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[entity-differentiated-school-system]]
-- [[entity-taiwan-cultural-association]]
-- [[entity-japanese-era-legal-modernization]]
-- [[entity-urban-modern-culture]]
-- [[entity-knowledge-elites-and-movement-link]]
-- [[event-1921-parliament-petition-movement]]
-- [[event-1927-taiwan-people-party-formation]]
-- [[event-1935-first-local-assembly-election]]
-- [[event-1943-national-school-unification]]
-- [[comparison-traditional-habit-vs-modern-civil-order]]
-- [[comparison-culture-enlightenment-vs-political-mobilization]]
+- [[history-g7-l003-entity-taiwan-culture-association]]
+- [[history-g7-l003-entity-taiwan-people-party]]
+- [[history-g7-l003-entity-chiang-weishui]]
+- [[history-g7-l003-entity-taichung-middle-school]]
+- [[history-g7-l003-entity-taipei-imperial-university]]
+- [[history-g7-l003-event-1921-1935-political-movement]]
+- [[history-g7-l003-event-education-policy-transition]]
+- [[history-g7-l003-event-culture-modernization-spread]]
+- [[history-g7-l003-comparison-education-discrimination-vs-unification]]
+- [[history-g7-l003-comparison-urban-rural-cultural-change]]
 - [[index]]

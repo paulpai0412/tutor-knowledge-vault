@@ -1,45 +1,39 @@
 ---
-title: 測驗來源：drive-s2-quiz
-created: '2026-05-04'
+title: 蔣渭水
+created: '2026-06-20'
 updated: '2026-06-20'
-type: summary
+type: entity
 tags:
 - history
-- grade-7
-- source-note
-- exam-analysis
-- student-progress
+- social-movements
+- politics
 - taiwan-history
+- entity
 sources:
-- indexes/exams/history-g7-l003-drive-s2-quiz.json
+- wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
+- wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 試卷來源資訊
-- exam_id：history-g7-l003-drive-s2-quiz
-- converter：marker
-- conversion_state：review_required
-- material_id：history-g7-l003-drive-s2-quiz
+## 人物定位
+蔣渭水在1930年代前後持續參與社會改革與政治倡議，是本章考題中常見人物主軸之一。
 
-## 題目特性
-- 涵蓋教育制度、政黨形成、自治運動、衛生與現代生活制度等主題。
-- 部分題目有歷史事件排序與情境理解成分，能檢驗概念鏈結。
-
-## 學生作答對照
-- 已記錄的最新作答題目 q1~q3 全部為正確，未產生錯題。
+## 學習重點
+- 其行動連結文化啟蒙與自治運動。
+- 可作為教材中「知識分子如何轉化為政治行動」的代表案例。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-entity-taiwan-culture-association]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-textbook]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-entity-taiwan-culture-association]]
+- [[drive-s2-textbook]]
+- [[drive-s2-quiz]]
 - [[history-g7-l003-entity-taiwan-people-party]]
-- [[history-g7-l003-entity-chiang-weishui]]
 - [[history-g7-l003-entity-taichung-middle-school]]
 - [[history-g7-l003-entity-taipei-imperial-university]]
 - [[history-g7-l003-event-1921-1935-political-movement]]
