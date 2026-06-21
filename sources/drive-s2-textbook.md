@@ -1,16 +1,16 @@
 ---
-title: 教材來源：drive-s2-textbook
+title: 教材來源：日治時期的社會與文化（drive-s2-textbook）
 created: '2026-05-04'
-updated: '2026-06-20'
+updated: '2026-06-21'
 type: summary
 tags:
+- source-note
 - history
 - grade-7
-- source-note
 - lesson
-- japanese-rule
 - taiwan-history
-- education
+- japanese-rule
+- modernization
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -19,39 +19,38 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 來源摘要
+## 來源資訊
 - lesson_id：history-g7-l003
 - lesson_no：3
-- title：日治時期的社會與文化
+- subject：history
+- lesson_variant_id：drive-s2-textbook
 - converter：markitdown
 - conversion_state：wiki_ready
-- material_id：history-g7-l003-drive-s2-textbook
 
-## 知識骨架
-- 差別待遇的現代教育、教育制度階段化（初等、中等、高等）
-- 1920 年代以後的文化啟蒙與政治社會運動
-- 都市化與衛生/法治/時間制度的生活影響
-- 新舊文化交錯而非單向替代
+## 可抽取重點
+- 教育主軸：初等/中等/高等教育差別、語言與升學管道。
+- 社會運動主軸：臺灣文化協會、議會設置請願、臺灣民眾黨、地方自治聯盟。
+- 生活文化主軸：風俗衛生改革、法治與守時、都會娛樂與休閒空間。
 
-## 關聯頁面
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-quiz]]
+## 相關節點
+- 本頁背後的概念聚焦見 [[history-g7-l003-core-concepts]]。
+- 本課對應之測驗資料見 [[drive-s2-quiz]]。
+- 可追蹤的事件例子：[[history-g7-l003-event-parliament-petition-1921-1934]]。
+- 學生表現回饋連結見 [[history-g7-l003-student-001-exam-report]]。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-quiz]]
+- [[history-g7-l003-event-parliament-petition-1921-1934]]
+- [[history-g7-l003-student-001-exam-report]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-entity-taiwan-culture-association]]
-- [[history-g7-l003-entity-taiwan-people-party]]
-- [[history-g7-l003-entity-chiang-weishui]]
-- [[history-g7-l003-entity-taichung-middle-school]]
-- [[history-g7-l003-entity-taipei-imperial-university]]
-- [[history-g7-l003-event-1921-1935-political-movement]]
-- [[history-g7-l003-event-education-policy-transition]]
-- [[history-g7-l003-event-culture-modernization-spread]]
-- [[history-g7-l003-comparison-education-discrimination-vs-unification]]
-- [[history-g7-l003-comparison-urban-rural-cultural-change]]
+- [[history-g7-l003-entity-education-differentiation]]
+- [[history-g7-l003-entity-taiwan-cultural-association]]
+- [[history-g7-l003-entity-modern-public-health-law]]
+- [[history-g7-l003-entity-urban-consumption-culture]]
+- [[history-g7-l003-event-education-stratification-reform]]
+- [[history-g7-l003-event-local-autonomy-election-1935]]
+- [[history-g7-l003-comparison-education-gaps-japanese-vs-taiwanese]]
+- [[history-g7-l003-comparison-old-vs-new-culture-urban-rural]]
 - [[index]]

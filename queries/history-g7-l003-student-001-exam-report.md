@@ -1,7 +1,7 @@
 ---
-title: student-001 章節測驗成果
+title: student-001 日治時期社會與文化測驗回報
 created: '2026-05-04'
-updated: '2026-06-20'
+updated: '2026-06-21'
 type: summary
 tags:
 - history
@@ -9,8 +9,6 @@ tags:
 - exam-analysis
 - student-progress
 - lesson
-- concept
-- teaching-strategy
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -21,7 +19,7 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 成績摘要
+## 成績快照
 - attempted_answers：3
 - unique_questions：3
 - correct_attempts：3
@@ -30,33 +28,30 @@ student_id: student-001
 - outstanding_wrong_questions：0
 - wrong_question_ids：none
 
-## 驗證狀態
-- 錯題檔與複習計畫檔目前為空（無待追蹤題目）。
-- 目前可判定：本階段的可測能力暫無斷裂點。
+## 學習解讀
+- 目前可判斷學生已掌握「初步定位題」的判讀能力，特別是第一至第三題的識別方向。
+- 尚未完成全卷，因此不能據此下「總體等級結論」，但可視為基礎概念目前穩定。
+- 建議把現有成果轉為延展：先做 4～8 題（制度差別、休閒現象、政黨成立、司法轉變），再回頭對照錯誤預警點。
 
-## 風險提醒
-- 題目已截斷至後段，完整試卷的廣度未完全呈現；建議後續補做其餘題目以確認「舊文化與新制度」之綜合辨識能力。
-
-## 對應主題連結
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-misconceptions]]
-- [[drive-s2-quiz]]
-- [[drive-s2-textbook]]
+## 關聯
+- 直接對應題目來源與考點可參考 [[history-g7-l003-core-concepts]]。
+- 參考題庫來源頁面：[[drive-s2-quiz]]。
+- 有關誤區預防與教學介入可看 [[history-g7-l003-teaching-focus]]。
+- 與教學素材對齊可看 [[history-g7-l003-student-001-exam-report]]。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-misconceptions]]
 - [[drive-s2-quiz]]
-- [[drive-s2-textbook]]
 - [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-entity-taiwan-culture-association]]
-- [[history-g7-l003-entity-taiwan-people-party]]
-- [[history-g7-l003-entity-chiang-weishui]]
-- [[history-g7-l003-entity-taichung-middle-school]]
-- [[history-g7-l003-entity-taipei-imperial-university]]
-- [[history-g7-l003-event-1921-1935-political-movement]]
-- [[history-g7-l003-event-education-policy-transition]]
-- [[history-g7-l003-event-culture-modernization-spread]]
-- [[history-g7-l003-comparison-education-discrimination-vs-unification]]
-- [[history-g7-l003-comparison-urban-rural-cultural-change]]
+- [[history-g7-l003-misconceptions]]
+- [[drive-s2-textbook]]
+- [[history-g7-l003-entity-education-differentiation]]
+- [[history-g7-l003-entity-taiwan-cultural-association]]
+- [[history-g7-l003-entity-modern-public-health-law]]
+- [[history-g7-l003-entity-urban-consumption-culture]]
+- [[history-g7-l003-event-education-stratification-reform]]
+- [[history-g7-l003-event-parliament-petition-1921-1934]]
+- [[history-g7-l003-event-local-autonomy-election-1935]]
+- [[history-g7-l003-comparison-education-gaps-japanese-vs-taiwanese]]
+- [[history-g7-l003-comparison-old-vs-new-culture-urban-rural]]
 - [[index]]
