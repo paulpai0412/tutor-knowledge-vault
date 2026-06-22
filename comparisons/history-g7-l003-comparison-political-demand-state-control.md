@@ -1,20 +1,16 @@
 ---
-title: 日治時期的社會與文化：核心概念
-created: '2026-05-04'
+title: 自治要求 vs 殖民秩序控制
+created: '2026-06-22'
 updated: '2026-06-22'
-type: concept
+type: comparison
 tags:
+- comparison
+- politics
+- social-movements
 - history
 - grade-7
-- concept
-- taiwan-history
 - japanese-rule
-- education
-- modernization
-- social-movements
-- culture
 sources:
-- indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
 confidence: high
@@ -22,20 +18,20 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 核心概念
-- 日治時期的教育採差別待遇分流，形成日本人、小學校、臺灣人的公學校與原住民學校差異，並以日語教學推動同化與產業管理。
-- 透過新式教育與出版、講演、組織行動，臺灣知識分子發起文化啟蒙與政治社會運動，提出自治與民權意識。
-- 衛生、法治、守時等制度進入生活後，傳統風俗逐步轉換，新舊文化並未消失而是並存並相互調適。
+## 比較切面
+- 要求面：請願、自治、參政權擴張。
+- 回應面：選舉與制度設計受限、戰時期更趨壓制。
 
 ## 相關頁面
-- [[history-g7-l003-education-stratification]]
 - [[history-g7-l003-taiwan-democratic-movement]]
-- [[history-g7-l003-comparison-differentiated-education]]
+- [[history-g7-l003-event-1937-movement-repression]]
 - [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
+- [[history-g7-l003-education-stratification]]
 - [[history-g7-l003-taiwan-cultural-association]]
 - [[history-g7-l003-public-health-law-order]]
 - [[history-g7-l003-modern-life-transition]]
@@ -45,8 +41,7 @@ student_id: student-001
 - [[history-g7-l003-event-1927-taiwan-democratic-party]]
 - [[history-g7-l003-event-1930-autonomy-league]]
 - [[history-g7-l003-event-1935-local-election]]
-- [[history-g7-l003-event-1937-movement-repression]]
 - [[history-g7-l003-event-1943-six-year-education]]
+- [[history-g7-l003-comparison-differentiated-education]]
 - [[history-g7-l003-comparison-tradition-modern-culture]]
-- [[history-g7-l003-comparison-political-demand-state-control]]
 - [[index]]
