@@ -1,56 +1,45 @@
 ---
-title: 教材來源節點：日治時期的社會與文化（課文）
-created: '2026-05-04'
+title: 臺灣文化協會成立與文化啟蒙（1921）
+created: '2026-06-23'
 updated: '2026-06-23'
 type: summary
 tags:
+- event
 - history
 - grade-7
-- lesson
-- source-note
-- taiwan-history
-- japanese-rule
-- education
 - culture
 - social-movements
+- taiwan-history
 sources:
-- indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
+- wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
+- wiki/students/student-001/progress/history/g7/l003/summary.md
 confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 來源資訊
-- lesson_id：history-g7-l003
-- 課程：日治時期的社會與文化
-- 檔案：drive-s2-textbook.pdf
-- 來源雜湊：sha256:4a3578136293aadfd17c04341e7d56642a8652bd4828603d48ad332dadaf267c
-- 轉換器：markitdown
-
-## 知識提要
-- 3-1：差別待遇教育、日語教學、初中高等教育資源不均。
-- 3-2：文化協會、議會請願、臺灣民眾黨、地方自治聯盟、選舉與運動被壓制。
-- 3-3：風俗改革、現代衛生、法治與守時、都會文化與消費空間興起。
+## 事件重點
+- 目的在喚起臺灣人民民族意識、改善社會風氣。
+- 與議會請願與自治理念形成互補，為後續政治組織活動鋪路。
 
 ## 連結
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
-- [[drive-s2-quiz]]
+- [[history-g7-l003-entity-cultural-enlightenment]]
 - [[history-g7-l003-event-autonomy-movement-1921]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
-- [[drive-s2-quiz]]
+- [[history-g7-l003-entity-cultural-enlightenment]]
 - [[history-g7-l003-event-autonomy-movement-1921]]
 - [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-textbook]]
+- [[drive-s2-quiz]]
 - [[history-g7-l003-entity-education-differentiation]]
-- [[history-g7-l003-entity-cultural-enlightenment]]
 - [[history-g7-l003-entity-modern-life-reform]]
 - [[history-g7-l003-event-taichung-middle-school-1915]]
-- [[history-g7-l003-event-culture-association-1921]]
 - [[history-g7-l003-event-health-modernization-1940s]]
 - [[history-g7-l003-event-compulsory-education-1943]]
 - [[history-g7-l003-event-peoples-party-1927]]

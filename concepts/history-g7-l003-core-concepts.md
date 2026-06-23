@@ -1,11 +1,12 @@
 ---
-title: 日治時期的社會與文化：核心概念
+title: 日治時期社會與文化核心概念
 created: '2026-05-04'
-updated: '2026-06-22'
+updated: '2026-06-23'
 type: concept
 tags:
 - history
 - grade-7
+- lesson
 - concept
 - taiwan-history
 - japanese-rule
@@ -13,6 +14,7 @@ tags:
 - modernization
 - social-movements
 - culture
+- politics
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -23,30 +25,31 @@ student_id: student-001
 ---
 
 ## 核心概念
-- 日治時期的教育採差別待遇分流，形成日本人、小學校、臺灣人的公學校與原住民學校差異，並以日語教學推動同化與產業管理。
-- 透過新式教育與出版、講演、組織行動，臺灣知識分子發起文化啟蒙與政治社會運動，提出自治與民權意識。
-- 衛生、法治、守時等制度進入生活後，傳統風俗逐步轉換，新舊文化並未消失而是並存並相互調適。
+- 日治時期的教育制度採差別待遇與隔離原則，對日本人、臺灣人與原住民設置不同學制與資源，但同時也孕育出懂得現代知識的臺灣知識分子。
+- 文化啟蒙與政治社會運動由知識分子引領，核心目標是民族覺醒、民權意識與地方自治。
+- 現代化不只在學校與制度，也深入日常生活，包括服飾、公共衛生、時間觀與公共空間習慣，形成傳統與新文化並存的調適現象。
+
+## 章節關係
+- [[history-g7-l003-core-concepts]] 連結到教育、運動、生活三類主軸。
+- [[history-g7-l003-misconceptions]] 記錄學生在辨識同類概念時可能出現的誤解。
+- [[history-g7-l003-teaching-focus]] 可直接轉為可教學用的提問與回饋。
+- [[drive-s2-textbook]] 提供本節完整教材脈絡。
 
 ## 相關頁面
-- [[history-g7-l003-education-stratification]]
-- [[history-g7-l003-taiwan-democratic-movement]]
-- [[history-g7-l003-comparison-differentiated-education]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
+- [[history-g7-l003-entity-education-differentiation]]
+- [[history-g7-l003-event-culture-association-1921]]
+- [[history-g7-l003-comparison-tradition-modernity]]
+- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-taiwan-cultural-association]]
-- [[history-g7-l003-public-health-law-order]]
-- [[history-g7-l003-modern-life-transition]]
-- [[history-g7-l003-urban-modern-culture]]
-- [[history-g7-l003-event-1915-taichung-middle-school]]
-- [[history-g7-l003-event-1921-cultural-association-petition]]
-- [[history-g7-l003-event-1927-taiwan-democratic-party]]
-- [[history-g7-l003-event-1930-autonomy-league]]
-- [[history-g7-l003-event-1935-local-election]]
-- [[history-g7-l003-event-1937-movement-repression]]
-- [[history-g7-l003-event-1943-six-year-education]]
-- [[history-g7-l003-comparison-tradition-modern-culture]]
-- [[history-g7-l003-comparison-political-demand-state-control]]
+- [[history-g7-l003-entity-cultural-enlightenment]]
+- [[history-g7-l003-entity-modern-life-reform]]
+- [[history-g7-l003-event-taichung-middle-school-1915]]
+- [[history-g7-l003-event-autonomy-movement-1921]]
+- [[history-g7-l003-event-health-modernization-1940s]]
+- [[history-g7-l003-event-compulsory-education-1943]]
+- [[history-g7-l003-event-peoples-party-1927]]
+- [[history-g7-l003-comparison-education-control-vs-empowerment]]
 - [[index]]

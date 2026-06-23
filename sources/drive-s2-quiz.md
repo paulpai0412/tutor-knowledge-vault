@@ -1,60 +1,52 @@
 ---
-title: 題庫來源：日治時期的社會與文化（drive-s2-quiz）
+title: 題庫來源節點：日治時期的社會與文化（測驗）
 created: '2026-05-04'
-updated: '2026-06-22'
+updated: '2026-06-23'
 type: summary
 tags:
-- source-note
-- exam-analysis
 - history
 - grade-7
-- social-movements
-- education
+- source-note
+- exam-analysis
+- student-progress
+- japanese-rule
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
-confidence: medium
+confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 來源基本資料
-- exam_id: `history-g7-l003-drive-s2-quiz`
-- source_pdf: `drive-s2-quiz.pdf`
-- source_hash: `sha256:b51e95bbc8e5a18ebe7097ccbab5f5d97608c7db9aac018d6c59d2614c9df27e`
-- converter: `marker`
-- conversion_state: `review_required`
+## 來源資訊
+- exam_id：history-g7-l003-drive-s2-quiz
+- 試卷：平時測驗，滿分 80 分
+- 轉換器：marker（review_required）
+- 主要命題範圍：教育制度、政治社會運動、現代衛生與生活制度化
 
-## 檔案備註
-- 目前題目片段有截斷，應以原始題庫補齊後再做完整歷程判讀。
-- 既有作答僅覆蓋 3 題，應避免以此替代全卷成效分析。
+## 證據約束
+- 已有作答紀錄到第 3 題，且全部正確；目前無 wrong-question artifact。
+- 截錄題目內容顯示後段還有時序、制度效果與制度配套題，適合下一輪追問。
 
-## 連結
-- [[drive-s2-quiz]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-event-1935-local-election]]
+## 學習使用方式
+- 用於把教材主軸轉成「可比對」知識：例如「制度名稱→成立年代→社會影響」。
+- 與教材節點交叉檢核，強化可遷移理解。
 
 ## 相關頁面
 - [[history-g7-l003-student-001-exam-report]]
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-event-1935-local-election]]
+- [[drive-s2-textbook]]
+- [[history-g7-l003-comparison-tradition-modernity]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
-- [[drive-s2-textbook]]
-- [[history-g7-l003-education-stratification]]
-- [[history-g7-l003-taiwan-cultural-association]]
-- [[history-g7-l003-taiwan-democratic-movement]]
-- [[history-g7-l003-public-health-law-order]]
-- [[history-g7-l003-modern-life-transition]]
-- [[history-g7-l003-urban-modern-culture]]
-- [[history-g7-l003-event-1915-taichung-middle-school]]
-- [[history-g7-l003-event-1921-cultural-association-petition]]
-- [[history-g7-l003-event-1927-taiwan-democratic-party]]
-- [[history-g7-l003-event-1930-autonomy-league]]
-- [[history-g7-l003-event-1937-movement-repression]]
-- [[history-g7-l003-event-1943-six-year-education]]
-- [[history-g7-l003-comparison-differentiated-education]]
-- [[history-g7-l003-comparison-tradition-modern-culture]]
-- [[history-g7-l003-comparison-political-demand-state-control]]
+- [[history-g7-l003-entity-education-differentiation]]
+- [[history-g7-l003-entity-cultural-enlightenment]]
+- [[history-g7-l003-entity-modern-life-reform]]
+- [[history-g7-l003-event-taichung-middle-school-1915]]
+- [[history-g7-l003-event-culture-association-1921]]
+- [[history-g7-l003-event-autonomy-movement-1921]]
+- [[history-g7-l003-event-health-modernization-1940s]]
+- [[history-g7-l003-event-compulsory-education-1943]]
+- [[history-g7-l003-event-peoples-party-1927]]
+- [[history-g7-l003-comparison-education-control-vs-empowerment]]
 - [[index]]
