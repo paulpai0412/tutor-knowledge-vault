@@ -1,14 +1,14 @@
 ---
-title: 學生教學重點與可複用策略
-created: '2026-05-04'
+title: 1927?（事件節點整理）1927?—錯誤排除：1915 臺中中學校
+created: '2026-06-24'
 updated: '2026-06-24'
-type: summary
+type: entity
 tags:
-- teaching-strategy
-- education
 - history
+- event
 - grade-7
-- student-progress
+- education
+- japanese-rule
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
@@ -18,33 +18,26 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 可複用提示
-- 先肯定已完成的強項：3 題中均能正確選出關鍵事實（學校/休閒原因/政黨成立），表示基礎名詞與主題抓取穩定。
-- 接著轉向「因果鏈」：把日治教育政策、知識分子運動、社會變遷三者串成一條流程。
-- 設計對照題：讓學生比較「制度輸入」與「社會反應」，提高對抗混淆能力。
-
-## 下次教學步驟
-- 以圖表重述「1918→1921→1927→1930→1935」事件序列。
-- 讓學生補答剩餘題目中與衛生、法治、時間制度相關題，特別注意非直接字面答案的情境推理。
+## 事件摘要
+- 在長期存在的分層初等教育後，代表中等教育階段制度修正的象徵。
 
 ## 連結
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-misconceptions]]
-- [[drive-s2-textbook]]
+- [[entity-japanese-differentiated-education]]
 - [[history-g7-l003-student-001-exam-report]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-misconceptions]]
-- [[drive-s2-textbook]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-quiz]]
 - [[entity-japanese-differentiated-education]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-teaching-focus]]
+- [[drive-s2-textbook]]
+- [[drive-s2-quiz]]
 - [[entity-cultural-association-political-movement]]
 - [[entity-public-health-law-time-discipline]]
 - [[entity-urban-culture-modern-lifestyle]]
 - [[entity-local-adjustment-mixed-culture]]
-- [[event-1915-taichung-middle-school]]
 - [[event-1921-cultural-association-and-petition]]
 - [[event-1927-taiwan-peoples-party]]
 - [[event-1935-local-council-election]]

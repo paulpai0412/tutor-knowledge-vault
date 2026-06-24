@@ -1,18 +1,16 @@
 ---
-title: 教材來源節點：日治時期的社會與文化（課文）
+title: 教材來源：日治時期的社會與文化（節錄摘要）
 created: '2026-05-04'
-updated: '2026-06-23'
+updated: '2026-06-24'
 type: summary
 tags:
+- source-note
+- lesson
 - history
 - grade-7
-- lesson
-- source-note
-- taiwan-history
 - japanese-rule
 - education
-- culture
-- social-movements
+- concept
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -21,39 +19,38 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 來源資訊
-- lesson_id：history-g7-l003
-- 課程：日治時期的社會與文化
-- 檔案：drive-s2-textbook.pdf
-- 來源雜湊：sha256:4a3578136293aadfd17c04341e7d56642a8652bd4828603d48ad332dadaf267c
-- 轉換器：markitdown
+## 教材核心結構
+- 時代脈絡：1895–1945。
+- 主題焦點：差別待遇教育、文化啟蒙與政治社會運動、風俗與衛生與法治與守時制度、都會文化形成。
+- 重點關係：現代制度輸入先於在地調適，最終形成交融而非完全替代。
 
-## 知識提要
-- 3-1：差別待遇教育、日語教學、初中高等教育資源不均。
-- 3-2：文化協會、議會請願、臺灣民眾黨、地方自治聯盟、選舉與運動被壓制。
-- 3-3：風俗改革、現代衛生、法治與守時、都會文化與消費空間興起。
+## 可引用事證
+- 小學校/公學校/蕃人公學校語言與入學條件差異。
+- 臺灣文化協會、臺灣民眾黨、地方自治聯盟與選舉史。
+- 西式醫院、自來水、法院、標準時間制、公共時鐘與休閒場所。
 
 ## 連結
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-event-autonomy-movement-1921]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
-- [[drive-s2-quiz]]
-- [[history-g7-l003-event-autonomy-movement-1921]]
-- [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[history-g7-l003-entity-education-differentiation]]
-- [[history-g7-l003-entity-cultural-enlightenment]]
-- [[history-g7-l003-entity-modern-life-reform]]
-- [[history-g7-l003-event-taichung-middle-school-1915]]
-- [[history-g7-l003-event-culture-association-1921]]
-- [[history-g7-l003-event-health-modernization-1940s]]
-- [[history-g7-l003-event-compulsory-education-1943]]
-- [[history-g7-l003-event-peoples-party-1927]]
-- [[history-g7-l003-comparison-tradition-modernity]]
-- [[history-g7-l003-comparison-education-control-vs-empowerment]]
+- [[drive-s2-quiz]]
+- [[history-g7-l003-misconceptions]]
+- [[entity-japanese-differentiated-education]]
+- [[entity-cultural-association-political-movement]]
+- [[entity-public-health-law-time-discipline]]
+- [[entity-urban-culture-modern-lifestyle]]
+- [[entity-local-adjustment-mixed-culture]]
+- [[event-1915-taichung-middle-school]]
+- [[event-1921-cultural-association-and-petition]]
+- [[event-1927-taiwan-peoples-party]]
+- [[event-1935-local-council-election]]
+- [[event-1943-six-year-obligation-education]]
+- [[comparison-colonial-education-vs-local-response]]
+- [[comparison-modern-law-time-tradition]]
 - [[index]]
