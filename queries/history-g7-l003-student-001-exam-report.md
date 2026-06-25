@@ -1,7 +1,7 @@
 ---
-title: student-001 日治時期測驗回顧（暫）
+title: 學生001第3章測驗進度與評量成效
 created: '2026-05-04'
-updated: '2026-06-24'
+updated: '2026-06-25'
 type: summary
 tags:
 - exam-analysis
@@ -19,36 +19,41 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 評量結果（目前）
-- `attempted_answers: 3`
-- `currently_correct_questions: 3`
-- `outstanding_wrong_questions: 0`
-- `wrong_question_ids: none`
-- 最近題目：q-1、q-2、q-3 皆正確（q-1 B、q-2 B、q-3 A）。
+## 測驗摘要
+- lesson_group_id：`history-g7-l003`
+- student_id：`student-001`
+- 試題總覽：本卷標示 80 分，題號 1–22（依卷首規則）
+- 已作答：3 題
+- 目前正確：3 題
+- 錯題：0 題
 
-## 解讀
-- 學生能快速抓住「第一所專收臺灣子弟中學」與「臺灣民眾黨」與「司法現代化」等核心線索。
-- 目前缺少錯題，可用於推估低風險面向；但不等於全部面向已熟悉，必須補測 `unique_questions` 剩餘題數。
+## 最新題況
+- q-1（第1題）：提交 `B`，正確
+- q-2（第2題）：提交 `B`，正確
+- q-3（第3題）：提交 `A`，正確
 
-## 後續建議
-- 安排一次完整重考，重點補足：政治社會運動時序、制度轉換與文化變遷題組。
+## 判讀
+- 成效：短窗內正確率 100%
+- 風險：尚未涵蓋後段高階題（因目前僅3題），需在後續進入文化、衛生、政治運動排序題後再做誤解檢查。
+
+## 相關連結
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-teaching-focus]]
+- [[drive-s2-quiz]]
+- [[history-g7-l003-student-001-exam-report]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[drive-s2-quiz]]
+- [[history-g7-l003-misconceptions]]
 - [[drive-s2-textbook]]
-- [[entity-japanese-differentiated-education]]
-- [[entity-cultural-association-political-movement]]
-- [[entity-public-health-law-time-discipline]]
-- [[entity-urban-culture-modern-lifestyle]]
-- [[entity-local-adjustment-mixed-culture]]
-- [[event-1915-taichung-middle-school]]
-- [[event-1921-cultural-association-and-petition]]
-- [[event-1927-taiwan-peoples-party]]
-- [[event-1935-local-council-election]]
-- [[event-1943-six-year-obligation-education]]
-- [[comparison-colonial-education-vs-local-response]]
-- [[comparison-modern-law-time-tradition]]
+- [[history-g7-l003-entity-education-hierarchy]]
+- [[history-g7-l003-entity-culture-association]]
+- [[history-g7-l003-entity-taiwan-culture-shift]]
+- [[history-g7-l003-event-education-stratification]]
+- [[history-g7-l003-event-petition-movement]]
+- [[history-g7-l003-event-urban-modern-lifestyle]]
+- [[history-g7-l003-comparison-education-control-vs-self-empowerment]]
+- [[history-g7-l003-comparison-urban-rural-modernity]]
 - [[index]]

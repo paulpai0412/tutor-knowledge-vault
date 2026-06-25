@@ -1,8 +1,8 @@
 ---
-title: 日治時期社會與文化核心觀念
+title: 日治時期社會與文化核心概念
 created: '2026-05-04'
-updated: '2026-06-24'
-type: summary
+updated: '2026-06-25'
+type: concept
 tags:
 - history
 - grade-7
@@ -14,6 +14,7 @@ tags:
 - modernization
 - social-movements
 - culture
+- politics
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -24,31 +25,26 @@ student_id: student-001
 ---
 
 ## 核心概念
-- 教育政策：總督府採取分層差別制度，以日語為主推廣新式學校，既是治理工具也供應產業所需人力。
-- 政治社會運動：臺灣知識分子在民族自決思潮下，透過臺灣文化協會、臺灣民眾黨、地方自治聯盟等形成政治與社會啟蒙。
-- 生活文化變遷：衛生、法治、守時與都會休閒文化逐步進入，與傳統習俗並存並發生調適。
+- **教育制度作為治理工具**：以小學校、公學校、蕃人公學校的分層制度，透過日語教學與資源落差鞏固殖民秩序，同時建立現代知識輸出管道。
+- **知識分子的文化與政治覺醒**：1920年代在民族自決思潮影響下，透過《臺灣民報》、演講、讀報社等推動文化啟蒙，連結政治社會運動。
+- **新舊文化的生活轉換**：衛生、法治、守時與都會休閒習慣逐步形成；但都市推進快、鄉村與部落轉換較慢，導致文化交織與調適。
 
-## 內部關係
-- [[entity-japanese-differentiated-education]] 讓高等人力培育與社會階層分化同時存在。
-- [[entity-cultural-society-reform]] 說明文化啟蒙如何連結到自治訴求。
+## 關係結構
+- 現代教育培育的知識分子，成為議會請願、自治運動、地方自治聯盟等行動的核心。
+- 政治社會運動與公共衛生/城市化改變互相補強，改變民眾對權益與公共秩序的期待。
 
 ## 相關頁面
-- [[entity-japanese-differentiated-education]]
-- [[entity-cultural-society-reform]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-entity-education-hierarchy]]
+- [[history-g7-l003-comparison-education-control-vs-self-empowerment]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[entity-cultural-association-political-movement]]
-- [[entity-public-health-law-time-discipline]]
-- [[entity-urban-culture-modern-lifestyle]]
-- [[entity-local-adjustment-mixed-culture]]
-- [[event-1915-taichung-middle-school]]
-- [[event-1921-cultural-association-and-petition]]
-- [[event-1927-taiwan-peoples-party]]
-- [[event-1935-local-council-election]]
-- [[event-1943-six-year-obligation-education]]
-- [[comparison-colonial-education-vs-local-response]]
-- [[comparison-modern-law-time-tradition]]
+- [[history-g7-l003-entity-culture-association]]
+- [[history-g7-l003-entity-taiwan-culture-shift]]
+- [[history-g7-l003-event-education-stratification]]
+- [[history-g7-l003-event-petition-movement]]
+- [[history-g7-l003-event-urban-modern-lifestyle]]
+- [[history-g7-l003-comparison-urban-rural-modernity]]
 - [[index]]

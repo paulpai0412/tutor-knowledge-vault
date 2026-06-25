@@ -1,14 +1,15 @@
 ---
-title: 學生教學重點與可複用策略
+title: 日治時期課堂教學重點與作答策略
 created: '2026-05-04'
-updated: '2026-06-24'
-type: summary
+updated: '2026-06-25'
+type: entity
 tags:
 - teaching-strategy
-- education
 - history
+- lesson
 - grade-7
 - student-progress
+- education
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
@@ -18,37 +19,34 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 可複用提示
-- 先肯定已完成的強項：3 題中均能正確選出關鍵事實（學校/休閒原因/政黨成立），表示基礎名詞與主題抓取穩定。
-- 接著轉向「因果鏈」：把日治教育政策、知識分子運動、社會變遷三者串成一條流程。
-- 設計對照題：讓學生比較「制度輸入」與「社會反應」，提高對抗混淆能力。
+## 可重複使用的教學提示
+- **先肯定再提問**：學生已在選項判斷上正確，先肯定其對選項辨識力，再引導到原因判斷。
+- **用「差別待遇→改革→影響」架構**：將制度脈絡、受惠與受限人群分層分析，避免只記住單一年號。
+- **把資料轉成對照表**：教育、文化、政治、日常生活四欄對照，適合複習與口頭問答。
 
-## 下次教學步驟
-- 以圖表重述「1918→1921→1927→1930→1935」事件序列。
-- 讓學生補答剩餘題目中與衛生、法治、時間制度相關題，特別注意非直接字面答案的情境推理。
+## 下一步題目設計
+- 加入情境題：若題幹提及「法庭、法院」或「坐著聽審」，對應司法現代化與法治觀念。
+- 強化時間軸：1921、1927、1930、1935、1937作為關鍵節點，做快速排序。
 
 ## 連結
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
 - [[drive-s2-textbook]]
-- [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-event-petition-movement]]
+- [[history-g7-l003-comparison-urban-rural-modernity]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
 - [[drive-s2-textbook]]
+- [[history-g7-l003-event-petition-movement]]
+- [[history-g7-l003-comparison-urban-rural-modernity]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-quiz]]
-- [[entity-japanese-differentiated-education]]
-- [[entity-cultural-association-political-movement]]
-- [[entity-public-health-law-time-discipline]]
-- [[entity-urban-culture-modern-lifestyle]]
-- [[entity-local-adjustment-mixed-culture]]
-- [[event-1915-taichung-middle-school]]
-- [[event-1921-cultural-association-and-petition]]
-- [[event-1927-taiwan-peoples-party]]
-- [[event-1935-local-council-election]]
-- [[event-1943-six-year-obligation-education]]
-- [[comparison-colonial-education-vs-local-response]]
-- [[comparison-modern-law-time-tradition]]
+- [[history-g7-l003-entity-education-hierarchy]]
+- [[history-g7-l003-entity-culture-association]]
+- [[history-g7-l003-entity-taiwan-culture-shift]]
+- [[history-g7-l003-event-education-stratification]]
+- [[history-g7-l003-event-urban-modern-lifestyle]]
+- [[history-g7-l003-comparison-education-control-vs-self-empowerment]]
 - [[index]]

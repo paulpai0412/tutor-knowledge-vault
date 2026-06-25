@@ -1,16 +1,18 @@
 ---
-title: 教材來源：日治時期的社會與文化（節錄摘要）
+title: 教材來源：日治時期的社會與文化
 created: '2026-05-04'
-updated: '2026-06-24'
+updated: '2026-06-25'
 type: summary
 tags:
 - source-note
-- lesson
 - history
+- lesson
 - grade-7
+- taiwan-history
 - japanese-rule
 - education
-- concept
+- culture
+- social-movements
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -19,38 +21,37 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 教材核心結構
-- 時代脈絡：1895–1945。
-- 主題焦點：差別待遇教育、文化啟蒙與政治社會運動、風俗與衛生與法治與守時制度、都會文化形成。
-- 重點關係：現代制度輸入先於在地調適，最終形成交融而非完全替代。
+## 來源資訊
+- lesson_id：`history-g7-l003`
+- lesson_variant_id：`drive-s2-textbook`
+- title：日治時期的社會與文化
+- converter：`markitdown`
+- conversion_state：`wiki_ready`
 
-## 可引用事證
-- 小學校/公學校/蕃人公學校語言與入學條件差異。
-- 臺灣文化協會、臺灣民眾黨、地方自治聯盟與選舉史。
-- 西式醫院、自來水、法院、標準時間制、公共時鐘與休閒場所。
+## 章節對齊
+- 3-1 差別待遇的現代教育（小學校、普通中學、六年國民義務教育）
+- 3-2 文化啟蒙與政治社會運動（臺灣文化協會、請願運動、臺灣民眾黨、地方自治聯盟）
+- 3-3 新舊文化變遷（風俗、衛生、法治、守時、都會文化）
 
-## 連結
+## 圖譜化連結
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-event-education-stratification]]
+- [[history-g7-l003-event-petition-movement]]
 - [[drive-s2-quiz]]
+- [[history-g7-l003-student-001-exam-report]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-event-education-stratification]]
+- [[history-g7-l003-event-petition-movement]]
 - [[drive-s2-quiz]]
+- [[history-g7-l003-student-001-exam-report]]
 - [[history-g7-l003-misconceptions]]
-- [[entity-japanese-differentiated-education]]
-- [[entity-cultural-association-political-movement]]
-- [[entity-public-health-law-time-discipline]]
-- [[entity-urban-culture-modern-lifestyle]]
-- [[entity-local-adjustment-mixed-culture]]
-- [[event-1915-taichung-middle-school]]
-- [[event-1921-cultural-association-and-petition]]
-- [[event-1927-taiwan-peoples-party]]
-- [[event-1935-local-council-election]]
-- [[event-1943-six-year-obligation-education]]
-- [[comparison-colonial-education-vs-local-response]]
-- [[comparison-modern-law-time-tradition]]
+- [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-entity-education-hierarchy]]
+- [[history-g7-l003-entity-culture-association]]
+- [[history-g7-l003-entity-taiwan-culture-shift]]
+- [[history-g7-l003-event-urban-modern-lifestyle]]
+- [[history-g7-l003-comparison-education-control-vs-self-empowerment]]
+- [[history-g7-l003-comparison-urban-rural-modernity]]
 - [[index]]
