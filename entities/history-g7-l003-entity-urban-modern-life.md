@@ -1,13 +1,14 @@
 ---
-title: 臺灣文化協會與知識分子啟蒙
-created: '2026-06-25'
+title: 都市化與都會文化出現
+created: '2026-06-26'
 updated: '2026-06-26'
 type: entity
 tags:
-- social-movements
 - culture
+- modernization
 - history
 - grade-7
+- social-movements
 - entity
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -18,26 +19,28 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 核心主張
-- 目標為提高民智、培養臺灣族群認同、改良社會風氣。
-- 與議會請願、地方自治運動形成同一歷史脈絡。
-## 考點對接
-- 常見考查為成立年份、人物連動與與民主自治觀念的關係。
+## 代表現象
+- 菊元百貨、臺灣鐵道飯店餐廳、總督府博物館、臺中公園、林百貨等代表休閒與消費文化上升。
+- 都市現代化主要集中在城鎮，鄉村與原住民部落轉變較慢。
+## 跨頁連接
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-event-1921-cultural-association]]
+- [[history-g7-l003-comparison-tradition-modernity-city-rural]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-event-1921-cultural-association]]
-- [[history-g7-l003-entity-civic-autonomy]]
+- [[history-g7-l003-comparison-tradition-modernity-city-rural]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
 - [[history-g7-l003-entity-differentiated-education]]
+- [[history-g7-l003-entity-culture-association]]
+- [[history-g7-l003-entity-civic-autonomy]]
 - [[history-g7-l003-entity-public-health-law]]
-- [[history-g7-l003-entity-urban-modern-life]]
 - [[history-g7-l003-event-1927-taiwan-peoples-party]]
 - [[history-g7-l003-event-1943-national-education]]
 - [[history-g7-l003-comparison-education-gap-vs-integration]]
-- [[history-g7-l003-comparison-tradition-modernity-city-rural]]
 - [[index]]

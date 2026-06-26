@@ -1,13 +1,12 @@
 ---
 title: 日治時期社會與文化核心概念
 created: '2026-05-04'
-updated: '2026-06-25'
+updated: '2026-06-26'
 type: concept
 tags:
 - history
 - grade-7
 - lesson
-- concept
 - taiwan-history
 - japanese-rule
 - education
@@ -15,6 +14,7 @@ tags:
 - social-movements
 - culture
 - politics
+- concept
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -25,26 +25,24 @@ student_id: student-001
 ---
 
 ## 核心概念
-- **教育制度作為治理工具**：以小學校、公學校、蕃人公學校的分層制度，透過日語教學與資源落差鞏固殖民秩序，同時建立現代知識輸出管道。
-- **知識分子的文化與政治覺醒**：1920年代在民族自決思潮影響下，透過《臺灣民報》、演講、讀報社等推動文化啟蒙，連結政治社會運動。
-- **新舊文化的生活轉換**：衛生、法治、守時與都會休閒習慣逐步形成；但都市推進快、鄉村與部落轉換較慢，導致文化交織與調適。
-
-## 關係結構
-- 現代教育培育的知識分子，成為議會請願、自治運動、地方自治聯盟等行動的核心。
-- 政治社會運動與公共衛生/城市化改變互相補強，改變民眾對權益與公共秩序的期待。
+- 日治時期教育初期採取「分層」與資源不均的政策，但也建立了現代學制，逐步改變臺灣人接受知識與參與公共事務的條件。
+- 1920 年代起，知識分子以文化啟蒙與政治社會運動為主軸，推動民族意識、自治與民權觀念的擴散。
+- 生活面向出現公共衛生、法治、守時習慣與都會消費文化，形成西方/日式制度與本土傳統並存的社會景觀。
 
 ## 相關頁面
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[history-g7-l003-entity-education-hierarchy]]
-- [[history-g7-l003-comparison-education-control-vs-self-empowerment]]
+- [[history-g7-l003-entity-differentiated-education]]
+- [[history-g7-l003-event-1927-taiwan-peoples-party]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
 - [[history-g7-l003-entity-culture-association]]
-- [[history-g7-l003-entity-taiwan-culture-shift]]
-- [[history-g7-l003-event-education-stratification]]
-- [[history-g7-l003-event-petition-movement]]
-- [[history-g7-l003-event-urban-modern-lifestyle]]
-- [[history-g7-l003-comparison-urban-rural-modernity]]
+- [[history-g7-l003-entity-civic-autonomy]]
+- [[history-g7-l003-entity-public-health-law]]
+- [[history-g7-l003-entity-urban-modern-life]]
+- [[history-g7-l003-event-1921-cultural-association]]
+- [[history-g7-l003-event-1943-national-education]]
+- [[history-g7-l003-comparison-education-gap-vs-integration]]
+- [[history-g7-l003-comparison-tradition-modernity-city-rural]]
 - [[index]]

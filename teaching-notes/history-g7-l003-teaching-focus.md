@@ -1,13 +1,12 @@
 ---
-title: 日治時期課堂教學重點與作答策略
+title: 教學重點與可再用提示
 created: '2026-05-04'
-updated: '2026-06-25'
-type: entity
+updated: '2026-06-26'
+type: summary
 tags:
-- teaching-strategy
 - history
-- lesson
 - grade-7
+- teaching-strategy
 - student-progress
 - education
 sources:
@@ -19,34 +18,30 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 可重複使用的教學提示
-- **先肯定再提問**：學生已在選項判斷上正確，先肯定其對選項辨識力，再引導到原因判斷。
-- **用「差別待遇→改革→影響」架構**：將制度脈絡、受惠與受限人群分層分析，避免只記住單一年號。
-- **把資料轉成對照表**：教育、文化、政治、日常生活四欄對照，適合複習與口頭問答。
-
-## 下一步題目設計
-- 加入情境題：若題幹提及「法庭、法院」或「坐著聽審」，對應司法現代化與法治觀念。
-- 強化時間軸：1921、1927、1930、1935、1937作為關鍵節點，做快速排序。
-
-## 連結
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-misconceptions]]
-- [[drive-s2-textbook]]
-- [[history-g7-l003-event-petition-movement]]
-- [[history-g7-l003-comparison-urban-rural-modernity]]
+## 本次可重用教學提示
+- 先確認學生已掌握：
+  - 臺中中學校是第一所專為臺灣人設立的中學校。
+  - 都市休閒與餐飲設施增加主要反映工商業與現代生活擴張。
+  - 臺灣民眾黨成立是臺灣政治社會運動中的關鍵里程。
+- 之後以「制度 -> 啟蒙 -> 運動 -> 生活改變」四步走，讓學生建立可遷移的歷史框架。
+## 常見教學失誤預防
+- 避免學生只背名稱，不懂原因；每個名詞都要求一句「為何發生、改變了什麼」。
+- 把時代事件與生活影響分開問答，例如先談文化協會成立，再問其在教育或社會倫理上的作用。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
-- [[drive-s2-textbook]]
-- [[history-g7-l003-event-petition-movement]]
-- [[history-g7-l003-comparison-urban-rural-modernity]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-entity-public-health-law]]
+- [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-entity-education-hierarchy]]
+- [[history-g7-l003-entity-differentiated-education]]
 - [[history-g7-l003-entity-culture-association]]
-- [[history-g7-l003-entity-taiwan-culture-shift]]
-- [[history-g7-l003-event-education-stratification]]
-- [[history-g7-l003-event-urban-modern-lifestyle]]
-- [[history-g7-l003-comparison-education-control-vs-self-empowerment]]
+- [[history-g7-l003-entity-civic-autonomy]]
+- [[history-g7-l003-entity-urban-modern-life]]
+- [[history-g7-l003-event-1921-cultural-association]]
+- [[history-g7-l003-event-1927-taiwan-peoples-party]]
+- [[history-g7-l003-event-1943-national-education]]
+- [[history-g7-l003-comparison-education-gap-vs-integration]]
+- [[history-g7-l003-comparison-tradition-modernity-city-rural]]
 - [[index]]
