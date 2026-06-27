@@ -1,14 +1,15 @@
 ---
-title: 學生成績回饋：student-001
+title: 學生-001 日治時期測驗紀錄（第一階段）
 created: '2026-05-04'
-updated: '2026-06-26'
+updated: '2026-06-27'
 type: summary
 tags:
-- exam-analysis
-- student-progress
 - history
 - grade-7
-- concept
+- exam-analysis
+- student-progress
+- education
+- source-note
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -19,38 +20,36 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 量化結果
-- `attempted_answers`: 3
-- `currently_correct_questions`: 3
-- `outstanding_wrong_questions`: 0
-- `wrong_question_ids`: none
-- 最近題目結果：q1、q2、q3 全部為 correct
-- 最近提交答案：q1→B、q2→B、q3→A
-## 評估判讀
-- 目前可視為前段知識節點穩定（教育制度、都會文化、臺灣民眾黨）。
-- 尚未覆蓋完整 22 題，測驗結構不能直接下「全卷全會」。
-## 追蹤建議
-- 接續作答後半段題目，特別檢核事件先後與制度性變化。
-- 回顧時對應 [[history-g7-l003-core-concepts]] 與 [[history-g7-l003-comparison-education-gap-vs-integration]] 建立串接。
-## 連結
-- [[drive-s2-quiz]]
-- [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-event-1921-cultural-association]]
+## 成績摘要
+- attempted_answers: 3
+- unique_questions: 3
+- correct_attempts: 3
+- wrong_attempts: 0
+- currently_correct_questions: 3
+- outstanding_wrong_questions: 0
+- wrong_question_ids: none
+## 表現解讀
+- 已驗證題型：第一層名詞理解與直接對應題（課本關鍵機制、休閒現象、政黨識別）。
+- 未驗證題型：事件排序、政策效果比較、圖像與綜合理解題；這些題目與高分歸納能力關係更高。
+- 學科技能分佈（提供）：「日治時期:3, 工商業:1, 政治社會運動:1, 教育:1, 社會生活:1, 臺灣民眾黨:1」，可作為下一步個別化複習依據。
 
 ## 相關頁面
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-comparison-education-gap-vs-integration]]
 - [[drive-s2-quiz]]
+- [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-event-1921-cultural-association]]
+- [[history-g7-l003-entity-colonial-education-system]]
 - [[history-g7-l003-misconceptions]]
 - [[drive-s2-textbook]]
-- [[history-g7-l003-entity-differentiated-education]]
-- [[history-g7-l003-entity-culture-association]]
-- [[history-g7-l003-entity-civic-autonomy]]
-- [[history-g7-l003-entity-public-health-law]]
+- [[history-g7-l003-entity-political-social-movement]]
+- [[history-g7-l003-entity-public-health-lawtime]]
 - [[history-g7-l003-entity-urban-modern-life]]
-- [[history-g7-l003-event-1927-taiwan-peoples-party]]
-- [[history-g7-l003-event-1943-national-education]]
-- [[history-g7-l003-comparison-tradition-modernity-city-rural]]
+- [[history-g7-l003-event-1915-taichung-middle-school]]
+- [[history-g7-l003-event-1921-taiwan-culture-association]]
+- [[history-g7-l003-event-1927-taiwan-people-party]]
+- [[history-g7-l003-event-1930-autonomy-alliance]]
+- [[history-g7-l003-event-1935-local-assembly-election]]
+- [[history-g7-l003-event-1937-suppression-of-movements]]
+- [[history-g7-l003-event-1943-national-national-school]]
+- [[history-g7-l003-comparison-education-structure-vs-equity]]
+- [[history-g7-l003-comparison-tradition-modernity-interaction]]
 - [[index]]

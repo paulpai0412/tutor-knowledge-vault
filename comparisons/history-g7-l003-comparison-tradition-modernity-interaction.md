@@ -1,34 +1,32 @@
 ---
-title: 都會文化與生活方式轉型
-created: '2026-06-26'
+title: 傳統文化與現代制度的交互關係
+created: '2026-06-27'
 updated: '2026-06-27'
-type: entity
+type: comparison
 tags:
+- comparison
 - culture
-- modernization
+- time-discipline
+- public-health
 - history
 - grade-7
-- entity
-- comparison
-- taiwan-history
+- modernization
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
-- wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 核心節點
-- 都市道路、園區、公園與新型餐飲空間促成生活節奏與消費方式改變。
-- 菊元百貨、臺北新公園、臺中公園等代表「大眾化」的公共文化景觀。
-- 這些現象既是殖民治理手段，也促成民眾對新生活樣態的接觸與調適。
+## 比較面
+- 傳統作息、服飾與習慣在制度壓力下進行調整，如放足、斷髮、健康與時間觀念改寫。
+- 現代制度在城市先行滲透，鄉村與原住民社群的轉變節奏較慢，形成空間差異。
+- 文化最終結果是衝突與融合並存，不是單向同質化。
 
 ## 相關頁面
-- [[history-g7-l003-event-1921-taiwan-culture-association]]
-- [[history-g7-l003-event-1927-taiwan-people-party]]
-- [[history-g7-l003-comparison-tradition-modernity-interaction]]
+- [[history-g7-l003-entity-urban-modern-life]]
+- [[history-g7-l003-entity-public-health-lawtime]]
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
@@ -37,8 +35,9 @@ student_id: student-001
 - [[drive-s2-quiz]]
 - [[history-g7-l003-entity-colonial-education-system]]
 - [[history-g7-l003-entity-political-social-movement]]
-- [[history-g7-l003-entity-public-health-lawtime]]
 - [[history-g7-l003-event-1915-taichung-middle-school]]
+- [[history-g7-l003-event-1921-taiwan-culture-association]]
+- [[history-g7-l003-event-1927-taiwan-people-party]]
 - [[history-g7-l003-event-1930-autonomy-alliance]]
 - [[history-g7-l003-event-1935-local-assembly-election]]
 - [[history-g7-l003-event-1937-suppression-of-movements]]

@@ -1,15 +1,15 @@
 ---
-title: 都會文化與生活方式轉型
-created: '2026-06-26'
+title: 文化啟蒙與政治社會運動
+created: '2026-06-27'
 updated: '2026-06-27'
 type: entity
 tags:
-- culture
-- modernization
+- social-movements
+- politics
 - history
-- grade-7
+- event
 - entity
-- comparison
+- grade-7
 - taiwan-history
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -21,14 +21,14 @@ student_id: student-001
 ---
 
 ## 核心節點
-- 都市道路、園區、公園與新型餐飲空間促成生活節奏與消費方式改變。
-- 菊元百貨、臺北新公園、臺中公園等代表「大眾化」的公共文化景觀。
-- 這些現象既是殖民治理手段，也促成民眾對新生活樣態的接觸與調適。
+- 1920年代以後，臺灣文化協會成為啟蒙與民智喚醒中心，配合報紙、演講、讀報社等形式。
+- 議會設置請願與地方自治聯盟將政治參與理念具體化。
+- 臺灣民眾黨將自治與民權主張納入政治行動，推動農工運動與社會改善。
 
 ## 相關頁面
 - [[history-g7-l003-event-1921-taiwan-culture-association]]
 - [[history-g7-l003-event-1927-taiwan-people-party]]
-- [[history-g7-l003-comparison-tradition-modernity-interaction]]
+- [[history-g7-l003-event-1937-suppression-of-movements]]
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
@@ -36,12 +36,12 @@ student_id: student-001
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
 - [[history-g7-l003-entity-colonial-education-system]]
-- [[history-g7-l003-entity-political-social-movement]]
 - [[history-g7-l003-entity-public-health-lawtime]]
+- [[history-g7-l003-entity-urban-modern-life]]
 - [[history-g7-l003-event-1915-taichung-middle-school]]
 - [[history-g7-l003-event-1930-autonomy-alliance]]
 - [[history-g7-l003-event-1935-local-assembly-election]]
-- [[history-g7-l003-event-1937-suppression-of-movements]]
 - [[history-g7-l003-event-1943-national-national-school]]
 - [[history-g7-l003-comparison-education-structure-vs-equity]]
+- [[history-g7-l003-comparison-tradition-modernity-interaction]]
 - [[index]]
