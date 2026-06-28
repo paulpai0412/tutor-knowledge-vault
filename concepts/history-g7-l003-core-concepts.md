@@ -1,7 +1,7 @@
 ---
-title: 日治時期社會與文化核心概念
+title: 日治時期臺灣社會與文化：教育制度、政治社會運動與現代生活
 created: '2026-05-04'
-updated: '2026-06-27'
+updated: '2026-06-28'
 type: concept
 tags:
 - history
@@ -14,6 +14,7 @@ tags:
 - modernization
 - social-movements
 - culture
+- politics
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -24,27 +25,32 @@ student_id: student-001
 ---
 
 ## 核心概念
-- 日本總督府將教育制度作為殖民治理工具，採取差別待遇、以日語為主的分層設計，後來在皇民化階段改稱國民學校並推行六年義務教育，形成教育機會與權力的長期落差。
-- 在知識分子主導的文化啟蒙與政社運動中，『自治』、『民權』、『民族意識』轉為可被大眾理解的社會議題，並與日治時代法治、衛生與時間規律相連。
-- 都市現代化與公共空間（公園、博物館、百貨、咖啡廳）改變生活方式，傳統與日本/西洋生活習慣同時存在，形成調適中的社會景觀。
+- 總督府將**初等與高等教育**作為同化與產業政策工具，存在明顯的群體差別：日本人、公學校、原住民教育路徑不同。
+- 逐步提高的就學率並未等同平等，臺灣人入學率提升但仍落後於日本人，顯示制度現代化與權力不平等同時並存。
+- 政治社會運動由知識分子主導，核心訴求包括民族意識覺醒、請願設議會、成立黨制組織與地方自治倡議。
+- 現代化也改變日常文化：衛生制度、法治、守時與都會休閒空間逐步普及，形成漢人、日本與西洋文化並存的調適景觀。
+
+## 相關連結
+- 本頁回到學生常見問題可看：[[history-g7-l003-misconceptions]]
+- 教學進一步設計可參考：[[history-g7-l003-teaching-focus]]
+- 事件與案例可接到：[[history-g7-l003-event-cultural-association-1921]]、[[history-g7-l003-event-local-election-1935]]
+- 對應教材與測驗來源：[[drive-s2-textbook]]、[[drive-s2-quiz]]
 
 ## 相關頁面
-- [[history-g7-l003-student-001-exam-report]]
-- [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-entity-colonial-education-system]]
-- [[history-g7-l003-event-1921-taiwan-culture-association]]
 - [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-event-cultural-association-1921]]
+- [[history-g7-l003-event-local-election-1935]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-entity-political-social-movement]]
-- [[history-g7-l003-entity-public-health-lawtime]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-entity-differentiated-education]]
+- [[history-g7-l003-entity-political-movements]]
 - [[history-g7-l003-entity-urban-modern-life]]
-- [[history-g7-l003-event-1915-taichung-middle-school]]
-- [[history-g7-l003-event-1927-taiwan-people-party]]
-- [[history-g7-l003-event-1930-autonomy-alliance]]
-- [[history-g7-l003-event-1935-local-assembly-election]]
-- [[history-g7-l003-event-1937-suppression-of-movements]]
-- [[history-g7-l003-event-1943-national-national-school]]
-- [[history-g7-l003-comparison-education-structure-vs-equity]]
-- [[history-g7-l003-comparison-tradition-modernity-interaction]]
+- [[history-g7-l003-entity-public-health-lawtime]]
+- [[history-g7-l003-event-taichung-middle-school-1915]]
+- [[history-g7-l003-event-taipai-autonomy-party-1927]]
+- [[history-g7-l003-comparison-education-equity-vs-imposition]]
+- [[history-g7-l003-comparison-modernization-hygiene-law]]
+- [[history-g7-l003-comparison-cultural-change-and-tradition]]
 - [[index]]

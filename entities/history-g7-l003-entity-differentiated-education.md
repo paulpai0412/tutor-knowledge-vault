@@ -1,15 +1,15 @@
 ---
-title: 現代衛生、法治與守時的生活規訓
-created: '2026-06-27'
+title: 差別待遇與隔離原則下的日治教育
+created: '2026-06-28'
 updated: '2026-06-28'
 type: entity
 tags:
 - entity
 - history
-- public-health
-- time-discipline
+- taiwan-history
 - japanese-rule
-- social-movements
+- education
+- lesson
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -20,24 +20,29 @@ student_id: student-001
 ---
 
 ## 核心內容
-- 建立西式醫院、注射與環境清潔，配合自來水、下水道、衛生宣導。
-- 法院制度取代傳統衙門，配合日常守時、課表時數與西曆節制，逐步形塑新規範。
+- 日本人與臺灣人學校在語言、設備、師資、入學機會上並不對等。
+- 教育同時具治理、同化與人才培養功能，並非純公益升學工具。
+
+## 圖譜連結
+- 對應核心主軸：[[history-g7-l003-core-concepts]]
+- 常見誤讀排除：[[history-g7-l003-comparison-education-equity-vs-imposition]]
+- 年表節點延伸：[[history-g7-l003-event-taichung-middle-school-1915]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-comparison-modernization-hygiene-law]]
+- [[history-g7-l003-comparison-education-equity-vs-imposition]]
+- [[history-g7-l003-event-taichung-middle-school-1915]]
 - [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-entity-differentiated-education]]
 - [[history-g7-l003-entity-political-movements]]
 - [[history-g7-l003-entity-urban-modern-life]]
-- [[history-g7-l003-event-taichung-middle-school-1915]]
+- [[history-g7-l003-entity-public-health-lawtime]]
 - [[history-g7-l003-event-cultural-association-1921]]
 - [[history-g7-l003-event-taipai-autonomy-party-1927]]
 - [[history-g7-l003-event-local-election-1935]]
-- [[history-g7-l003-comparison-education-equity-vs-imposition]]
+- [[history-g7-l003-comparison-modernization-hygiene-law]]
 - [[history-g7-l003-comparison-cultural-change-and-tradition]]
 - [[index]]

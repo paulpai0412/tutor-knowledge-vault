@@ -1,15 +1,15 @@
 ---
-title: 現代衛生、法治與守時的生活規訓
-created: '2026-06-27'
+title: 知識分子推動的文化啟蒙與政治社會運動
+created: '2026-06-28'
 updated: '2026-06-28'
 type: entity
 tags:
 - entity
 - history
-- public-health
-- time-discipline
-- japanese-rule
 - social-movements
+- politics
+- culture
+- taiwan-history
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -20,24 +20,25 @@ student_id: student-001
 ---
 
 ## 核心內容
-- 建立西式醫院、注射與環境清潔，配合自來水、下水道、衛生宣導。
-- 法院制度取代傳統衙門，配合日常守時、課表時數與西曆節制，逐步形塑新規範。
+- 1921 年文化協會成立、1927 年民眾黨成立、1930 年地方自治聯盟成立是臺灣社會運動的重要節點。
+- 目標包含民權、自治與社會改革，培育後續參政概念。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-comparison-modernization-hygiene-law]]
 - [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-event-culture-association-1921]]
+- [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
 - [[history-g7-l003-entity-differentiated-education]]
-- [[history-g7-l003-entity-political-movements]]
 - [[history-g7-l003-entity-urban-modern-life]]
+- [[history-g7-l003-entity-public-health-lawtime]]
 - [[history-g7-l003-event-taichung-middle-school-1915]]
 - [[history-g7-l003-event-cultural-association-1921]]
 - [[history-g7-l003-event-taipai-autonomy-party-1927]]
 - [[history-g7-l003-event-local-election-1935]]
 - [[history-g7-l003-comparison-education-equity-vs-imposition]]
+- [[history-g7-l003-comparison-modernization-hygiene-law]]
 - [[history-g7-l003-comparison-cultural-change-and-tradition]]
 - [[index]]

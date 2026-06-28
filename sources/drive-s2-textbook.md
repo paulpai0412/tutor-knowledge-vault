@@ -1,7 +1,7 @@
 ---
-title: 教材來源：日治時期的社會與文化（drive-s2-textbook）
+title: 教材來源註記：drive-s2-textbook
 created: '2026-05-04'
-updated: '2026-06-27'
+updated: '2026-06-28'
 type: summary
 tags:
 - source-note
@@ -10,6 +10,8 @@ tags:
 - lesson
 - taiwan-history
 - japanese-rule
+- education
+- culture
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -18,35 +20,33 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 來源資訊
-- lesson_id：history-g7-l003
-- lesson_variant_id：drive-s2-textbook
-- converter：markitdown
-- 轉檔狀態：wiki_ready
-- 來源檔：drive-s2-textbook.pdf
-- 來源雜湊：sha256:4a3578136293aadfd17c04341e7d56642a8652bd4828603d48ad332dadaf267c
-## 可取節點
-- 教育制度（差別待遇、六年義務教育）
-- 政治社會運動（文化協會、議會請願、地方自治）
-- 生活文化轉型（衛生、法治、時間制度、都會文化）
+## 來源摘要
+- lesson_id：`history-g7-l003`
+- lesson_variant：`drive-s2-textbook`
+- source_pdf：`drive-s2-textbook.pdf`
+- 重點主題：差別待遇與隔離原則、文化啟蒙與政治社會運動、風俗衛生守法守時、都會文化形成。
+
+## 知識擷取焦點
+- 以日語為主教學語言的教育制度
+- 知識分子推動文化協會、請願、政黨、地方自治
+- 生活現代化與傳統文化衝突的調適
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-event-1927-taiwan-people-party]]
-- [[history-g7-l003-entity-public-health-lawtime]]
+- [[history-g7-l003-event-cultural-association-1921]]
+- [[history-g7-l003-event-petition-movement-1921]]
 - [[history-g7-l003-misconceptions]]
+- [[drive-s2-quiz]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-quiz]]
-- [[history-g7-l003-entity-colonial-education-system]]
-- [[history-g7-l003-entity-political-social-movement]]
+- [[history-g7-l003-entity-differentiated-education]]
+- [[history-g7-l003-entity-political-movements]]
 - [[history-g7-l003-entity-urban-modern-life]]
-- [[history-g7-l003-event-1915-taichung-middle-school]]
-- [[history-g7-l003-event-1921-taiwan-culture-association]]
-- [[history-g7-l003-event-1930-autonomy-alliance]]
-- [[history-g7-l003-event-1935-local-assembly-election]]
-- [[history-g7-l003-event-1937-suppression-of-movements]]
-- [[history-g7-l003-event-1943-national-national-school]]
-- [[history-g7-l003-comparison-education-structure-vs-equity]]
-- [[history-g7-l003-comparison-tradition-modernity-interaction]]
+- [[history-g7-l003-entity-public-health-lawtime]]
+- [[history-g7-l003-event-taichung-middle-school-1915]]
+- [[history-g7-l003-event-taipai-autonomy-party-1927]]
+- [[history-g7-l003-event-local-election-1935]]
+- [[history-g7-l003-comparison-education-equity-vs-imposition]]
+- [[history-g7-l003-comparison-modernization-hygiene-law]]
+- [[history-g7-l003-comparison-cultural-change-and-tradition]]
 - [[index]]

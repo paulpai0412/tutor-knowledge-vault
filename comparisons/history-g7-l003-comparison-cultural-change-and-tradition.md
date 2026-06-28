@@ -1,32 +1,31 @@
 ---
-title: 現代衛生、法治與守時的生活規訓
-created: '2026-06-27'
+title: 城市化休閒文化與地方傳統的比較
+created: '2026-06-28'
 updated: '2026-06-28'
-type: entity
+type: comparison
 tags:
-- entity
+- comparison
+- culture
+- modernization
+- grade-7
 - history
-- public-health
-- time-discipline
-- japanese-rule
-- social-movements
+- taiwan-history
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
-- wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 核心內容
-- 建立西式醫院、注射與環境清潔，配合自來水、下水道、衛生宣導。
-- 法院制度取代傳統衙門，配合日常守時、課表時數與西曆節制，逐步形塑新規範。
+## 比較要點
+- **都市面**：休閒場所、商業空間、公共景觀快速現代化。
+- **地方面**：部分傳統生活因地理與階層條件維持。
+- **可評估點**：學生易混淆「西式生活」與「完整制度公平」，需以分層差異加以校準。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-comparison-modernization-hygiene-law]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
@@ -34,10 +33,11 @@ student_id: student-001
 - [[history-g7-l003-entity-differentiated-education]]
 - [[history-g7-l003-entity-political-movements]]
 - [[history-g7-l003-entity-urban-modern-life]]
+- [[history-g7-l003-entity-public-health-lawtime]]
 - [[history-g7-l003-event-taichung-middle-school-1915]]
 - [[history-g7-l003-event-cultural-association-1921]]
 - [[history-g7-l003-event-taipai-autonomy-party-1927]]
 - [[history-g7-l003-event-local-election-1935]]
 - [[history-g7-l003-comparison-education-equity-vs-imposition]]
-- [[history-g7-l003-comparison-cultural-change-and-tradition]]
+- [[history-g7-l003-comparison-modernization-hygiene-law]]
 - [[index]]
