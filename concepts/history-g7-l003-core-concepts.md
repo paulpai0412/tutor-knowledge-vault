@@ -1,7 +1,7 @@
 ---
-title: 日治時期臺灣社會與文化：教育制度、政治社會運動與現代生活
+title: 日治時期的社會與文化（L003核心觀念）
 created: '2026-05-04'
-updated: '2026-06-28'
+updated: '2026-06-29'
 type: concept
 tags:
 - history
@@ -9,12 +9,11 @@ tags:
 - lesson
 - concept
 - taiwan-history
-- japanese-rule
 - education
 - modernization
 - social-movements
+- japanese-rule
 - culture
-- politics
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -25,32 +24,30 @@ student_id: student-001
 ---
 
 ## 核心概念
-- 總督府將**初等與高等教育**作為同化與產業政策工具，存在明顯的群體差別：日本人、公學校、原住民教育路徑不同。
-- 逐步提高的就學率並未等同平等，臺灣人入學率提升但仍落後於日本人，顯示制度現代化與權力不平等同時並存。
-- 政治社會運動由知識分子主導，核心訴求包括民族意識覺醒、請願設議會、成立黨制組織與地方自治倡議。
-- 現代化也改變日常文化：衛生制度、法治、守時與都會休閒空間逐步普及，形成漢人、日本與西洋文化並存的調適景觀。
+- 教育制度：總督府以不同學制分群實施小學校、公學校、蕃人公學校，後續在皇民化背景下推進國民學校與六年國民義務教育（1943）。
+- 文化與政治：知識分子以文化協會、臺灣民眾黨、地方自治聯盟等組織，透過報紙、演講、請願與選舉訴求，推動政治社會運動。
+- 日常生活轉換：鴉片、服飾、健康衛生、守法守時與都會休閒等制度與習慣，讓社會逐步由傳統秩序轉向現代化規範。
 
-## 相關連結
-- 本頁回到學生常見問題可看：[[history-g7-l003-misconceptions]]
-- 教學進一步設計可參考：[[history-g7-l003-teaching-focus]]
-- 事件與案例可接到：[[history-g7-l003-event-cultural-association-1921]]、[[history-g7-l003-event-local-election-1935]]
-- 對應教材與測驗來源：[[drive-s2-textbook]]、[[drive-s2-quiz]]
+## 觀念關係
+- 差別教育與現代教育並行，雖提高識字與教育機會，卻留下日人／臺灣人差距。
+- 知識分子透過教育與留學背景，成為政治啟蒙與自治意識的重要載體。
+- 現代化政策在都市推進較快，鄉村與部落生活調適較慢，形成文化共存與混融格局。
 
 ## 相關頁面
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-event-cultural-association-1921]]
-- [[history-g7-l003-event-local-election-1935]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-comparison-education-equity]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[history-g7-l003-entity-differentiated-education]]
-- [[history-g7-l003-entity-political-movements]]
-- [[history-g7-l003-entity-urban-modern-life]]
-- [[history-g7-l003-entity-public-health-lawtime]]
-- [[history-g7-l003-event-taichung-middle-school-1915]]
-- [[history-g7-l003-event-taipai-autonomy-party-1927]]
-- [[history-g7-l003-comparison-education-equity-vs-imposition]]
-- [[history-g7-l003-comparison-modernization-hygiene-law]]
-- [[history-g7-l003-comparison-cultural-change-and-tradition]]
+- [[history-g7-l003-education-stratification]]
+- [[history-g7-l003-culture-politics-network]]
+- [[history-g7-l003-modern-life-transition]]
+- [[history-g7-l003-event-1921-culture-association]]
+- [[history-g7-l003-event-1927-taiwan-people-party]]
+- [[history-g7-l003-event-1935-local-election]]
+- [[history-g7-l003-event-1937-suppression]]
+- [[history-g7-l003-event-1943-national-school-starts]]
+- [[history-g7-l003-comparison-culture-transition]]
+- [[history-g7-l003-comparison-political-movement-vs-outcomes]]
 - [[index]]
