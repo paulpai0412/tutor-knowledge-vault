@@ -1,17 +1,15 @@
 ---
-title: 日治時期的社會與文化（常見迷思）
+title: 日治時期迷思診斷
 created: '2026-05-04'
-updated: '2026-06-29'
+updated: '2026-06-30'
 type: summary
 tags:
+- misconception
 - history
 - grade-7
-- misconception
-- concept
 - student-progress
-- education
+- exam-analysis
 - politics
-- social-movements
 sources:
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 confidence: medium
@@ -19,41 +17,31 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 已驗證的錯誤模式
-- 依目前進度，`q-1~q-3` 全部正確：
-  - 1 題正確答案為臺中中學校，
-  - 2 題正確答案為工商業日漸發達，
-  - 3 題正確答案為臺灣民眾黨。
-- 目前錯誤題目紀錄為空，尚無已確認的實際迷思。
+## 當前辨識結果
+依目前成績紀錄，學生已作答 3 題、全數正確，尚無持續性錯誤記錄；因此目前看來**沒有明顯固定迷思**。
 
-## 可能待確認的潛在迷思
-- 可能將「日治時期現代化」誤認為全民受惠，而忽略日人、臺灣人、原住民之間的制度差別。
-- 可能將「政治社會運動」誤解為短期就完全成功，忽略其長期開啟自治與參政意識的歷史意義。
+## 仍需警覺的混淆
+- 容易把教育差別待遇與「完全不提供教育」混為一談；實際是有擴張就學率，但資源與課程仍不均等。
+- 容易把政治社會運動簡化為單一路徑，忽略請願、文化協會、政黨、地方自治運動的時間順序與功能差異。
+- 容易把新文化現象理解為傳統完全消失；教材提示的是「並存與調適」，而非一次替換。
 
-## 是否已解除
-- 在目前範圍內，主要困惑未具體成立，建議保留進階提醒，特別在事件順序與因果關係題型中再次檢核。
-
-## 連接頁面
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[history-g7-l003-event-1921-culture-association]]
+## 目前是否已解決
+在已完成題目段落上，以上混淆尚未造成錯誤；但新迷思可能在未作答的題目段出現，需要延續追蹤。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[history-g7-l003-event-1921-culture-association]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-education-stratification]]
-- [[history-g7-l003-culture-politics-network]]
-- [[history-g7-l003-modern-life-transition]]
-- [[history-g7-l003-event-1927-taiwan-people-party]]
-- [[history-g7-l003-event-1935-local-election]]
-- [[history-g7-l003-event-1937-suppression]]
-- [[history-g7-l003-event-1943-national-school-starts]]
-- [[history-g7-l003-comparison-education-equity]]
-- [[history-g7-l003-comparison-culture-transition]]
-- [[history-g7-l003-comparison-political-movement-vs-outcomes]]
+- [[history-g7-l003-entity-taiwan-culture-association]]
+- [[history-g7-l003-entity-taiwan-popular-party]]
+- [[history-g7-l003-entity-differential-education]]
+- [[history-g7-l003-entity-modern-hygiene-initiative]]
+- [[history-g7-l003-entity-urban-cultural-spaces]]
+- [[history-g7-l003-event-parliament-petition-motion]]
+- [[history-g7-l003-event-popular-party-formation]]
+- [[history-g7-l003-event-local-council-election-1935]]
+- [[history-g7-l003-comparison-education-equity-vs-control]]
+- [[history-g7-l003-comparison-city-rural-modernization]]
 - [[index]]

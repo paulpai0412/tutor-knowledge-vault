@@ -1,67 +1,55 @@
 ---
-title: 歷史科平時測驗（student-001）檢討
+title: student-001 第三章日治時期測驗回饋
 created: '2026-05-04'
-updated: '2026-06-29'
+updated: '2026-06-30'
 type: summary
 tags:
+- exam-analysis
 - history
 - grade-7
-- exam-analysis
 - student-progress
-- education
+- lesson
 - source-note
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 - wiki/students/student-001/progress/history/g7/l003/summary.md
-confidence: high
+confidence: medium
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
 ## 成績摘要
+- student_id：student-001
 - lesson_group_id：history-g7-l003
-- exam_variant_id：drive-s2-quiz
 - attempted_answers：3
-- unique_questions：3
-- correct_attempts：3
-- wrong_attempts：0
 - currently_correct_questions：3
 - outstanding_wrong_questions：0
+- wrong_question_ids：none
 
-## 最新題目結果
-- q-1：已答 B，答案 B，正確
-- q-2：已答 B，答案 B，正確
-- q-3：已答 A，答案 A，正確
-- wrong-question artifact：無
-- review-plan artifact：無
+目前可確認為**高穩定度起步段落**（前3題全對），錯題紀錄為空，未產生錯題回補需求。
 
-## 討論與建議
-- 目前可視為「短段落命中率高」，可繼續以事件順序與比較題擴展。
-- 待補強區域：選項辨識中的干擾詞（如「全面」「全面成功」「正式成立」）需特別對比。
+## 限制
+雖然前三題表現良好，但題庫後段仍未覆蓋完畢，故不能直接外推全卷穩定。
 
-## 參照頁面
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-teaching-focus]]
-- [[drive-s2-quiz]]
+## 後續建議
+- 保留此節點作為「基礎通關」證據，轉入後段題目前先補強政治社會運動順序與制度影響比較。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
-- [[drive-s2-quiz]]
 - [[drive-s2-textbook]]
-- [[history-g7-l003-education-stratification]]
-- [[history-g7-l003-culture-politics-network]]
-- [[history-g7-l003-modern-life-transition]]
-- [[history-g7-l003-event-1921-culture-association]]
-- [[history-g7-l003-event-1927-taiwan-people-party]]
-- [[history-g7-l003-event-1935-local-election]]
-- [[history-g7-l003-event-1937-suppression]]
-- [[history-g7-l003-event-1943-national-school-starts]]
-- [[history-g7-l003-comparison-education-equity]]
-- [[history-g7-l003-comparison-culture-transition]]
-- [[history-g7-l003-comparison-political-movement-vs-outcomes]]
+- [[drive-s2-quiz]]
+- [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-entity-taiwan-culture-association]]
+- [[history-g7-l003-entity-taiwan-popular-party]]
+- [[history-g7-l003-entity-differential-education]]
+- [[history-g7-l003-entity-modern-hygiene-initiative]]
+- [[history-g7-l003-entity-urban-cultural-spaces]]
+- [[history-g7-l003-event-parliament-petition-motion]]
+- [[history-g7-l003-event-popular-party-formation]]
+- [[history-g7-l003-event-local-council-election-1935]]
+- [[history-g7-l003-comparison-education-equity-vs-control]]
+- [[history-g7-l003-comparison-city-rural-modernization]]
 - [[index]]
