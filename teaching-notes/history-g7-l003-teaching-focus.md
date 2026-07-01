@@ -1,50 +1,55 @@
 ---
-title: 教師教學重點追蹤
+title: 日治時期教學重點與可複用提示
 created: '2026-05-04'
-updated: '2026-06-30'
+updated: '2026-07-01'
 type: summary
 tags:
-- teaching-strategy
 - history
 - grade-7
-- student-progress
-- exam-analysis
+- teaching-strategy
+- lesson
 - concept
+- exam-analysis
+- education
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 - wiki/students/student-001/progress/history/g7/l003/summary.md
-confidence: medium
+confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 已掌握
-- 學生目前正確回答第 1～3 題，顯示對核心人名、首設學校、休閒現代化原因與民眾黨性質已有基礎認知。
-- 進步的證據是，未見待補錯題，整體可視為進入**加深題型**階段。
+## 已觀察到的學習訊號
+- 目前作答紀錄顯示前3題均正確，無待補錯題，初始表現為穩定。
+- 可先強化「教材事實」→「歷史現象」→「長期影響」的三層解釋。
 
 ## 教學提示
-1. **以時間軸拆解再回填**：讓學生用表格式對照「1918、1921、1927、1930、1935、1937、1943」事件，避免只記名詞而不知邏輯。
-2. **比較題型先行**：出「教育差別待遇」與「現代化推進」的對照題，強化「有改革 ≠ 有平等」概念。
-3. **情境化出題**：透過「村裡與城市」差異討論，鞏固新舊文化並存與階段性變遷。
+1. 用時間軸先畫出關鍵事件（1921、1927、1930、1935、1937、1943），再討論為何政治空間在時間上先擴張後收縮。
+2. 結合三類差異來訓練概念：
+   - 身分差異：日本人／臺灣人／原住民的教育制度
+   - 政策目標：同化、產業、秩序
+   - 社會回應：文化協會、政黨、選舉與社會改革
+3. 以「為何不是立刻完全現代化」為討論題，避免以「有新事物=全面轉變」的線性誤讀。
 
-## 可直接下步設計
-- 下次可引導 4 題後的高階題，將學習重點從「認識名詞」改為「辨識原因—結果—限制」。
+## 可直接套用的作業設計
+- 以比較題型要求學生同時回答：
+  - 政府目標與人民反應是否一致？
+  - 生活層面（衛生、服飾、時間）與制度層面（學制、司法、自治）是否同步？
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-entity-differential-education]]
-- [[history-g7-l003-comparison-city-rural-modernization]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-entity-taiwan-culture-association]]
-- [[history-g7-l003-entity-taiwan-popular-party]]
-- [[history-g7-l003-entity-modern-hygiene-initiative]]
-- [[history-g7-l003-entity-urban-cultural-spaces]]
-- [[history-g7-l003-event-parliament-petition-motion]]
-- [[history-g7-l003-event-popular-party-formation]]
-- [[history-g7-l003-event-local-council-election-1935]]
-- [[history-g7-l003-comparison-education-equity-vs-control]]
+- [[history-g7-l003-entity-taiwan-cultural-association]]
+- [[history-g7-l003-entity-taiwan-people-party]]
+- [[history-g7-l003-entity-differentiated-education-system]]
+- [[history-g7-l003-event-taiwan-council-petition-1921-1934]]
+- [[history-g7-l003-event-taiwan-people-party-1927]]
+- [[history-g7-l003-event-local-elections-1935]]
+- [[history-g7-l003-comparison-school-diff-vs-national-school]]
+- [[history-g7-l003-comparison-urban-rural-modernization]]
+- [[history-g7-l003-comparison-tradition-vs-modern-habits]]
 - [[index]]

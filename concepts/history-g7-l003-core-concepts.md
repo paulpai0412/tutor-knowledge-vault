@@ -1,7 +1,7 @@
 ---
-title: 日治時期社會與文化核心概念
+title: 日治時期社會與文化核心觀念
 created: '2026-05-04'
-updated: '2026-06-30'
+updated: '2026-07-01'
 type: concept
 tags:
 - history
@@ -10,47 +10,42 @@ tags:
 - concept
 - taiwan-history
 - japanese-rule
+- education
 - modernization
-- social-movements
 - culture
+- social-movements
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
-confidence: medium
+confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
 ## 核心概念
-日治時期的教材重點可整理為三層：
+- 總督府以日語與階層化制度建立教育體系，初期對日本人、臺灣人、原住民有不同學制與資源差距。
+- 透過新式學校、醫學與師範教育及留學路徑，培養新知識分子，後續推動政治社會運動。
+- 文化啟蒙與政治社會運動（如議會設置請願、臺灣民眾黨、地方自治聯盟）使自治、參政與民權觀念逐步普及。
+- 衛生、法治、守時與都市休閒等現代化生活習慣，改變日常行為，但鄉村與原住民生活節奏仍保留一定傳統元素。
 
-1. **教育與治理工具化**：學校制度建立出不同層次，對日人、漢人、原住民採不同安排，並以日語與課程改革推動同化與產業需求。
-2. **政治社會運動的萌發**：以《臺灣文化協會》、臺灣議會設置請願、臺灣民眾黨、地方自治聯盟為代表，聚焦自治、民權、社會改良。
-3. **生活現代化的滲透**：衛生、法治、守時制度、都會文化與消費空間推升新的生活節奏，但並未完全取代在地習俗，形成並存與調適。
-
-## 內部連結
-- [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-entity-taiwan-popular-party]]
-- [[history-g7-l003-comparison-colonial-policy-vs-local-response]]
-- [[drive-s2-textbook]]
+## 史實脈絡
+- 1917～1943在臺灣人就學率持續提升，但與日本人的差距長期存在。
+- 1915 設立臺中中學校（專收臺灣人）後，政治參與與自治議題在1920至1930年代逐步擴大。
 
 ## 相關頁面
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-entity-taiwan-popular-party]]
-- [[history-g7-l003-comparison-colonial-policy-vs-local-response]]
-- [[drive-s2-textbook]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-entity-taiwan-culture-association]]
-- [[history-g7-l003-entity-differential-education]]
-- [[history-g7-l003-entity-modern-hygiene-initiative]]
-- [[history-g7-l003-entity-urban-cultural-spaces]]
-- [[history-g7-l003-event-parliament-petition-motion]]
-- [[history-g7-l003-event-popular-party-formation]]
-- [[history-g7-l003-event-local-council-election-1935]]
-- [[history-g7-l003-comparison-education-equity-vs-control]]
-- [[history-g7-l003-comparison-city-rural-modernization]]
+- [[history-g7-l003-entity-taiwan-cultural-association]]
+- [[history-g7-l003-entity-taiwan-people-party]]
+- [[history-g7-l003-entity-differentiated-education-system]]
+- [[history-g7-l003-event-taiwan-council-petition-1921-1934]]
+- [[history-g7-l003-event-taiwan-people-party-1927]]
+- [[history-g7-l003-event-local-elections-1935]]
+- [[history-g7-l003-comparison-school-diff-vs-national-school]]
+- [[history-g7-l003-comparison-urban-rural-modernization]]
+- [[history-g7-l003-comparison-tradition-vs-modern-habits]]
 - [[index]]
