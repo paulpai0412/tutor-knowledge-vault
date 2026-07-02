@@ -1,16 +1,14 @@
 ---
-title: 日治時期教學重點與可複用提示
+title: 日治時期社會與文化：教學重點與回饋
 created: '2026-05-04'
-updated: '2026-07-01'
+updated: '2026-07-02'
 type: summary
 tags:
-- history
-- grade-7
 - teaching-strategy
-- lesson
-- concept
-- exam-analysis
 - education
+- history
+- student-progress
+- grade-7
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
@@ -20,36 +18,35 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 已觀察到的學習訊號
-- 目前作答紀錄顯示前3題均正確，無待補錯題，初始表現為穩定。
-- 可先強化「教材事實」→「歷史現象」→「長期影響」的三層解釋。
-
 ## 教學提示
-1. 用時間軸先畫出關鍵事件（1921、1927、1930、1935、1937、1943），再討論為何政治空間在時間上先擴張後收縮。
-2. 結合三類差異來訓練概念：
-   - 身分差異：日本人／臺灣人／原住民的教育制度
-   - 政策目標：同化、產業、秩序
-   - 社會回應：文化協會、政黨、選舉與社會改革
-3. 以「為何不是立刻完全現代化」為討論題，避免以「有新事物=全面轉變」的線性誤讀。
+- 先讓學生對比兩組材料：學校制度差別 vs. 就學率逐步提升，形成「制度不平等但現代化仍擴散」的雙軸理解。
+- 把政治社會運動以時間軸排序，搭配組織名稱（文化協會、臺灣民眾黨、地方自治聯盟）連動，避免零散記憶。
+- 對文化變遷使用「新增不等於消除」原則，提醒學生觀察保留、衝突與再組合。
 
-## 可直接套用的作業設計
-- 以比較題型要求學生同時回答：
-  - 政府目標與人民反應是否一致？
-  - 生活層面（衛生、服飾、時間）與制度層面（學制、司法、自治）是否同步？
+## 錯誤診斷與教學回饋
+- 目前題目 1～3 全對，無錯題可回扣；但作答尚未覆蓋全部題目，建議保留再測階段以避免早期自信偏差。
+- 透過補充題設計測試關聯理解，如「同一制度如何同時形成教育機會與社會排除」。
+
+## 可複用提醒
+- 每次提到政治運動，先問：
+  1) 形成原因？
+  2) 主要主張？
+  3) 成效與限制？
+  4) 與日常生活改變的連結？
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-event-1935-local-assembly]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
+- [[history-g7-l003-entity-colonial-education-system]]
 - [[history-g7-l003-entity-taiwan-cultural-association]]
-- [[history-g7-l003-entity-taiwan-people-party]]
-- [[history-g7-l003-entity-differentiated-education-system]]
-- [[history-g7-l003-event-taiwan-council-petition-1921-1934]]
-- [[history-g7-l003-event-taiwan-people-party-1927]]
-- [[history-g7-l003-event-local-elections-1935]]
-- [[history-g7-l003-comparison-school-diff-vs-national-school]]
-- [[history-g7-l003-comparison-urban-rural-modernization]]
-- [[history-g7-l003-comparison-tradition-vs-modern-habits]]
+- [[history-g7-l003-entity-taiwan-peoples-party]]
+- [[history-g7-l003-entity-urban-modern-life]]
+- [[history-g7-l003-event-plea-parliament-1921]]
+- [[history-g7-l003-event-peoples-party-1927]]
+- [[history-g7-l003-comparison-education-equity-gap]]
+- [[history-g7-l003-comparison-ritual-to-modern-time-discipline]]
 - [[index]]

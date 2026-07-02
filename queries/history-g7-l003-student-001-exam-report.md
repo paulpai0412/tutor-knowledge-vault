@@ -1,14 +1,13 @@
 ---
-title: 學生-001 日治時期社會與文化評量紀錄
+title: Student-001 日治時期社會與文化：測驗進度與表現報告
 created: '2026-05-04'
-updated: '2026-07-01'
+updated: '2026-07-02'
 type: summary
 tags:
+- exam-analysis
+- student-progress
 - history
 - grade-7
-- exam-analysis
-- lesson
-- student-progress
 - source-note
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
@@ -20,37 +19,35 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 評量現況
-- material_id：`history-g7-l003-drive-s2-quiz`
-- attempted_answers：3
-- unique_questions：3
-- correct_attempts：3
-- wrong_attempts：0
-- currently_correct_questions：3
-- outstanding_wrong_questions：0
-- wrong_question_ids：無
-- Review-plan artifact：無
+## 成績快照
+- 目前嘗試作答：3 題
+- 目前正確題數：3 題
+- 當前正確題目數：3
+- 目前未完成錯題：0
+- wrong-question_ids：none
+- 錯誤題目紀錄檔：無
 
-## 解題能力訊號
-- 前3題皆答對，顯示學生對本章核心名詞與基本概念辨識穩定（例如專收臺灣人的學校、都市休閒成因、臺灣第一政黨名稱）。
-- 目前僅能據三題推論「基礎辨識力」良好，無法完全外推到整份80分量表。
+## 判讀
+- 本次已作答題目（1～3）顯示基礎事實與關鍵概念可讀性高，尤其「臺中中學校」、「休閒空間成因」、「臺灣民眾黨」等題型理解穩定。
+- 尚未完成全卷，故此報告屬階段性，不等於完整能力封頂。
+- 學習上可先維持進度，待完成更多題目後再做錯題再訓或回顧。
 
-## 後續追蹤
-- 建議優先補做尚未嘗試題目，特別是序列題與原因題，確認是否能整合「時代背景→政策→社會結果」的高階理解。
+## 推薦下一步
+- 續作第 4～21 題以驗證能否將「教育、文化、政治」三主題同時整合；完成後再做一次錯題總覽。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
-- [[drive-s2-quiz]]
 - [[history-g7-l003-misconceptions]]
+- [[drive-s2-quiz]]
+- [[history-g7-l003-entity-colonial-education-system]]
+- [[history-g7-l003-teaching-focus]]
 - [[drive-s2-textbook]]
 - [[history-g7-l003-entity-taiwan-cultural-association]]
-- [[history-g7-l003-entity-taiwan-people-party]]
-- [[history-g7-l003-entity-differentiated-education-system]]
-- [[history-g7-l003-event-taiwan-council-petition-1921-1934]]
-- [[history-g7-l003-event-taiwan-people-party-1927]]
-- [[history-g7-l003-event-local-elections-1935]]
-- [[history-g7-l003-comparison-school-diff-vs-national-school]]
-- [[history-g7-l003-comparison-urban-rural-modernization]]
-- [[history-g7-l003-comparison-tradition-vs-modern-habits]]
+- [[history-g7-l003-entity-taiwan-peoples-party]]
+- [[history-g7-l003-entity-urban-modern-life]]
+- [[history-g7-l003-event-plea-parliament-1921]]
+- [[history-g7-l003-event-peoples-party-1927]]
+- [[history-g7-l003-event-1935-local-assembly]]
+- [[history-g7-l003-comparison-education-equity-gap]]
+- [[history-g7-l003-comparison-ritual-to-modern-time-discipline]]
 - [[index]]

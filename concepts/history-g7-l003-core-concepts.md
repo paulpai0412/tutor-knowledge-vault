@@ -1,7 +1,7 @@
 ---
-title: 日治時期社會與文化核心觀念
+title: 日治時期社會與文化：核心概念
 created: '2026-05-04'
-updated: '2026-07-01'
+updated: '2026-07-02'
 type: concept
 tags:
 - history
@@ -14,6 +14,7 @@ tags:
 - modernization
 - culture
 - social-movements
+- politics
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -24,14 +25,13 @@ student_id: student-001
 ---
 
 ## 核心概念
-- 總督府以日語與階層化制度建立教育體系，初期對日本人、臺灣人、原住民有不同學制與資源差距。
-- 透過新式學校、醫學與師範教育及留學路徑，培養新知識分子，後續推動政治社會運動。
-- 文化啟蒙與政治社會運動（如議會設置請願、臺灣民眾黨、地方自治聯盟）使自治、參政與民權觀念逐步普及。
-- 衛生、法治、守時與都市休閒等現代化生活習慣，改變日常行為，但鄉村與原住民生活節奏仍保留一定傳統元素。
+- 總督府推動日語為主的新式教育並採差別待遇，目標兼具同化、產業化與統治秩序建立。
+- 台灣知識分子在現代教育與世界思潮刺激下，發起文化啟蒙與政治社會運動，爭取權益與自治概念。
+- 日常生活逐步現代化（衛生、守時、法治、都會休閒）與傳統風俗並非全面取代，而是交織共存。
 
-## 史實脈絡
-- 1917～1943在臺灣人就學率持續提升，但與日本人的差距長期存在。
-- 1915 設立臺中中學校（專收臺灣人）後，政治參與與自治議題在1920至1930年代逐步擴大。
+## 關係圖譜
+- 教育制度改革提供知識分子與社會組織的母體，進而推動運動形成；運動壓力又迫使統治者調整治理與宣傳策略。
+- 工商業與都市發展形成新場所、新習慣，推動文化生活變遷，但城鄉與族群落差使轉型節奏不均。
 
 ## 相關頁面
 - [[history-g7-l003-misconceptions]]
@@ -39,13 +39,13 @@ student_id: student-001
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
+- [[history-g7-l003-entity-colonial-education-system]]
 - [[history-g7-l003-entity-taiwan-cultural-association]]
-- [[history-g7-l003-entity-taiwan-people-party]]
-- [[history-g7-l003-entity-differentiated-education-system]]
-- [[history-g7-l003-event-taiwan-council-petition-1921-1934]]
-- [[history-g7-l003-event-taiwan-people-party-1927]]
-- [[history-g7-l003-event-local-elections-1935]]
-- [[history-g7-l003-comparison-school-diff-vs-national-school]]
-- [[history-g7-l003-comparison-urban-rural-modernization]]
-- [[history-g7-l003-comparison-tradition-vs-modern-habits]]
+- [[history-g7-l003-entity-taiwan-peoples-party]]
+- [[history-g7-l003-entity-urban-modern-life]]
+- [[history-g7-l003-event-plea-parliament-1921]]
+- [[history-g7-l003-event-peoples-party-1927]]
+- [[history-g7-l003-event-1935-local-assembly]]
+- [[history-g7-l003-comparison-education-equity-gap]]
+- [[history-g7-l003-comparison-ritual-to-modern-time-discipline]]
 - [[index]]
