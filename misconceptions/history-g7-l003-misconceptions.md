@@ -1,52 +1,49 @@
 ---
-title: 日治時期社會與文化：常見迷思與修正
+title: 學生迷思與修正狀態（第3章）
 created: '2026-05-04'
-updated: '2026-07-02'
+updated: '2026-07-03'
 type: summary
 tags:
 - misconception
 - exam-analysis
 - student-progress
 - history
-- lesson
+- grade-7
 sources:
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
-confidence: high
+confidence: medium
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 主要觀察
-- 目前前 3 題作答皆正確（題號 1～3），錯題紀錄為 0，尚未出現明確實際迷失案例。
-- 未完成全卷作答前，不宜將「已完全無盲點」定義為最終學習穩定結論。
+## 目前觀察
+- 已作答題目 Q1～Q3（3 題）全部正確，`wrong_question_ids` 為空，尚未建立可據以定義的高風險誤概念。
+- 目前可預警的潛在迷思是：例如把「地方議員選舉」誤當成真正全面自治，或把「有新制度」直接理解為「所有族群立即受益」。
 
-## 可能迷思（尚未被證偽時需持續追蹤）
-- 迷思一：認為日治教育只在學校層次推動現代化，忽略其同時承載統治與差別。
-- 迷思二：將文化啟蒙與政治社會運動視為只屬精英事件，忽略它對全民參與與自治意識的啟動。
-- 迷思三：把「現代化」理解為傳統習俗瞬間消失，而非長期共存與調適。
-
-## 迷思解決狀態
-- 目前尚未有錯題可直接標記為已修正，但教材與作答脈絡可先以「條件式認知」處理，避免過度簡化。
-- 建議於下一階段追問與測驗中持續驗證。
+## 修正方向
+- 後續題組可引導學生以制度結果與制度限制並列判讀。
+- 強調「台灣文化協會、臺灣民眾黨、地方自治運動」的歷史角色是否為完整制度改變還是抗爭倡議。
 
 ## 連結
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-student-001-exam-report]]
 - [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-student-001-exam-report]]
 - [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-entity-colonial-education-system]]
-- [[history-g7-l003-entity-taiwan-cultural-association]]
-- [[history-g7-l003-entity-taiwan-peoples-party]]
+- [[history-g7-l003-entity-education-stratification]]
+- [[history-g7-l003-entity-civic-movements]]
 - [[history-g7-l003-entity-urban-modern-life]]
-- [[history-g7-l003-event-plea-parliament-1921]]
-- [[history-g7-l003-event-peoples-party-1927]]
-- [[history-g7-l003-event-1935-local-assembly]]
-- [[history-g7-l003-comparison-education-equity-gap]]
-- [[history-g7-l003-comparison-ritual-to-modern-time-discipline]]
+- [[history-g7-l003-entity-public-health-law-order]]
+- [[history-g7-l003-event-1921-petition-motion]]
+- [[history-g7-l003-event-1927-taiwan-democratic-party]]
+- [[history-g7-l003-event-1935-local-election]]
+- [[history-g7-l003-event-1937-repression]]
+- [[history-g7-l003-event-1943-national-schooling]]
+- [[history-g7-l003-comparison-education-disparity-vs-universal-school]]
+- [[history-g7-l003-comparison-tradition-vs-modern-habit]]
 - [[index]]

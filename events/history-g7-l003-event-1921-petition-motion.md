@@ -1,17 +1,17 @@
 ---
-title: student-001 第3章日治時期測驗進度報告
-created: '2026-05-04'
+title: 1921 年臺灣議會設置請願運動展開
+created: '2026-07-03'
 updated: '2026-07-03'
-type: summary
+type: entity
 tags:
-- exam-analysis
-- student-progress
+- event
 - history
 - grade-7
-- lesson
+- social-movements
+- politics
+- taiwan-history
 sources:
-- indexes/exams/history-g7-l003-drive-s2-quiz.json
-- wiki/exams/history/g7/l003/drive-s2-quiz.md
+- wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 - wiki/students/student-001/progress/history/g7/l003/summary.md
 confidence: high
@@ -19,36 +19,27 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 近期成果
-- `attempted_answers`: 3
-- `currently_correct_questions`: 3
-- `outstanding_wrong_questions`: 0
-- `wrong_question_ids`: 無
-
-## 題目細節（已完成）
-- Q1（台灣專收中學）正確
-- Q2（新休閒場所興起）正確
-- Q3（第一個台灣政黨）正確
-
-## 學習判讀
-- 目前可視為「基礎事實與對應能力穩定」，但尚未經歷後段題目（含順序與選擇辨析題），不宜提前下「完全掌握」結論。
+## 事件摘要
+- 起點聚焦在制度化代議代表的要求，但最終未成立實質議會。
+- 其效應更在於政治權利概念的廣泛擴散與民族意識覺醒。
 
 ## 連結
+- [[history-g7-l003-entity-civic-movements]]
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
-- [[drive-s2-quiz]]
+- [[history-g7-l003-event-1930-local-autonomy-alliance]]
 
 ## 相關頁面
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
-- [[drive-s2-quiz]]
-- [[history-g7-l003-misconceptions]]
-- [[drive-s2-textbook]]
-- [[history-g7-l003-entity-education-stratification]]
 - [[history-g7-l003-entity-civic-movements]]
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-event-1930-local-autonomy-alliance]]
+- [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-textbook]]
+- [[drive-s2-quiz]]
+- [[history-g7-l003-entity-education-stratification]]
 - [[history-g7-l003-entity-urban-modern-life]]
 - [[history-g7-l003-entity-public-health-law-order]]
-- [[history-g7-l003-event-1921-petition-motion]]
 - [[history-g7-l003-event-1927-taiwan-democratic-party]]
 - [[history-g7-l003-event-1935-local-election]]
 - [[history-g7-l003-event-1937-repression]]

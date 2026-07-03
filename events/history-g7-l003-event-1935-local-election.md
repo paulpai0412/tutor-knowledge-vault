@@ -1,15 +1,15 @@
 ---
-title: 教學重點與提示（可重複使用）
-created: '2026-05-04'
+title: 1935 年首次地方議員選舉
+created: '2026-07-03'
 updated: '2026-07-03'
-type: summary
+type: entity
 tags:
-- teaching-strategy
-- education
+- event
 - history
 - grade-7
+- politics
+- taiwan-history
 - social-movements
-- concept
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
@@ -19,30 +19,30 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 可直接延伸的教學提示
-- 從教材先抓三軸：教育政策、政治社會運動、生活現代化，再做對照題（例如差別待遇 vs 義務教育）。
-- 用時間軸回顧關鍵事件，避免學生只記住人物而忽略政策連結。
-- 針對高分項目可設計延伸題，確認是否理解背後因果關係，而非只會選項對應。
+## 事件摘要
+- 具有象徵性轉折：限制式參政，但為民眾理解自治權與參與權提供實務入口。
+- 仍不足以形成完整地方自治；可與「運動是否完成」的常見誤解對照教學。
 
-## 常用弱點預防
-- 迷思 A：認為只要有某制度就代表全民平等。
-- 迷思 B：把自治口號與正式設治成果等同。
+## 連結
+- [[history-g7-l003-entity-civic-movements]]
+- [[history-g7-l003-comparison-education-disparity-vs-universal-school]]
+- [[history-g7-l003-event-1937-repression]]
 
 ## 相關頁面
-- [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-entity-civic-movements]]
 - [[history-g7-l003-comparison-education-disparity-vs-universal-school]]
+- [[history-g7-l003-event-1937-repression]]
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
 - [[history-g7-l003-entity-education-stratification]]
-- [[history-g7-l003-entity-civic-movements]]
 - [[history-g7-l003-entity-urban-modern-life]]
 - [[history-g7-l003-entity-public-health-law-order]]
 - [[history-g7-l003-event-1921-petition-motion]]
 - [[history-g7-l003-event-1927-taiwan-democratic-party]]
-- [[history-g7-l003-event-1935-local-election]]
-- [[history-g7-l003-event-1937-repression]]
 - [[history-g7-l003-event-1943-national-schooling]]
 - [[history-g7-l003-comparison-tradition-vs-modern-habit]]
 - [[index]]

@@ -1,49 +1,48 @@
 ---
-title: 新舊文化交織的都市生活轉型
-created: '2026-07-02'
+title: 1937 年中日戰爭後政治社會運動受壓
+created: '2026-07-03'
 updated: '2026-07-03'
 type: entity
 tags:
-- entity
-- culture
-- modernization
-- public-health
-- time-discipline
+- event
 - history
 - grade-7
+- politics
+- social-movements
+- japanese-rule
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
-- wiki/exams/history/g7/l003/drive-s2-quiz.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
+- wiki/students/student-001/progress/history/g7/l003/summary.md
 confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 內容
-- 公共設施（西式醫院、自來水、下水道）、法律制度、標準時間與七天制，改變了生活節奏與社會規範。
-- 都會空間如百貨公司、公園、博物館與咖啡廳等形成新型休閒文化，與傳統風俗共同存續。
+## 事件摘要
+- 外部戰事推升殖民政府安全治理與壓制，政治動員空間變窄。
+- 運動非全然消失，而是轉向沉默或低能見度。
 
 ## 連結
+- [[history-g7-l003-event-1927-taiwan-democratic-party]]
+- [[history-g7-l003-entity-civic-movements]]
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-comparison-tradition-vs-modern-habit]]
-- [[history-g7-l003-event-1935-local-election]]
 
 ## 相關頁面
+- [[history-g7-l003-event-1927-taiwan-democratic-party]]
+- [[history-g7-l003-entity-civic-movements]]
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-comparison-tradition-vs-modern-habit]]
-- [[history-g7-l003-event-1935-local-election]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
 - [[history-g7-l003-entity-education-stratification]]
-- [[history-g7-l003-entity-civic-movements]]
+- [[history-g7-l003-entity-urban-modern-life]]
 - [[history-g7-l003-entity-public-health-law-order]]
 - [[history-g7-l003-event-1921-petition-motion]]
-- [[history-g7-l003-event-1927-taiwan-democratic-party]]
-- [[history-g7-l003-event-1937-repression]]
+- [[history-g7-l003-event-1935-local-election]]
 - [[history-g7-l003-event-1943-national-schooling]]
 - [[history-g7-l003-comparison-education-disparity-vs-universal-school]]
+- [[history-g7-l003-comparison-tradition-vs-modern-habit]]
 - [[index]]

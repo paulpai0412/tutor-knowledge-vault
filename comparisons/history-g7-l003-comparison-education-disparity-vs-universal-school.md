@@ -1,21 +1,16 @@
 ---
-title: 日治時期的社會與文化（核心概念）
-created: '2026-05-04'
+title: 「差別待遇教育」與「六年國民義務教育」比較
+created: '2026-07-03'
 updated: '2026-07-03'
-type: concept
+type: comparison
 tags:
-- history
-- grade-7
-- lesson
-- concept
-- taiwan-history
-- japanese-rule
+- comparison
 - education
-- modernization
-- social-movements
-- culture
+- history
+- taiwan-history
+- grade-7
+- japanese-rule
 sources:
-- indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
 confidence: high
@@ -23,16 +18,16 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 核心概念
-- 教育方面以差別待遇與日語制度化教學作為同化工具，但也意外培育了新知識分子，成為後續社會運動的骨幹。
-- 文化啟蒙與政治社會運動在1910至1930年代逐步發展，主軸包括民族覺醒、自治要求與參政觀念的擴散。
-- 日常生活的變遷表現在衛生、法治、時間觀念與休閒場所興起，形成新舊文化並存的社會轉型。
+## 比較面向
+- **制度目標**：差別教育強化統治效率；義務教育在招生面提高覆蓋率。
+- **政策效果**：就學率提高可見，但族群與資源差異仍可在教材中被指出。
 
 ## 相關頁面
+- [[history-g7-l003-entity-education-stratification]]
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-event-1943-national-schooling]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-entity-education-stratification]]
-- [[history-g7-l003-comparison-education-disparity-vs-universal-school]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
@@ -43,6 +38,5 @@ student_id: student-001
 - [[history-g7-l003-event-1927-taiwan-democratic-party]]
 - [[history-g7-l003-event-1935-local-election]]
 - [[history-g7-l003-event-1937-repression]]
-- [[history-g7-l003-event-1943-national-schooling]]
 - [[history-g7-l003-comparison-tradition-vs-modern-habit]]
 - [[index]]
