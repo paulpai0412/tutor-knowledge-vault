@@ -1,16 +1,15 @@
 ---
-title: drive-s2-textbook 學習材料筆記
+title: 教材來源：日治時期的社會與文化
 created: '2026-05-04'
-updated: '2026-07-03'
+updated: '2026-07-04'
 type: summary
 tags:
 - source-note
+- lesson
 - history
 - grade-7
-- lesson
 - taiwan-history
 - japanese-rule
-- education
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -19,31 +18,33 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 資料定位
-- `lesson_id`: history-g7-l003
-- `lesson_variant_id`: drive-s2-textbook
-- `lesson_title`: 日治時期的社會與文化
-- `source_hash`: sha256:4a3578136293aadfd17c04341e7d56642a8652bd4828603d48ad332dadaf267c
+## 摘要
+- 出處：`drive-s2-textbook.pdf`，課程主題《日治時期的社會與文化》。
+- 核心章節：
+  1. 差別待遇的現代教育（小學校、公學校、蕃人公學校與就學率變化）
+  2. 文化啟蒙與政治社會運動（臺灣文化協會、議會設置請願、臺灣民眾黨、地方自治聯盟）
+  3. 新舊文化變遷（風俗改變、衛生觀念、法治與守時、都會文化）
 
-## 可查關聯
-- 本節重點可對接至 `[[history-g7-l003-core-concepts]]` 的三大軸。
-- 建議與知識分子與政治運動節點一起形成圖譜索引。
+## 反身連結
+- 請與題目關聯：[[history-g7-l003-student-001-exam-report]]
+- 與迷思追蹤比對：[[history-g7-l003-misconceptions]]
+- 對應事件：[[history-g7-l003-event-school-hierarchy-1915]]、[[history-g7-l003-event-first-local-election-1935]]
+- 本課核心圖譜：[[history-g7-l003-core-concepts]]
 
 ## 相關頁面
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-entity-education-stratification]]
-- [[history-g7-l003-event-1921-petition-motion]]
-- [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-event-school-hierarchy-1915]]
+- [[history-g7-l003-event-first-local-election-1935]]
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-teaching-focus]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-entity-civic-movements]]
-- [[history-g7-l003-entity-urban-modern-life]]
-- [[history-g7-l003-entity-public-health-law-order]]
-- [[history-g7-l003-event-1927-taiwan-democratic-party]]
-- [[history-g7-l003-event-1935-local-election]]
-- [[history-g7-l003-event-1937-repression]]
-- [[history-g7-l003-event-1943-national-schooling]]
-- [[history-g7-l003-comparison-education-disparity-vs-universal-school]]
-- [[history-g7-l003-comparison-tradition-vs-modern-habit]]
+- [[history-g7-l003-education-stratification]]
+- [[history-g7-l003-cultural-political-movements]]
+- [[history-g7-l003-modern-life-transformations]]
+- [[history-g7-l003-event-assembly-petition-1921]]
+- [[history-g7-l003-event-people-party-1927]]
+- [[history-g7-l003-compare-education-gap]]
+- [[history-g7-l003-compare-modernity-vs-tradition]]
+- [[history-g7-l003-compare-state-control-vs-local-lifestyle]]
 - [[index]]

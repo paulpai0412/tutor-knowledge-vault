@@ -1,15 +1,15 @@
 ---
-title: 教學重點與提示（可重複使用）
+title: 教學重點與可複用教學提醒
 created: '2026-05-04'
-updated: '2026-07-03'
+updated: '2026-07-04'
 type: summary
 tags:
 - teaching-strategy
-- education
-- history
 - grade-7
-- social-movements
-- concept
+- history
+- lesson
+- student-progress
+- exam-analysis
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
@@ -19,30 +19,37 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 可直接延伸的教學提示
-- 從教材先抓三軸：教育政策、政治社會運動、生活現代化，再做對照題（例如差別待遇 vs 義務教育）。
-- 用時間軸回顧關鍵事件，避免學生只記住人物而忽略政策連結。
-- 針對高分項目可設計延伸題，確認是否理解背後因果關係，而非只會選項對應。
+## 教學提示
+- 先肯定成果：學生已展現關鍵高頻重點掌握，適合加速到高階理解。
+- 改善建議：在解釋每個事件時，加入「原因→措施→影響」三步，讓學生避免只背答案選項。
+- 引導語可改為："為何會出現這個制度？它改善了什麼？誰是受益者？誰被排除？"
 
-## 常用弱點預防
-- 迷思 A：認為只要有某制度就代表全民平等。
-- 迷思 B：把自治口號與正式設治成果等同。
+## 可直接使用的流程
+1. 由教材節點抽一個事件（如[[history-g7-l003-event-assembly-petition-1921]])，讓學生先口頭敘述背景。
+2. 再做一題短比較：
+   - [[history-g7-l003-event-people-party-1927]]與[[history-g7-l003-event-first-local-election-1935]]哪個對政治參與影響更直接？
+3. 回到題型延伸：選擇題後補一句解釋，提升可遷移性。
+
+## 連結
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-exam-summary]]
 
 ## 相關頁面
-- [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-event-assembly-petition-1921]]
+- [[history-g7-l003-event-people-party-1927]]
+- [[history-g7-l003-event-first-local-election-1935]]
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-comparison-education-disparity-vs-universal-school]]
+- [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-exam-summary]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-entity-education-stratification]]
-- [[history-g7-l003-entity-civic-movements]]
-- [[history-g7-l003-entity-urban-modern-life]]
-- [[history-g7-l003-entity-public-health-law-order]]
-- [[history-g7-l003-event-1921-petition-motion]]
-- [[history-g7-l003-event-1927-taiwan-democratic-party]]
-- [[history-g7-l003-event-1935-local-election]]
-- [[history-g7-l003-event-1937-repression]]
-- [[history-g7-l003-event-1943-national-schooling]]
-- [[history-g7-l003-comparison-tradition-vs-modern-habit]]
+- [[history-g7-l003-education-stratification]]
+- [[history-g7-l003-cultural-political-movements]]
+- [[history-g7-l003-modern-life-transformations]]
+- [[history-g7-l003-event-school-hierarchy-1915]]
+- [[history-g7-l003-compare-education-gap]]
+- [[history-g7-l003-compare-modernity-vs-tradition]]
+- [[history-g7-l003-compare-state-control-vs-local-lifestyle]]
 - [[index]]

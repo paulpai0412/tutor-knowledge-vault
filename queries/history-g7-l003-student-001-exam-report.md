@@ -1,14 +1,14 @@
 ---
-title: student-001 第3章日治時期測驗進度報告
+title: 歷史科平時測驗報告（student-001）
 created: '2026-05-04'
-updated: '2026-07-03'
+updated: '2026-07-04'
 type: summary
 tags:
 - exam-analysis
 - student-progress
 - history
 - grade-7
-- lesson
+- taiwan-history
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -19,40 +19,36 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 近期成果
-- `attempted_answers`: 3
-- `currently_correct_questions`: 3
-- `outstanding_wrong_questions`: 0
-- `wrong_question_ids`: 無
+## 評量結果
+- `attempted_answers`：3
+- `currently_correct_questions`：3
+- `outstanding_wrong_questions`：0
+- `wrong_question_ids`：none
 
-## 題目細節（已完成）
-- Q1（台灣專收中學）正確
-- Q2（新休閒場所興起）正確
-- Q3（第一個台灣政黨）正確
+## 解題特徵
+- 已正確題目包含題號 1、2、3（依紀錄為：q-1/B、q-2/B、q-3/A）。
+- 目前成效顯示學生對「臺中中學校（第一所專收臺人中學）」、「休閒場所成因」、「臺灣民眾黨」等重點具辨識力。
 
-## 學習判讀
-- 目前可視為「基礎事實與對應能力穩定」，但尚未經歷後段題目（含順序與選擇辨析題），不宜提前下「完全掌握」結論。
-
-## 連結
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
-- [[drive-s2-quiz]]
+## 強項與進階建議
+- **強項**：對知識點命名與選項關鍵字配對穩定。
+- **下一步**：補齊後段題目（尤其政治社會運動時間軸與政策後果題）以確認是否能避免情境誤置。
+- 可對照教材節點：[[history-g7-l003-core-concepts]] 與考卷脈絡：[[history-g7-l003-student-001-exam-report]]
+- 來源回讀：[[drive-s2-textbook]]、[[drive-s2-quiz]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
+- [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
 - [[history-g7-l003-misconceptions]]
-- [[drive-s2-textbook]]
-- [[history-g7-l003-entity-education-stratification]]
-- [[history-g7-l003-entity-civic-movements]]
-- [[history-g7-l003-entity-urban-modern-life]]
-- [[history-g7-l003-entity-public-health-law-order]]
-- [[history-g7-l003-event-1921-petition-motion]]
-- [[history-g7-l003-event-1927-taiwan-democratic-party]]
-- [[history-g7-l003-event-1935-local-election]]
-- [[history-g7-l003-event-1937-repression]]
-- [[history-g7-l003-event-1943-national-schooling]]
-- [[history-g7-l003-comparison-education-disparity-vs-universal-school]]
-- [[history-g7-l003-comparison-tradition-vs-modern-habit]]
+- [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-education-stratification]]
+- [[history-g7-l003-cultural-political-movements]]
+- [[history-g7-l003-modern-life-transformations]]
+- [[history-g7-l003-event-school-hierarchy-1915]]
+- [[history-g7-l003-event-assembly-petition-1921]]
+- [[history-g7-l003-event-people-party-1927]]
+- [[history-g7-l003-event-first-local-election-1935]]
+- [[history-g7-l003-compare-education-gap]]
+- [[history-g7-l003-compare-modernity-vs-tradition]]
+- [[history-g7-l003-compare-state-control-vs-local-lifestyle]]
 - [[index]]
