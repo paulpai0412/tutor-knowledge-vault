@@ -1,36 +1,33 @@
 ---
-title: 學生迷思診斷：日治時期社會與文化
+title: 日治時期理解迷思
 created: '2026-05-04'
-updated: '2026-07-04'
+updated: '2026-07-05'
 type: summary
 tags:
-- misconception
-- exam-analysis
-- student-progress
 - history
-- lesson
 - grade-7
+- misconception
+- student-progress
+- exam-analysis
 sources:
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
-confidence: high
+confidence: medium
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 主要迷思模式
-- **可能迷思1：現代化 = 全然擺脫傳統。**
-  實際上，教材與題目都呈現漢人、日本與西洋文化並存、共存與調適，而非完全斷裂。
-- **可能迷思2：制度改革就等於人民權利完全改善。**
-  例如司法與教育的現代制度推進，同時仍存在差別待遇與限制。
+## 主要混淆趨勢
+- 目前資料顯示學生在已作答題目中表現穩定，尚未看到明顯的選項誤配或概念誤判。
+- 需防的潛在混淆是：
+  1) 將「改善統治工具」誤認為「全面平等政策」；
+  2) 把某一場運動直接等同於完全成功的結果。
 
-## 目前是否已修正
-- 以進度資料顯示，已作答 3 題且均為正確，**目前無未解決錯題**，屬於短期表現穩定。
-- 然而尚未完成更多題目，仍建議持續監看新題型下是否出現上述誤解。
+## 是否已解決
+- 在已提交的3題中，學生三題全對，對「第一所專收臺生中學」「休閒場所形成原因」「第一個臺灣政黨」等基本概念已具備正確辨識。
 
-## 後續關注
-- 透過重複連結題目情境，檢驗學生是否能同時描述「制度功能」與「制度限制」。
-- 相關連結可搭配：[[history-g7-l003-core-concepts]]、[[history-g7-l003-teaching-focus]]
-- 學生作答主題回饋可銜接：[[history-g7-l003-student-001-exam-report]]
+## 教學建議提醒
+- 先用題幹關鍵詞訓練：制度名稱、時間點、成立者與目標。
+- 之後再補「未作答題段」中的高風險辨識，例如地方自治運動脈絡與城市化文化差異。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
@@ -38,14 +35,15 @@ student_id: student-001
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-education-stratification]]
-- [[history-g7-l003-cultural-political-movements]]
-- [[history-g7-l003-modern-life-transformations]]
-- [[history-g7-l003-event-school-hierarchy-1915]]
-- [[history-g7-l003-event-assembly-petition-1921]]
-- [[history-g7-l003-event-people-party-1927]]
-- [[history-g7-l003-event-first-local-election-1935]]
-- [[history-g7-l003-compare-education-gap]]
-- [[history-g7-l003-compare-modernity-vs-tradition]]
-- [[history-g7-l003-compare-state-control-vs-local-lifestyle]]
+- [[history-g7-l003-entity-taichung-middle-school]]
+- [[history-g7-l003-entity-taiwan-culture-association]]
+- [[history-g7-l003-entity-taiwan-people-party]]
+- [[history-g7-l003-entity-taipei-imperial-university]]
+- [[history-g7-l003-entity-modern-hygiene-law]]
+- [[history-g7-l003-event-parliament-petition-movement]]
+- [[history-g7-l003-event-people-party-formation]]
+- [[history-g7-l003-event-local-election-1935]]
+- [[history-g7-l003-event-compulsory-school-1943]]
+- [[history-g7-l003-comparison-education-differentiation-and-opportunity]]
+- [[history-g7-l003-comparison-traditional-versus-modern-culture]]
 - [[index]]
