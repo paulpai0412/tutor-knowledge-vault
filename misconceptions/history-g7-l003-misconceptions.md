@@ -1,14 +1,15 @@
 ---
-title: 日治時期理解迷思
+title: 日治時期學習迷思盤點
 created: '2026-05-04'
-updated: '2026-07-05'
+updated: '2026-07-06'
 type: summary
 tags:
 - history
 - grade-7
 - misconception
-- student-progress
+- teaching-strategy
 - exam-analysis
+- student-progress
 sources:
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 confidence: medium
@@ -16,34 +17,37 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 主要混淆趨勢
-- 目前資料顯示學生在已作答題目中表現穩定，尚未看到明顯的選項誤配或概念誤判。
-- 需防的潛在混淆是：
-  1) 將「改善統治工具」誤認為「全面平等政策」；
-  2) 把某一場運動直接等同於完全成功的結果。
+## 學生目前迷思狀態
+根據紀錄，
+- attempted_answers=3
+- currently_correct_questions=3
+- outstanding_wrong_questions=0
+，且 `wrong_question_ids` 為 none，代表到目前為止未觀察到持續性錯誤。
 
-## 是否已解決
-- 在已提交的3題中，學生三題全對，對「第一所專收臺生中學」「休閒場所形成原因」「第一個臺灣政黨」等基本概念已具備正確辨識。
+## 可能的潛在混淆
+- 容易把「現代化措施」等同於「無條件進步」，而忽略其殖民治理與差別待遇。
+- 可能把文化啟蒙運動與地方自治運動的時間先後與主體混淆。
 
-## 教學建議提醒
-- 先用題幹關鍵詞訓練：制度名稱、時間點、成立者與目標。
-- 之後再補「未作答題段」中的高風險辨識，例如地方自治運動脈絡與城市化文化差異。
+## 導向檢核
+- 先以事件順序鏈接再回到概念脈絡，可先鞏固 [[history-g7-l003-core-concepts]]。
+- 再配合歷史事件節點檢核，如 [[history-g7-l003-event-1921-culture-association]]。
+- 之後再回到教材源資料閱讀：[[drive-s2-textbook]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-event-1921-culture-association]]
+- [[drive-s2-textbook]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-entity-taichung-middle-school]]
-- [[history-g7-l003-entity-taiwan-culture-association]]
-- [[history-g7-l003-entity-taiwan-people-party]]
-- [[history-g7-l003-entity-taipei-imperial-university]]
-- [[history-g7-l003-entity-modern-hygiene-law]]
-- [[history-g7-l003-event-parliament-petition-movement]]
-- [[history-g7-l003-event-people-party-formation]]
-- [[history-g7-l003-event-local-election-1935]]
-- [[history-g7-l003-event-compulsory-school-1943]]
-- [[history-g7-l003-comparison-education-differentiation-and-opportunity]]
-- [[history-g7-l003-comparison-traditional-versus-modern-culture]]
+- [[history-g7-l003-education-hierarchy]]
+- [[history-g7-l003-cultural-movements]]
+- [[history-g7-l003-modern-city-culture]]
+- [[history-g7-l003-law-order-transformation]]
+- [[history-g7-l003-event-1927-taiwan-people-party]]
+- [[history-g7-l003-event-1935-local-assembly-election]]
+- [[history-g7-l003-event-1937-assertive-suppression]]
+- [[history-g7-l003-event-1943-education-obligation]]
+- [[history-g7-l003-comparison-education-equity]]
+- [[history-g7-l003-comparison-cultural-shift]]
 - [[index]]

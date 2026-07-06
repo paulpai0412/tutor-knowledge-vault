@@ -1,46 +1,37 @@
 ---
-title: 教材來源：drive-s2-textbook
-created: '2026-05-04'
+title: 日治時期三階段教育制度與差別待遇
+created: '2026-07-06'
 updated: '2026-07-06'
 type: entity
 tags:
+- entity
 - history
 - grade-7
-- lesson
-- source-note
 - education
-- taiwan-history
+- japanese-rule
 sources:
-- indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
+- wiki/exams/history/g7/l003/drive-s2-quiz.md
+- wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 來源資訊
-- lesson_id: history-g7-l003
-- source_pdf: drive-s2-textbook.pdf
-- source_hash: sha256:4a3578136293aadfd17c04341e7d56642a8652bd4828603d48ad332dadaf267c
+## 核心內容
+初等教育依族群分為小學校、公學校與蕃人公學校，語言與資源不均反映殖民治理的分層邏輯；1943年改為國民學校並推行六年義務教育，顯示制度轉向。
 
-## 內容重點
-本教材涵蓋三主軸：
-1) 差別待遇教育制度（小學校、公學校、蕃人公學校與就學率）
-2) 文化啟蒙與政治社會運動（文化協會、議會請願、地方黨派與聯盟）
-3) 新舊文化變遷（風俗、衛生、守法守時、都會文化）
-
-## 回鏈
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-education-hierarchy]]
-- [[history-g7-l003-event-1921-culture-association]]
+## 研究提示
+可對照就學率表格觀察：臺灣人比率雖上升，但仍低於日本人，顯示現代化推進與平等未同步。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-education-hierarchy]]
 - [[history-g7-l003-event-1921-culture-association]]
+- [[history-g7-l003-comparison-education-equity]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
 - [[history-g7-l003-cultural-movements]]
 - [[history-g7-l003-modern-city-culture]]
@@ -49,6 +40,5 @@ student_id: student-001
 - [[history-g7-l003-event-1935-local-assembly-election]]
 - [[history-g7-l003-event-1937-assertive-suppression]]
 - [[history-g7-l003-event-1943-education-obligation]]
-- [[history-g7-l003-comparison-education-equity]]
 - [[history-g7-l003-comparison-cultural-shift]]
 - [[index]]

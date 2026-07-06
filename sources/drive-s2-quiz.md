@@ -1,14 +1,15 @@
 ---
-title: 測驗來源：日治時期的社會與文化
+title: 測驗來源：drive-s2-quiz
 created: '2026-05-04'
-updated: '2026-07-05'
-type: summary
+updated: '2026-07-06'
+type: entity
 tags:
-- source-note
 - history
 - grade-7
 - exam-analysis
 - source-note
+- japanese-rule
+- social-movements
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -18,34 +19,35 @@ student_id: student-001
 ---
 
 ## 來源資訊
-- exam_id：`history-g7-l003-drive-s2-quiz`
-- exam_variant_id：`drive-s2-quiz`
-- 來源檔：`drive-s2-quiz.pdf`
-- converter：`marker`
-- conversion_state：`review_required`
+- exam_id: history-g7-l003-drive-s2-quiz
+- source_pdf: drive-s2-quiz.pdf
+- source_hash: sha256:b51e95bbc8e5a18ebe7097ccbab5f5d97608c7db9aac018d6c59d2614c9df27e
+- conversion_state: review_required
 
-## 考試取向
-- 以單選題為主，設問從制度、組織、自治運動到日常生活變遷。
-- 已觀察到題幹重點與教材對應：學校種類與名號、文化協會與政黨成立、法治/衛生/守時等制度面。
+## 題目觀察
+題意以選擇題為主，包含文化協會、臺灣民眾黨、地方自治、現代衛生與司法制度等核心命題。
 
-## 注意
-- 目前可用題目截取有21題片段，實際題目完整範圍以試卷原始檔為準。
+## 相關連結
+- [[drive-s2-textbook]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-event-1937-assertive-suppression]]
+- [[history-g7-l003-comparison-education-equity]]
 
 ## 相關頁面
+- [[drive-s2-textbook]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-event-1937-assertive-suppression]]
+- [[history-g7-l003-comparison-education-equity]]
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
-- [[drive-s2-textbook]]
-- [[history-g7-l003-entity-taichung-middle-school]]
-- [[history-g7-l003-entity-taiwan-culture-association]]
-- [[history-g7-l003-entity-taiwan-people-party]]
-- [[history-g7-l003-entity-taipei-imperial-university]]
-- [[history-g7-l003-entity-modern-hygiene-law]]
-- [[history-g7-l003-event-parliament-petition-movement]]
-- [[history-g7-l003-event-people-party-formation]]
-- [[history-g7-l003-event-local-election-1935]]
-- [[history-g7-l003-event-compulsory-school-1943]]
-- [[history-g7-l003-comparison-education-differentiation-and-opportunity]]
-- [[history-g7-l003-comparison-traditional-versus-modern-culture]]
+- [[history-g7-l003-education-hierarchy]]
+- [[history-g7-l003-cultural-movements]]
+- [[history-g7-l003-modern-city-culture]]
+- [[history-g7-l003-law-order-transformation]]
+- [[history-g7-l003-event-1921-culture-association]]
+- [[history-g7-l003-event-1927-taiwan-people-party]]
+- [[history-g7-l003-event-1935-local-assembly-election]]
+- [[history-g7-l003-event-1943-education-obligation]]
+- [[history-g7-l003-comparison-cultural-shift]]
 - [[index]]

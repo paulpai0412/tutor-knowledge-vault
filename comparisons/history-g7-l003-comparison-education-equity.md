@@ -1,54 +1,47 @@
 ---
-title: 教材來源：drive-s2-textbook
-created: '2026-05-04'
+title: 日人與臺灣人的教育資源差異比較
+created: '2026-07-06'
 updated: '2026-07-06'
-type: entity
+type: comparison
 tags:
+- comparison
 - history
 - grade-7
-- lesson
-- source-note
 - education
-- taiwan-history
+- japanese-rule
 sources:
-- indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
+- wiki/exams/history/g7/l003/drive-s2-quiz.md
 confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 來源資訊
-- lesson_id: history-g7-l003
-- source_pdf: drive-s2-textbook.pdf
-- source_hash: sha256:4a3578136293aadfd17c04341e7d56642a8652bd4828603d48ad332dadaf267c
+## 比較軸
+- 就學規範：分群分流 vs 一般政策口徑。
+- 資源分配：日本人校舍、設備與師資優勢 vs 臺灣人就學受限。
+- 長期影響：識字與受教育機會上升但差距持續。
 
-## 內容重點
-本教材涵蓋三主軸：
-1) 差別待遇教育制度（小學校、公學校、蕃人公學校與就學率）
-2) 文化啟蒙與政治社會運動（文化協會、議會請願、地方黨派與聯盟）
-3) 新舊文化變遷（風俗、衛生、守法守時、都會文化）
-
-## 回鏈
+## 參照頁面
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-education-hierarchy]]
-- [[history-g7-l003-event-1921-culture-association]]
+- [[history-g7-l003-event-1943-education-obligation]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-education-hierarchy]]
-- [[history-g7-l003-event-1921-culture-association]]
+- [[history-g7-l003-event-1943-education-obligation]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
 - [[history-g7-l003-cultural-movements]]
 - [[history-g7-l003-modern-city-culture]]
 - [[history-g7-l003-law-order-transformation]]
+- [[history-g7-l003-event-1921-culture-association]]
 - [[history-g7-l003-event-1927-taiwan-people-party]]
 - [[history-g7-l003-event-1935-local-assembly-election]]
 - [[history-g7-l003-event-1937-assertive-suppression]]
-- [[history-g7-l003-event-1943-education-obligation]]
-- [[history-g7-l003-comparison-education-equity]]
 - [[history-g7-l003-comparison-cultural-shift]]
 - [[index]]

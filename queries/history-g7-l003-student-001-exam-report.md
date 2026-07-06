@@ -1,7 +1,7 @@
 ---
-title: Student-001 日治時期測驗回饋
+title: student-001 日治時期課文測驗回顧
 created: '2026-05-04'
-updated: '2026-07-05'
+updated: '2026-07-06'
 type: summary
 tags:
 - history
@@ -19,39 +19,41 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 成績摘要
-- attempted_answers：3
-- currently_correct_questions：3
-- outstanding_wrong_questions：0
-- wrong_question_ids：none
-- 最近答對題號：q-1（答 B）、q-2（答 B）、q-3（答 A）
+## 成績狀態
+- lesson_group_id: history-g7-l003
+- attempted_answers: 3
+- correct_attempts: 3
+- wrong_attempts: 0
+- currently_correct_questions: 3
+- outstanding_wrong_questions: 0
 
-## 學習解讀
-- 可確認學生已可準確辨認：
-  - 第一所專收臺籍學生的中學為臺中中學校（Q1）
-  - 休閒場所增加的主因與工商業發展（Q2）
-  - 第一個臺灣政治社團為臺灣民眾黨（Q3）
-- 未見需立即補救的錯誤題，但因作答題量有限，不應直接下結論為完整通關。
+## 已掌握
+- 前三題與 top_skills 分佈吻合：日治時期、政運/工商業/自治相關題向已展現初步正確性。
 
-## 下一步
-- 先補上有時間脈絡的題目（地方議員選舉、文化協會、自治運動）再做再測。
-- 用 [[history-g7-l003-core-concepts]] 與 [[history-g7-l003-teaching-focus]] 做二次整合。
+## 待追蹤
+- 測驗題庫來源標註 conversion_state 為 review_required，且題文在第21題後截斷；建議補齊完整題組再做下一輪評量。
+
+## 參照節點
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-teaching-focus]]
+- [[drive-s2-quiz]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-misconceptions]]
 - [[drive-s2-textbook]]
-- [[history-g7-l003-entity-taichung-middle-school]]
-- [[history-g7-l003-entity-taiwan-culture-association]]
-- [[history-g7-l003-entity-taiwan-people-party]]
-- [[history-g7-l003-entity-taipei-imperial-university]]
-- [[history-g7-l003-entity-modern-hygiene-law]]
-- [[history-g7-l003-event-parliament-petition-movement]]
-- [[history-g7-l003-event-people-party-formation]]
-- [[history-g7-l003-event-local-election-1935]]
-- [[history-g7-l003-event-compulsory-school-1943]]
-- [[history-g7-l003-comparison-education-differentiation-and-opportunity]]
-- [[history-g7-l003-comparison-traditional-versus-modern-culture]]
+- [[history-g7-l003-education-hierarchy]]
+- [[history-g7-l003-cultural-movements]]
+- [[history-g7-l003-modern-city-culture]]
+- [[history-g7-l003-law-order-transformation]]
+- [[history-g7-l003-event-1921-culture-association]]
+- [[history-g7-l003-event-1927-taiwan-people-party]]
+- [[history-g7-l003-event-1935-local-assembly-election]]
+- [[history-g7-l003-event-1937-assertive-suppression]]
+- [[history-g7-l003-event-1943-education-obligation]]
+- [[history-g7-l003-comparison-education-equity]]
+- [[history-g7-l003-comparison-cultural-shift]]
 - [[index]]
