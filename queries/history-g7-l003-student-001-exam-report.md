@@ -1,53 +1,59 @@
 ---
-title: 學生-001 本章測驗報告
+title: student-001 測驗表現摘要（drive-s2-quiz）
 created: '2026-05-04'
-updated: '2026-07-07'
+updated: '2026-07-08'
 type: summary
 tags:
+- exam-analysis
 - history
 - grade-7
-- exam-analysis
-- student-progress
 - education
+- student-progress
+- source-note
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 - wiki/students/student-001/progress/history/g7/l003/summary.md
-confidence: medium
+confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 成績摘要
-- attempted_answers：3
-- currently_correct_questions：3
-- outstanding_wrong_questions：0
-- wrong_question_ids：none
-- unique_questions：3
-- correct_attempts：3
+## 當次紀錄
+- `attempted_answers: 3`
+- `unique_questions: 3`
+- `correct_attempts: 3`
+- `wrong_attempts: 0`
+- `currently_correct_questions: 3`
+- `outstanding_wrong_questions: 0`
 
-## 解讀
-- 在已作答範圍內，學生對核心事實記憶（臺中中學校、休閒現象、臺灣民眾黨）表現穩定。
-- 目前資料不足以評估後段題目（尤其順序題、制度功能題）之全幅穩定度。
+## 成績判讀
+- 在已作答範圍內為 **100% 正確**，目前暫估可拿到前3題 9 分（每題3分）。
+- 因為尚未作答全卷，尚不能推論全課掌握度。
 
-## 下一步
-- 依據學習目標，接續完成餘題前，先預先連結：[[history-g7-l003-comparison-education-gap-japan-tau]] 與 [[history-g7-l003-event-1935-local-election]]，建立「制度→影響→限制」三層理解。
+## 追蹤
+- 優先讓學生補完剩餘題目後再做錯題匯總，避免先入為主地修正已正確項目。
 
-## 相關頁面
-- [[history-g7-l003-comparison-education-gap-japan-tau]]
-- [[history-g7-l003-event-1935-local-election]]
+## 對應連結
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-misconceptions]]
-- [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-education-differentiation-policy]]
-- [[history-g7-l003-taiwan-cultural-association]]
-- [[history-g7-l003-taiwan-peoples-party]]
-- [[history-g7-l003-modern-lifestyle-change]]
-- [[history-g7-l003-event-1921-culture-petition]]
+
+## 相關頁面
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-misconceptions]]
+- [[drive-s2-quiz]]
+- [[drive-s2-textbook]]
+- [[history-g7-l003-entity-education-differentiation]]
+- [[history-g7-l003-entity-cultural-enlightenment]]
+- [[history-g7-l003-entity-modern-hygiene-law]]
+- [[history-g7-l003-entity-urban-cultural-life]]
+- [[history-g7-l003-event-1921-petition-movement]]
 - [[history-g7-l003-event-1927-peoples-party]]
-- [[history-g7-l003-comparison-education-gap-japan-taiwan]]
-- [[history-g7-l003-comparison-traditional-modern-culture]]
+- [[history-g7-l003-event-1935-local-election]]
+- [[history-g7-l003-comparison-education-assimilation-vs-autonomy]]
+- [[history-g7-l003-comparison-modernization-vs-cultural-retention]]
 - [[index]]
