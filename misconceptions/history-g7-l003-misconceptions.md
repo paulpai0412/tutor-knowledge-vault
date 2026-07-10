@@ -1,15 +1,15 @@
 ---
-title: 學生迷思與澄清狀態
+title: 日治時期章測常見迷思與澄清
 created: '2026-05-04'
-updated: '2026-07-08'
-type: summary
+updated: '2026-07-10'
+type: concept
 tags:
-- misconception
 - history
 - grade-7
-- education
-- student-progress
+- misconception
 - exam-analysis
+- student-progress
+- lesson
 sources:
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 confidence: high
@@ -17,32 +17,27 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 現況判讀
-- 依據最新紀錄，`q-1`～`q-3` 全部正確，`outstanding_wrong_questions = 0`，尚無可直接扣回的錯誤樣本。
-- 目前顯示學生在「第一所臺人中學」與「臺灣民眾黨」及「休閒文化成因」等重點已有穩定理解。
+## 常見迷思
+- 可能誤會一：把《臺中中學校》與《臺北中學校》等地名混淆。教材與題目明確指出第一所專收臺灣人子弟的中學為「臺中中學校」。
+- 可能誤會二：認為日治時代休閒場所增加等於政治體制開放。實際上，這些變化更直接對應**工商業與都市化發展**。
+- 可能誤會三：將地方議員選舉視為完整自治制度成立，需強調其為有限制的初步參政步驟。
 
-## 可能的潛在混淆
-- 學生可能傾向把「新制度」看成全盤改善，實際上課文與題目皆強調仍有階層與族群差異。
-- 可能混淆「社會運動」與「皇民化運動」或「戰爭政策」之關係，建議日後作答時用時間軸先釐清。
-
-## 連結與後續
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[history-g7-l003-event-1927-peoples-party]]
+## 是否已修正
+- 目前題1～3皆首次即答正確，`wrong_question_ids` 為 none，無觀察到既有迷思已固化為錯誤模式。
+- 建議在未作答題段持續追問「為何」與「時序」，而非只問「哪一個名稱」。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[history-g7-l003-event-1927-peoples-party]]
 - [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-entity-education-differentiation]]
-- [[history-g7-l003-entity-cultural-enlightenment]]
-- [[history-g7-l003-entity-modern-hygiene-law]]
-- [[history-g7-l003-entity-urban-cultural-life]]
-- [[history-g7-l003-event-1921-petition-movement]]
-- [[history-g7-l003-event-1935-local-election]]
-- [[history-g7-l003-comparison-education-assimilation-vs-autonomy]]
-- [[history-g7-l003-comparison-modernization-vs-cultural-retention]]
+- [[history-g7-l003-entity-taichung-middle-school]]
+- [[history-g7-l003-entity-taiwan-cultural-association]]
+- [[history-g7-l003-entity-taiwan-minshu-party]]
+- [[history-g7-l003-event-education-differentiation-national-schools]]
+- [[history-g7-l003-event-autonomy-movements-1921-1937]]
+- [[history-g7-l003-event-hygiene-and-civil-order-urban-modernity]]
+- [[history-g7-l003-comparison-education-policy-and-identity-building]]
+- [[history-g7-l003-comparison-tradition-modern-lifestyles]]
 - [[index]]
