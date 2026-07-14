@@ -1,18 +1,19 @@
 ---
 title: 日治時期社會與文化核心概念
 created: '2026-05-04'
-updated: '2026-07-13'
+updated: '2026-07-14'
 type: concept
 tags:
 - history
 - grade-7
-- lesson
 - taiwan-history
 - japanese-rule
 - education
 - modernization
-- social-movements
 - culture
+- social-movements
+- politics
+- local-autonomy
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -23,25 +24,29 @@ student_id: student-001
 ---
 
 ## 核心概念
-- 日治政府以日語、差別待遇與制度重塑為核心，將教育、醫衛與司法作為治理工具，兼具同化與產業導向。
-- 知識分子在文化啟蒙與政治社會運動中，透過報紙、演講、讀報社、政黨與請願，提升自治與公民權意識。
-- 新舊文化在日常生活中並未完全替代，而是形成並存與調適：西式服飾、衛生習慣與守時觀念與傳統生活方式共同交織。
+- **教育差別與同化**：日治初期以「總督府、臺灣人、原住民」分流，並以日語為主要教學語言，反映殖民治理與人才培養並行的機制。
+- **知識分子與自治意識**：知識分子透過文化協會、演講、讀報社等方式推動文化啟蒙與政治社會運動。
+- **生活現代化**：傳染病防治、衛生、法治與時間制度等新規範，使日常生活形成新規律，但落差受城鄉與族群條件影響。
+
+## 觀念關係
+可同時從三個節點理解：
+1. 教育制度提供了政治意識覺醒的階梯；
+2. 文化啟蒙提供意識形態與語言的動員；
+3. 現代制度（衛生、司法、時間）改寫了日常實踐。
 
 ## 相關頁面
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[entity-education-differential-system]]
-- [[entity-taiwan-popular-party]]
-- [[entity-modern-hygiene-and-time-discipline]]
 - [[drive-s2-textbook]]
+- [[entity-school-enrollment-gap]]
+- [[entity-taiwan-culture-association]]
 - [[drive-s2-quiz]]
-- [[entity-taiwan-cultural-association]]
-- [[entity-urban-modern-lifestyle]]
-- [[event-parliament-petition-movement-1921]]
-- [[event-taiwan-popular-party-1927]]
-- [[event-taiwan-1935-local-election]]
-- [[event-1937-political-suppression]]
-- [[comparison-education-access-vs-identity]]
-- [[comparison-new-vs-traditional-culture]]
+- [[entity-taiwan-people-party]]
+- [[entity-taipei-imperial-university]]
+- [[event-1921-parliament-petition-movement]]
+- [[event-1930-local-autonomy-alliance]]
+- [[event-1943-compulsory-education]]
+- [[comparison-education-access-vs-class-mobility]]
+- [[comparison-cultural-transition-vs-continuity]]
 - [[index]]
