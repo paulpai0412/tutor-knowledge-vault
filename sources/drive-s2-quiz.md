@@ -1,59 +1,51 @@
 ---
-title: 測驗來源備註：日治時期的社會與文化平時測驗（quiz）
+title: 日治時期的社會與文化（測驗來源摘要）
 created: '2026-05-04'
-updated: '2026-07-14'
+updated: '2026-07-15'
 type: summary
 tags:
-- source-note
-- exam-analysis
 - history
 - grade-7
-- japanese-rule
-- social-movements
-- education
+- exam-analysis
+- source-note
+- taiwan-history
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
-confidence: medium
+confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
 ## 來源資訊
-- exam_id：`history-g7-l003-drive-s2-quiz`
-- exam_variant_id：`drive-s2-quiz`
-- source_pdf：`drive-s2-quiz.pdf`
-- source_hash：`sha256:b51e95bbc8e5a18eeb9ccbab5f5d97608c7db9aac018d6c59d2614c9df27f`
-- converter：`marker`
-- conversion_state：`review_required`
+- exam_id：history-g7-l003-drive-s2-quiz
+- exam_variant_id：drive-s2-quiz
+- converter：marker
+- conversion_state：review_required
+- source_pdf：drive-s2-quiz.pdf
+- source_hash：sha256:b51e95bbc8e5a18ebe7097ccbab5f5d97608c7db9aac018d6c59d2614c9df27e
 
-## 題型與範圍（已看見片段）
-- 主要覆蓋 1–3 分與 4–20 分等不同題型分段
-- 主軸題目集中在：
-  - 日治教育差別待遇
-  - 政治社會運動與自治訴求
-  - 文化轉型（衛生、時制、都市休閒）
+## 檢視重點
+- 目前截取題目含第1–21題段落，題目涉及教育差別、請願運動、政治社會組織、衛生宣導與新舊文化轉換。
+- 學生作答紀錄顯示前3題正確，但尚未完成全部題目，因此測驗仍需補全以形成穩健判讀。
 
-## 連結
-- [[history-g7-l003-core-concepts]]
+## 來源互連
 - [[history-g7-l003-student-001-exam-report]]
-- [[event-1935-local-council-election]]
-- [[comparison-cultural-transition-vs-continuity]]
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-event-assembly-petition-1921]]
 
 ## 相關頁面
-- [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[event-1935-local-council-election]]
-- [[comparison-cultural-transition-vs-continuity]]
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-event-assembly-petition-1921]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[drive-s2-textbook]]
-- [[entity-school-enrollment-gap]]
-- [[entity-taiwan-people-party]]
-- [[entity-taiwan-culture-association]]
-- [[entity-taipei-imperial-university]]
-- [[event-1921-parliament-petition-movement]]
-- [[event-1930-local-autonomy-alliance]]
-- [[event-1943-compulsory-education]]
-- [[comparison-education-access-vs-class-mobility]]
+- [[history-g7-l003-education-policy-structure]]
+- [[history-g7-l003-cultural-enlightenment-movement]]
+- [[history-g7-l003-modern-life-transformation]]
+- [[history-g7-l003-event-peoples-party-1927]]
+- [[history-g7-l003-event-local-elections-1935]]
+- [[history-g7-l003-comp-school-treatment]]
+- [[history-g7-l003-comp-old-new-culture]]
 - [[index]]

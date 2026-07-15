@@ -1,15 +1,14 @@
 ---
-title: 學生001的日治時期社會與文化小測檢核
+title: student-001 第3章測驗即時回報
 created: '2026-05-04'
-updated: '2026-07-14'
+updated: '2026-07-15'
 type: summary
 tags:
-- exam-analysis
-- student-progress
 - history
 - grade-7
 - exam-analysis
-- japanese-rule
+- student-progress
+- source-note
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -20,24 +19,23 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 成績狀態
-- lesson_group_id：`history-g7-l003`
-- student_id：`student-001`
-- 已作答：3 題
-- 目前正確：3 題
-- 錯題：0 題
-- outstanding_wrong_questions：0（無待重作）
+## 本次測驗摘要
+- lesson_group_id：history-g7-l003
+- student_id：student-001
+- attempted_answers：3
+- currently_correct_questions：3
+- outstanding_wrong_questions：0
+- wrong_question_ids：none
+- unique_questions：3
 
-## 表現解讀
-- 學生能精準命中高頻主題（學制差別、政治社會運動、政黨成立）
-- 目前看不到「觀念斷裂」在答題上轉為錯誤紀錄
-- 仍需補齊後段題（歷史順序、制度對日常生活影響）以完成穩定度檢核
+## 讀書表現判讀
+- Q1、Q2、Q3 目前答案分別為 B、B、A 且為正確。
+- 依紀錄尚未進入複習佇列，表示本輪尚無待補重作機制啟動。
 
-## 後續安排
-1. 先收束於既有答對題的證據化整理。
-2. 針對未作答題目進行階梯式複盤，不立即揭答案。
+## 建議
+- 下階段應補齊題庫後段（如地方自治制度限制、衛生宣導、守時與都會文化）以確認知識是否跨題型穩定。
 
-## 連結
+## 關聯頁面
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
@@ -49,13 +47,12 @@ student_id: student-001
 - [[history-g7-l003-teaching-focus]]
 - [[drive-s2-quiz]]
 - [[drive-s2-textbook]]
-- [[entity-school-enrollment-gap]]
-- [[entity-taiwan-people-party]]
-- [[entity-taiwan-culture-association]]
-- [[entity-taipei-imperial-university]]
-- [[event-1921-parliament-petition-movement]]
-- [[event-1930-local-autonomy-alliance]]
-- [[event-1943-compulsory-education]]
-- [[comparison-education-access-vs-class-mobility]]
-- [[comparison-cultural-transition-vs-continuity]]
+- [[history-g7-l003-education-policy-structure]]
+- [[history-g7-l003-cultural-enlightenment-movement]]
+- [[history-g7-l003-modern-life-transformation]]
+- [[history-g7-l003-event-assembly-petition-1921]]
+- [[history-g7-l003-event-peoples-party-1927]]
+- [[history-g7-l003-event-local-elections-1935]]
+- [[history-g7-l003-comp-school-treatment]]
+- [[history-g7-l003-comp-old-new-culture]]
 - [[index]]

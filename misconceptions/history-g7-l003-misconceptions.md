@@ -1,14 +1,13 @@
 ---
-title: 學生迷思觀察與修正狀態
+title: 學生迷思與澄清記錄
 created: '2026-05-04'
-updated: '2026-07-14'
+updated: '2026-07-15'
 type: summary
 tags:
-- misconception
-- student-progress
-- exam-analysis
 - history
-- education
+- grade-7
+- misconception
+- exam-analysis
 - teaching-strategy
 sources:
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
@@ -17,38 +16,30 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 觀察結果
-- 已作答題數：3 題
-- 目前正確題數：3 題
-- 錯誤題目：0 題
+## 常見迷思
+- 迷思一：將日治現代化理解為所有群體受益均等；實際上教材指出就學率與教材資源在族群間長期落差明顯。
+- 迷思二：認為政治社會運動一開始就成功建設自治制度；實際多次請願未獲採納，1937年前後逐漸受打壓。
 
-## 主要潛在混淆（推估）
-- 易把「設立新制度」誤解為「對所有族群一致且公平」；實際上課文與題目都提示存在明顯差別待遇。
-- 易把「文化改變」誤認為傳統全部消失；教材指出「並存」而非「取代」。
+## 當前紀錄是否已解決
+- 作答摘要顯示 attempted_answers=3、currently_correct_questions=3、outstanding_wrong_questions=0，無「已記錄」錯題，故目前關鍵觀念至少在前段題目已具初步穩定。
+- 然而題量偏少（unique_questions=3）代表尚未覆蓋全部考核情境，需以補測確認是否真正泛化。
 
-## 是否已解決
-- 在已提交題目中尚未觀察到確證錯誤，因此可視為主要概念已先行成立。
-- 未來需以更多歷史脈絡題（年代、事件順序、制度成效）繼續驗證，避免成為隱藏式迷思。
-
-## 導向連結
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[comparison-cultural-transition-vs-continuity]]
+## 建議追蹤
+- 先用 [[history-g7-l003-comp-school-treatment]] 檢視其是否會把制度差別化與權益運動因果混淆。
+- 再用 [[history-g7-l003-event-assembly-petition-1921]]、[[history-g7-l003-event-peoples-party-1927]] 追問「有無成果」與「為何受壓制」的差異。
 
 ## 相關頁面
+- [[history-g7-l003-comp-school-treatment]]
+- [[history-g7-l003-event-assembly-petition-1921]]
+- [[history-g7-l003-event-peoples-party-1927]]
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[comparison-cultural-transition-vs-continuity]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[entity-school-enrollment-gap]]
-- [[entity-taiwan-people-party]]
-- [[entity-taiwan-culture-association]]
-- [[entity-taipei-imperial-university]]
-- [[event-1921-parliament-petition-movement]]
-- [[event-1930-local-autonomy-alliance]]
-- [[event-1943-compulsory-education]]
-- [[comparison-education-access-vs-class-mobility]]
+- [[history-g7-l003-education-policy-structure]]
+- [[history-g7-l003-cultural-enlightenment-movement]]
+- [[history-g7-l003-modern-life-transformation]]
+- [[history-g7-l003-event-local-elections-1935]]
+- [[history-g7-l003-comp-old-new-culture]]
 - [[index]]
