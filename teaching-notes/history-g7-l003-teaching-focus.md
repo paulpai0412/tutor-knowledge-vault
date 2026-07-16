@@ -1,14 +1,14 @@
 ---
-title: 可重複使用的教學重點
+title: 教學重點與可再使用的教師提示
 created: '2026-05-04'
-updated: '2026-07-15'
+updated: '2026-07-16'
 type: summary
 tags:
+- teaching-strategy
 - history
 - grade-7
-- teaching-strategy
-- lesson
-- exam-analysis
+- education
+- concept
 - student-progress
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -20,33 +20,29 @@ student_id: student-001
 ---
 
 ## 教學提示
-- 先建立三軸：教育、政治運動、日常生活，讓學生用「誰受影響」「為什麼發生」「結果如何」回答。
-- 以表格對照強化記憶：小學校/公學校/蕃人公學校的差別與後續國民學校改革。
-- 用「請願 1921→民眾黨 1927→地方議員選舉 1935→1937 打壓」串成因果鏈，提升時序理解。
+- 先用「差別待遇」對照「國民學校」來建立時代差異，再回到「為何會有這樣的政策」導向政治動機。
+- 運用學習題1～3的命題脈絡（臺中中學校、休閒場所成因、臺灣民眾黨）做一次概念回顧，讓學生自己用一句話說明兩者關係。
+- 對高年級適齡學習可用「事件排序」練習（例如請願、政黨成立、地方選舉）確認歷史因果順序。
 
-## 成果引導
-- 本次題數偏少但全對，適合立即安排口述回顧：讓學生把 [[history-g7-l003-core-concepts]] 轉述為兩句話，並補一句「限制與衝突仍存在」。
-- 以 [[history-g7-l003-teaching-focus]] 方向補做 3–5 題高區辨識題：如法治、衛生、守時制度的來源與作用。
-
-## 連結
-- [[history-g7-l003-comp-new-old-culture]]
-- [[history-g7-l003-modern-life-transformation]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-textbook]]
+## 錯誤處理原則
+- 現有記錄無錯題，不需立即反覆補強，但建議保留「可能迷思清單」
+  - 先問：制度改革是否就等於人民完全受益？
+  - 再問：文化變遷是否完全取代傳統？
+- 當未來有答錯時，先追問關鍵語彙（如「自治」、「同化」、「文化啟蒙」）再回到脈絡。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-comp-new-old-culture]]
-- [[history-g7-l003-modern-life-transformation]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-textbook]]
 - [[history-g7-l003-misconceptions]]
+- [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-education-policy-structure]]
-- [[history-g7-l003-cultural-enlightenment-movement]]
-- [[history-g7-l003-event-assembly-petition-1921]]
-- [[history-g7-l003-event-peoples-party-1927]]
-- [[history-g7-l003-event-local-elections-1935]]
-- [[history-g7-l003-comp-school-treatment]]
-- [[history-g7-l003-comp-old-new-culture]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-entity-differentiated-education]]
+- [[history-g7-l003-entity-taiwan-cultural-association]]
+- [[history-g7-l003-entity-taiwan-peoples-party]]
+- [[history-g7-l003-event-1921-cultural-movement-begins]]
+- [[history-g7-l003-event-1927-peoples-party-formation]]
+- [[history-g7-l003-event-1935-local-assembly-election]]
+- [[history-g7-l003-comparison-policy-vs-culture]]
+- [[history-g7-l003-comparison-education-equity-vs-access]]
+- [[history-g7-l003-comparison-tradition-modernity]]
 - [[index]]
