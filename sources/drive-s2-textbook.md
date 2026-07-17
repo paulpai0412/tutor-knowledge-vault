@@ -1,16 +1,15 @@
 ---
-title: 日治時期教材來源與摘錄備忘
+title: 教材來源節點：drive-s2-textbook（日治時期的社會與文化）
 created: '2026-05-04'
-updated: '2026-07-16'
+updated: '2026-07-17'
 type: summary
 tags:
+- lesson
 - source-note
 - history
-- lesson
 - grade-7
-- education
-- japanese-rule
 - taiwan-history
+- concept
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -19,39 +18,34 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 來源資訊
-- lesson_group_id：history-g7-l003
-- lesson_variant_id：drive-s2-textbook
-- lesson_id：history-g7-l003
-- source_pdf：drive-s2-textbook.pdf
-- converter：markitdown
-- conversion_state：wiki_ready
+## 出處
+- lesson_id：`history-g7-l003`
+- lesson_variant_id：`drive-s2-textbook`
+- source_pdf：`drive-s2-textbook.pdf`
+- source_hash：`sha256:4a3578136293aadfd17c04341e7d56642a8652bd4828603d48ad332dadaf267c`
 
-## 重點章節
-- 差別待遇現代教育（小學校、公學校、蕃人公學校與語言政策）
-- 中等與高等教育的設置與限制（臺中中學校、臺北帝國大學）
-- 文化啟蒙與政治社會運動（1920年代組織與自治訴求）
-- 新舊文化變遷（風俗、衛生、守法守時、都會文化）
+## 內容主軸
+- 教育政策：差別待遇與隔離原則、日語教學、逐步推進的義務教育。
+- 政治社會運動：臺灣文化協會、議會設置請願、臺灣民眾黨、地方自治聯盟。
+- 社會文化變遷：服飾、衛生、法治、守時與都會消費文化。
 
-## 連結
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-quiz]]
+## 圖譜入口
+- 核心總覽：[[history-g7-l003-core-concepts]]
+- 迷思追蹤：[[history-g7-l003-misconceptions]]
+- 配對題庫：[[drive-s2-quiz]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-misconceptions]]
+- [[drive-s2-quiz]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-quiz]]
-- [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-entity-differentiated-education]]
-- [[history-g7-l003-entity-taiwan-cultural-association]]
-- [[history-g7-l003-entity-taiwan-peoples-party]]
-- [[history-g7-l003-event-1921-cultural-movement-begins]]
-- [[history-g7-l003-event-1927-peoples-party-formation]]
-- [[history-g7-l003-event-1935-local-assembly-election]]
-- [[history-g7-l003-comparison-policy-vs-culture]]
-- [[history-g7-l003-comparison-education-equity-vs-access]]
-- [[history-g7-l003-comparison-tradition-modernity]]
+- [[entity-education-tiered-system]]
+- [[entity-culture-association-movement]]
+- [[entity-urban-modern-life-order]]
+- [[event-tiered-school-policy-practice]]
+- [[event-cultural-association-and-party-movements]]
+- [[event-1937-suppression-of-movements]]
+- [[comparison-tiered-education-vs-national-school]]
+- [[comparison-old-vs-modern-life-order]]
 - [[index]]

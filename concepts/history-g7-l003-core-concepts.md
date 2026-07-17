@@ -1,7 +1,7 @@
 ---
-title: 日治時期社會與文化核心概念
+title: 日治時期社會與文化核心觀念
 created: '2026-05-04'
-updated: '2026-07-16'
+updated: '2026-07-17'
 type: concept
 tags:
 - history
@@ -9,10 +9,9 @@ tags:
 - lesson
 - concept
 - japanese-rule
-- education
 - social-movements
-- culture
 - modernization
+- culture
 - taiwan-history
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
@@ -24,28 +23,27 @@ student_id: student-001
 ---
 
 ## 核心概念
-- **差別待遇與同化式教育**：日本人、臺灣人、原住民在學校設計與資源上有明顯差別，且以日語為主，1943年前後才整併為國民學校。
-- **政治社會運動的興起**：民族自決思潮與地方自治訴求下，臺灣文化協會、臺灣議會設置請願運動、臺灣民眾黨、地方自治聯盟接連形成。
-- **新舊文化變遷**：現代衛生、法治、守時、都會消費文化進入臺灣生活，但城鄉與傳統生活仍非完全同質化。
-- **知識分子角色轉折**：受新式教育與留學洗禮的知識分子，轉而推動文化與政治改革。
+- 日治時期的教育制度以差別待遇為前提，透過不同學制與語言規範推動殖民治理與同化。
+- 1900–1930年代知識人藉文化協會、議會設置請願、民眾黨等組織，將自治、民權與民族自覺帶入公共討論。
+- 生活習慣改革從服飾、飲食、公共衛生、守法守時到都會休閒空間，逐步改變社會節奏，但城鄉落差使新舊文化並未完全取代。
 
-## 觀念關係
-- 以教育政策為起點，連結到政治意識的萌芽，再延伸到社會習俗與生活制度改造，形成「制度—意識—日常」的鏈條。
-- 相關事件如建立臺中中學校、臺灣民眾黨成立與地方選舉，皆可視為該鏈條的關鍵節點。
+## 關係圖示（文字）
+- [[entity-education-tiered-system]] 提供制度面的切入。
+- [[event-cultural-association-and-party-movements]] 說明政治啟蒙與抗爭脈絡。
+- [[comparison-old-vs-modern-life-order]] 說明變遷不是「全替代」，而是長期共存。
 
 ## 相關頁面
+- [[entity-education-tiered-system]]
+- [[event-cultural-association-and-party-movements]]
+- [[comparison-old-vs-modern-life-order]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-quiz]]
 - [[drive-s2-textbook]]
-- [[history-g7-l003-entity-differentiated-education]]
-- [[history-g7-l003-entity-taiwan-cultural-association]]
-- [[history-g7-l003-entity-taiwan-peoples-party]]
-- [[history-g7-l003-event-1921-cultural-movement-begins]]
-- [[history-g7-l003-event-1927-peoples-party-formation]]
-- [[history-g7-l003-event-1935-local-assembly-election]]
-- [[history-g7-l003-comparison-policy-vs-culture]]
-- [[history-g7-l003-comparison-education-equity-vs-access]]
-- [[history-g7-l003-comparison-tradition-modernity]]
+- [[drive-s2-quiz]]
+- [[entity-culture-association-movement]]
+- [[entity-urban-modern-life-order]]
+- [[event-tiered-school-policy-practice]]
+- [[event-1937-suppression-of-movements]]
+- [[comparison-tiered-education-vs-national-school]]
 - [[index]]
