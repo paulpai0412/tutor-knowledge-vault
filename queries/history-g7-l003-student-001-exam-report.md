@@ -1,7 +1,7 @@
 ---
-title: student-001 檢測報告：日治時期社會與文化
+title: student-001 第三章平時測驗報告（節錄）
 created: '2026-05-04'
-updated: '2026-07-17'
+updated: '2026-07-18'
 type: summary
 tags:
 - history
@@ -19,35 +19,42 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 成績快照
-- attempted_answers：3
-- currently_correct_questions：3
-- outstanding_wrong_questions：0
-- wrong_question_ids：none
-- unique_questions：3
+## 考試結果
+- lesson_group_id: `history-g7-l003`
+- student_id: `student-001`
+- attempted_answers: `3`
+- currently_correct_questions: `3`
+- outstanding_wrong_questions: `0`
+- wrong_question_ids: none
 
-## 判讀
-- 初步準確率：100%（就目前已嘗試題目）
-- 目前不需列入錯題重做名單。
-- 但尚未完成後續題目，建議繼續採「一次一區塊」擴充：先複習政治運動脈絡，再做生活習俗與法治制度題。
+## 成效判讀
+- 正確率=3/3，當前階段為滿分通過段。
+- 未產生錯題檔，無法提供本次需重作的題目集，但可將同類未作答題納入下一輪收斂。
 
-## 下一步建議
-- 連結知識頁面：[[history-g7-l003-core-concepts]]
-- 導回教學調整：[[history-g7-l003-teaching-focus]]
-- 檢核題目來源：[[drive-s2-quiz]]，並與教材頁面對照：[[drive-s2-textbook]]
+## 觀察到的學力訊號
+- 學生能辨識主要政治社會運動與教育制度題目；
+- 對關鍵名詞（如臺中中學校、臺灣民眾黨、地方議員選舉）有初步穩定識別。
+
+## 連結
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-teaching-focus]]
+- [[drive-s2-textbook]]
+- [[drive-s2-quiz]]
+- [[history-g7-l003-misconceptions]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
-- [[drive-s2-quiz]]
 - [[drive-s2-textbook]]
+- [[drive-s2-quiz]]
 - [[history-g7-l003-misconceptions]]
-- [[entity-education-tiered-system]]
-- [[entity-culture-association-movement]]
-- [[entity-urban-modern-life-order]]
-- [[event-tiered-school-policy-practice]]
-- [[event-cultural-association-and-party-movements]]
-- [[event-1937-suppression-of-movements]]
-- [[comparison-tiered-education-vs-national-school]]
-- [[comparison-old-vs-modern-life-order]]
+- [[history-g7-l003-entity-japanese-era-education]]
+- [[history-g7-l003-entity-tw-cultural-association]]
+- [[history-g7-l003-entity-tw-peoples-party]]
+- [[history-g7-l003-event-parliament-petition-movement]]
+- [[history-g7-l003-event-peoples-party-founded]]
+- [[history-g7-l003-event-six-year-compulsory-education]]
+- [[history-g7-l003-comparison-colonial-education-vs-national-school]]
+- [[history-g7-l003-comparison-urban-modern-culture-village-tradition]]
+- [[history-g7-l003-comparison-civilsociety-vs-colonial-governance]]
 - [[index]]

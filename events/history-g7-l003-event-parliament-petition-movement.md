@@ -1,14 +1,15 @@
 ---
-title: 日治時期教學重點與可行提示
-created: '2026-05-04'
+title: 臺灣議會設置請願運動（1921）
+created: '2026-07-18'
 updated: '2026-07-18'
 type: summary
 tags:
 - history
+- event
+- politics
+- social-movements
 - grade-7
-- teaching-strategy
-- education
-- student-progress
+- taiwan-history
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
@@ -18,28 +19,27 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 教學提示
-- 先做「3段式脈絡圖」：教育制度、政治社會運動、生活文化，將每題與其對應脈絡對齊。
-- 用「題目選項排除法」練習同類干擾項，例如：中日戰爭、第一線索與後果、政黨成立目的等。
-- 針對易混淆年份，採取卡片排序（1921、1927、1930、1935、1937、1943）快速鞏固。
+## 事件要點
+- 發起者：林獻堂、蔧渭水等人。
+- 目標：請求設立臺灣議會，制衡總督府行政權力。
 
-## 本次建議補強
-- 加入『為何形成自治意識』的因果鏈：民族自決思潮→文化啟蒙→請願與政黨→地方自治意識。
-- 將「差別教育」改寫為比較題：日本人學校 vs 臺灣人學校，輔以入學率變化。
+## 學習連結
+- 本事件可作為自治政治觀念啟蒙的重要起點，延伸至地方自治聯盟與地方議員選舉的脈絡。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-event-local-autonomy-alliance]]
+- [[history-g7-l003-comparison-colonial-education-vs-national-school]]
 - [[drive-s2-textbook]]
+- [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-quiz]]
 - [[history-g7-l003-entity-japanese-era-education]]
 - [[history-g7-l003-entity-tw-cultural-association]]
 - [[history-g7-l003-entity-tw-peoples-party]]
-- [[history-g7-l003-event-parliament-petition-movement]]
 - [[history-g7-l003-event-peoples-party-founded]]
 - [[history-g7-l003-event-six-year-compulsory-education]]
-- [[history-g7-l003-comparison-colonial-education-vs-national-school]]
 - [[history-g7-l003-comparison-urban-modern-culture-village-tradition]]
 - [[history-g7-l003-comparison-civilsociety-vs-colonial-governance]]
 - [[index]]

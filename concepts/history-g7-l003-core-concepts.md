@@ -1,18 +1,16 @@
 ---
-title: 日治時期社會與文化核心觀念
+title: 日治時期社會與文化核心概念
 created: '2026-05-04'
-updated: '2026-07-17'
+updated: '2026-07-18'
 type: concept
 tags:
 - history
 - grade-7
 - lesson
 - concept
-- japanese-rule
-- social-movements
-- modernization
-- culture
 - taiwan-history
+- social-movements
+- education
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -23,27 +21,27 @@ student_id: student-001
 ---
 
 ## 核心概念
-- 日治時期的教育制度以差別待遇為前提，透過不同學制與語言規範推動殖民治理與同化。
-- 1900–1930年代知識人藉文化協會、議會設置請願、民眾黨等組織，將自治、民權與民族自覺帶入公共討論。
-- 生活習慣改革從服飾、飲食、公共衛生、守法守時到都會休閒空間，逐步改變社會節奏，但城鄉落差使新舊文化並未完全取代。
+- 日治政府以日語為主推行新式學制，透過差別待遇的教育制度進行同化與行政管理。
+- 政治社會運動主要由臺灣知識分子發起，核心訴求為民權、自治與民族意識的覺醒。
+- 文化生活由「禁足斷髮、易服改裝、鴉片管制、衛生與守時」等面向，形成都市化與傳統並存的社會。
 
-## 關係圖示（文字）
-- [[entity-education-tiered-system]] 提供制度面的切入。
-- [[event-cultural-association-and-party-movements]] 說明政治啟蒙與抗爭脈絡。
-- [[comparison-old-vs-modern-life-order]] 說明變遷不是「全替代」，而是長期共存。
+## 概念關係
+- 教育制度產生知識分子群體，進一步推動文化啟蒙與政治社會運動。
+- 都市現代化設施（公園、博物館、百貨）帶來生活方式轉變，但鄉村與原住民地區調適節奏較慢。
 
 ## 相關頁面
-- [[entity-education-tiered-system]]
-- [[event-cultural-association-and-party-movements]]
-- [[comparison-old-vs-modern-life-order]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-entity-japanese-era-education]]
+- [[history-g7-l003-comparison-colonial-education-vs-national-school]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[entity-culture-association-movement]]
-- [[entity-urban-modern-life-order]]
-- [[event-tiered-school-policy-practice]]
-- [[event-1937-suppression-of-movements]]
-- [[comparison-tiered-education-vs-national-school]]
+- [[history-g7-l003-entity-tw-cultural-association]]
+- [[history-g7-l003-entity-tw-peoples-party]]
+- [[history-g7-l003-event-parliament-petition-movement]]
+- [[history-g7-l003-event-peoples-party-founded]]
+- [[history-g7-l003-event-six-year-compulsory-education]]
+- [[history-g7-l003-comparison-urban-modern-culture-village-tradition]]
+- [[history-g7-l003-comparison-civilsociety-vs-colonial-governance]]
 - [[index]]
