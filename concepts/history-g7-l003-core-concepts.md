@@ -1,7 +1,7 @@
 ---
-title: 日治時期社會與文化核心概念
+title: 日治時期社會與文化核心觀念
 created: '2026-05-04'
-updated: '2026-07-18'
+updated: '2026-07-19'
 type: concept
 tags:
 - history
@@ -9,8 +9,11 @@ tags:
 - lesson
 - concept
 - taiwan-history
-- social-movements
+- japanese-rule
 - education
+- social-movements
+- culture
+- modernization
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -21,27 +24,27 @@ student_id: student-001
 ---
 
 ## 核心概念
-- 日治政府以日語為主推行新式學制，透過差別待遇的教育制度進行同化與行政管理。
-- 政治社會運動主要由臺灣知識分子發起，核心訴求為民權、自治與民族意識的覺醒。
-- 文化生活由「禁足斷髮、易服改裝、鴉片管制、衛生與守時」等面向，形成都市化與傳統並存的社會。
+- 總督府推行的教育制度以差別待遇、日語教學與產業需求為主軸，既是統治工具也是培養知識分子的通道。
+- 1920年代起，知識分子以文化協會、報刊、演講與政黨組織等方式發展啟蒙與政治社會運動，聚焦自治、權益與參政意識。
+- 日常生活中，鴉片管制、放足斷髮、時辰制度、衛生宣導與都會娛樂空間的普及，讓臺灣社會在城鄉間產生不同速度的新舊文化交融。
 
-## 概念關係
-- 教育制度產生知識分子群體，進一步推動文化啟蒙與政治社會運動。
-- 都市現代化設施（公園、博物館、百貨）帶來生活方式轉變，但鄉村與原住民地區調適節奏較慢。
+## 觀念關係
+- 從學校制度到生活制度，變遷是由「統治者要求的現代化」與「民眾自主調適」共同形成的。
+- 受過現代教育的知識分子常成為政治社會運動的重要推手，連接學術啟蒙與自治訴求。
 
 ## 相關頁面
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[history-g7-l003-entity-japanese-era-education]]
-- [[history-g7-l003-comparison-colonial-education-vs-national-school]]
+- [[history-g7-l003-entity-education-stratification]]
+- [[history-g7-l003-event-1921-assembly-petition]]
 - [[drive-s2-textbook]]
+- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-entity-tw-cultural-association]]
-- [[history-g7-l003-entity-tw-peoples-party]]
-- [[history-g7-l003-event-parliament-petition-movement]]
-- [[history-g7-l003-event-peoples-party-founded]]
-- [[history-g7-l003-event-six-year-compulsory-education]]
-- [[history-g7-l003-comparison-urban-modern-culture-village-tradition]]
-- [[history-g7-l003-comparison-civilsociety-vs-colonial-governance]]
+- [[history-g7-l003-entity-civic-movement-and-culture]]
+- [[history-g7-l003-entity-urban-life-modernization]]
+- [[history-g7-l003-entity-intellectual-leadership]]
+- [[history-g7-l003-event-1927-taipans-people-party]]
+- [[history-g7-l003-event-1935-local-elections]]
+- [[history-g7-l003-comparison-colonial-education-and-equity]]
+- [[history-g7-l003-comparison-urban-rural-cultural-shift]]
 - [[index]]

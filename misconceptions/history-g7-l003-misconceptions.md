@@ -1,7 +1,7 @@
 ---
-title: 學生迷思與檢核情形
+title: 日治時期社會與文化常見迷思
 created: '2026-05-04'
-updated: '2026-07-18'
+updated: '2026-07-19'
 type: summary
 tags:
 - history
@@ -11,38 +11,35 @@ tags:
 - student-progress
 sources:
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
-confidence: high
+confidence: medium
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 學生表現快照
-- 已作答題數：3
-- 正確題數：3
-- 未答對題數：0
+## 目前困惑型態
+- 已作答題目（1、2、3）皆答對，表示對【台灣民眾黨成立】、【休閒場所出現原因】與【臺中中學校】等核心事實辨識穩定。
+- 本階段尚未見到持續性錯誤題數，故目前可視為「暫時未固定」迷思。
 
-## 迷思模式判讀
-- 在目前可觀察資料中，未出現實際答錯紀錄，無法直接確認「固定性」迷思；
-- 但教材內容本身高易混淆點（如『制度名稱變化』與『時間序列先後』）仍須在後續題目繼續追蹤。
+## 容易混淆的關係（待補強）
+- 「現代化休閒」與「政治社會運動」都屬社會變動表象，學生可能誤認為同時由政治運動直接造成；實際上教材更偏向將休閒與都會文化歸於工業與都市發展。
+- 「教育同化」與「教育成效」的關係也常混在一起，需強調差別待遇下的資源不平等與識字機會提升可以同時存在。
 
 ## 是否已解決
-- 對於本輪題目，關鍵概念已可正確分辨：學制差別、政黨與自治運動、司法制度、現代衛生觀念。
-- 是否穩定，仍建議以未出現的題型再做一次綜合回收。
+- 已作答題目前看似乎已解決；但因僅覆蓋 3 題，迷思是否穩定仍待全面作答後確認。
 
 ## 相關頁面
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[history-g7-l003-event-tw-cultural-enlightenment-movement]]
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-entity-intellectual-leadership]]
+- [[history-g7-l003-teaching-focus]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-entity-japanese-era-education]]
-- [[history-g7-l003-entity-tw-cultural-association]]
-- [[history-g7-l003-entity-tw-peoples-party]]
-- [[history-g7-l003-event-parliament-petition-movement]]
-- [[history-g7-l003-event-peoples-party-founded]]
-- [[history-g7-l003-event-six-year-compulsory-education]]
-- [[history-g7-l003-comparison-colonial-education-vs-national-school]]
-- [[history-g7-l003-comparison-urban-modern-culture-village-tradition]]
-- [[history-g7-l003-comparison-civilsociety-vs-colonial-governance]]
+- [[history-g7-l003-entity-education-stratification]]
+- [[history-g7-l003-entity-civic-movement-and-culture]]
+- [[history-g7-l003-entity-urban-life-modernization]]
+- [[history-g7-l003-event-1921-assembly-petition]]
+- [[history-g7-l003-event-1927-taipans-people-party]]
+- [[history-g7-l003-event-1935-local-elections]]
+- [[history-g7-l003-comparison-colonial-education-and-equity]]
+- [[history-g7-l003-comparison-urban-rural-cultural-shift]]
 - [[index]]
