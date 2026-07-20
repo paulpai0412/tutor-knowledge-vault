@@ -1,49 +1,55 @@
 ---
-title: 日治時期測驗來源筆記（drive-s2-quiz）
+title: 測驗源筆記：日治時期的社會與文化（drive-s2-quiz）
 created: '2026-05-04'
-updated: '2026-07-19'
-type: entity
+updated: '2026-07-20'
+type: summary
 tags:
 - history
 - grade-7
-- source-note
 - exam-analysis
+- source-note
 - social-movements
+- education
+- culture
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
-confidence: high
+confidence: medium
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 來源資訊
-- `exam_id`: history-g7-l003-drive-s2-quiz
-- `exam_title`: 日治時期的社會與文化
-- `subject`: history
-- `grade`: 7
-- `lesson_no`: 3
-- `source_pdf`: drive-s2-quiz.pdf
-- `source_hash`: sha256:b51e95bbc8e5a18eb7ccbab5f5d97608c7db9aac018d6c59d2614c9df27e
-- `converter`: marker（轉檔狀態標註為 `review_required`）
+## 來源資料
+- exam_id: history-g7-l003-drive-s2-quiz
+- exam_variant_id: drive-s2-quiz
+- converter: marker
+- conversion_state: review_required
+- source_pdf: drive-s2-quiz.pdf
 
-## 測驗特徵
-- 以 80 分為滿分；題幹包含教育差別、政治運動次序、文化與生活制度變化、法治與衛生措施。
-- 已提供之作答紀錄顯示目前僅 3 題完成且全對（q-1、q-2、q-3）。
+## 現況與證據
+題目清單已截取至第三篇日治時期，且含選擇題 1~20+範圍；目前學生最新作答只顯示前 3 題，均正確，未產生回填式錯題紀錄。
+
+## 使用重點
+- 搭配教材中的脈絡章節，特別對照事件順序與人名組織題的對應。
+- 可在完成其餘題目後再回頭補強「1937後運動受壓與自治訴求」等邏輯。
 
 ## 相關頁面
-- [[history-g7-l003-student-001-exam-report]]
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-event-1921-assembly-petition]]
 - [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
-- [[history-g7-l003-entity-education-stratification]]
-- [[history-g7-l003-entity-civic-movement-and-culture]]
-- [[history-g7-l003-entity-urban-life-modernization]]
-- [[history-g7-l003-entity-intellectual-leadership]]
-- [[history-g7-l003-event-1927-taipans-people-party]]
-- [[history-g7-l003-event-1935-local-elections]]
-- [[history-g7-l003-comparison-colonial-education-and-equity]]
-- [[history-g7-l003-comparison-urban-rural-cultural-shift]]
+- [[history-g7-l003-teaching-focus]]
+- [[entity-jiang-wei-shui]]
+- [[entity-lin-xian-tang]]
+- [[entity-taiwan-cultural-association]]
+- [[entity-taiwan-peoples-party]]
+- [[entity-taichung-middle-school]]
+- [[event-1921-taiwan-assembly-petition]]
+- [[event-1927-taiwan-peoples-party-formation]]
+- [[event-1930-taiwan-local-autonomy-league]]
+- [[event-1935-first-local-election]]
+- [[event-1937-movement-suppression]]
+- [[comparison-education-differentiation-vs-national-school]]
+- [[comparison-modernization-imposed-vs-adapted-culture]]
+- [[comparison-political-reform-with-structural-limits]]
 - [[index]]

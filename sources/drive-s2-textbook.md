@@ -1,55 +1,54 @@
 ---
-title: 日治時期教材來源筆記（drive-s2-textbook）
+title: 教材源筆記：日治時期的社會與文化（drive-s2-textbook）
 created: '2026-05-04'
-updated: '2026-07-19'
-type: entity
+updated: '2026-07-20'
+type: summary
 tags:
 - history
 - grade-7
-- source-note
 - lesson
+- source-note
 - taiwan-history
+- education
+- culture
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
-confidence: high
+confidence: medium
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 來源資訊
-- `lesson_id`: history-g7-l003
-- `lesson_title`: 日治時期的社會與文化
-- `subject`: history
-- `grade`: 7
-- `lesson_no`: 3
-- `source_pdf`: drive-s2-textbook.pdf
-- `source_hash`: sha256:4a3578136293aadfd17c04341e7d56642a8652bd4828603d48ad332dadaf267c
-- `converter`: markitdown
+## 來源資料
+- lesson_id: history-g7-l003
+- lesson_group_id: history-g7-l003
+- title: 日治時期的社會與文化
+- source_pdf: drive-s2-textbook.pdf
+- converter: markitdown
+- conversion_state: wiki_ready
 
-## 內容脈絡
-- 年代段、教育制度差別待遇、文化啟蒙、自治請願、民眾黨成立、地方自治聯盟、衛生與守時習慣、都會文化崛起是本課主軸。
-- 補充閱讀含蔣渭水《臨床講義》與吳濁流作品觀察，提供價值與社會批判視角。
-
-## 連結回顧
-- [[drive-s2-textbook]]
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-entity-education-stratification]]
-- [[history-g7-l003-event-1927-taipans-people-party]]
+## 可用於圖譜的核心節點
+- 教育制度的差別與演變（小學校、國民學校、六年義務教育）
+- 文化啟蒙與政治社會運動（議會請願、文化協會、政黨與地方自治）
+- 都會文化與生活規律改變（衛生、法治、時間制度）
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-entity-education-stratification]]
-- [[history-g7-l003-event-1927-taipans-people-party]]
-- [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-entity-civic-movement-and-culture]]
-- [[history-g7-l003-entity-urban-life-modernization]]
-- [[history-g7-l003-entity-intellectual-leadership]]
-- [[history-g7-l003-event-1921-assembly-petition]]
-- [[history-g7-l003-event-1935-local-elections]]
-- [[history-g7-l003-comparison-colonial-education-and-equity]]
-- [[history-g7-l003-comparison-urban-rural-cultural-shift]]
+- [[history-g7-l003-misconceptions]]
+- [[entity-jiang-wei-shui]]
+- [[entity-lin-xian-tang]]
+- [[entity-taiwan-cultural-association]]
+- [[entity-taiwan-peoples-party]]
+- [[entity-taichung-middle-school]]
+- [[event-1921-taiwan-assembly-petition]]
+- [[event-1927-taiwan-peoples-party-formation]]
+- [[event-1930-taiwan-local-autonomy-league]]
+- [[event-1935-first-local-election]]
+- [[event-1937-movement-suppression]]
+- [[comparison-education-differentiation-vs-national-school]]
+- [[comparison-modernization-imposed-vs-adapted-culture]]
+- [[comparison-political-reform-with-structural-limits]]
 - [[index]]

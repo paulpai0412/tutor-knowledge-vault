@@ -1,7 +1,7 @@
 ---
-title: 日治時期社會與文化常見迷思
+title: 日治時期社會與文化迷思整理
 created: '2026-05-04'
-updated: '2026-07-19'
+updated: '2026-07-20'
 type: summary
 tags:
 - history
@@ -9,6 +9,7 @@ tags:
 - misconception
 - exam-analysis
 - student-progress
+- culture
 sources:
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 confidence: medium
@@ -16,30 +17,35 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 目前困惑型態
-- 已作答題目（1、2、3）皆答對，表示對【台灣民眾黨成立】、【休閒場所出現原因】與【臺中中學校】等核心事實辨識穩定。
-- 本階段尚未見到持續性錯誤題數，故目前可視為「暫時未固定」迷思。
+## 目前迷思偵測
+目前作答紀錄顯示 3 題皆為正確，尚未形成可直接定位的穩定迷思；`wrong_question_ids` 為 none，代表目前尚未觀察到明確概念性偏差。
 
-## 容易混淆的關係（待補強）
-- 「現代化休閒」與「政治社會運動」都屬社會變動表象，學生可能誤認為同時由政治運動直接造成；實際上教材更偏向將休閒與都會文化歸於工業與都市發展。
-- 「教育同化」與「教育成效」的關係也常混在一起，需強調差別待遇下的資源不平等與識字機會提升可以同時存在。
+## 潛在風險迷思（先備提醒）
+- 可能誤以為日治時期文化改變代表傳統完全消失，實際上教材指出是「交融」與「共存」。
+- 可能誤認為教育差別待遇與義務教育是同時全面實施，事實上先有差別制度，後轉向改稱「國民學校」並提高就學規模。
+- 可能誤把文化啟蒙與政黨鬥爭視為同時且等量級行動，需分清組織性質與目標軸線。
 
-## 是否已解決
-- 已作答題目前看似乎已解決；但因僅覆蓋 3 題，迷思是否穩定仍待全面作答後確認。
+## 是否已修正
+在目前三題樣本中尚無未修正錯誤可追蹤；可在下一輪題目中持續追蹤學生對「制度推動」與「人民主體行動」的界線理解。
 
 ## 相關頁面
-- [[history-g7-l003-student-001-exam-report]]
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-entity-intellectual-leadership]]
+- [[history-g7-l003-student-001-exam-report]]
 - [[history-g7-l003-teaching-focus]]
+- [[comparison-topdown-modernization-vs-civil-society-initiative]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-entity-education-stratification]]
-- [[history-g7-l003-entity-civic-movement-and-culture]]
-- [[history-g7-l003-entity-urban-life-modernization]]
-- [[history-g7-l003-event-1921-assembly-petition]]
-- [[history-g7-l003-event-1927-taipans-people-party]]
-- [[history-g7-l003-event-1935-local-elections]]
-- [[history-g7-l003-comparison-colonial-education-and-equity]]
-- [[history-g7-l003-comparison-urban-rural-cultural-shift]]
+- [[entity-jiang-wei-shui]]
+- [[entity-lin-xian-tang]]
+- [[entity-taiwan-cultural-association]]
+- [[entity-taiwan-peoples-party]]
+- [[entity-taichung-middle-school]]
+- [[event-1921-taiwan-assembly-petition]]
+- [[event-1927-taiwan-peoples-party-formation]]
+- [[event-1930-taiwan-local-autonomy-league]]
+- [[event-1935-first-local-election]]
+- [[event-1937-movement-suppression]]
+- [[comparison-education-differentiation-vs-national-school]]
+- [[comparison-modernization-imposed-vs-adapted-culture]]
+- [[comparison-political-reform-with-structural-limits]]
 - [[index]]
