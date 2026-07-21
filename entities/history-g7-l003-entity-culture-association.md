@@ -1,49 +1,41 @@
 ---
-title: 教材來源：drive-s2-textbook
-created: '2026-05-04'
+title: 臺灣文化協會與民智啟蒙
+created: '2026-07-21'
 updated: '2026-07-21'
-type: summary
+type: entity
 tags:
-- source-note
-- lesson
+- social-movements
+- culture
 - history
-- grade-7
+- entity
 - taiwan-history
-- education
 sources:
-- indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
+- wiki/exams/history/g7/l003/drive-s2-quiz.md
+- wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 來源資訊
-- lesson_id: history-g7-l003
-- lesson_no: 3
-- title: 日治時期的社會與文化
-- source_pdf: drive-s2-textbook.pdf
-- source_hash: sha256:4a3578136293aadfd17c04341e7d56642a8652bd4828603d48ad332dadaf267c
-- converter: markitdown
-- conversion_state: wiki_ready
-## 內容脈絡
-- 涵蓋三大主軸：差別與同化教育、文化啟蒙與政治社會運動、新舊文化變遷。
-- 資料可回扣到關鍵事件：1921 文化協會、1927 民眾黨、1930 地方自治聯盟、1935 地方議員選舉、1937 壓制。
+## 重點
+- 1921 年成立，核心目標為「謀臺灣文化之向上」，透過文化工作推動社會改良與民族意識。
+- 作為政治運動前鋒，其歷史意義在於先建立民意與公共討論空間。
 
 ## 相關頁面
-- [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-event-1921-culture-association]]
+- [[history-g7-l003-event-1927-people-party]]
 - [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
 - [[history-g7-l003-entity-education-disparity]]
 - [[history-g7-l003-entity-intellectual-elite-motion]]
-- [[history-g7-l003-entity-culture-association]]
 - [[history-g7-l003-entity-taiwan-people-party]]
 - [[history-g7-l003-entity-modern-public-health]]
 - [[history-g7-l003-entity-urban-cultural-life]]
-- [[history-g7-l003-event-1927-people-party]]
 - [[history-g7-l003-event-1930-local-autonomy-league]]
 - [[history-g7-l003-event-1935-township-election]]
 - [[history-g7-l003-event-1937-political-suppression]]

@@ -1,40 +1,38 @@
 ---
-title: 測驗來源：drive-s2-quiz
-created: '2026-05-04'
+title: 日治時期教育差別與同化路線
+created: '2026-07-21'
 updated: '2026-07-21'
-type: summary
+type: entity
 tags:
-- source-note
-- exam-analysis
+- education
 - history
-- grade-7
-- source-note
+- taiwan-history
+- entity
+- japanese-rule
 sources:
-- indexes/exams/history-g7-l003-drive-s2-quiz.json
+- wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
+- wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 來源資訊
-- exam_id: history-g7-l003-drive-s2-quiz
-- source_pdf: drive-s2-quiz.pdf
-- source_hash: sha256:b51e95bbc8e5a18e...df27e8
-- converter: marker
-- conversion_state: review_required
-- 題目結構：1~8（3 分）、9~22（4 分）
-## 使用備註
-- 本次已採集到前 3 題作答記錄皆為正確，仍保留整體題組供後續回補與查核。
-- 由於題幹與干擾項包含歷史名詞與制度名稱，後續分析可聚焦「原因—結果」而非單純死背。
+## 核心事實
+- 小學校、公共學校、蕃人公學校分開設置，日語為主要教學語言，並伴隨師資設備差距。
+- 就學率逐步提升（1917~1943）但台日差距仍可見，反映制度改革不等於平權。
+## 對應學習
+- 可與政治訴求結構連動，理解為何知識分子更重視自治與權益。
 
 ## 相關頁面
-- [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-event-1935-township-election]]
+- [[history-g7-l003-comparison-education-policy-equality]]
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
-- [[history-g7-l003-entity-education-disparity]]
+- [[drive-s2-quiz]]
 - [[history-g7-l003-entity-intellectual-elite-motion]]
 - [[history-g7-l003-entity-culture-association]]
 - [[history-g7-l003-entity-taiwan-people-party]]
@@ -43,9 +41,7 @@ student_id: student-001
 - [[history-g7-l003-event-1921-culture-association]]
 - [[history-g7-l003-event-1927-people-party]]
 - [[history-g7-l003-event-1930-local-autonomy-league]]
-- [[history-g7-l003-event-1935-township-election]]
 - [[history-g7-l003-event-1937-political-suppression]]
-- [[history-g7-l003-comparison-education-policy-equality]]
 - [[history-g7-l003-comparison-rural-urban-modernization]]
 - [[history-g7-l003-comparison-tradition-modern-coexistence]]
 - [[index]]

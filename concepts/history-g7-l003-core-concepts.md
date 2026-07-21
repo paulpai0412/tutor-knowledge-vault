@@ -1,53 +1,50 @@
 ---
 title: 日治時期社會與文化核心概念
 created: '2026-05-04'
-updated: '2026-07-20'
+updated: '2026-07-21'
 type: concept
 tags:
 - history
 - grade-7
+- lesson
+- concept
 - taiwan-history
-- japanese-rule
 - education
+- social-movements
 - modernization
 - culture
-- social-movements
-- concept
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
-confidence: medium
+confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
 ## 核心概念
-日治時期的臺灣同時出現兩條張力路徑：一是殖民政府以教育、衛生、法治、時間紀律與都市建設推進現代化；二是知識分子以文化啟蒙與政治社會運動回應統治壓迫。學習重點不在孤立事件，而在制度變遷如何連接到族群生活變化與權益意識形成。
-
-## 主要關係
-- 以「差別待遇與隔離原則」開展教育制度，後來逐步轉向國民學校與六年義務教育，形成知識傳遞再到政治覺醒的條件。
-- 醫療、衛生、守時、法治等公共觀念改變日常行為，與都市娛樂與休閒空間形成都會文化，帶動生活型態重組。
-- 政府主導現代化與民間組織的文化啟蒙並非對立，而是先後交織，推動社會對自治、參政、民族認同的理解。
+- 教育採「小學校／公學校／蕃人公學校」差別制度，短期提升就學率，但仍維持日本人與臺灣人之間顯著差距。
+- 知識分子在文化啟蒙基礎上推動議會請願、政黨與自治聯盟，將民族自覺轉化為政治社會運動。
+- 新舊文化並未斷裂，而是在法治、衛生、服飾、休閒與時間規律中逐步調適共存。
 
 ## 相關頁面
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[entity-taiwan-cultural-association]]
-- [[comparison-differentiated-education-vs-national-school]]
+- [[history-g7-l003-entity-education-disparity]]
+- [[history-g7-l003-event-1935-township-election]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[entity-jiang-wei-shui]]
-- [[entity-lin-xian-tang]]
-- [[entity-taiwan-peoples-party]]
-- [[entity-taichung-middle-school]]
-- [[event-1921-taiwan-assembly-petition]]
-- [[event-1927-taiwan-peoples-party-formation]]
-- [[event-1930-taiwan-local-autonomy-league]]
-- [[event-1935-first-local-election]]
-- [[event-1937-movement-suppression]]
-- [[comparison-education-differentiation-vs-national-school]]
-- [[comparison-modernization-imposed-vs-adapted-culture]]
-- [[comparison-political-reform-with-structural-limits]]
+- [[history-g7-l003-entity-intellectual-elite-motion]]
+- [[history-g7-l003-entity-culture-association]]
+- [[history-g7-l003-entity-taiwan-people-party]]
+- [[history-g7-l003-entity-modern-public-health]]
+- [[history-g7-l003-entity-urban-cultural-life]]
+- [[history-g7-l003-event-1921-culture-association]]
+- [[history-g7-l003-event-1927-people-party]]
+- [[history-g7-l003-event-1930-local-autonomy-league]]
+- [[history-g7-l003-event-1937-political-suppression]]
+- [[history-g7-l003-comparison-education-policy-equality]]
+- [[history-g7-l003-comparison-rural-urban-modernization]]
+- [[history-g7-l003-comparison-tradition-modern-coexistence]]
 - [[index]]

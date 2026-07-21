@@ -1,35 +1,36 @@
 ---
-title: 學生迷思診斷與澄清
-created: '2026-05-04'
+title: 1930：臺灣地方自治聯盟成立
+created: '2026-07-21'
 updated: '2026-07-21'
-type: concept
+type: summary
 tags:
-- misconception
-- exam-analysis
-- teaching-strategy
+- event
 - history
-- grade-7
-- student-progress
+- local-autonomy
+- politics
+- social-movements
 sources:
+- wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
-confidence: medium
+- wiki/students/student-001/progress/history/g7/l003/summary.md
+confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 常見迷思
-- 可能誤以為有新制度就表示臺灣人可享有完全平等；但教材顯示實際仍有明顯差別待遇。
-- 可能誤以為政治社會運動只與選舉有關，而忽略文化協會、讀報社與演講等啟蒙鏈結。
-## 目前解題狀態
-- 本次已作答 3 題，正確率 100%，wrong_question_ids 為 none，尚未形成可固定化的迷思紀錄。
-- 因而目前迷思屬潛在風險，需透過後續題目觀察再標記為已確認。
+## 事件要點
+- 推動地方自治主張，連結知識分子、民眾參與與制度改革。
+- 對 1935 選舉經驗有直接承接關係。
 
 ## 相關頁面
+- [[history-g7-l003-event-1935-township-election]]
+- [[history-g7-l003-comparison-education-policy-equality]]
 - [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
-- [[drive-s2-quiz]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
+- [[drive-s2-quiz]]
 - [[history-g7-l003-entity-education-disparity]]
 - [[history-g7-l003-entity-intellectual-elite-motion]]
 - [[history-g7-l003-entity-culture-association]]
@@ -38,10 +39,7 @@ student_id: student-001
 - [[history-g7-l003-entity-urban-cultural-life]]
 - [[history-g7-l003-event-1921-culture-association]]
 - [[history-g7-l003-event-1927-people-party]]
-- [[history-g7-l003-event-1930-local-autonomy-league]]
-- [[history-g7-l003-event-1935-township-election]]
 - [[history-g7-l003-event-1937-political-suppression]]
-- [[history-g7-l003-comparison-education-policy-equality]]
 - [[history-g7-l003-comparison-rural-urban-modernization]]
 - [[history-g7-l003-comparison-tradition-modern-coexistence]]
 - [[index]]
