@@ -1,15 +1,14 @@
 ---
-title: 教材來源：drive-s2-textbook
+title: 教材來源筆記：日治時期的社會與文化
 created: '2026-05-04'
-updated: '2026-07-21'
+updated: '2026-07-22'
 type: summary
 tags:
-- source-note
-- lesson
 - history
 - grade-7
+- lesson
+- source-note
 - taiwan-history
-- education
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -19,35 +18,38 @@ student_id: student-001
 ---
 
 ## 來源資訊
-- lesson_id: history-g7-l003
-- lesson_no: 3
-- title: 日治時期的社會與文化
-- source_pdf: drive-s2-textbook.pdf
-- source_hash: sha256:4a3578136293aadfd17c04341e7d56642a8652bd4828603d48ad332dadaf267c
-- converter: markitdown
-- conversion_state: wiki_ready
-## 內容脈絡
-- 涵蓋三大主軸：差別與同化教育、文化啟蒙與政治社會運動、新舊文化變遷。
-- 資料可回扣到關鍵事件：1921 文化協會、1927 民眾黨、1930 地方自治聯盟、1935 地方議員選舉、1937 壓制。
+- lesson_id：history-g7-l003
+- lesson_variant_id：drive-s2-textbook
+- converter：markitdown
+- conversion_state：wiki_ready
+- source_pdf：drive-s2-textbook.pdf
+
+## 內容索引
+- 時代脈絡：1895-1945、1921、1927、1930、1935、1943、1945
+- 主題軸線：[[entity-taiwan-colonial-education]]、[[entity-taiwan-cultural-association]]、[[entity-jjang-weishui]]、[[entity-public-health-modernization]]。
+
+## 觀念回扣
+教材段落可直接對應到考卷中的事件與制度提問：[[history-g7-l003-core-concepts]] 與 [[comparison-education-differential-treatment-vs-national-school]]。
 
 ## 相關頁面
+- [[entity-taiwan-colonial-education]]
+- [[entity-taiwan-cultural-association]]
+- [[entity-jjang-weishui]]
+- [[entity-public-health-modernization]]
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-event-1921-culture-association]]
-- [[history-g7-l003-misconceptions]]
+- [[comparison-education-differential-treatment-vs-national-school]]
 - [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-entity-education-disparity]]
-- [[history-g7-l003-entity-intellectual-elite-motion]]
-- [[history-g7-l003-entity-culture-association]]
-- [[history-g7-l003-entity-taiwan-people-party]]
-- [[history-g7-l003-entity-modern-public-health]]
-- [[history-g7-l003-entity-urban-cultural-life]]
-- [[history-g7-l003-event-1927-people-party]]
-- [[history-g7-l003-event-1930-local-autonomy-league]]
-- [[history-g7-l003-event-1935-township-election]]
-- [[history-g7-l003-event-1937-political-suppression]]
-- [[history-g7-l003-comparison-education-policy-equality]]
-- [[history-g7-l003-comparison-rural-urban-modernization]]
-- [[history-g7-l003-comparison-tradition-modern-coexistence]]
+- [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[entity-taiwan-people-party]]
+- [[entity-taiwan-urban-culture-shifts]]
+- [[event-1921-parliament-petition-motion]]
+- [[event-1927-taiwan-people-party]]
+- [[event-1935-local-assembly-election]]
+- [[event-1937-movement-repression]]
+- [[event-1943-six-year-national-education]]
+- [[comparison-political-awareness-vs-repression]]
+- [[comparison-urban-modern-culture-vs-local-traditions]]
+- [[comparison-modern-hygiene-and-time-discipline]]
 - [[index]]
