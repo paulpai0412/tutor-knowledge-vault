@@ -1,52 +1,53 @@
 ---
-title: 學生迷思與理解斷點診斷
+title: 主要迷思診斷（student-001）
 created: '2026-05-04'
-updated: '2026-07-22'
+updated: '2026-07-23'
 type: summary
 tags:
 - history
 - grade-7
 - misconception
+- exam-analysis
 - student-progress
-- social-movements
-- politics
 sources:
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
-confidence: medium
+confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 目前迷思診斷
-在已提交的3題中，`currently_correct_questions=3`、`wrong_question_ids=none`、`outstanding_wrong_questions=0`，因此尚未形成可直接確認的主題性錯誤。
+## 觀察結果
+- 目前作答紀錄：attempted_answers=3、currently_correct_questions=3、outstanding_wrong_questions=0、wrong_question_ids=none。
+- 目前無錯題紀錄，表示關鍵基礎概念在前 3 題的表現為穩定。
 
-## 可能的高風險混淆
-- 將「政治社會運動」視為單一事件，而忽略連續運動序列（1921 請願、1927 成黨、1930 自治聯盟、1935 地方選舉）。
-- 混淆制度改善與社會全面平權，誤認為差別教育已立即消失而非逐步調整。
-- 把「現代化」當作單向替代，而未看到城鄉與群體差異持續存在。
+## 可能但未驗證的迷思
+- 可能把「日治時期」與「全面平等」混為一談：實際上初等教育設施與師資存在明顯族群差異。
+- 可能將「現代化文化」理解為傳統完全消失：教材指出新舊文化為並存並調適。
 
-## 是否已解決
-目前資料顯示題目尚未暴露未解決錯誤；建議待補齊更多題目後再做一次錯題回收。
+## 目前是否已解決
+- 在已觀察題目中未見誤解模式；
+- 但由於未完成全部題目，這是**尚需待確認**的暫時結論。
+
+## 連結
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-quiz]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[comparison-political-awareness-vs-repression]]
-- [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[entity-taiwan-colonial-education]]
-- [[entity-taiwan-cultural-association]]
-- [[entity-jjang-weishui]]
-- [[entity-taiwan-people-party]]
-- [[entity-public-health-modernization]]
-- [[entity-taiwan-urban-culture-shifts]]
-- [[event-1921-parliament-petition-motion]]
-- [[event-1927-taiwan-people-party]]
-- [[event-1935-local-assembly-election]]
-- [[event-1937-movement-repression]]
-- [[event-1943-six-year-national-education]]
-- [[comparison-education-differential-treatment-vs-national-school]]
-- [[comparison-urban-modern-culture-vs-local-traditions]]
-- [[comparison-modern-hygiene-and-time-discipline]]
+- [[drive-s2-textbook]]
+- [[history-g7-l003-entity-education-inequality]]
+- [[history-g7-l003-entity-intellectual-political-movements]]
+- [[history-g7-l003-entity-urban-modern-culture]]
+- [[history-g7-l003-entity-high-education-pathways]]
+- [[history-g7-l003-event-1921-cultural-association-and-petition-start]]
+- [[history-g7-l003-event-1927-taiwan-people-party-formed]]
+- [[history-g7-l003-event-1935-local-assembly-election]]
+- [[history-g7-l003-comparison-school-policy-vs-compulsory-education]]
+- [[history-g7-l003-comparison-tradition-vs-modern-life]]
+- [[history-g7-l003-comparison-constitutional-reform-vs-limited-autonomy]]
 - [[index]]

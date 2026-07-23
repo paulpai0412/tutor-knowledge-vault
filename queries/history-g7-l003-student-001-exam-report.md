@@ -1,13 +1,14 @@
 ---
-title: 學生001單元小測目前成果
+title: 學生-001 日治時期社會與文化 測驗回饋
 created: '2026-05-04'
-updated: '2026-07-22'
+updated: '2026-07-23'
 type: summary
 tags:
+- exam-analysis
 - history
 - grade-7
-- exam-analysis
 - student-progress
+- concept
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -18,39 +19,43 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 成果摘要
-- lesson_group_id：history-g7-l003
-- attempted_answers：3
-- currently_correct_questions：3
-- wrong_attempts：0
-- wrong_question_ids：none
+## 成績摘要
+- lesson_group_id: history-g7-l003
+- lesson_variant_id: drive-s2-textbook
+- exam_variant_id: drive-s2-quiz
+- attempted_answers: 3 / 已知unique_questions: 3
+- currently_correct_questions: 3
+- outstanding_wrong_questions: 0
+- wrong_question_ids: none
 
-## 已確認能力
-前3題最新提交皆正確（1: B、2: B、3: A），顯示對「日治教育關鍵學校」與「臺灣民眾黨成立背景」有穩定辨識。
+## 技能與傾向
+- top_skills：日治時期:3、工商業:1、政治社會運動:1、教育:1、社會生活:1、臺灣民眾黨:1（來自系統統計）。
 
-## 下一步行動
-- 優先完成其餘題目後再做錯題統整，若有新錯題再進行再挑戰；若仍無錯題，改走概念整合測。
-- 後續可用比較軸鞏固：[[comparison-education-differential-treatment-vs-national-school]]、[[comparison-political-awareness-vs-repression]]。
+## 解讀
+- 尚未形成錯題修正清單，屬於「穩定起點但樣本不足」的狀態。
+- 重點是維持正確率，降低後段高錯誤風險題（尤其「政策時程」與「制度性比較題」）。
 
-## 相關頁面
-- [[comparison-education-differential-treatment-vs-national-school]]
-- [[comparison-political-awareness-vs-repression]]
+## 連結
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
-- [[drive-s2-quiz]]
 - [[drive-s2-textbook]]
-- [[entity-taiwan-colonial-education]]
-- [[entity-taiwan-cultural-association]]
-- [[entity-jjang-weishui]]
-- [[entity-taiwan-people-party]]
-- [[entity-public-health-modernization]]
-- [[entity-taiwan-urban-culture-shifts]]
-- [[event-1921-parliament-petition-motion]]
-- [[event-1927-taiwan-people-party]]
-- [[event-1935-local-assembly-election]]
-- [[event-1937-movement-repression]]
-- [[event-1943-six-year-national-education]]
-- [[comparison-urban-modern-culture-vs-local-traditions]]
-- [[comparison-modern-hygiene-and-time-discipline]]
+- [[drive-s2-quiz]]
+
+## 相關頁面
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-teaching-focus]]
+- [[drive-s2-textbook]]
+- [[drive-s2-quiz]]
+- [[history-g7-l003-entity-education-inequality]]
+- [[history-g7-l003-entity-intellectual-political-movements]]
+- [[history-g7-l003-entity-urban-modern-culture]]
+- [[history-g7-l003-entity-high-education-pathways]]
+- [[history-g7-l003-event-1921-cultural-association-and-petition-start]]
+- [[history-g7-l003-event-1927-taiwan-people-party-formed]]
+- [[history-g7-l003-event-1935-local-assembly-election]]
+- [[history-g7-l003-comparison-school-policy-vs-compulsory-education]]
+- [[history-g7-l003-comparison-tradition-vs-modern-life]]
+- [[history-g7-l003-comparison-constitutional-reform-vs-limited-autonomy]]
 - [[index]]

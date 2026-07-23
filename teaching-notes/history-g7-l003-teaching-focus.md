@@ -1,15 +1,15 @@
 ---
-title: 本單元教學重點與教學回饋
+title: 教學重點與回饋
 created: '2026-05-04'
-updated: '2026-07-22'
+updated: '2026-07-23'
 type: summary
 tags:
+- teaching-strategy
 - history
 - grade-7
-- teaching-strategy
+- education
 - student-progress
 - concept
-- education
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
@@ -19,36 +19,34 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 教學提示
-- 先從命名題與對應事件起手：讓學生用一句話解釋為何答案不是其他選項，可降低日後迷失在高相似選項。
-- 以事件順序圖帶出因果：[[event-1921-parliament-petition-motion]]→[[event-1927-taiwan-people-party]]→[[event-1935-local-assembly-election]]→[[event-1937-movement-repression]]。
-- 將制度與生活結合：把 [[entity-taiwan-colonial-education]] 的政策對應到 [[comparison-education-differential-treatment-vs-national-school]] 再談 [[entity-urban-modern-culture-shifts]]。
+## 已成立的掌握
+- 學生在關於臺中中學校、都會休閒形成原因、臺灣民眾黨成立者等題目皆正確，對「人物、制度、現象」有基本對應力。
 
-## 重點回填順序
-1. 單詞與名詞：國民學校、臺灣民眾黨、地方自治。
-2. 事件先後：請願、成黨、地方自治聯盟、選舉、戰時壓制。
-3. 現代化變化：衛生、守法、守時、都會休閒與消費。
+## 建議教學策略
+- 先做「時間軸」複習：1918 國際影響→1921 啟蒙→1927 建黨→1930 聯盟→1935 選舉→1937 壓制。
+- 以比較句訓練：差別待遇 vs 義務教育、傳統習慣 vs 衛生法治化、殖民壓制 vs 地方自治嘗試。
+- 下一階段可先補齊第 4~22 題主題，尤其聚焦政治社會運動、都市化與現代生活規訓。
+- 將答題轉為短句證據句：每題至少寫出 1 個教材中的人名/制度/年份。
+
+## 預設下一步
+- 以 [[history-g7-l003-core-concepts]] 為主軸，帶入 [[history-g7-l003-comparison-school-policy-vs-compulsory-education]] 與 [[history-g7-l003-comparison-tradition-vs-modern-hygiene]] 做延伸。
+- 以 [[history-g7-l003-student-001-exam-report]] 追蹤每次補答結果。
 
 ## 相關頁面
-- [[event-1921-parliament-petition-motion]]
-- [[event-1927-taiwan-people-party]]
-- [[event-1935-local-assembly-election]]
-- [[event-1937-movement-repression]]
-- [[entity-taiwan-colonial-education]]
-- [[comparison-education-differential-treatment-vs-national-school]]
-- [[entity-urban-modern-culture-shifts]]
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-comparison-school-policy-vs-compulsory-education]]
+- [[history-g7-l003-comparison-tradition-vs-modern-hygiene]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-misconceptions]]
 - [[drive-s2-textbook]]
-- [[comparison-urban-modern-culture-vs-local-traditions]]
 - [[drive-s2-quiz]]
-- [[entity-taiwan-cultural-association]]
-- [[entity-jjang-weishui]]
-- [[entity-taiwan-people-party]]
-- [[entity-public-health-modernization]]
-- [[entity-taiwan-urban-culture-shifts]]
-- [[event-1943-six-year-national-education]]
-- [[comparison-political-awareness-vs-repression]]
-- [[comparison-modern-hygiene-and-time-discipline]]
+- [[history-g7-l003-entity-education-inequality]]
+- [[history-g7-l003-entity-intellectual-political-movements]]
+- [[history-g7-l003-entity-urban-modern-culture]]
+- [[history-g7-l003-entity-high-education-pathways]]
+- [[history-g7-l003-event-1921-cultural-association-and-petition-start]]
+- [[history-g7-l003-event-1927-taiwan-people-party-formed]]
+- [[history-g7-l003-event-1935-local-assembly-election]]
+- [[history-g7-l003-comparison-tradition-vs-modern-life]]
+- [[history-g7-l003-comparison-constitutional-reform-vs-limited-autonomy]]
 - [[index]]

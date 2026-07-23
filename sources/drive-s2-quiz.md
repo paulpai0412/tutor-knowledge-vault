@@ -1,14 +1,14 @@
 ---
-title: 測驗來源筆記：平時測驗卷
+title: 測驗來源：日治時期的社會與文化 平時測驗卷
 created: '2026-05-04'
-updated: '2026-07-22'
+updated: '2026-07-23'
 type: summary
 tags:
+- source-note
+- exam-analysis
 - history
 - grade-7
-- exam-analysis
-- source-note
-- japanese-rule
+- social-movements
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -17,39 +17,50 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 來源資訊
-- exam_id：history-g7-l003-drive-s2-quiz
-- exam_variant_id：drive-s2-quiz
-- converter：marker
-- conversion_state：review_required
-- source_pdf：drive-s2-quiz.pdf
+## 元資訊
+- exam_id: history-g7-l003-drive-s2-quiz
+- subject: history
+- grade: 7
+- lesson_no: 3
+- title: 日治時期的社會與文化
+- source_pdf: drive-s2-quiz.pdf
+- source_hash: sha256:b51e95bbc8e5a18ebe7097ccbab5f5d97608c7db9aac018d6c59d2614c9df27e
+- converter: marker
+- conversion_state: review_required
 
-## 可驗證內容
-- 已在進度記錄中確認題號1-3的作答結果皆為正確。
-- 題目主軸可對應教材事件與名詞：教育制度、地方議員選舉、政治社會組織。
+## 命題重點（可見片段）
+- 初段題目已作答且全對（1~3）：
+  - 日治時期第一所專收臺人中學
+  - 新式休閒場所出現原因
+  - 臺灣民眾黨的成立
+- 其餘題目涵蓋：
+  - 政治社會運動、自治與選舉
+  - 生活制度變遷與守時、衛生、法治
+  - 政策與文化影響之因果關係
 
-## 連結回教材
-將考題概念回扣到教材中的學術骨架，從 [[history-g7-l003-core-concepts]] 對應到關聯條目，例如 [[event-1921-parliament-petition-motion]]。
+## 使用方式
+- 可依學生作答缺口建立錯誤預測題庫，但目前未產生 wrong_question artifact。
+
+## 連結
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-textbook]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[event-1921-parliament-petition-motion]]
-- [[history-g7-l003-student-001-exam-report]]
 - [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[history-g7-l003-teaching-focus]]
-- [[entity-taiwan-colonial-education]]
-- [[entity-taiwan-cultural-association]]
-- [[entity-jjang-weishui]]
-- [[entity-taiwan-people-party]]
-- [[entity-public-health-modernization]]
-- [[entity-taiwan-urban-culture-shifts]]
-- [[event-1927-taiwan-people-party]]
-- [[event-1935-local-assembly-election]]
-- [[event-1937-movement-repression]]
-- [[event-1943-six-year-national-education]]
-- [[comparison-education-differential-treatment-vs-national-school]]
-- [[comparison-political-awareness-vs-repression]]
-- [[comparison-urban-modern-culture-vs-local-traditions]]
-- [[comparison-modern-hygiene-and-time-discipline]]
+- [[history-g7-l003-entity-education-inequality]]
+- [[history-g7-l003-entity-intellectual-political-movements]]
+- [[history-g7-l003-entity-urban-modern-culture]]
+- [[history-g7-l003-entity-high-education-pathways]]
+- [[history-g7-l003-event-1921-cultural-association-and-petition-start]]
+- [[history-g7-l003-event-1927-taiwan-people-party-formed]]
+- [[history-g7-l003-event-1935-local-assembly-election]]
+- [[history-g7-l003-comparison-school-policy-vs-compulsory-education]]
+- [[history-g7-l003-comparison-tradition-vs-modern-life]]
+- [[history-g7-l003-comparison-constitutional-reform-vs-limited-autonomy]]
 - [[index]]
