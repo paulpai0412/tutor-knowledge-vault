@@ -1,53 +1,46 @@
 ---
-title: 主要迷思診斷（student-001）
+title: 常見迷思與目前可觀察的理解偏差
 created: '2026-05-04'
-updated: '2026-07-23'
-type: summary
+updated: '2026-07-24'
+type: concept
 tags:
+- misconception
 - history
 - grade-7
-- misconception
-- exam-analysis
 - student-progress
+- exam-analysis
+- social-movements
 sources:
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
-confidence: high
+confidence: medium
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 觀察結果
-- 目前作答紀錄：attempted_answers=3、currently_correct_questions=3、outstanding_wrong_questions=0、wrong_question_ids=none。
-- 目前無錯題紀錄，表示關鍵基礎概念在前 3 題的表現為穩定。
+## 目前觀察
+- 已完成題目：1、2、3，皆為正確作答，未出現「錯題」訊號。
+- `wrong_question_ids` 無、`outstanding_wrong_questions` 為 0，表示當前回合尚無可重做清單。
 
-## 可能但未驗證的迷思
-- 可能把「日治時期」與「全面平等」混為一談：實際上初等教育設施與師資存在明顯族群差異。
-- 可能將「現代化文化」理解為傳統完全消失：教材指出新舊文化為並存並調適。
+## 可能迷思（待後段驗證）
+- 迷思風險 A：把「地方議員選舉」誤認為已達成全面自治。
+- 迷思風險 B：把「日治時期現代化」誤解為全部臺灣都同步進步，忽略城鄉與族群落差。
+- 目前以上僅為預警，非已發生錯誤。
 
-## 目前是否已解決
-- 在已觀察題目中未見誤解模式；
-- 但由於未完成全部題目，這是**尚需待確認**的暫時結論。
-
-## 連結
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-quiz]]
+## 修正情形
+- 目前缺乏反例題資料可直接證明誤解是否已修正；建議在 q4 之後題組中再次確認，尤其含時序與制度落差型題目。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-quiz]]
+- [[history-g7-l003-teaching-focus]]
 - [[drive-s2-textbook]]
-- [[history-g7-l003-entity-education-inequality]]
-- [[history-g7-l003-entity-intellectual-political-movements]]
-- [[history-g7-l003-entity-urban-modern-culture]]
-- [[history-g7-l003-entity-high-education-pathways]]
-- [[history-g7-l003-event-1921-cultural-association-and-petition-start]]
-- [[history-g7-l003-event-1927-taiwan-people-party-formed]]
-- [[history-g7-l003-event-1935-local-assembly-election]]
-- [[history-g7-l003-comparison-school-policy-vs-compulsory-education]]
-- [[history-g7-l003-comparison-tradition-vs-modern-life]]
-- [[history-g7-l003-comparison-constitutional-reform-vs-limited-autonomy]]
+- [[drive-s2-quiz]]
+- [[history-g7-l003-entity-differentiated-school-system]]
+- [[history-g7-l003-entity-taiwan-cultural-association]]
+- [[history-g7-l003-entity-taipei-imperial-university]]
+- [[history-g7-l003-event-petition-movement]]
+- [[history-g7-l003-event-taiwan-democracy-party]]
+- [[history-g7-l003-event-1935-local-election-limits]]
+- [[history-g7-l003-comparison-education-gap]]
+- [[history-g7-l003-comparison-old-vs-new-culture]]
 - [[index]]

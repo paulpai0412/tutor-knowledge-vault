@@ -1,15 +1,15 @@
 ---
-title: 教學重點與回饋
+title: 課堂教學重點與可重複操作提示
 created: '2026-05-04'
-updated: '2026-07-23'
-type: summary
+updated: '2026-07-24'
+type: concept
 tags:
 - teaching-strategy
 - history
 - grade-7
-- education
 - student-progress
-- concept
+- taiwan-history
+- japanese-rule
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
@@ -19,34 +19,30 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 已成立的掌握
-- 學生在關於臺中中學校、都會休閒形成原因、臺灣民眾黨成立者等題目皆正確，對「人物、制度、現象」有基本對應力。
+## 可用提醒策略
+- 先維持肯定：目前作答 3 題全對，建立學生「理解有根據」的自信。
+- 再加深鏈結：將「制度」與「結果」對照（如差別待遇 → 就學率差距仍存、但識字與人才成長明顯）。
+- 最後補短答：要求學生用一句話比較「文化協會啟蒙」與「地方自治運動」，避免只會猜答案。
 
-## 建議教學策略
-- 先做「時間軸」複習：1918 國際影響→1921 啟蒙→1927 建黨→1930 聯盟→1935 選舉→1937 壓制。
-- 以比較句訓練：差別待遇 vs 義務教育、傳統習慣 vs 衛生法治化、殖民壓制 vs 地方自治嘗試。
-- 下一階段可先補齊第 4~22 題主題，尤其聚焦政治社會運動、都市化與現代生活規訓。
-- 將答題轉為短句證據句：每題至少寫出 1 個教材中的人名/制度/年份。
+## 常用追蹤
+- 優先追問時序題：1921 請願、1927 民眾黨、1930 地方自治聯盟、1935 議員選舉，逐步確認先後與影響。
+- 加入生活場景題：如休閒場所、衛生習慣、守時制度，檢驗「新舊文化」是否會從教材回到情境。
 
-## 預設下一步
-- 以 [[history-g7-l003-core-concepts]] 為主軸，帶入 [[history-g7-l003-comparison-school-policy-vs-compulsory-education]] 與 [[history-g7-l003-comparison-tradition-vs-modern-hygiene]] 做延伸。
-- 以 [[history-g7-l003-student-001-exam-report]] 追蹤每次補答結果。
+## 下一步操作
+- 建議補做第 4–8 題後再抽取一次迷思診斷，並視結果啟動矯正。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-comparison-school-policy-vs-compulsory-education]]
-- [[history-g7-l003-comparison-tradition-vs-modern-hygiene]]
-- [[history-g7-l003-student-001-exam-report]]
 - [[history-g7-l003-misconceptions]]
-- [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-entity-education-inequality]]
-- [[history-g7-l003-entity-intellectual-political-movements]]
-- [[history-g7-l003-entity-urban-modern-culture]]
-- [[history-g7-l003-entity-high-education-pathways]]
-- [[history-g7-l003-event-1921-cultural-association-and-petition-start]]
-- [[history-g7-l003-event-1927-taiwan-people-party-formed]]
-- [[history-g7-l003-event-1935-local-assembly-election]]
-- [[history-g7-l003-comparison-tradition-vs-modern-life]]
-- [[history-g7-l003-comparison-constitutional-reform-vs-limited-autonomy]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-textbook]]
+- [[history-g7-l003-entity-differentiated-school-system]]
+- [[history-g7-l003-entity-taiwan-cultural-association]]
+- [[history-g7-l003-entity-taipei-imperial-university]]
+- [[history-g7-l003-event-petition-movement]]
+- [[history-g7-l003-event-taiwan-democracy-party]]
+- [[history-g7-l003-event-1935-local-election-limits]]
+- [[history-g7-l003-comparison-education-gap]]
+- [[history-g7-l003-comparison-old-vs-new-culture]]
 - [[index]]
