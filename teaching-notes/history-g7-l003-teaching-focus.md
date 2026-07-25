@@ -1,15 +1,14 @@
 ---
-title: 課堂教學重點與可重複操作提示
+title: 日治時期社會與文化教學重點與可重用提示
 created: '2026-05-04'
-updated: '2026-07-24'
-type: concept
+updated: '2026-07-25'
+type: summary
 tags:
-- teaching-strategy
 - history
 - grade-7
-- student-progress
-- taiwan-history
-- japanese-rule
+- teaching-strategy
+- concept
+- education
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
@@ -19,30 +18,34 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 可用提醒策略
-- 先維持肯定：目前作答 3 題全對，建立學生「理解有根據」的自信。
-- 再加深鏈結：將「制度」與「結果」對照（如差別待遇 → 就學率差距仍存、但識字與人才成長明顯）。
-- 最後補短答：要求學生用一句話比較「文化協會啟蒙」與「地方自治運動」，避免只會猜答案。
+## 教學提示
+- **先拆因果**：先建立教育差別待遇的制度背景，再導向文化/政治運動如何回應，避免學生成題只記名稱。
+- **加設比較句型**：引導學生用「以前/現在」、「政策/生活」框架回答，對「守法、守時」等抽象概念很有效。
+- **聚焦常見考點**：學校制度（臺中中學校）、政黨成立（臺灣民眾黨）、請願運動與自治意識，與都市文化符號（百貨、咖啡廳）對應。
 
-## 常用追蹤
-- 優先追問時序題：1921 請願、1927 民眾黨、1930 地方自治聯盟、1935 議員選舉，逐步確認先後與影響。
-- 加入生活場景題：如休閒場所、衛生習慣、守時制度，檢驗「新舊文化」是否會從教材回到情境。
+## 建議延伸作業
+- 用時間軸整理 1921、1927、1930、1935、1937、1943 的串連，結合人物與結果。
+- 讓學生比對「口號/法律/日常」三種文字，辨識觀念擴散路徑。
 
-## 下一步操作
-- 建議補做第 4–8 題後再抽取一次迷思診斷，並視結果啟動矯正。
+## 連結
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-textbook]]
+- [[drive-s2-quiz]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
-- [[drive-s2-quiz]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
-- [[history-g7-l003-entity-differentiated-school-system]]
-- [[history-g7-l003-entity-taiwan-cultural-association]]
-- [[history-g7-l003-entity-taipei-imperial-university]]
-- [[history-g7-l003-event-petition-movement]]
-- [[history-g7-l003-event-taiwan-democracy-party]]
-- [[history-g7-l003-event-1935-local-election-limits]]
-- [[history-g7-l003-comparison-education-gap]]
-- [[history-g7-l003-comparison-old-vs-new-culture]]
+- [[drive-s2-quiz]]
+- [[history-g7-l003-education-policy]]
+- [[history-g7-l003-cultural-mobilization]]
+- [[history-g7-l003-modern-life-and-hygiene]]
+- [[history-g7-l003-event-1921-petition-movement]]
+- [[history-g7-l003-event-1927-people-party]]
+- [[history-g7-l003-event-1935-local-election]]
+- [[history-g7-l003-comparison-education-access]]
+- [[history-g7-l003-comparison-tradition-vs-modernity]]
 - [[index]]
