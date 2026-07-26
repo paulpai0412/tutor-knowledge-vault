@@ -1,37 +1,35 @@
 ---
-title: 新舊文化交融與並存比較
-created: '2026-07-25'
+title: 現代生活習俗與衛生守時制度推行
+created: '2026-07-26'
 updated: '2026-07-26'
-type: comparison
+type: entity
 tags:
 - history
 - grade-7
-- comparison
+- event
+- public-health
+- time-discipline
 - culture
-- modernization
-- social-movements
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
-- wiki/exams/history/g7/l003/drive-s2-quiz.md
+- wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
+- wiki/students/student-001/progress/history/g7/l003/summary.md
 confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 比較軸
-- **傳統生活**：地方風俗與城鄉差異未立即消失
-- **現代制度**：法治、衛生、守時、都市休閒逐步形成新常態
-
-## 學習啟示
-- 適合設計「舊習俗保留與新秩序導入」的雙欄筆記。
+## 事件脈絡
+- 醫療與公共衛生設施建置、法治觀念推廣、標準時間與星期制導入。
+- 城市出現公園、百貨、咖啡廳、博物館等新休閒場域。
 
 ## 相關頁面
+- [[history-g7-l003-comparison-tradition-vs-modernity]]
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-event-modern-life-habit-transformation]]
-- [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
+- [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-quiz]]
 - [[history-g7-l003-entity-taiwan-cultural-association]]
 - [[history-g7-l003-entity-taiwan-people-party]]

@@ -1,15 +1,14 @@
 ---
-title: 新舊文化交融與並存比較
-created: '2026-07-25'
+title: 日治教育：日人與臺灣人資源差距
+created: '2026-07-26'
 updated: '2026-07-26'
 type: comparison
 tags:
 - history
 - grade-7
 - comparison
-- culture
-- modernization
-- social-movements
+- education
+- japanese-rule
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -19,17 +18,17 @@ student_id: student-001
 ---
 
 ## 比較軸
-- **傳統生活**：地方風俗與城鄉差異未立即消失
-- **現代制度**：法治、衛生、守時、都市休閒逐步形成新常態
+- **制度設計**：採差別待遇 vs 實際普及化政策
+- **影響結果**：就學率同步成長，但日人始終明顯高於臺灣人
 
 ## 學習啟示
-- 適合設計「舊習俗保留與新秩序導入」的雙欄筆記。
+- 可用表格數據（1917-1943）作為「政策效果有限」的證據。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-event-modern-life-habit-transformation]]
-- [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-event-education-ethnic-gap]]
 - [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
@@ -39,7 +38,7 @@ student_id: student-001
 - [[history-g7-l003-entity-taipyei-imperial-university]]
 - [[history-g7-l003-entity-sin-fu]]
 - [[history-g7-l003-event-parliament-petition-movement]]
-- [[history-g7-l003-event-education-ethnic-gap]]
 - [[history-g7-l003-event-cultural-and-social-mobilization]]
-- [[history-g7-l003-comparison-education-ethnic-gap]]
+- [[history-g7-l003-event-modern-life-habit-transformation]]
+- [[history-g7-l003-comparison-tradition-vs-modernity]]
 - [[index]]

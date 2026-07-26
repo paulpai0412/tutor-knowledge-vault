@@ -1,13 +1,14 @@
 ---
 title: student-001 日治時期社會與文化測驗回報
 created: '2026-05-04'
-updated: '2026-07-25'
+updated: '2026-07-26'
 type: summary
 tags:
 - history
 - grade-7
 - exam-analysis
 - student-progress
+- japanese-rule
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -18,37 +19,41 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 成績快照
-- `attempted_answers=3`
-- `currently_correct_questions=3`
-- `outstanding_wrong_questions=0`
-- `wrong_question_ids=none`
-- `unique_questions=3`
+## 成績概況
+- `attempted_answers`: 3
+- `currently_correct_questions`: 3
+- `outstanding_wrong_questions`: 0
+- `wrong_question_ids`: none
+- 最新作答：q-1、q-2、q-3分別皆正確。
 
-## 強項
-- 已連續答對第 1、2、3 題，涵蓋**首批核心主軸**：臺中中學校、休閒場所形成原因、臺灣民眾黨成立。
+## 解讀
+- 根據紀錄，前三題均為高正確率，代表學生已完成主要識記與基本辨認（學校、都會休閒、政黨）鏈結。
+- 尚未進入高難度排序題或情境比較題的長程驗證，建議補上剩餘題目後再重估。
 
-## 目前限制
-- 目前僅有 3 題可作為診斷證據，尚需完成其餘題目才能全面評估「政治社會運動脈絡」與「新舊文化轉變」的穩定性。
+## 後續追蹤
+- 可持續以來源題庫回推概念連結，確認是否會在「自治、文化啟蒙、制度差異」題型中穩定。
+- 目前無需補做錯題重測單，待擴大抽題後再啟動追問清單。
 
-## 可重複回看節點
+## 連結
+- [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-comparison-tradition-vs-modernity]]
+- [[drive-s2-quiz]]
 
 ## 相關頁面
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-comparison-tradition-vs-modernity]]
 - [[history-g7-l003-misconceptions]]
-- [[drive-s2-textbook]]
+- [[history-g7-l003-core-concepts]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-education-policy]]
-- [[history-g7-l003-cultural-mobilization]]
-- [[history-g7-l003-modern-life-and-hygiene]]
-- [[history-g7-l003-event-1921-petition-movement]]
-- [[history-g7-l003-event-1927-people-party]]
-- [[history-g7-l003-event-1935-local-election]]
-- [[history-g7-l003-comparison-education-access]]
+- [[history-g7-l003-teaching-focus]]
+- [[drive-s2-textbook]]
+- [[history-g7-l003-entity-taiwan-cultural-association]]
+- [[history-g7-l003-entity-taiwan-people-party]]
+- [[history-g7-l003-entity-taichung-middle-school]]
+- [[history-g7-l003-entity-taipyei-imperial-university]]
+- [[history-g7-l003-entity-sin-fu]]
+- [[history-g7-l003-event-parliament-petition-movement]]
+- [[history-g7-l003-event-education-ethnic-gap]]
+- [[history-g7-l003-event-cultural-and-social-mobilization]]
+- [[history-g7-l003-event-modern-life-habit-transformation]]
+- [[history-g7-l003-comparison-education-ethnic-gap]]
+- [[history-g7-l003-comparison-tradition-vs-modernity]]
 - [[index]]
