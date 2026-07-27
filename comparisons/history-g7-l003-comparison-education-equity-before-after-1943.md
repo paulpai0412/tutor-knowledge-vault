@@ -1,44 +1,37 @@
 ---
-title: 日治時期社會與文化核心概念
-created: '2026-05-04'
+title: 教育差別與義務化：前後制度比較
+created: '2026-07-27'
 updated: '2026-07-27'
-type: concept
+type: comparison
 tags:
 - history
-- grade-7
-- concept
-- taiwan-history
+- comparison
 - education
-- modernization
-- culture
-- social-movements
-- politics
+- student-progress
+- grade-7
+- taiwan-history
 sources:
-- indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
-confidence: high
+confidence: medium
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 核心概念
-- 日治政府以日語為主體的現代教育做為同化與殖民治理工具，初期對臺灣人、原住民與日本人施行差別待遇，後續演變為國民學校與六年義務教育（1943）。
-- 知識分子在 1920 年代啟動文化啟蒙與政治社會運動，透過《臺灣民報》、演講、請願與政黨行動，連結民族自覺與自治訴求。
-- 社會生活面向由「風俗與習慣」轉向現代衛生、法治與守時生活，並同時出現公園、百貨、餐廳等都會文化。
+## 比較焦點
+- 前段：制度分層、資源不均、日語與升學管道限制。
+- 後段：制度名稱統一與義務教育時間軸確立，形成制度化的最低門檻。
 
-## 內部連結
+## 連結
 - [[history-g7-l003-event-education-segregation]]
-- [[history-g7-l003-event-cultural-enlightenment]]
-- [[history-g7-l003-comparison-education-equity-before-after-1943]]
 - [[history-g7-l003-entity-national-school-system]]
+- [[history-g7-l003-misconceptions]]
 
 ## 相關頁面
 - [[history-g7-l003-event-education-segregation]]
-- [[history-g7-l003-event-cultural-enlightenment]]
-- [[history-g7-l003-comparison-education-equity-before-after-1943]]
 - [[history-g7-l003-entity-national-school-system]]
 - [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
@@ -47,6 +40,7 @@ student_id: student-001
 - [[history-g7-l003-entity-taiwan-people-party]]
 - [[history-g7-l003-entity-jiang-wei-shui]]
 - [[history-g7-l003-entity-taichung-middle-school]]
+- [[history-g7-l003-event-cultural-enlightenment]]
 - [[history-g7-l003-event-parliament-petition]]
 - [[history-g7-l003-event-local-autonomy-alliance]]
 - [[history-g7-l003-event-urban-modern-culture]]

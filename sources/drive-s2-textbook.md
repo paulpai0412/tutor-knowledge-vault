@@ -1,13 +1,13 @@
 ---
-title: 教材來源：日治時期的社會與文化
+title: 日治時期教材來源：drive-s2-textbook
 created: '2026-05-04'
-updated: '2026-07-26'
-type: summary
+updated: '2026-07-27'
+type: entity
 tags:
-- source-note
 - history
-- grade-7
 - lesson
+- source-note
+- grade-7
 - taiwan-history
 - japanese-rule
 sources:
@@ -18,39 +18,39 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 來源資訊
-- lesson_id：history-g7-l003
-- lesson_variant_id：drive-s2-textbook
-- title：日治時期的社會與文化
-- converter：markitdown
+## 來源摘要
+- lesson_id: history-g7-l003
+- 課文主題：日治時期的社會與文化
+- 來源檔：drive-s2-textbook.pdf
 - conversion_state：wiki_ready
-- source_hash：sha256:4a3578136293aadfd17c04341e7d56642a8652bd4828603d48ad332dadaf267c
 
-## 知識重點摘錄
-- 教育差別化（小學校/公學校/蕃人公學校）與日語教學
-- 文化協會、臺灣民眾黨、地方自治聯盟與請願運動
-- 體衛生、法治、守時習慣與都會文化形成
+## 資訊重心
+- 差別教育制度與國民學校轉型（含臺灣人就學率持續上升但差距明顯）
+- 文化啟蒙與政治社會運動（臺灣文化協會、請願、政黨、地方自治）
+- 生活制度改造（衛生、法治、守時、都會文化）
 
-## 知識圖譜連結
+## 連結
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
-- [[drive-s2-quiz]]
+- [[history-g7-l003-event-education-segregation]]
+- [[history-g7-l003-entity-national-school-system]]
+- [[drive-s2-textbook]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
-- [[drive-s2-quiz]]
+- [[history-g7-l003-event-education-segregation]]
+- [[history-g7-l003-entity-national-school-system]]
 - [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-quiz]]
 - [[history-g7-l003-entity-taiwan-cultural-association]]
 - [[history-g7-l003-entity-taiwan-people-party]]
+- [[history-g7-l003-entity-jiang-wei-shui]]
 - [[history-g7-l003-entity-taichung-middle-school]]
-- [[history-g7-l003-entity-taipyei-imperial-university]]
-- [[history-g7-l003-entity-sin-fu]]
-- [[history-g7-l003-event-parliament-petition-movement]]
-- [[history-g7-l003-event-education-ethnic-gap]]
-- [[history-g7-l003-event-cultural-and-social-mobilization]]
-- [[history-g7-l003-event-modern-life-habit-transformation]]
-- [[history-g7-l003-comparison-education-ethnic-gap]]
-- [[history-g7-l003-comparison-tradition-vs-modernity]]
+- [[history-g7-l003-event-cultural-enlightenment]]
+- [[history-g7-l003-event-parliament-petition]]
+- [[history-g7-l003-event-local-autonomy-alliance]]
+- [[history-g7-l003-event-urban-modern-culture]]
+- [[history-g7-l003-comparison-education-equity-before-after-1943]]
+- [[history-g7-l003-comparison-traditional-vs-modern-life]]
 - [[index]]
