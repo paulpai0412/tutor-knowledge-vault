@@ -1,18 +1,19 @@
 ---
 title: 日治時期社會與文化核心概念
 created: '2026-05-04'
-updated: '2026-07-27'
+updated: '2026-07-28'
 type: concept
 tags:
 - history
 - grade-7
-- concept
+- lesson
 - taiwan-history
+- japanese-rule
 - education
+- social-movements
 - modernization
 - culture
-- social-movements
-- politics
+- concept
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -23,32 +24,28 @@ student_id: student-001
 ---
 
 ## 核心概念
-- 日治政府以日語為主體的現代教育做為同化與殖民治理工具，初期對臺灣人、原住民與日本人施行差別待遇，後續演變為國民學校與六年義務教育（1943）。
-- 知識分子在 1920 年代啟動文化啟蒙與政治社會運動，透過《臺灣民報》、演講、請願與政黨行動，連結民族自覺與自治訴求。
-- 社會生活面向由「風俗與習慣」轉向現代衛生、法治與守時生活，並同時出現公園、百貨、餐廳等都會文化。
+- 日本總督府以語言與學制分層推動現代教育，既培養人才也穩固殖民統治。
+- 蔣渭水、林獻堂等知識分子以文化協會、報刊、演講與組織化行動推動政治社會覺醒。
+- 日常生活在衛生、法治、守時與都會文化中現代化，但傳統仍保留且與新制度共存。
 
-## 內部連結
-- [[history-g7-l003-event-education-segregation]]
-- [[history-g7-l003-event-cultural-enlightenment]]
-- [[history-g7-l003-comparison-education-equity-before-after-1943]]
-- [[history-g7-l003-entity-national-school-system]]
+## 連結結構
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-entity-differentiated-education]]
+- [[history-g7-l003-event-parliament-petition-movement]]
 
 ## 相關頁面
-- [[history-g7-l003-event-education-segregation]]
-- [[history-g7-l003-event-cultural-enlightenment]]
-- [[history-g7-l003-comparison-education-equity-before-after-1943]]
-- [[history-g7-l003-entity-national-school-system]]
 - [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-entity-differentiated-education]]
+- [[history-g7-l003-event-parliament-petition-movement]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-entity-taiwan-cultural-association]]
-- [[history-g7-l003-entity-taiwan-people-party]]
-- [[history-g7-l003-entity-jiang-wei-shui]]
-- [[history-g7-l003-entity-taichung-middle-school]]
-- [[history-g7-l003-event-parliament-petition]]
-- [[history-g7-l003-event-local-autonomy-alliance]]
-- [[history-g7-l003-event-urban-modern-culture]]
-- [[history-g7-l003-comparison-traditional-vs-modern-life]]
+- [[history-g7-l003-entity-political-society-movement]]
+- [[history-g7-l003-entity-culture-transition]]
+- [[history-g7-l003-event-taiwan-democracy-party]]
+- [[history-g7-l003-event-1937-war-repression]]
+- [[history-g7-l003-comparison-education-assimilation-vs-local-capability]]
+- [[history-g7-l003-comparison-tradition-vs-modernity-coexistence]]
 - [[index]]

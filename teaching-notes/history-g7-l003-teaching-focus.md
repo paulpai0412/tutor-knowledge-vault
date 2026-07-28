@@ -1,14 +1,17 @@
 ---
-title: 日治時期教學重點與可複用提醒
+title: 教學重點與可複用提示
 created: '2026-05-04'
-updated: '2026-07-27'
-type: summary
+updated: '2026-07-28'
+type: concept
 tags:
 - history
 - grade-7
+- lesson
 - teaching-strategy
+- exam-analysis
 - student-progress
-- education
+- comparison
+- concept
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
@@ -18,33 +21,27 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 教學提示
-- 先用「時間軸」整理：1895–1945 的時代脈絡、1920 年代文化啟蒙、1930s 地方自治與選舉、1937 之後打壓。
-- 使用雙向連結式提問：
-  - 「為何先是差別待遇，後來又推行義務教育？」
-  - 「《臺灣民報》與請願運動如何影響學到自治與參政觀念？」
-- 避免只背答案，改用事件-現象對應：制度名稱、成立時間、影響對象。
+## 可直接教學用策略
+- 先畫「教育制度→知識分子形成→政治主張→社會變遷」的因果圖，讓學生看到政策與社會回應的雙向關係。
+- 用時間軸練習排序：1915、1921、1927、1930、1935、1937，搭配人物與制度事件。
+- 針對考試強項（`日治時期:3, 工商業:1, 政治社會運動:1, 教育:1, 社會生活:1, 臺灣民眾黨:1`）設計延伸問答，讓學生用條列推理替代選項記憶。
 
-## 錯題追蹤策略
-- 當前無待補錯題，不立即補錯題，維持「累積題庫後一次性複訓」策略，與學生偏好一致。
-- 下一步請擴展到第4題以後，特別觀察政治社會運動與歷史時序題。
+## 預警點
+- 當學生提到「都會化」時，引導補上其政治背景與殖民控制目的，不只停留在景觀列舉。
+- 當學生提到「守時、法治、衛生」時，要求同時說明「對現代化生產與社會治理的效用」。
 
 ## 相關頁面
+- [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-comparison-education-assimilation-vs-local-capability]]
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-event-parliament-petition]]
-- [[history-g7-l003-comparison-traditional-vs-modern-life]]
-- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-entity-taiwan-cultural-association]]
-- [[history-g7-l003-entity-taiwan-people-party]]
-- [[history-g7-l003-entity-jiang-wei-shui]]
-- [[history-g7-l003-entity-taichung-middle-school]]
-- [[history-g7-l003-entity-national-school-system]]
-- [[history-g7-l003-event-education-segregation]]
-- [[history-g7-l003-event-cultural-enlightenment]]
-- [[history-g7-l003-event-local-autonomy-alliance]]
-- [[history-g7-l003-event-urban-modern-culture]]
-- [[history-g7-l003-comparison-education-equity-before-after-1943]]
+- [[history-g7-l003-entity-differentiated-education]]
+- [[history-g7-l003-entity-political-society-movement]]
+- [[history-g7-l003-entity-culture-transition]]
+- [[history-g7-l003-event-parliament-petition-movement]]
+- [[history-g7-l003-event-taiwan-democracy-party]]
+- [[history-g7-l003-event-1937-war-repression]]
+- [[history-g7-l003-comparison-tradition-vs-modernity-coexistence]]
 - [[index]]
