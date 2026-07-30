@@ -1,17 +1,17 @@
 ---
-title: 教學重點與可複用提示
+title: 日治時期教學重點與可複用提示
 created: '2026-05-04'
-updated: '2026-07-28'
-type: concept
+updated: '2026-07-30'
+type: summary
 tags:
 - history
 - grade-7
-- lesson
 - teaching-strategy
-- exam-analysis
-- student-progress
-- comparison
-- concept
+- lesson
+- taiwan-history
+- social-movements
+- culture
+- education
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
@@ -21,27 +21,38 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 可直接教學用策略
-- 先畫「教育制度→知識分子形成→政治主張→社會變遷」的因果圖，讓學生看到政策與社會回應的雙向關係。
-- 用時間軸練習排序：1915、1921、1927、1930、1935、1937，搭配人物與制度事件。
-- 針對考試強項（`日治時期:3, 工商業:1, 政治社會運動:1, 教育:1, 社會生活:1, 臺灣民眾黨:1`）設計延伸問答，讓學生用條列推理替代選項記憶。
+## 教學重點
+- 先用時間軸整理 1895–1945 的制度與運動節點（教育、文化協會、政黨、地方自治）。
+- 以題目 1–3 的題幹邏輯作為入口，建構「事件-人物-結果」關係。
+- 對比「政策文字描述」與「社會實際效果」，避免把口號化敘述當成完整效果。
 
-## 預警點
-- 當學生提到「都會化」時，引導補上其政治背景與殖民控制目的，不只停留在景觀列舉。
-- 當學生提到「守時、法治、衛生」時，要求同時說明「對現代化生產與社會治理的效用」。
+## 快速診斷句
+- 當學生答錯時先問：是「名詞」沒抓對、還是「關係」沒抓住？
+- 以「誰在主導、誰受益、誰受限」做三欄口訣，快速重建理解。
+
+## 行動建議
+- 使用 [[entity-civic-cultural-movement]] 當成延伸討論節點，結合 [[history-g7-l003-misconceptions]] 討論可能混淆。
+- 針對下一輪測驗，引導學生先做題目關鍵字圈選（人物、年份、政策、制度）再回填答案。
+
+## 參考頁面
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-teaching-focus]]
+- [[drive-s2-textbook]]
 
 ## 相關頁面
-- [[history-g7-l003-student-001-exam-report]]
-- [[history-g7-l003-comparison-education-assimilation-vs-local-capability]]
-- [[history-g7-l003-core-concepts]]
+- [[entity-civic-cultural-movement]]
 - [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-core-concepts]]
 - [[drive-s2-textbook]]
+- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-entity-differentiated-education]]
-- [[history-g7-l003-entity-political-society-movement]]
-- [[history-g7-l003-entity-culture-transition]]
-- [[history-g7-l003-event-parliament-petition-movement]]
-- [[history-g7-l003-event-taiwan-democracy-party]]
-- [[history-g7-l003-event-1937-war-repression]]
-- [[history-g7-l003-comparison-tradition-vs-modernity-coexistence]]
+- [[entity-education-differentiated-system]]
+- [[entity-modern-public-health-society]]
+- [[entity-urban-modern-culture]]
+- [[event-1921-parliament-petition]]
+- [[event-1927-taiwan-people-party]]
+- [[event-1935-first-local-elections]]
+- [[comparison-education-reach-and-control]]
+- [[comparison-traditional-vs-modern-habits]]
+- [[comparison-cultural-movement-vs-state-control]]
 - [[index]]
