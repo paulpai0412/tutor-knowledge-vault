@@ -1,7 +1,7 @@
 ---
-title: 日治時期常見迷思與學生目前表現
+title: 日治時期社會與文化：迷思診斷（student-001）
 created: '2026-05-04'
-updated: '2026-07-30'
+updated: '2026-07-31'
 type: summary
 tags:
 - history
@@ -9,47 +9,45 @@ tags:
 - misconception
 - exam-analysis
 - student-progress
-- taiwan-history
 sources:
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
-confidence: medium
+confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 目前可見情形
-- 已作答題數：3 題，皆為正確。
-- 錯題清單：無。
-- 本次可確認：學生對本課前段關鍵名詞（如臺中中學校、臺灣民眾黨、地方議員選舉）與題幹判斷沒有出現明顯偏差。
+## 目前觀察
+- 已作答 3 題，皆為正確，未出現已記錄的錯題（`wrong_question_ids: none`、`outstanding_wrong_questions: 0`）。
+- 因此目前可判定短程答題穩定，尚無已發生的「固定迷思」可據作證據。
 
-## 潛在迷思（待監測）
-- 將"教育改善"理解為"全面平等"，而忽略日本人與臺灣人入學差異。
-- 將文化變遷理解為「舊習全部消失」，實際上是新制度與舊生活並存。
-- 將「民族自決思潮」與「皇民化」混同，兩者來源與目標不同。
+## 可能但未必發生的迷思（預防式）
+1. **誤以為 1943 前日治教育完全平等**：實際上整體仍有差別待遇與族群歧視軌跡。
+2. **誤以為政治社會運動完全成功**：請願與自治努力多為喚醒公民意識，未必立即落實。
+3. **誤以為都會文化代表全島同步改變**：城鄉、族群差異導致生活現代化分布不均。
 
-## 對應教學回應
-- 強調在 [[event-1921-parliament-petition]] 與 [[event-1927-taiwan-people-party]] 的脈絡中區分權利訴求與殖民同化政策。
-- 連結到 [[history-g7-l003-student-001-exam-report]] 追蹤後續題型中是否出現上述混淆。
-- 同步補到 [[history-g7-l003-core-concepts]] 的差別待遇與制度目的。
+## 是否已解決
+- 目前未能從錯題證據直接判定是否已解決這些迷思，但學生在前3題可看出對人物、政黨及教育起源有正向掌握。
 
-## 參考連結
+## 連結
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-comparison-differentiated-education-vs-equity]]
 
 ## 相關頁面
-- [[event-1921-parliament-petition]]
-- [[event-1927-taiwan-people-party]]
-- [[history-g7-l003-student-001-exam-report]]
 - [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-comparison-differentiated-education-vs-equity]]
 - [[history-g7-l003-teaching-focus]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[entity-education-differentiated-system]]
-- [[entity-civic-cultural-movement]]
-- [[entity-modern-public-health-society]]
-- [[entity-urban-modern-culture]]
-- [[event-1935-first-local-elections]]
-- [[comparison-education-reach-and-control]]
-- [[comparison-traditional-vs-modern-habits]]
-- [[comparison-cultural-movement-vs-state-control]]
+- [[history-g7-l003-entity-education-stratification]]
+- [[history-g7-l003-entity-cultural-political-mobilization]]
+- [[history-g7-l003-entity-modern-life-discipline]]
+- [[history-g7-l003-event-1921-petition-motion]]
+- [[history-g7-l003-event-1927-minshu-party-1927]]
+- [[history-g7-l003-event-1930-local-autonomy-alliance-1930]]
+- [[history-g7-l003-event-1935-first-local-election-1935]]
+- [[history-g7-l003-event-1943-national-school-reform-1943]]
+- [[history-g7-l003-comparison-traditional-habit-vs-modern-discourse]]
+- [[history-g7-l003-comparison-political-enlightenment-vs-repression]]
 - [[index]]
