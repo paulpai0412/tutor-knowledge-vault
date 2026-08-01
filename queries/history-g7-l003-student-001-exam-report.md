@@ -1,15 +1,14 @@
 ---
-title: history-g7-l003-student-001 小考回饋
+title: student-001 第3章測驗回饋
 created: '2026-05-04'
-updated: '2026-07-31'
+updated: '2026-08-01'
 type: summary
 tags:
 - history
 - grade-7
 - exam-analysis
 - student-progress
-- lesson
-- event
+- education
 sources:
 - indexes/exams/history-g7-l003-drive-s2-quiz.json
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
@@ -20,48 +19,48 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 作答指標
-- 已作答題數：3
-- 目前正確題數：3
-- 錯題數：0
-- 尚未補救題數：0
-- 當前掌握題目：q1、q2、q3
+## 成績快照
+- `attempted_answers=3`
+- `currently_correct_questions=3`
+- `outstanding_wrong_questions=0`
+- `wrong_question_ids=none`
+- 來源題組標識：`history-g7-l003-drive-s2-quiz`
 
-## 題目明細
-| 題號 | 學生作答 | 正確答案 | 結果 |
-|---|---:|---:|---|
-| 1 | B | B | 正確 |
-| 2 | B | B | 正確 |
-| 3 | A | A | 正確 |
+## 技能熱點（本輪表現）
+- 日治時期：3
+- 工商業：1
+- 政治社會運動：1
+- 教育：1
+- 社會生活：1
+- 臺灣民眾黨：1
 
-## 判讀
-- 顯示學生對**第一線識別題**（學校、休閒現代化、民眾黨與人物）有穩定反應。
-- 尚未覆蓋題目 4 以上，無法直接推論對完整事件脈絡（特別是順序題與情境題）之完整熟練度。
+## 錯題與補強
+- 無補強題目（暫無待補錯題）。
+- 可直接進入下一段落延伸題，檢測是否理解「為什麼」而不只是「哪一個答案」。
 
-## 下一步（可直接執行）
-1. 續答第4~22題，建立完整錯題清單。
-2. 以錯題生成 1 次補答流程，再輸出複習計畫。
-
-## 參照連結
+## 連結到知識圖譜
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
-- [[drive-s2-quiz]]
+- [[history-g7-l003-misconceptions]]
+- [[comparison-modernization-vs-tradition-adjustment]]
+- [[drive-s2-textbook]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
-- [[drive-s2-quiz]]
 - [[history-g7-l003-misconceptions]]
+- [[comparison-modernization-vs-tradition-adjustment]]
 - [[drive-s2-textbook]]
-- [[history-g7-l003-entity-education-stratification]]
-- [[history-g7-l003-entity-cultural-political-mobilization]]
-- [[history-g7-l003-entity-modern-life-discipline]]
-- [[history-g7-l003-event-1921-petition-motion]]
-- [[history-g7-l003-event-1927-minshu-party-1927]]
-- [[history-g7-l003-event-1930-local-autonomy-alliance-1930]]
-- [[history-g7-l003-event-1935-first-local-election-1935]]
-- [[history-g7-l003-event-1943-national-school-reform-1943]]
-- [[history-g7-l003-comparison-differentiated-education-vs-equity]]
-- [[history-g7-l003-comparison-traditional-habit-vs-modern-discourse]]
-- [[history-g7-l003-comparison-political-enlightenment-vs-repression]]
+- [[drive-s2-quiz]]
+- [[taiwan-culture-association]]
+- [[taiwan-people-party]]
+- [[japanese-era-education-structure]]
+- [[public-health-modernization]]
+- [[urban-recreation-culture]]
+- [[event-1921-taiwan-cultural-association-founding]]
+- [[event-1927-taiwan-people-party-formed]]
+- [[event-1935-local-assembly-election]]
+- [[event-1937-movement-suppression-under-war]]
+- [[comparison-education-tier-gap]]
+- [[comparison-idea-vs-instrumental-knowledge]]
 - [[index]]
