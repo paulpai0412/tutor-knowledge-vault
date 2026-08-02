@@ -1,52 +1,52 @@
 ---
-title: 學習迷思與修正狀態（student-001）
+title: 日治時期的社會與文化｜迷思觀察
 created: '2026-05-04'
-updated: '2026-08-01'
-type: summary
+updated: '2026-08-02'
+type: concept
 tags:
 - history
 - grade-7
+- lesson
 - misconception
+- teaching-strategy
 - exam-analysis
-- student-progress
 sources:
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
-confidence: high
+confidence: medium
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 目前觀察
-- 本輪作答共嘗試 3 題，皆為正確（[[history-g7-l003-student-001-exam-report]]顯示 `correct_attempts=3`、`wrong_attempts=0`）。
-- 尚未形成可歸檔的持續迷思清單。
+## 學生目前迷思風險
+- 因已完成題目僅3題且均正確，目前沒有被考核證實的具體錯誤。
+- 常見潛在迷思仍可能出現在後續作答：
+  - 將「差別待遇的教育」理解成「完全沒機會受教育」，而忽略仍有提升與升學管道。
+  - 將文化啟蒙行動誤認為主要政治黨行為，未區分文化協會與政黨。
+  - 混淆「休閒場所興起」原因與政治運動、自治運動的不同導因。
 
-## 主要迷思預警（需持續監看）
-- 若學生把日本的現代化政策理解為「完全平等施行」而忽略差別待遇，可能成為下階段常見迷思。
-- 若把《臺灣民眾黨》與一般政黨活動混為同一概念，需回到組織目標與歷史脈絡。
+## 是否已修正
+- 對已作答題目（1-3）可視為短期未見誤解。
+- 建議等學生完成更多題目後再建立「已修正」清單，因目前錯誤資料為空。
 
-## 修正狀態
-- 已解決：截至目前，前述高風險迷思未在答題中明顯出現。
-- 下一步預防：結合 [[history-g7-l003-core-concepts]] 與 [[comparison-modernization-vs-tradition-adjustment]] 做交叉提問。
-
-## 下一步
-- 以新題綜合測試「差別待遇」「法治引入」「文化啟蒙」之邏輯關係，避免只記名稱不懂制度關係。
+## 連結
+- [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-comparison-education-equality]]
 
 ## 相關頁面
-- [[history-g7-l003-student-001-exam-report]]
 - [[history-g7-l003-core-concepts]]
-- [[comparison-modernization-vs-tradition-adjustment]]
 - [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-comparison-education-equality]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[taiwan-culture-association]]
-- [[taiwan-people-party]]
-- [[japanese-era-education-structure]]
-- [[public-health-modernization]]
-- [[urban-recreation-culture]]
-- [[event-1921-taiwan-cultural-association-founding]]
-- [[event-1927-taiwan-people-party-formed]]
-- [[event-1935-local-assembly-election]]
-- [[event-1937-movement-suppression-under-war]]
-- [[comparison-education-tier-gap]]
-- [[comparison-idea-vs-instrumental-knowledge]]
+- [[history-g7-l003-education-stratification]]
+- [[history-g7-l003-cultural-movement-network]]
+- [[history-g7-l003-health-law-reform]]
+- [[history-g7-l003-modern-urban-culture]]
+- [[history-g7-l003-event-1921-assembly-petition]]
+- [[history-g7-l003-event-1927-peoples-party]]
+- [[history-g7-l003-event-1935-local-election]]
+- [[history-g7-l003-comparison-urban-rural-culture]]
 - [[index]]

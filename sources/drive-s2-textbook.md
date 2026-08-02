@@ -1,7 +1,7 @@
 ---
-title: 教材來源：日治時期的社會與文化（教材）
+title: 來源筆記：課文教材（drive-s2-textbook）
 created: '2026-05-04'
-updated: '2026-08-01'
+updated: '2026-08-02'
 type: summary
 tags:
 - history
@@ -9,9 +9,8 @@ tags:
 - lesson
 - source-note
 - taiwan-history
+- japanese-rule
 - education
-- modernization
-- social-movements
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -20,41 +19,36 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 來源訊息
+## 教材定位
 - lesson_id: `history-g7-l003`
-- lesson_variant_id: `drive-s2-textbook`
-- source_pdf: `drive-s2-textbook.pdf`
-- converter: `markitdown`
-- conversion_state: `wiki_ready`
-- source_hash: `sha256:4a3578136293aadfd17c04341e7d56642a8652bd4828603d48ad332dadaf267c`
+- lesson_no: 3
+- 轉檔器: `markitdown`
+- 轉檔狀態: `wiki_ready`
+- 主要主軸：差別教育制度、知識分子政治社會運動、現代衛生與法治、都會文化。
 
-## 本章核心訊息
-- 日治政府推進現代教育與同化治理。
-- 知識分子透過文化協會、政黨與自治運動推動政治社會意識。
-- 都市生活、衛生、法治與守時觀念改變日常。
+## 可追溯段落
+- 差別教育原則與國民學校統一
+- 臺灣文化協會、臺灣議會設置請願、臺灣民眾黨、地方自治聯盟
+- 風俗與生活規範：放足斷髮、易服改裝、公共衛生與守時觀念
 
-## 回到知識圖譜
+## 連結
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-quiz]]
+- [[history-g7-l003-event-1927-peoples-party]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-quiz]]
+- [[history-g7-l003-event-1927-peoples-party]]
 - [[history-g7-l003-misconceptions]]
-- [[taiwan-culture-association]]
-- [[taiwan-people-party]]
-- [[japanese-era-education-structure]]
-- [[public-health-modernization]]
-- [[urban-recreation-culture]]
-- [[event-1921-taiwan-cultural-association-founding]]
-- [[event-1927-taiwan-people-party-formed]]
-- [[event-1935-local-assembly-election]]
-- [[event-1937-movement-suppression-under-war]]
-- [[comparison-education-tier-gap]]
-- [[comparison-modernization-vs-tradition-adjustment]]
-- [[comparison-idea-vs-instrumental-knowledge]]
+- [[history-g7-l003-teaching-focus]]
+- [[drive-s2-quiz]]
+- [[history-g7-l003-education-stratification]]
+- [[history-g7-l003-cultural-movement-network]]
+- [[history-g7-l003-health-law-reform]]
+- [[history-g7-l003-modern-urban-culture]]
+- [[history-g7-l003-event-1921-assembly-petition]]
+- [[history-g7-l003-event-1935-local-election]]
+- [[history-g7-l003-comparison-education-equality]]
+- [[history-g7-l003-comparison-urban-rural-culture]]
 - [[index]]
