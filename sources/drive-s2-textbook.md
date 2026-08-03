@@ -1,8 +1,8 @@
 ---
-title: 來源筆記：課文教材（drive-s2-textbook）
+title: source-note：教科書節錄（history-g7-l003-drive-s2-textbook）
 created: '2026-05-04'
-updated: '2026-08-02'
-type: summary
+updated: '2026-08-03'
+type: entity
 tags:
 - history
 - grade-7
@@ -10,7 +10,6 @@ tags:
 - source-note
 - taiwan-history
 - japanese-rule
-- education
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -19,36 +18,38 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 教材定位
-- lesson_id: `history-g7-l003`
-- lesson_no: 3
-- 轉檔器: `markitdown`
-- 轉檔狀態: `wiki_ready`
-- 主要主軸：差別教育制度、知識分子政治社會運動、現代衛生與法治、都會文化。
+## 來源資訊
+- `lesson_id`: history-g7-l003
+- `lesson_variant_id`: drive-s2-textbook
+- `source_pdf`: drive-s2-textbook.pdf
+- `source_hash`: sha256:4a3578136293aadfd17c04341e7d56642a8652bd4828603d48ad332dadaf267c
+- `converter`: markitdown
+- `conversion_state`: wiki_ready
 
-## 可追溯段落
-- 差別教育原則與國民學校統一
-- 臺灣文化協會、臺灣議會設置請願、臺灣民眾黨、地方自治聯盟
-- 風俗與生活規範：放足斷髮、易服改裝、公共衛生與守時觀念
+## 內容骨架
+- 教育：差別待遇、日語教學、國民學校、就學率變化。
+- 文化與政治：臺灣文化協會、議會請願運動、臺灣民眾黨、地方自治聯盟、地方議員選舉。
+- 生活變遷：鴉片、服裝與髮型、法治、衛生與守時觀念、都會文化空間。
 
 ## 連結
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[history-g7-l003-event-1927-peoples-party]]
+- 對應概念頁：[[history-g7-l003-core-concepts]]
+- 補充教學建議：[[history-g7-l003-teaching-focus]]
+- 測驗頁面：[[drive-s2-quiz]]
+- 學生回顧：[[history-g7-l003-student-001-exam-report]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[history-g7-l003-event-1927-peoples-party]]
-- [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-education-stratification]]
-- [[history-g7-l003-cultural-movement-network]]
-- [[history-g7-l003-health-law-reform]]
-- [[history-g7-l003-modern-urban-culture]]
-- [[history-g7-l003-event-1921-assembly-petition]]
-- [[history-g7-l003-event-1935-local-election]]
-- [[history-g7-l003-comparison-education-equality]]
-- [[history-g7-l003-comparison-urban-rural-culture]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-education-structure]]
+- [[history-g7-l003-political-society-movement]]
+- [[history-g7-l003-modern-lifestyle-change]]
+- [[history-g7-l003-event-petition-movement]]
+- [[history-g7-l003-event-peoples-party]]
+- [[history-g7-l003-event-local-autonomy-push]]
+- [[history-g7-l003-comparison-urban-rural-life]]
+- [[history-g7-l003-comparison-colonial-reform-control]]
+- [[history-g7-l003-comparison-education-equality-gap]]
 - [[index]]
