@@ -1,16 +1,17 @@
 ---
 title: 日治時期社會與文化核心概念
 created: '2026-05-04'
-updated: '2026-08-03'
+updated: '2026-08-04'
 type: concept
 tags:
 - history
 - grade-7
+- lesson
 - concept
 - taiwan-history
 - japanese-rule
-- social-movements
 - modernization
+- social-movements
 - culture
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
@@ -22,27 +23,22 @@ student_id: student-001
 ---
 
 ## 核心概念
-- **教育作為殖民治理工具**：日治初期以日語為主體、以制度差別對待日本人與臺灣人，建立公學校、小學校、蕃人公學校等不同等級。
-- **知識分子與政治社會運動**：1920年代起，文化啟蒙促成政治參與意識，形成臺灣文化協會、臺灣民眾黨、地方自治聯盟與議會請願運動等行動。
-- **新舊文化調適**：鴉片管制、服裝與髮型改變、衛生與守時觀念、法治宣導與都會休閒空間，使新舊制度與風俗在都市與鄉村間產生不同節奏的交融。
-
-## 概念關係
-- 「教育現代化」不僅提升識字與知識，也孕育了後續倡議自治與權益的公民人才；其關係可見於 [[history-g7-l003-education-structure]]。
-- 「政治社會運動」與「都會文化形成」共構新世代公共意識，對日常生活規範如守時、法治、衛生均有加速作用。
+- 總督府以日語為主、分層管理的學制體系，讓日本人、臺灣人、原住民接受不同教育資源，卻也在長期下透過高等教育與留學逐步養成新世代知識分子。
+- 受民族自決與新思想影響，臺灣知識分子組織文化協會、政黨與自治聯盟，將政治社會運動帶入公開政治參與。
+- 生活層面上，公共衛生、時間觀、法治與都會娛樂興起推動行為規範改變，但城鄉差距使傳統與新制度同步轉化。
 
 ## 相關頁面
-- [[history-g7-l003-education-structure]]
+- [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
+- [[entity-differentiated-colonial-education]]
+- [[comparison-education-policy-vs-elite-mobilization]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-misconceptions]]
-- [[history-g7-l003-political-society-movement]]
-- [[history-g7-l003-modern-lifestyle-change]]
-- [[history-g7-l003-event-petition-movement]]
-- [[history-g7-l003-event-peoples-party]]
-- [[history-g7-l003-event-local-autonomy-push]]
-- [[history-g7-l003-comparison-urban-rural-life]]
-- [[history-g7-l003-comparison-colonial-reform-control]]
-- [[history-g7-l003-comparison-education-equality-gap]]
+- [[entity-civil-society-autonomy-movement]]
+- [[entity-modern-life-reform]]
+- [[event-1921-assembly-petition]]
+- [[event-1927-taiwan-peoples-party]]
+- [[event-1935-local-council-election]]
+- [[comparison-urbanization-gap-rural-tradition]]
 - [[index]]
