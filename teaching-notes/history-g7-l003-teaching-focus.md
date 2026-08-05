@@ -1,15 +1,14 @@
 ---
-title: 日治時期社會與文化教學重點
+title: 可複用教學重點與回饋策略
 created: '2026-05-04'
-updated: '2026-08-04'
+updated: '2026-08-05'
 type: summary
 tags:
+- teaching-strategy
 - history
 - grade-7
-- teaching-strategy
-- lesson
-- japanese-rule
-- social-movements
+- education
+- exam-analysis
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
@@ -20,25 +19,25 @@ student_id: student-001
 ---
 
 ## 教學提示
-- 先肯定已會：學生能正確辨識臺中中學校、休閒場所起因、臺灣民眾黨創立者與名稱，代表對教材核心節點掌握良好。
-- 進階提示可加入一對一關係：差別化教育 → 知識分子培育 → 政治社會運動 → 休閒與生活改革的因果鏈。
-- 可用對照法加強理解：同一時期既有「同化」又有「知識反制」，避免只記事件不理解結構。
-## 可直接使用的活動
-- 請學生將「教育政策、政治運動、生活變遷」三類各舉一個教材例子並連成一句完整因果句。
-- 設計比較題：哪一項屬於制度改革，哪一項屬於民間調適。
+- 先以時間軸串起 1895-1945，再放入教育改革、自治運動、生活現代化三條線，避免碎片記憶。
+- 在同一題目中做比較提問（如：差別待遇與平等、傳統與新習俗），可快速揭露潛在混淆。
+- 目前 3 題全對，可先維持鼓勵語氣，下一步改做「錯誤誘發題」導向的重點檢查。
+
+## 下次課堂可接續重點
+- 先補 q4 以後題目中的法治、自治、衛生與時間制度概念。
+- 透過 [[history-g7-l003-entity-taiwan-culture-association]] 連結，讓學生用人物組織建立長程理解。
 
 ## 相關頁面
+- [[history-g7-l003-entity-taiwan-culture-association]]
 - [[history-g7-l003-core-concepts]]
-- [[comparison-urbanization-gap-rural-tradition]]
-- [[entity-modern-life-reform]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[entity-differentiated-colonial-education]]
-- [[entity-civil-society-autonomy-movement]]
-- [[event-1921-assembly-petition]]
-- [[event-1927-taiwan-peoples-party]]
-- [[event-1935-local-council-election]]
-- [[comparison-education-policy-vs-elite-mobilization]]
+- [[history-g7-l003-entity-taiwan-people-party]]
+- [[history-g7-l003-entity-jiang-wei-shui]]
+- [[history-g7-l003-event-parliament-petition-movement]]
+- [[history-g7-l003-event-local-autonomy-alliance]]
+- [[history-g7-l003-comparison-education-differentiation]]
+- [[history-g7-l003-comparison-ritual-vs-modernity]]
 - [[index]]

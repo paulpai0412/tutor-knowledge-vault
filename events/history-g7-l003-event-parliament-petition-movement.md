@@ -1,14 +1,13 @@
 ---
-title: 1927 年臺灣民眾黨成立
-created: '2026-08-04'
-updated: '2026-08-04'
+title: 臺灣議會設置請願運動
+created: '2026-08-05'
+updated: '2026-08-05'
 type: entity
 tags:
 - event
 - history
 - politics
 - social-movements
-- grade-7
 - taiwan-history
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -19,22 +18,21 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 事件脈絡
-- 成立背景是日治統治下知識分子對政治代表性不足的回應。
-- 憑藉宣傳黨綱與社會組織動員，擴大政治討論的公共空間。
+## 事件摘要
+- 於 1921 年啟動，持續多年請願，未直接成立議會。
+- 雖未立即改變制度，但在學生端形成重要的政治觀念轉折：認識制度制衡與自治想像。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[entity-civil-society-autonomy-movement]]
+- [[history-g7-l003-entity-taiwan-culture-association]]
+- [[history-g7-l003-comparison-education-differentiation]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[entity-differentiated-colonial-education]]
-- [[entity-modern-life-reform]]
-- [[event-1921-assembly-petition]]
-- [[event-1935-local-council-election]]
-- [[comparison-education-policy-vs-elite-mobilization]]
-- [[comparison-urbanization-gap-rural-tradition]]
+- [[history-g7-l003-entity-taiwan-people-party]]
+- [[history-g7-l003-entity-jiang-wei-shui]]
+- [[history-g7-l003-event-local-autonomy-alliance]]
+- [[history-g7-l003-comparison-ritual-vs-modernity]]
 - [[index]]
