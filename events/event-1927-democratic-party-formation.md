@@ -1,16 +1,16 @@
 ---
-title: 日治時期教學重點與教師提示
-created: '2026-05-04'
+title: 1927 年臺灣民眾黨成立
+created: '2026-08-06'
 updated: '2026-08-06'
-type: concept
+type: entity
 tags:
 - history
 - grade-7
-- teaching-strategy
-- lesson
-- education
-- concept
-- student-progress
+- event
+- politics
+- social-movements
+- taiwan-history
+- source-note
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
@@ -20,30 +20,29 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 教學提示
-1. 鼓勵以「原因→制度→影響」回想每一主題：先問為何設此制度，再問如何影響人民生活。
-2. 針對高頻誤區（雖未出現在已作答題中）安排對照題：差別待遇 vs 6 年國民義務教育；傳統衙門審判 vs 現代法院。
-3. 用考卷已出題目做回饋閉環，將 q1~q3 的正確選項轉成口頭提取，強化選項關鍵詞辨識。
+## 事件重點
+成立背景為知識分子啟蒙後的政治組織化，成為當代臺灣政治社會運動的關鍵里程碑。
 
-## 立即可做的下一步
-- 先補做與時序相關題（議會請願、地方自治聯盟、地方議員選舉、1943 義務教育）並建立事件序列。
-- 把「政治運動」與「文化啟蒙」製作成雙欄表，避免概念混淆。
+## 連結
+[[entity-jiang-weishui]]
+[[event-1937-movement-suppression]]
+[[history-g7-l003-core-concepts]]
 
 ## 相關頁面
+- [[entity-jiang-weishui]]
+- [[event-1937-movement-suppression]]
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-misconceptions]]
-- [[drive-s2-textbook]]
+- [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
 - [[entity-japanese-education-division]]
 - [[entity-taiwan-cultural-association]]
-- [[entity-jiang-weishui]]
 - [[entity-modern-public-health-campaign]]
 - [[entity-time-discipline-modernity]]
 - [[event-1921-taiwan-parliament-petition]]
-- [[event-1927-democratic-party-formation]]
 - [[event-1935-local-election]]
-- [[event-1937-movement-suppression]]
 - [[event-1943-six-year-national-schooling]]
 - [[comparison-education-assimilation-vs-empowerment]]
 - [[comparison-urban-culture-vs-rural-continuity]]

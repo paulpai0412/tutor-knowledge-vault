@@ -1,46 +1,56 @@
 ---
-title: 學生迷思診斷與修正紀錄
+title: 日治時期社會與文化迷思檢核
 created: '2026-05-04'
-updated: '2026-08-05'
+updated: '2026-08-06'
 type: summary
 tags:
 - history
 - grade-7
 - misconception
-- exam-analysis
-- student-progress
+- lesson
+- social-movements
+- politics
+- concept
 sources:
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
-confidence: medium
+confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
 ## 常見迷思
-- 迷思一：把日治時期的教育現代化誤認為對所有族群完全平等。
-- 迷思二：把都會休閒空間增加歸因於政治開放，而非工商業與都市化。
-- 迷思三：把政治社會運動的階段（請願、政黨、地方自治）與成效混淆。
+- **迷思一：日治時期現代化就等於全面受益**
+  可能誤會：把「就學率上升」視為人人同等受惠。教材顯示日本人與臺灣人在就學率與資源上長期存在顯著差距。
+- **迷思二：政治社會運動與文化運動是同一類型**
+  可澄清：文化啟蒙（如報刊、演講）與議會請願、政黨成立、地方自治運動在方法與策略上有不同功能，但都連接到自治意識擴大。
 
-## 本輪修正狀況
-- 已作答 q1、q2、q3 為全對，顯示學生已穩定掌握「臺中中學校」與「臺灣民眾黨」及休閒現象之因果。
-- 目前無錯題紀錄且 outstanding_wrong_questions 為 0，但僅完成 3 題，其他迷思風險仍需在後續題目中驗證。
+## 目前解決狀態
+- 已知題目紀錄：q1、q2、q3 皆為正確，無待補救錯題（wrong_question_ids 為 none）。
+- 目前可視為核心迷思尚未顯性定格，屬**風險未定型**，需在後續題目中持續追蹤。
 
-## 學習建議鏈結
-- [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
-- [[history-g7-l003-student-001-exam-report]]
+## 參照頁面
+[[history-g7-l003-core-concepts]]
+[[history-g7-l003-teaching-focus]]
+[[event-1921-taiwan-parliament-petition]]
+[[entity-taiwan-cultural-association]]
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
 - [[history-g7-l003-teaching-focus]]
+- [[event-1921-taiwan-parliament-petition]]
+- [[entity-taiwan-cultural-association]]
 - [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-entity-taiwan-culture-association]]
-- [[history-g7-l003-entity-taiwan-people-party]]
-- [[history-g7-l003-entity-jiang-wei-shui]]
-- [[history-g7-l003-event-parliament-petition-movement]]
-- [[history-g7-l003-event-local-autonomy-alliance]]
-- [[history-g7-l003-comparison-education-differentiation]]
-- [[history-g7-l003-comparison-ritual-vs-modernity]]
+- [[entity-japanese-education-division]]
+- [[entity-jiang-weishui]]
+- [[entity-modern-public-health-campaign]]
+- [[entity-time-discipline-modernity]]
+- [[event-1927-democratic-party-formation]]
+- [[event-1935-local-election]]
+- [[event-1937-movement-suppression]]
+- [[event-1943-six-year-national-schooling]]
+- [[comparison-education-assimilation-vs-empowerment]]
+- [[comparison-urban-culture-vs-rural-continuity]]
+- [[comparison-health-law-order-vs-traditional-practice]]
 - [[index]]
