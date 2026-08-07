@@ -1,18 +1,17 @@
 ---
-title: 日治時期的社會與文化核心概念
+title: 日治時期社會與文化核心概念
 created: '2026-05-04'
-updated: '2026-08-06'
+updated: '2026-08-07'
 type: concept
 tags:
 - history
 - grade-7
-- lesson
-- concept
 - taiwan-history
 - japanese-rule
+- modernization
 - social-movements
 - culture
-- education
+- concept
 sources:
 - indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -23,30 +22,35 @@ student_id: student-001
 ---
 
 ## 核心概念
-日治時期的教育政策以"日語、差別待遇與制度建構"為核心工具，既保留殖民權力結構，也間接培養出新式知識分子。知識分子在文化啟蒙與政治社會運動中，將民族意識、自治理念與現代公民觀念帶進民間。
+- 日本殖民政權透過教育、法治與衛生制度進行統治與同化，同時也促成現代知識的傳播。
+- 臺灣知識分子以文化協會、地方自治倡議、民眾黨等組織推動政治社會運動，將自治與參政觀念帶入社會。
+- 生活文化逐步出現新舊交織：服飾、飲食、休閒場所與時間秩序改變，但鄉村與城市、傳統與現代並非完全替代。
+- 醫療衛生、教育規範與制度化選舉（受限的地方自治）使社會結構更制度化，但權益爭取仍受殖民限制。
 
-## 概念關係
-1. 教育制度：分層就學（小學校、公學校、蕃人公學校）提供了社會流動的機會，也留下不平等基礎。
-2. 政治社會運動：臺灣文化協會、臺灣議會設置請願、臺灣民眾黨、地方自治聯盟，使自治與參政觀念擴散。
-3. 生活文化轉型：衛生、法治、守時、都會娛樂與消費場所，使城市生活加速現代化，但鄉村與原住民社群轉變較緩。
+## 關係網
+- 教育制度既是知識來源也是階序工具；高等教育與留學生背景的知識分子後續成為政治社會運動主力。
+- 文化啟蒙與自治運動彼此互補，一方面喚醒民意，一方面爭取制度空間。
+- 現代生活習慣（守時、守法、衛生）從「政策宣導」轉化為日常規範，與傳統風俗發生調適。
 
 ## 相關頁面
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
-- [[drive-s2-textbook]]
-- [[entity-japanese-education-division]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-entity-colonial-education]]
+- [[history-g7-l003-event-1935-local-election]]
+- [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[entity-taiwan-cultural-association]]
-- [[entity-jiang-weishui]]
-- [[entity-modern-public-health-campaign]]
-- [[entity-time-discipline-modernity]]
-- [[event-1921-taiwan-parliament-petition]]
-- [[event-1927-democratic-party-formation]]
-- [[event-1935-local-election]]
-- [[event-1937-movement-suppression]]
-- [[event-1943-six-year-national-schooling]]
-- [[comparison-education-assimilation-vs-empowerment]]
-- [[comparison-urban-culture-vs-rural-continuity]]
-- [[comparison-health-law-order-vs-traditional-practice]]
+- [[history-g7-l003-entity-taiwan-cultural-association]]
+- [[history-g7-l003-entity-jangwei-shu-shui]]
+- [[history-g7-l003-entity-urban-modern-culture]]
+- [[history-g7-l003-entity-tokyobased-japanized-law-system]]
+- [[history-g7-l003-event-1921-parliament-petition]]
+- [[history-g7-l003-event-1927-taiwan-peoples-party]]
+- [[history-g7-l003-event-1943-national-education]]
+- [[history-g7-l003-event-1930-taiwan-autonomy-alliance]]
+- [[history-g7-l003-event-1937-war-suppression]]
+- [[history-g7-l003-comparison-education-segregation-vs-unified-national-school]]
+- [[history-g7-l003-comparison-urban-rural-cultural-change]]
+- [[history-g7-l003-comparison-autonomy-ritual-vs-institution]]
+- [[history-g7-l003-comparison-knowledge-for-action-vs-policy-outcomes]]
 - [[index]]

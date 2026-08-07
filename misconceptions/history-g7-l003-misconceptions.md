@@ -1,56 +1,54 @@
 ---
-title: 日治時期社會與文化迷思檢核
+title: 日治時期社會與文化常見迷思
 created: '2026-05-04'
-updated: '2026-08-06'
+updated: '2026-08-07'
 type: summary
 tags:
 - history
 - grade-7
 - misconception
-- lesson
-- social-movements
-- politics
+- exam-analysis
+- student-progress
 - concept
 sources:
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
-confidence: high
+confidence: medium
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 常見迷思
-- **迷思一：日治時期現代化就等於全面受益**
-  可能誤會：把「就學率上升」視為人人同等受惠。教材顯示日本人與臺灣人在就學率與資源上長期存在顯著差距。
-- **迷思二：政治社會運動與文化運動是同一類型**
-  可澄清：文化啟蒙（如報刊、演講）與議會請願、政黨成立、地方自治運動在方法與策略上有不同功能，但都連接到自治意識擴大。
+## 目前觀察
+- 作答紀錄顯示 `attempted_answers=3`、`currently_correct_questions=3`、`outstanding_wrong_questions=0`，未出現錯題。
+- `wrong_question_ids` 為 none，顯示近期可先視為「未暴露」而非「完全解除」。
 
-## 目前解決狀態
-- 已知題目紀錄：q1、q2、q3 皆為正確，無待補救錯題（wrong_question_ids 為 none）。
-- 目前可視為核心迷思尚未顯性定格，屬**風險未定型**，需在後續題目中持續追蹤。
+## 可能待驗的迷思（尚未被驗證）
+- 害怕將「日治初期差別教育」誤解為完全平等制度。
+- 混淆「自治運動」與「自治成立」：請願活動常喚醒意識，但未必立即成立制度。
+- 以為都會文化一出現即全面取代傳統風俗，忽略城鄉與原住民地區落差。
+- 將政治運動（如民眾黨、地方自治聯盟）與文化活動（報刊、演講）視為不相關。
 
-## 參照頁面
-[[history-g7-l003-core-concepts]]
-[[history-g7-l003-teaching-focus]]
-[[event-1921-taiwan-parliament-petition]]
-[[entity-taiwan-cultural-association]]
+## 是否已解決
+- 以目前資料而言，無可判定的既有迷思可列為「待驗」，需在後續題目中觀察 20~22 題型態是否仍維持。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-teaching-focus]]
-- [[event-1921-taiwan-parliament-petition]]
-- [[entity-taiwan-cultural-association]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[history-g7-l003-entity-taiwan-cultural-association]]
+- [[history-g7-l003-teaching-focus]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[entity-japanese-education-division]]
-- [[entity-jiang-weishui]]
-- [[entity-modern-public-health-campaign]]
-- [[entity-time-discipline-modernity]]
-- [[event-1927-democratic-party-formation]]
-- [[event-1935-local-election]]
-- [[event-1937-movement-suppression]]
-- [[event-1943-six-year-national-schooling]]
-- [[comparison-education-assimilation-vs-empowerment]]
-- [[comparison-urban-culture-vs-rural-continuity]]
-- [[comparison-health-law-order-vs-traditional-practice]]
+- [[history-g7-l003-entity-colonial-education]]
+- [[history-g7-l003-entity-jangwei-shu-shui]]
+- [[history-g7-l003-entity-urban-modern-culture]]
+- [[history-g7-l003-entity-tokyobased-japanized-law-system]]
+- [[history-g7-l003-event-1921-parliament-petition]]
+- [[history-g7-l003-event-1927-taiwan-peoples-party]]
+- [[history-g7-l003-event-1935-local-election]]
+- [[history-g7-l003-event-1943-national-education]]
+- [[history-g7-l003-event-1930-taiwan-autonomy-alliance]]
+- [[history-g7-l003-event-1937-war-suppression]]
+- [[history-g7-l003-comparison-education-segregation-vs-unified-national-school]]
+- [[history-g7-l003-comparison-urban-rural-cultural-change]]
+- [[history-g7-l003-comparison-autonomy-ritual-vs-institution]]
+- [[history-g7-l003-comparison-knowledge-for-action-vs-policy-outcomes]]
 - [[index]]

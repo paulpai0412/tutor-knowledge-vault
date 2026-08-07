@@ -1,16 +1,14 @@
 ---
-title: 日治時期社會與文化教學重點
-created: '2026-05-04'
+title: 1935 臺灣首次地方議員選舉
+created: '2026-08-07'
 updated: '2026-08-07'
 type: summary
 tags:
-- teaching-strategy
 - history
 - grade-7
-- concept
-- social-movements
-- comparison
-- student-progress
+- politics
+- local-autonomy
+- event
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
@@ -20,25 +18,18 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 學生目前狀態
-- 已穩定完成前 3 題，無錯題，適合進一步放寬題型難度，加入「為什麼會這樣」類解釋題。
-- 可先避免重複基礎名詞題，轉向歷時比較與多步驟推論題。
-
-## 可重複使用的提示
-1. 先把「差別待遇」與「日後轉為國民學校」畫成前後對照表。
-2. 以「問題—訴求—結果」欄位整理文化協會、議會請願、地方自治聯盟，幫助學生看出運動邏輯。
-3. 對新舊文化變遷，用城市案例（百貨、公園、博物館）與保留傳統案例（城鄉落差）對照。
-
-## 可加入的下一步題目
-- 事件排序：1921、1927、1930、1935。
-- 制度推論：為何引進司法與衛生制度會影響日常行為規範。
-- 情境題：阿碩生活在 1920s 的可能行為，從就學、交通、社交生活切入。
+## 重點
+- 選舉名額與門檻受限，屬有限自治的起步階段。
+- 對學習重點而言是「意識覺醒」勝過制度完整度的案例。
+- 常與地方自治聯盟及請願運動一併理解，形成時間脈絡。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-event-1930-taiwan-autonomy-alliance]]
+- [[history-g7-l003-comparison-autonomy-ritual-vs-institution]]
 - [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
-- [[history-g7-l003-comparison-urban-rural-modern-culture]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
 - [[history-g7-l003-entity-colonial-education]]
@@ -48,12 +39,9 @@ student_id: student-001
 - [[history-g7-l003-entity-tokyobased-japanized-law-system]]
 - [[history-g7-l003-event-1921-parliament-petition]]
 - [[history-g7-l003-event-1927-taiwan-peoples-party]]
-- [[history-g7-l003-event-1935-local-election]]
 - [[history-g7-l003-event-1943-national-education]]
-- [[history-g7-l003-event-1930-taiwan-autonomy-alliance]]
 - [[history-g7-l003-event-1937-war-suppression]]
 - [[history-g7-l003-comparison-education-segregation-vs-unified-national-school]]
 - [[history-g7-l003-comparison-urban-rural-cultural-change]]
-- [[history-g7-l003-comparison-autonomy-ritual-vs-institution]]
 - [[history-g7-l003-comparison-knowledge-for-action-vs-policy-outcomes]]
 - [[index]]

@@ -1,56 +1,43 @@
 ---
-title: student-001 第3章日治時期測驗報告
-created: '2026-05-04'
+title: 法治與司法現代化
+created: '2026-08-07'
 updated: '2026-08-07'
-type: summary
+type: entity
 tags:
-- exam-analysis
-- student-progress
 - history
 - grade-7
-- social-movements
 - japanese-rule
+- culture
+- event
+- entity
 sources:
-- indexes/exams/history-g7-l003-drive-s2-quiz.json
+- wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
 - wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
-- wiki/students/student-001/progress/history/g7/l003/summary.md
 confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 成績摘要
-- `attempted_answers`: 3
-- `currently_correct_questions`: 3
-- `outstanding_wrong_questions`: 0
-- `wrong_question_ids`: none
-
-## 構面判讀
-- 已答正題序列主要對應課文開端與政治組織認識，代表學生能辨識：
-  - 差別教育下的專收臺人中學（臺中中學校）
-  - 日治現代休閒形成的經濟背景
-  - 臺灣民眾黨成立特徵
-- 目前缺少對「制度變遷長軸」與「影響推論」題的覆驗，需補全後續題序以確認穩定度。
-
-## 建議
-- 下階段先補至 8~12 題與 17~20 題區間，特別關注請願運動、自治意識、衛生與時間秩序題。
-- 若之後出現錯誤，將依錯題重考，不與已過關題目混合，符合學生偏好的「錯題後聚合補救」需求。
+## 重點
+- 從「衙門跪聽」式裁判轉向法院、律師協助與坐著聽審等制度化審判。
+- 該轉變是日治法治化在民間日常生活可見的表徵之一。
+- 常搭配時間秩序、公共規範與衛生觀念推廣形成治理節奏。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
+- [[history-g7-l003-event-1935-local-election]]
 - [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-student-001-exam-report]]
 - [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
-- [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-entity-colonial-education]]
 - [[history-g7-l003-entity-taiwan-cultural-association]]
 - [[history-g7-l003-entity-jangwei-shu-shui]]
 - [[history-g7-l003-entity-urban-modern-culture]]
-- [[history-g7-l003-entity-tokyobased-japanized-law-system]]
 - [[history-g7-l003-event-1921-parliament-petition]]
 - [[history-g7-l003-event-1927-taiwan-peoples-party]]
-- [[history-g7-l003-event-1935-local-election]]
 - [[history-g7-l003-event-1943-national-education]]
 - [[history-g7-l003-event-1930-taiwan-autonomy-alliance]]
 - [[history-g7-l003-event-1937-war-suppression]]

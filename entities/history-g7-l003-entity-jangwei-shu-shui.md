@@ -1,48 +1,42 @@
 ---
-title: 日治時期社會與文化測驗來源（drive-s2-quiz）
-created: '2026-05-04'
+title: 蔣渭水
+created: '2026-08-07'
 updated: '2026-08-07'
-type: summary
+type: entity
 tags:
-- source-note
-- exam-analysis
 - history
 - grade-7
 - politics
-- modernization
+- social-movements
+- entity
+- culture
 sources:
-- indexes/exams/history-g7-l003-drive-s2-quiz.json
+- wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
+- wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 來源資訊
-- exam_id: `history-g7-l003-drive-s2-quiz`
-- exam_variant_id: `drive-s2-quiz`
-- converter: `marker`
-- conversion_state: `review_required`
-- source_pdf: `drive-s2-quiz.pdf`
-- source_hash: `sha256:b51e95bbc8e5a18ebe7097ccbab5f5d97608c7db9aac018d6c59d2614c9df27e`
-
-## 測驗重點對映
-- 題幹大量對應教材中的關鍵名詞與事件：臺中中學校、臺灣文化協會、臺灣民眾黨、地方自治、鴉片與衛生、時制與守時習慣、都會文化等。
-- 已有作答紀錄到前段題號，尚需補做更多題目以建立完整能力圖。
+## 重點
+- 作品與組織行動兼具喚起民智與倡導自治的功能。
+- 在考題脈絡中常被連結至臺灣民眾黨與自治願景。
+- 與「臺灣民報」等啟蒙活動共同塑造運動氛圍。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-textbook]]
+- [[history-g7-l003-event-1927-taiwan-peoples-party]]
+- [[history-g7-l003-entity-taiwan-cultural-association]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-textbook]]
+- [[drive-s2-quiz]]
 - [[history-g7-l003-entity-colonial-education]]
-- [[history-g7-l003-entity-taiwan-cultural-association]]
-- [[history-g7-l003-entity-jangwei-shu-shui]]
 - [[history-g7-l003-entity-urban-modern-culture]]
 - [[history-g7-l003-entity-tokyobased-japanized-law-system]]
 - [[history-g7-l003-event-1921-parliament-petition]]
-- [[history-g7-l003-event-1927-taiwan-peoples-party]]
 - [[history-g7-l003-event-1935-local-election]]
 - [[history-g7-l003-event-1943-national-education]]
 - [[history-g7-l003-event-1930-taiwan-autonomy-alliance]]

@@ -1,54 +1,48 @@
 ---
-title: 日治時期社會與文化測驗來源（drive-s2-quiz）
-created: '2026-05-04'
+title: 都會文化與公共空間
+created: '2026-08-07'
 updated: '2026-08-07'
-type: summary
+type: entity
 tags:
-- source-note
-- exam-analysis
 - history
 - grade-7
-- politics
+- culture
 - modernization
+- event
+- entity
 sources:
-- indexes/exams/history-g7-l003-drive-s2-quiz.json
+- wiki/lessons/history/g7/l003/drive-s2-textbook.md
 - wiki/exams/history/g7/l003/drive-s2-quiz.md
+- wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
 confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 來源資訊
-- exam_id: `history-g7-l003-drive-s2-quiz`
-- exam_variant_id: `drive-s2-quiz`
-- converter: `marker`
-- conversion_state: `review_required`
-- source_pdf: `drive-s2-quiz.pdf`
-- source_hash: `sha256:b51e95bbc8e5a18ebe7097ccbab5f5d97608c7db9aac018d6c59d2614c9df27e`
-
-## 測驗重點對映
-- 題幹大量對應教材中的關鍵名詞與事件：臺中中學校、臺灣文化協會、臺灣民眾黨、地方自治、鴉片與衛生、時制與守時習慣、都會文化等。
-- 已有作答紀錄到前段題號，尚需補做更多題目以建立完整能力圖。
+## 重點
+- 菊元百貨、臺中公園、總督府博物館、臺灣總督府附屬園區等象徵城市生活現代化。
+- 這些空間與工商業發展、交通改善共同形成休閒與消費新樣態。
+- 西洋與日本生活方式的進入，不代表傳統習俗完全消失，常見交織共存。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-student-001-exam-report]]
-- [[drive-s2-textbook]]
+- [[history-g7-l003-comparison-urban-rural-cultural-change]]
+- [[history-g7-l003-event-1935-local-election]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
+- [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-textbook]]
+- [[drive-s2-quiz]]
 - [[history-g7-l003-entity-colonial-education]]
 - [[history-g7-l003-entity-taiwan-cultural-association]]
 - [[history-g7-l003-entity-jangwei-shu-shui]]
-- [[history-g7-l003-entity-urban-modern-culture]]
 - [[history-g7-l003-entity-tokyobased-japanized-law-system]]
 - [[history-g7-l003-event-1921-parliament-petition]]
 - [[history-g7-l003-event-1927-taiwan-peoples-party]]
-- [[history-g7-l003-event-1935-local-election]]
 - [[history-g7-l003-event-1943-national-education]]
 - [[history-g7-l003-event-1930-taiwan-autonomy-alliance]]
 - [[history-g7-l003-event-1937-war-suppression]]
 - [[history-g7-l003-comparison-education-segregation-vs-unified-national-school]]
-- [[history-g7-l003-comparison-urban-rural-cultural-change]]
 - [[history-g7-l003-comparison-autonomy-ritual-vs-institution]]
 - [[history-g7-l003-comparison-knowledge-for-action-vs-policy-outcomes]]
 - [[index]]
