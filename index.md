@@ -2,42 +2,39 @@
 
 > Content catalog for the derived tutor knowledge wiki.
 > Open this vault in Obsidian to browse `[[wikilinks]]` and graph view.
-> Last updated: 2026-08-07 15:01 UTC | Total pages: 22
+> Last updated: 2026-08-08 15:00 UTC | Total pages: 19
 
 ## Concepts
-- [[history-g7-l003-core-concepts]] — 日治時期臺灣的近代化主要透過差別教育、政治社會運動與新舊文化交互影響，形成知識啟蒙、自治意識與生活習慣轉型並存的歷史情境。
+- [[history-g7-l003-core-concepts]] — 日治時期透過教育分層、政治社會運動與生活制度改革同時重塑臺灣社會，並在都市化過程中形成漢人、日本與西洋文化並存的新舊交融。
 
 ## Misconceptions
-- [[history-g7-l003-misconceptions]] — 目前僅有前 3 題作答紀錄且皆正確，因此尚未觀察到穩定的錯誤迷思模式，但可預警可能混淆的重點仍包括制度影響與事件先後順序。
+- [[history-g7-l003-misconceptions]] — 目前三題皆作答正確且無錯題，短期未形成固定迷思，但在未作答區段仍需驗證政治運動順序與制度成效的因果認知。
 
 ## Teaching Notes
-- [[history-g7-l003-teaching-focus]] — 透過「教育差別—知識分子運動—新舊文化調適」三段式教學，先鞏固事實，再用事件排序與情境題串起制度與日常生活的因果，特別針對尚未測驗到的高風險區域預作延伸。
+- [[history-g7-l003-teaching-focus]] — 先肯定學生前三題全對的既有信心，再用時序與對比教學補齊未測題，可有效兼顧記憶精準度與概念整合。
 
 ## Sources
-- [[drive-s2-quiz]] — 測驗題材聚焦本章核心並以選擇題為主，題目關聯從學校制度、政治社會運動到新文化變遷，與教材脈絡高度對接。
-- [[drive-s2-textbook]] — 教材來源以日治時期教材重點整理為主，涵蓋教育、文化啟蒙、政治社會運動與新舊文化變遷並提供具可教學轉寫的脈絡表。
+- [[drive-s2-quiz]] — 測驗題庫以選擇題形式覆蓋教材主要軸線，並含有配圖與情境題提示，轉檔標記為 review_required，建議補齊全文與題號上下文以利完整圖譜。
+- [[drive-s2-textbook]] — 教材以日治時期 1895–1945 的社會轉型為主線，整理教育政策、政治社會運動與文化生活變遷，適合作為知識圖譜的主體節點。
 
 ## Entities
-- [[history-g7-l003-entity-colonial-education]] — 總督府採差別待遇建制，透過日語學校分群與資源落差推動治理，但亦間接培養新式知識分子。
-- [[history-g7-l003-entity-jangwei-shu-shui]] — 臺灣知識分子領袖之一，結合文化啟蒙與地方自治訴求，成為學界與政治運動聯動的代表人物。
-- [[history-g7-l003-entity-taiwan-cultural-association]] — 以《臺灣民報》、讀報社與演講為核心工具，強化知識啟蒙並啟動本土認同與自治觀念。
-- [[history-g7-l003-entity-tokyobased-japanized-law-system]] — 殖民政府以西方司法框架取代傳統衙門裁判，改變社會衝突處理與日常守法觀念。
-- [[history-g7-l003-entity-urban-modern-culture]] — 百貨、公園、博物館、咖啡廳與新式餐飲在日治後逐步出現，象徵現代消費與休閒生活的擴散。
+- [[history-g7-l003-entity-cultural-hybridity]] — 新文化導入後，臺灣社會未完全同質化，而是在都市與鄉村、制度與習俗間形成持續調適的混合面貌。
+- [[history-g7-l003-entity-education-stratification]] — 日本總督府將初等與中等教育依族群分流，透過資源與語言差異實現政策控制，卻也形成受新知養成的新社會力量。
+- [[history-g7-l003-entity-public-health-modernization]] — 政府以現代醫療、注射與公共設施推廣衛生習慣，並以保甲管理等方式介入日常生活。
+- [[history-g7-l003-entity-taiwan-cultural-association]] — 1921 年成立的臺灣文化協會以啟發民智、喚起民族意識為核心，以報紙、讀報社與演講推進社會啟蒙。
+- [[history-g7-l003-entity-taiwan-people-party]] — 1927 年成立的臺灣民眾黨是臺灣人成立的第一個政黨，訴求民權、自治與社會改革，並協力農工權益。
 
 ## Events
-- [[history-g7-l003-event-1921-parliament-petition]] — 1921 年由知識分子領導的連署與請願長達多年未果，但有效喚起臺灣社會的自治與參政觀念。
-- [[history-g7-l003-event-1927-taiwan-peoples-party]] — 1927 年成立的第一個台灣人政黨，主張民權與自治，並扶助農工權益，成為本章政治社會運動關鍵節點。
-- [[history-g7-l003-event-1930-taiwan-autonomy-alliance]] — 1930 年成立，主張地方自治，但在1935 選舉與後續政治環境下成效有限且仍受殖民限制。
-- [[history-g7-l003-event-1935-local-election]] — 總督府辦理地方議員選舉，制度仍受限，但使臺灣民眾初次接觸投票與參政實務。
-- [[history-g7-l003-event-1937-war-suppression]] — 戰時轉向使殖民政權加強控制，日治中後期政治社會運動逐步被打壓，運動成效受限。
-- [[history-g7-l003-event-1943-national-education]] — 日治末期教育制度從分群差別逐步統一為國民學校名稱並推動六年義務教育，象徵制度整合與人力培育。
+- [[history-g7-l003-event-compulsory-education]] — 1943 年起施行六年國民義務教育，標誌日治教育制度從隔離分流逐步進入標準化行政教育節奏。
+- [[history-g7-l003-event-local-autonomy-alliance]] — 地方自治聯盟推動地方自治議題，1935 年舉行地方議員選舉，但制度設計受限使自治成果有限。
+- [[history-g7-l003-event-movement-repression]] — 中日戰爭後日治當局加強鎮壓，先前的政治社會運動逐步縮減公開聲量。
+- [[history-g7-l003-event-parliament-petition]] — 1921 年起知識分子持續要求設立臺灣議會，歷經多次請願仍未成立，卻明顯喚起政治參與意識。
+- [[history-g7-l003-event-people-party-formation]] — 1927 年臺灣民眾黨成立，成為臺灣人組織化推動自治與民權的關鍵轉折。
 
 ## Comparisons
-- [[history-g7-l003-comparison-autonomy-ritual-vs-institution]] — 自治與權益要求先以文化啟蒙、請願與地方自治運動累積意識，再進入有限制度化（如地方議員選舉），形成高期望但低落地的轉折。
-- [[history-g7-l003-comparison-education-segregation-vs-unified-national-school]] — 日治初期的族群化學校制度偏重差別治理，後期改為一體化稱謂與義務教育，顯示策略由分化管理走向名義整合。
-- [[history-g7-l003-comparison-knowledge-for-action-vs-policy-outcomes]] — 新知識培養提高民眾意識與表述能力，但殖民權力仍保留最終決策，形成「民意覺醒快、政策回應慢」的落差。
-- [[history-g7-l003-comparison-urban-rural-cultural-change]] — 都會地區文化、衛生與休閒轉型較快，鄉村與原住民區域變遷較慢，最終形成並存而非全面替代。
+- [[history-g7-l003-comparison-education-control-vs-empowerment]] — 日治教育同時具備同化與資源控制功能，但其擴大識字與現代知識的副作用，卻也培養出政治抗辯者。
+- [[history-g7-l003-comparison-tradition-modernity-urban-rural]] — 日治時期的現代化多先在城市落地，鄉村與原住民地區仍保有較高傳統慣性，最終形成差異化的新舊並存。
 
 ## Queries
 - [[history-g7-l003-knowledge-sync-plan]] — 知識同步方案
-- [[history-g7-l003-student-001-exam-report]] — 學生已完成 3 題測驗且全部正確，尚無錯題，顯示對第一段概念（初等教育差別與臺灣民眾黨）具初步掌握，但尚需補做完整卷以驗證文化啟蒙、政治運動與比較推論題。
+- [[history-g7-l003-student-001-exam-report]] — student-001 目前三題皆答對、無未補錯題，成績穩定但尚不足以判定整卷概念掌握，需完成剩餘題目後再做全域回饋。

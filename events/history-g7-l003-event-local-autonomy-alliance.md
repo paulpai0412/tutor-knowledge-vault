@@ -1,15 +1,15 @@
 ---
-title: 日治時期社會與文化：教學重點
-created: '2026-05-04'
+title: 臺灣地方自治聯盟成立（1930）與地方選舉（1935）
+created: '2026-08-08'
 updated: '2026-08-08'
 type: summary
 tags:
+- event
 - history
 - grade-7
-- teaching-strategy
-- education
-- student-progress
-- comparison
+- local-autonomy
+- politics
+- taiwan-history
 - social-movements
 sources:
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
@@ -20,29 +20,24 @@ lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 已有進展
-- 學生目前已掌握教材前段核心：日治教育制度、工商業驅動的新舊文化線索與臺灣民眾黨的定位。
-- top_skills 顯示「日治時期」與「臺灣民眾黨」權重偏高，代表可直接進入更高階組織題。
-
-## 可直接教學的三步
-1. 先畫 1921–1930–1935 的政治事件時間軸，對應每一事件的訴求。
-2. 用表格比較「差別待遇教育」與「政治社會運動」，強化何者是制度壓力、何者是反制策略。
-3. 以「法治入庭、都市衛生、守時制度」為日常例證，讓抽象詞轉為可觀察行為。
+## 事件脈絡
+- 聯盟主張地方自治與參政，1935 年的地方選舉讓更多民眾首次經驗選舉程序。
+- 受開放名額與限制條件限制，成果仍不完整，卻促進自治概念進入社會常識。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-event-parliament-petition]]
 - [[history-g7-l003-entity-taiwan-cultural-association]]
-- [[drive-s2-textbook]]
+- [[history-g7-l003-misconceptions]]
+- [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
 - [[history-g7-l003-entity-education-stratification]]
 - [[history-g7-l003-entity-taiwan-people-party]]
 - [[history-g7-l003-entity-public-health-modernization]]
 - [[history-g7-l003-entity-cultural-hybridity]]
-- [[history-g7-l003-event-parliament-petition]]
 - [[history-g7-l003-event-people-party-formation]]
-- [[history-g7-l003-event-local-autonomy-alliance]]
 - [[history-g7-l003-event-movement-repression]]
 - [[history-g7-l003-event-compulsory-education]]
 - [[history-g7-l003-comparison-education-control-vs-empowerment]]

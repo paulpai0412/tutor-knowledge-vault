@@ -1,50 +1,45 @@
 ---
-title: 日治時期的社會與文化（教材來源：drive-s2-textbook）
-created: '2026-05-04'
+title: 1937 年中日戰爭爆發後政治社會運動受壓
+created: '2026-08-08'
 updated: '2026-08-08'
 type: summary
 tags:
+- event
 - history
 - grade-7
-- source-note
-- lesson
+- social-movements
+- politics
 - taiwan-history
 - japanese-rule
-- education
-- culture
 sources:
-- indexes/lessons/history-g7-l003-drive-s2-textbook.json
 - wiki/lessons/history/g7/l003/drive-s2-textbook.md
+- wiki/students/student-001/answer-history/history/g7/l003/drive-s2-textbook/drive-s2-quiz.md
+- wiki/students/student-001/progress/history/g7/l003/summary.md
 confidence: high
 lesson_group_id: history-g7-l003
 student_id: student-001
 ---
 
-## 來源資訊
-- lesson_id: history-g7-l003；lesson_variant_id: drive-s2-textbook；source_pdf: drive-s2-textbook.pdf。
-- source_hash: sha256:4a3578136293aadfd17c04341e7d56642a8652bd4828603d48ad332dadaf267c；converter: markitdown；conversion_state: wiki_ready。
-
-## 可索引主題
-- 初等、中等到高等教育的制度分層與其效果。
-- 政治社會運動：文化協會、請願、政黨、地方自治聯盟與選舉脈絡。
-- 文化變遷：衛生、法治、守時與都會生活空間。
+## 事件脈絡
+- 外部戰爭壓力轉化為統治強化，自治與社會改革行動被限制。
+- 使「動員與抗爭」的敘事轉向更微妙的文化內化與日常調適。
 
 ## 相關頁面
 - [[history-g7-l003-core-concepts]]
-- [[history-g7-l003-entity-education-stratification]]
 - [[history-g7-l003-event-local-autonomy-alliance]]
+- [[history-g7-l003-comparison-tradition-modernity-urban-rural]]
 - [[history-g7-l003-misconceptions]]
 - [[history-g7-l003-teaching-focus]]
 - [[history-g7-l003-student-001-exam-report]]
+- [[drive-s2-textbook]]
 - [[drive-s2-quiz]]
+- [[history-g7-l003-entity-education-stratification]]
 - [[history-g7-l003-entity-taiwan-cultural-association]]
 - [[history-g7-l003-entity-taiwan-people-party]]
 - [[history-g7-l003-entity-public-health-modernization]]
 - [[history-g7-l003-entity-cultural-hybridity]]
 - [[history-g7-l003-event-parliament-petition]]
 - [[history-g7-l003-event-people-party-formation]]
-- [[history-g7-l003-event-movement-repression]]
 - [[history-g7-l003-event-compulsory-education]]
 - [[history-g7-l003-comparison-education-control-vs-empowerment]]
-- [[history-g7-l003-comparison-tradition-modernity-urban-rural]]
 - [[index]]
